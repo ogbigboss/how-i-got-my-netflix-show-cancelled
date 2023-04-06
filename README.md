@@ -30,3 +30,23 @@
 1. Hey Jesse! Jesse does NOT get the Mal treatment. Lmfao.
 1. Catch up to the intro, get to the knife, and maybe just hint at the very end about realizing you had a big batch of bootleg DVDs and you were aware a streaming network like Netflix, particularly with their CEO's political leanings, being one of the most likely outcomes, and if you could prove it (this is pre Paula Patton), then you'd know what to do: catch up on some movies, apparently. Just a day in the life of a not spy.
 
+
+
+
+## Alternate concept
+
+It may be better to bring in back story in betwixt incidents, e.g.
+
+1. Intro (stalked in the park)
+1. Vouch
+1. FLASHBACK -- 2020 Bison Trails
+1. In between liveramp, suicidal thoughts and growing suspicions
+1. FLASHBACK -- 2020 video games, social media, business attempts, DNC spycraft suspicions
+1. Liveramp
+1. FLASHBACK -- Family basics? (profile on family members maybe)
+1. Late June to July, gaslighting via former JAG Jesse Sommer, catch up to intro
+1. FLASHBACK -- Idk maybe Tastespace w/ pre JAG Jesse Sommer as a focus
+1. AUGUST etc
+
+
+The pitch could honestly be just the first three chapters here, with maybe like an outline on the rest just to be like wtf. Another approach, this way I get to constantly add background information, all of which would be of increasing interest as this becomes some weird show on my past or whatever

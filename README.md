@@ -51,17 +51,17 @@ It may be better to bring in back story in betwixt incidents, e.g.
 1. September etc
 1. FLASHBACK -- 2017 issues w/ friends and families, estranging
 1. October etc
-1. FLASHBACK -- We the Lobby, therapy, TPL game project and Springsteen (basically, or maybe literally, the essay written in early Novemeber in rummy repo)
+1. FLASHBACK -- We the Lobby, therapy, TPL game project (basically, or maybe literally, the essay written in early Novemeber in rummy repo, to a point)
 1. November etc
 1. FLASHBACK -- Lenox hill NYU moment
 1. December etc
-1. FLASHBACK -- 
+1. FLASHBACK -- Connell's corny ass telling me about how they should make a reality tv show of his life smoking weed and watching TV back in college
 1. January etc
 1. FLASHBACK --
 1. February etc
-1. FLASBACK --
-1. March etc
-1. FLASHBACK -- Connel's corny ass telling me about how they should make a reality tv show of his life smoking weed and watching TV back in college
+1. FLASBACK -- Recall listening to Springsteen's _Wrecking Ball_ and the "spooky" thoughts around it (finish November essay brought up pre November)
+1. March etc -- lmao bank failures like I'm literally the wrecking ball and I told you about it months ago yall are STUPID (or at least not incorporating biblical events literally conspiring against you as a form of risk analysis, or, too stupid for basic morals, midn your business etc)
+1. FLASHBACK -- Connell, Okoye, the Sunken Place and a bit of Sparks 
 1. April etc
 
 

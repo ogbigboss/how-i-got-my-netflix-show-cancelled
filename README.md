@@ -45,8 +45,24 @@ It may be better to bring in back story in betwixt incidents, e.g.
 1. Liveramp
 1. FLASHBACK -- Family basics? (profile on family members maybe)
 1. Late June to July, gaslighting via former JAG Jesse Sommer, catch up to intro
-1. FLASHBACK -- Idk maybe Tastespace w/ pre JAG Jesse Sommer as a focus
-1. AUGUST etc
+1. FLASHBACK -- Idk maybe Tastespace w/ pre JAG Jesse Sommer as a focus, or 
+1. August etc
+1. FLASHBACK -- David Blaine / Trudy Collins awkward age gap Stanley Kubrick thing w/ Sparks in College
+1. September etc
+1. FLASHBACK -- 2017 issues w/ friends and families, estranging
+1. October etc
+1. FLASHBACK -- We the Lobby, therapy, TPL game project and Springsteen (basically, or maybe literally, the essay written in early Novemeber in rummy repo)
+1. November etc
+1. FLASHBACK -- Lenox hill NYU moment
+1. December etc
+1. FLASHBACK -- 
+1. January etc
+1. FLASHBACK --
+1. February etc
+1. FLASBACK --
+1. March etc
+1. FLASHBACK -- Connel's corny ass telling me about how they should make a reality tv show of his life smoking weed and watching TV back in college
+1. April etc
 
 
 The pitch could honestly be just the first three chapters here, with maybe like an outline on the rest just to be like wtf. Another approach, this way I get to constantly add background information, all of which would be of increasing interest as this becomes some weird show on my past or whatever

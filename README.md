@@ -9,7 +9,7 @@
 1. Briefly address being stalked in late July as awkward purely because you were already under a federal investigation for the past 5 months and no one acted like they were going to be violent. 
 1. Now there's a creepy girl in a red dress leading you towards white men wearing white shirts who are all staring at you, walking by you intimidatingly. 
 1. Be brief, setup the feeling of knowing they're trying to intimidate you, and have the reader wondering (as were you) could the literal Federal Government of the USA be this trashy and dumb, and _violent_ about it? Have them check the year, realize I must be talking about Biden / Harris, etc. Show, lead on, but don't tell too much, it's just an intro. 
-1. Underplay your own immediate feelings of being over it -- the reader doesn't know it's big tech and therefore a bunch of dork ass losers aka fight me you fucks you had your chance and you were too scared to do it then weren't you you may have gotten those white tees red oh no. Better for the reader to me titilated by fear a bit, then put together that you, the author, nor the reader should _ever_ be afraid of these Demodorks and the fucking Tech industry. As, if.
+1. Underplay your own immediate feelings of being over it -- the reader doesn't know it's big tech and therefore a bunch of dork ass losers aka fight me you fucks you had your chance and you were too scared to do it then weren't you you may have gotten those white tees red oh no. Better for the reader to me titilated by fear a bit, then put together that you, the author, nor the reader should _ever_ be afraid of these Demodorks. As, if.
 
 ### Chapter 1: Vouch
 
@@ -47,7 +47,7 @@ It may be better to bring in back story in betwixt incidents, e.g.
 1. Late June to July, gaslighting via former JAG Jesse Sommer, catch up to intro
 1. FLASHBACK -- Idk maybe Tastespace w/ pre JAG Jesse Sommer as a focus, or 
 1. August etc
-1. FLASHBACK -- David Blaine / Trudy Collins awkward age gap Stanley Kubrick thing w/ Sparks in College
+1. FLASHBACK -- David Blaine awkward age gap Stanley Kubrick thing w/ Sparks in College
 1. September etc
 1. FLASHBACK -- 2017 issues w/ friends and families, estranging
 1. October etc
@@ -62,7 +62,9 @@ It may be better to bring in back story in betwixt incidents, e.g.
 1. FLASBACK -- Recall listening to Springsteen's _Wrecking Ball_ and the "spooky" thoughts around it (finish November essay brought up pre November)
 1. March etc -- lmao bank failures like I'm literally the wrecking ball and I told you about it months ago yall are STUPID (or at least not incorporating biblical events literally conspiring against you as a form of risk analysis, or, too stupid for basic morals, midn your business etc)
 1. FLASHBACK -- Connell, Okoye, the Sunken Place and a bit of Sparks 
-1. April etc
+1. April etc -- start with Connell, apex at central booking, end with TNT sportcasters
+1. FLASHBACK -- Reading about Obama's _A Promised Land_ on my toilet in late 2020 and wondering if my game title had anything to do with it
+1. May etc
 
 
 The pitch could honestly be just the first three chapters here, with maybe like an outline on the rest just to be like wtf. Another approach, this way I get to constantly add background information, all of which would be of increasing interest as this becomes some weird show on my past or whatever

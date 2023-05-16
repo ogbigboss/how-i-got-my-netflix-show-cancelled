@@ -1,0 +1,19 @@
+# Part 1: Vouch inc
+
+### Goals
+
+1. Just retell the voch situation. About time you wrote it down now.
+1. Focus on being aware but having to (or trying to) hide the fact that you knew it was the Democrats, likely the White House by their coordinations, and that your sister and parents were involved. Focus on juggling your own emotions -- which is trrue -- but again, will begin to undergird for the reader that Reagan was right in spirit, just not language. The scariest thing is a government man showing up to your door? Let's try annoying instead, I think that's a bit more universally true. Then again, these are Democrats. Anyway.
+  1.1. You were doing this largely for your family's sake moreso than these politicians though, that's for sure
+1. Might be very depressing to write about, especially as the suicidal parts come up.
+1. I'm honestly thinking of just writing Mal's parts way down as a "therapist" and nothing more. It may be easier on the reader for Mal to appear less partial than Mal's leanings may insinuate or be of truth. Also, it's definitely the government's fault way before it was Mal's situation.
+1. Definitely include emails and end with the idea that the Dems were embarassed -- and you intended for it.
+1. Start the theme -- all of your actions fall under the category of "trying to get these dumb fucks to never do this shit again"
+
+### Outline
+
+1. Ch 0 - Short intro, blue screen of death, knowing Vouch was connected to current or ex Federal workers given the tactic of BSOD on a windows machine in 2023
+1. Ch 1 - Pre vouch, describe yourself, light intro to the TPL project, describe leaving social media as it's hard to tell when someone is being dishonest vs. distrustworthy; the former due to subterfuge, the latter more often due to wanting to be famous, with a healthy manipulative overlap in between. Recognizig social media as a null zone for social progress (good things are canceled out by bad more often than they're worth, no matter what side you're on), and wanting to normalize my life outside of social media and politics, just with a job. Vouch... seemed like the responsible decision, given the pedigree of the founders as well as the idea that "what could go wrong in a business insurance company surely they've worked the odds to eliminate their own professional or personal biases I mean look at how many times they say DEI in the PDF etc"
+1. Ch 2 - Vouch interview process, oddities in background check via HR dept, BSOD hacking attempt before starting
+1. Ch 3 - First week at Vouch, Wednesday you innocently (hah) mumble out loud while reviewing the code base about "authentication", Thursday the CPO hints at audio surveillence via a work email, you reacting non chalantly (Thursday), then Friday they react by theatrically cutting your internet connection to see how you'd react, explain rationale and end chapter with you saying out loud to your work laptop you're now 95% sure is being used as an active audio surveillance item in conjunction with at least private companies (spectrum cable) if not government actors (the people who would convince spectrum cable this was not fascism): "Look, great, you hired someone from the mob or something to cut my internet connection down. I'm very impressed. Now I'll have a bunch of paper work to do, so if you're done impressing your friends, I'd appreciate you never doing it again." End Scene / chapter, explain your theater was in response to theirs, and knowing they were as full of shit as you were, just not nearly as entertaining.
+1. Ch 4 - A brief chapter where you emotinally reflect on your weekend after the first week, and how you try to distract yourself / endear yourself to one of your coworkers (T Thompson) via recording you playing with your new guitar pedals, something they've expressed interest in. When you pickup the guitar though, for _some reason_... the Xfiles theme comes out.

@@ -30,7 +30,7 @@ And such; my memory isn't perfect though I'd have to hope the NSA, or perhaps my
 
 Look, does that seem weird to you? I'll tell you a bit about myself then, but, just a bit.
 
-~~For the past 45 years I've been an undercover spy, with the first 8 being before I escaped my mother's womb -- ~~
+~~ For the past 45 years I've been an undercover spy, with the first 8 being before I escaped my mother's womb -- ~~
 
 I'm a computer programmer, and I've been one for like, 15 years. At times I've made some entrepreunerial endeavors that may have seemed "political."
 

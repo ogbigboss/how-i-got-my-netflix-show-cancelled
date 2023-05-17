@@ -32,6 +32,8 @@ And such; my memory isn't perfect though I'd have to hope the NSA, or perhaps my
 
 Look, does that seem weird to you? I'll tell you a bit about myself then, but, just a bit.
 
+...
+
 ~~For the past 45 years I've been an undercover spy, with the first 8 being before I escaped my mother's womb~~
 
 I'm a computer programmer, and I've been one for like, 15 years. At times I've made some entrepreunerial endeavors that may have seemed "political."
@@ -56,7 +58,9 @@ Did that seem weird to them? It may have, idk. Looking back at the videos, I mos
 
 So, in early 2022, I just wanted a job. Three companies gave me offers, and during one final interview, a CFO not at Vouch spoke highly of the CEO at Vouch, influencing my decision in an ironic way. I often wonder what if I wasn't impressed at someone else being impressed at someone so much that I went in that direction? Alas, I was grateful for the opportunity, and based on Vouch's position as a startup focused insurer, I felt the equity would work out, just as long as the Fed kept printing money at a consistent rate, the startup machine would never stop, not soon at least.
 
-That friday, January 28th 2022, When I got the email from the HR person at Vouch about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
+...
+
+That Friday, January 28th 2022, When I got the email from the HR person at Vouch about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
 
 Anyway, I was working in NYC, for a company which had offices in San Francisco and Chicago, and talking to an HR person based in Chicago with about 3 other HR people CC'd. The background check form asked for a zip code for the company -- I looked up the first SF zip code I could find, hit enter, and was asked by the website to review the information first. I checked SF zip codes, and noticed there were a few. I then began to wonder if the company was actually, tax wise or whatever, based in Chicago. I didn't feel like looking shady and screwing up the background check form, so I asked Friday afternoon around 3 PM Chicago time via the email chain what the zip code was.
 

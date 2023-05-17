@@ -22,9 +22,11 @@ Anyway, such tactics would be odd for a business insurance company to use from a
 
 There's only so many ways to "talk" to the Feds (or any extended network of surveillance and/or security they may be connected to within private spheres) if they're looking into you in ways that may have not involved a court order, at least digitally. Knowing, or at least hoping, my internet connection was being tracked if not my desktop machine itself, I restarted my machine and made some fecitious web requests in my browser, things that definitely didn't have DNS entries, like, but not limited to:
 
-`https://look-im-not-here-to-do-anything-weird-im-just-here-for-the-equity.com/`
-`https://do-what-you-need-i-get-it-but-lets-not-be-weird-ok.com/`
-`https://that-said-please-dont-mess-up-my-games-or-music-its-all-i-use-this-machine-for.com/`
+```
+https://look-im-not-here-to-do-anything-weird-im-just-here-for-the-equity.com/
+https://do-what-you-need-i-get-it-but-lets-not-be-weird-ok.com/
+https://that-said-please-dont-mess-up-my-games-or-music-its-all-i-use-this-machine-for.com/
+```
 
 And such; my memory isn't perfect though I'd have to hope the NSA, or perhaps my internet provider Spectrum, could provide verification.
 

@@ -1,4 +1,4 @@
-# Pt 1 Ch 3 -- the last normal weekend of my life
+# Pt 1 Ch 4 -- the last normal weekend of my life
 
 ### Notes
 1. Ch 4 - A brief chapter where you emotinally reflect on your weekend after the first week, and how you try to distract yourself / endear yourself to one of your coworkers (T Thompson) via recording you playing with your new guitar pedals, something they've expressed interest in. When you pickup the guitar though, for _some reason_... the Xfiles theme comes out.

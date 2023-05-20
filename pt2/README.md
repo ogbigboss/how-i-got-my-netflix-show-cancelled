@@ -1,0 +1,9 @@
+# Part 2: The Liveramp Francisco
+
+### Goals
+
+1. I mean, lol, just try not to sound like you're bragging. Or that you had as much fun as you did. That shit was hilarious though.
+1. I think it might be good to have a flashback to twitch streaming from late 2017-early 2021 ish as an explanation of a) how you familiarized yourself with "reading faces" while on computer webcams before the general population could w/ covid, and you were familiar with tells such as "are they reading from a chat log like literally every twitch channel" etc. Also, this would explain how you may be... used to... acting as a "psuedo character" while on live audio / video feeds, though, that character was a "video game developer" and is a lot closer to "literally really you." Maybe, leave the identity crisis parts out.
+1. Use the above as an... onramp?... to what happened the week of 05-22-2022, against being pissed off that these people were selling some bullshit ass software that was obviously NOT working out, why you, felt confident doing what you did. Also, audio surveillance not made like, clear, is not terribly admissable in court, and if they just.. asked me about what I was saying while on "mute"... well, I was literally, actually, working on a character, I was acting. Woops. Do you want to give me something to do at work so you can judge me on that? Because... I didn't ge tmuch of that here either.
+
+### Outline (remaining to write)

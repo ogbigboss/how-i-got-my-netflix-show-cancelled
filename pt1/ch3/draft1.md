@@ -4,7 +4,7 @@
 The largest reasons I may have acted, to others, brazenly are these three:
 1. I have no dependents, if I were to disappear, no one would really suffer other than, well, me
 1. I was innocent of any crimes that would warrant such overreach, and I knew that quickly the overreach would be more criminal than anything I could come close to getting away with given it was someone(s) within the federal government 
-1. I know how the internet works -- and this is the point of the chapter -- explain how web requests work in broad detail, but focus in on API keys
+1. I know how the internet works -- and this is the point of the chapter -- explain how web requests work in broad detail, but focus in on API keys. Consider being brief and then coming back and explaining it in further detail before the Liveramp fiasco. Dividing the details in two may make for better pacing.
 
 #### How internet works, www for dum dum dums, they have computers on the internet now, etc
 1. Explain basics of "web requests", but briefly such to focus on securrity, broadly

@@ -18,10 +18,79 @@
 
 > "In any kind of covert operation, one of the toughest challenges is using information you're not supposed to have." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
-I started at Vouch in early 2022, but back in 2020, I went through an experience that confirmed to my suspicions that some companies in "big tech" were using audio surveillance on their remote employees. As a computer programmer, I knew this wasn't hard to pull off and hide -- audio processing takes a minute amount of power on a modern CPU, to where it wouldn't interfere with the average worker bee's day. The way I figured out was the immaturity in how the audio surveillance was being used -- it seemed if I setup myself as a joke, my bosses were more than likely to play off it in meetings, indicating they were listening, and they were not threatened but willing to use it as a cheap way to feel superior, like children. But that was then.
+Working remotely wasn't new to me -- somewhere two decades ago around 2001 my father, who worked for IBM for some 3 decades, was transferred away from his office in Cranford NJ and into his home office in our house of Montclair NJ. I believe this was mostly because the office was closing in Cranford and seen as a way to save money. My father finished his career working remotely, and, given the times, audio surveillance wasn't really something I ever felt IBM put into our family household, and was mostly something for the likes of TV shows.
 
-Back in 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at Vouch, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
+These days, as more move to remote working whether due to chronic health issues as well as epidemics like Covid, costs savings, comfort, or all three, it's well known many corporations are utilizing audio surveillance as it's more feasible with modern CPUs.
+
+Before 2020, I was upset the way I discovered this -- via a boss' psychological immaturity -- but by 2022, I accepted it as some kind of weird reality.
+
+...
+
+Back in 2020, I went through an experience that confirmed to my suspicions that some companies in "big tech" were using audio surveillance on their remote employees. As a computer programmer, I knew this wasn't hard to pull off and hide -- audio processing takes a minute amount of power on a modern CPU, to where it wouldn't interfere with the average worker bee's day. The way I figured out was the immaturity in how the audio surveillance was being used -- it seemed if I setup myself as a joke, my bosses were more than likely to play off it in meetings, indicating they were listening, and they were not threatened but willing to use it as a cheap way to feel superior, like children. But that was then.
+
+In 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at Vouch, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
+
+...
+
+
+I really enjoy working remotely. I enjoy it mostly because while I'm working, there aren't a bunch of people flying around an office, alerting my peripheral vision, talking aloud about reasonable topics I have to filter out with maturity or music, which itself can be a distraction, taking a shit around people and having to deal with the social consequences -- literally none of these things are things I have to deal wiht remotely. Studies show there isn't much "productivity" to be gained via the "in person water cooler" moments, but, I'll admit many humans are more social creatures than I, so an office may be ideal and needed for many others. I think the "remote first" model with an office to support those with social needs would be best for the future, but alas.
+
+I also like to talk aloud while I write or evaluate computer programs.
+
+In offices, I limit this to an occasional one word mumble, if anything. Sometimes, I may make the more embarassing mistake of singing along to what I'm listening to.
+
+"Alone" in my apartment, I'll sometimes carry a bit of a conversation about the code I'm working on. It may sound like I'm talking to someone on the phone -- I'm just thinking one thought, then saying another aloud. I like to think I'm hijacking the part of the brain that listens, and just speeding up the process of being as obejctive as I can in my approaches to computer programming.
+
+You might think it's crazy, but I've talked to a lot of therapists about it, and they don't, often categorizing it as a type of self talk.
+
+All these things came to an odd head of sorts early on at Vouch. My instinct was not to care, because, if it was a problem, surely someone would be direct and just ask me about it.
+
+Wouldn't you do that if you were confused about something a co-worker or employee said aloud to themselves or anyone else in an office?
+
+Why would working remotely be any different, even with audio surveillance replacing the idea of a shared amount of oxygen in an office setting?
 
 After 2022, I wonder if emotional immaturity is more acceptable compared to pure political cowardice. I didn't get a severance after being harrassed via "covert" audio surveillance in 2020, but at least compared to 2022 the government never got involved, at least to my knowledge, and certainly not my _mother_.
 
 ...
+
+My first two days at Vouch were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
+
+It's not terribly abnormal to _not_ get a work item your first week on a tech gig as a web developer -- usually you're setting up the code bases of whatever program you're working on so you have a "local" or "development" setup on your machine that you can use to edit code in an isolated fashion, separate from whatever live servers run the business. Setting things up took awhile, but I recall being up and running within my first few days.
+
+I was hired to largely be a front end developer -- this is the part of the website that runs in your device's browser, and communicates to the server. I have experience with working the latter, but for this job, my focus was a leadership role in the former. One thing I don't take for granted is that as a front end developer, I'm largely divorced from any customer data while working on my local environment. That said, the concept of _authentication_ -- one of the principal things that happens whenever you supply a user and password -- does happen on the client side, even if the important part -- the part where the password gets checked for validity -- doesn't; that's on the server.
+
+So, while reviewing the codebase to which I was hoping to dedicate years of my life to, I looked at, well, the page I was looking at when I started my local development setup - the login page.
+
+You may be familiar with the idea of a login page.
+
+One thing I often do is look at the code that assembles the page to see... its my job. It's literally my fucking job. (nts: behave, use your words)
+
+While looking at the login page for Vouch's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Vouch - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
+
+I'm pretty sure I said some judgemental things out loud such as "why would they still be using this?" I'm not really... _sure_ what I said, to be honest, because I was just wondering why a company that size, with that many developers, without the need for dynamic machine to machine keys or anything really that Auth0 provides -- why would they need this?
+
+Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
+
+To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Vouch.co uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Vouch.co used that they were hiring me to help make.
+
+Meaning, finding out Vouch used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
+
+But again, I may have sounded _really_ judgemental.
+
+That was Wednesday, and other than making a note to ask someone why they used it, and another note to myself to be nice about it and not "judgy" when I asked, I didn't think much else about it. Every developer would make every website different given their own choices; if anything I just told myself I may have to spend time with Auth0, a product I had experience in from previous jobs, and moved on with my business from there.
+
+... 
+
+When starting a job, with a new company email, I make a losing effort to check all my email and retain the fabled "inbox 0" state of zero emails unread in my inbox.
+
+It works for the first few weeks.
+
+That first week, it was working - I had read every email, just as a way to get familiar with the company.
+
+On Thursday, I got a somewhat peculiar email that made me think, for the first time that year, that another company may be audio surveilling me.
+
+But I couldn't be sure -- to be honest, I still can't without the company admitting to it -- so I asked myself a complicated question that was maybe my programmer brain solving a social problem I could have been better ignoring:
+
+_How could I let them know that I didn't care if they were listening to me without doing anything weird, like asking them in a meeting my first week if they were listening to me?_
+
+I really, really, hate meetings.

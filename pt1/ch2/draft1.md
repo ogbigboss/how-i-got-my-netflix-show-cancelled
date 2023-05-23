@@ -154,3 +154,17 @@ My empathy limits it's bounds at sociopathy. It's probably why I've never been i
 Anyway, I remember at that point going to my kitchen and talking random shit about Silicon Valley, but really just focusing on the whole "you ruined San Francisco" thing, while washing my dishes. I didn't say anything personal -- I barely knew these people, I just started working there -- so I stuck to general shit talk about how the Mission sucks and it used to be better (I cannot prove this to be honest), and how the Warriors _probably_ only got Durant because of some backwater deal involving tech stocks, but I digress -- my random espionage tinged encouters with NBA celebrity come up later in my story.
 
 ...
+
+Earlier in the week I had met my "team", or the coworkers I would be working closesly with in my department. Everyone was very friendly and introduced themselves with all kinds of info - their hobbies, their families, their recent projects at work - except for one person, who spoke briefly if ever and was not present at the meeting where I introduced myself to everyone, a Rachel Bird.
+
+I did see her in Slack, a chat software, as well as a few online meetings, however, she spoke tersely in response to Eloise when prompted, and her face was hidden. In it's stead an image she had uploaded was displayed, and it was a black and white photo of a woman in a hairstyle along with the kind of lighting and exposure that meant it was a photo of an old actress, likely from the 30s-50s.
+
+Rachel never made conversation so I never got to ask, but I remember thinking to myself, a former Blockbuster employee, this:
+
+_Hey, is that a picture of Ingrid Bergman, famous for her character Paula in the 1944 film_ Gaslight?
+
+I thought about googling for pictures of Ingrid Bergman, or even aking Rachel, but then I realized I might be under some sort of surveillance which meant monitoring my internet connection, and I didn't want to give anyone at the company the impression that I was interested in someone.
+
+Rachel's last day was the following Friday, an interesting day for me as well.
+
+...

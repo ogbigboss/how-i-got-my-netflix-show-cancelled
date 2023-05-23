@@ -71,7 +71,7 @@ I'm pretty sure I said some judgemental things out loud such as "why would they 
 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 
-To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Vouch.co uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Vouch.co used that they were hiring me to help make.
+To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Vouch.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Vouch.us used that they were hiring me to help make.
 
 Meaning, finding out Vouch used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
 
@@ -81,16 +81,76 @@ That was Wednesday, and other than making a note to ask someone why they used it
 
 ... 
 
-When starting a job, with a new company email, I make a losing effort to check all my email and retain the fabled "inbox 0" state of zero emails unread in my inbox.
+When starting a job with a new company email, I make a losing effort to check all my email and retain the fabled "inbox 0" state of zero emails unread in my inbox.
 
 It works for the first few weeks.
 
 That first week, it was working - I had read every email, just as a way to get familiar with the company.
 
-On Thursday, I got a somewhat peculiar email that made me think, for the first time that year, that another company may be audio surveilling me.
+On Thursday, I got a somewhat peculiar email that made me think, for the first time that year, that _another_ company may be audio surveilling me.
 
-But I couldn't be sure -- to be honest, I still can't without the company admitting to it -- so I asked myself a complicated question that was maybe my programmer brain solving a social problem I could have been better ignoring:
+But I couldn't be sure -- to be honest, I still can't without the company admitting to it -- so I asked myself a complicated question that was maybe my "programmer brain" solving a social problem I could have been better ignoring:
 
 _How could I let them know that I didn't care if they were listening to me without doing anything weird, like asking them in a meeting my first week if they were listening to me?_
 
 I really, really, hate meetings.
+
+My boss' boss made an update to some internal company document, and the software which holds the document sent an email to a mailing list I was on about the update. I can't remember all the points, but under a section with about 4 bullet points, a fifth one was added, and it made the section read like one of those multiple choice questions, with the prompt asking you _which one does not belong_.
+
+The last point, erroneous to the preceeding points, was about authentication.
+
+My boss' boss, the CPO, wasn't terribly technical and neither were the points in the list - authentication is a pretty technical term, most other departments, including Product, may refer to this as the login section.
+
+That said, I'm new! I could be wrong! It's just... an email?
+
+But I was considering the BSOD from earlier, my experiences from 2020, and began considering that I could be under some kind of "investigation", with a possibility of federal involvement, and that my boss' boss, a fellow male of South Asian decent, may have been trying to... tell me something?
+
+Which I thought was weird - why wouldn't he just... tell me? The thought came to me:
+
+_How could I let them know that I didn't care if they were listening to me without doing anything weird, like asking them in a meeting my first week if they were listening to me?_
+
+And then another, qualifying thought, asking this:
+
+_Why am I suspicious and what are the rational ways I could be correct such to justify the above would have any effect, and what happens if I'm wrong?_
+
+If you're not a computer programmer, that's ok. Just read the below like words, and ignore the other parts.
+
+It's how I thought through the situation.
+
+You might think I'm foolish.
+
+```
+if you_live_in_2022_aka_audio_surveillance_is_technically_feasible then
+    if you_do_something_to_let_them_know_you_dont_care then
+        if they_are_not_listening then
+            nothing_will_happen_that_would_be_odd_or_connected_because_they_are_not_listening
+        else
+            if they_are_investigating_you then
+                hopefully_they_would_be_direct_at_that_point
+            else
+                hopefully_they_would_be_direct_at_that_point
+            end
+        end
+    end
+end
+```
+
+Take your time with it, but to translate in english, the logical answer to the question "why would I react to this in such a way to test if they were audio surveilling me" would be this:
+
+_If I live in 2022 and audio surveillance is thus technically feasible in a remote working scenario, and then I do something like saying words to the audio surveillance to indicate to anyone listening or recording that I am not threatened by it's presence, if they're indeed not listening, then nothing should come of it, elsewise, if they are listening, whether or not they are investigating me, hopefully they would be direct at that point._
+
+As a programmer, you rarely get it right the first time, even if you write perfect tests and such.
+
+Sometimes you just need to run the program to find out you were wrong about an assumption you made.
+
+So, well, "FML" as the kids say, but I thought of the above and figure'd what harm could come if, in my apartment, I vocally addressed my suspicions about the email, and finished by saying something like the below:
+
+> "Look, if you're audio surveilling me I don't care. I'd be more impressed if you were listening to me in my kitchen, but anyway, I don't care. Do what you need to."
+
+I can't remember my exact words because, at this point, I didn't think it would be necessary to try and remember things like that, but I do remember the line about the kitchen. Perhaps my latent heterosexism caused me to lean on a bit of machismo -- I'm saying I don't care, but, I hadn't realized an easily bullied, triggerable leader who likes to play games more than mind their business may react by thinking: _Well, if he wants to be impressed, let's impress him._
+
+My empathy limits it's bounds at sociopathy. It's probably why I've never been interested in middle management.
+
+Anyway, I remember at that point going to my kitchen and talking random shit about Silicon Valley, but really just focusing on the whole "you ruined San Francisco" thing, while washing my dishes. I didn't say anything personal -- I barely knew these people, I just started working there -- so I stuck to general shit talk about how the Mission sucks and it used to be better (I cannot prove this to be honest), and how the Warriors only got Durant because of some backwater deal involving tech stocks, but I digress -- my random espionage tinged encouters with NBA celebrity come up later in my story.
+
+...

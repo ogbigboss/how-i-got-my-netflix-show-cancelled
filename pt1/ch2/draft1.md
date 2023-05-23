@@ -163,7 +163,9 @@ Rachel never made conversation so I never got to ask, but I remember thinking to
 
 _Hey, is that a picture of Ingrid Bergman, famous for her character Paula in the 1944 film_ Gaslight?
 
-I thought about googling for pictures of Ingrid Bergman, or even aking Rachel, but then I realized I might be under some sort of surveillance which meant monitoring my internet connection, and I didn't want to give anyone at the company the impression that I was interested in someone.
+I wasn't certain, though I was grateful at that moment for my mother and her mother, my grandmother's, habit of watching _Nick at Nite_ as well as daytime reruns, and thus knowing a bit about older films and television. Even if I was wrong, and though these films are older, looking back on what happened I am _especially_ grateful to my grandmother for loving shows like _Matlock_, _Columbo_, and of course _Murder She Wrote_, and I wonder how much those helped in knowing how to deduce how full of shit many of you all were and may still be.
+
+Per my uncertainty, I thought about googling for pictures of Ingrid Bergman, or even aking Rachel, but then I realized I might be under some sort of surveillance which meant monitoring my internet connection, and I didn't want to give anyone at the company the impression that I was interested in someone.
 
 Rachel's last day was the following Friday, an interesting day for me as well.
 

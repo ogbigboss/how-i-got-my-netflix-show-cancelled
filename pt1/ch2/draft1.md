@@ -151,6 +151,6 @@ I can't remember my exact words because, at this point, I didn't think it would 
 
 My empathy limits it's bounds at sociopathy. It's probably why I've never been interested in middle management.
 
-Anyway, I remember at that point going to my kitchen and talking random shit about Silicon Valley, but really just focusing on the whole "you ruined San Francisco" thing, while washing my dishes. I didn't say anything personal -- I barely knew these people, I just started working there -- so I stuck to general shit talk about how the Mission sucks and it used to be better (I cannot prove this to be honest), and how the Warriors only got Durant because of some backwater deal involving tech stocks, but I digress -- my random espionage tinged encouters with NBA celebrity come up later in my story.
+Anyway, I remember at that point going to my kitchen and talking random shit about Silicon Valley, but really just focusing on the whole "you ruined San Francisco" thing, while washing my dishes. I didn't say anything personal -- I barely knew these people, I just started working there -- so I stuck to general shit talk about how the Mission sucks and it used to be better (I cannot prove this to be honest), and how the Warriors _probably_ only got Durant because of some backwater deal involving tech stocks, but I digress -- my random espionage tinged encouters with NBA celebrity come up later in my story.
 
 ...

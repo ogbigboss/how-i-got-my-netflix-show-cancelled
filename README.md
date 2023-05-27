@@ -29,6 +29,7 @@
 
 1. Hey Jesse! Jesse does NOT get the Mal treatment. Lmfao.
 1. Catch up to the intro, get to the knife, and maybe just hint at the very end about realizing you had a big batch of bootleg DVDs and you were aware a streaming network like Netflix, particularly with their CEO's political leanings, being one of the most likely outcomes, and if you could prove it (this is pre Paula Patton), then you'd know what to do: catch up on some movies, apparently. Just a day in the life of a not spy.
+1. OR, just stop at being followed in the streets to catch up to the intro. Give a warning that after that, things get weird, involve celebrities, accusations of terrorism, etc. Maybe a good cutoff point for a potential publisher to ask questions, while not having to get to the... more than probably publicly known parts. Exciting! Leave them wanting more!
 
 
 

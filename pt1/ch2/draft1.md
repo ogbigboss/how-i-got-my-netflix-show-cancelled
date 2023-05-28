@@ -33,7 +33,9 @@ In 2020, I was working for a former frat boy president running a startup in an i
 ...
 
 
-I really enjoy working remotely. I enjoy it mostly because while I'm working, there aren't a bunch of people flying around an office, alerting my peripheral vision, talking aloud about reasonable topics I have to filter out with maturity or music, which itself can be a distraction, taking a shit around people and having to deal with the social consequences -- literally none of these things are things I have to deal wiht remotely. Studies show there isn't much "productivity" to be gained via the "in person water cooler" moments, but, I'll admit many humans are more social creatures than I, so an office may be ideal and needed for many others. I think the "remote first" model with an office to support those with social needs would be best for the future, but alas.
+I really enjoy working remotely. I enjoy it mostly because while I'm working, there aren't a bunch of people flying around an office, alerting my peripheral vision, talking aloud about reasonable topics I have to filter out with maturity or music, which itself can be a distraction, taking a shit around people and having to deal with the social consequences -- literally none of these things are things I have to deal wiht remotely. Studies show there isn't much "productivity" to be gained via the "in person water cooler" moments, but, I'll admit many humans are more social creatures than I, so an office may be ideal and needed for many others.
+
+I think the "remote first" model with an office to support those with social needs would be best for the future, but alas.
 
 I also like to talk aloud while I write or evaluate computer programs.
 
@@ -53,17 +55,21 @@ After 2022, I wonder if emotional immaturity is more acceptable compared to pure
 
 ...
 
+_Early February 2022_ (nts: get weeks where needed from notes and calendar, should be second week of Feb)
+
 My first two days at Vouch were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
 
 It's not terribly abnormal to _not_ get a work item your first week on a tech gig as a web developer -- usually you're setting up the code bases of whatever program you're working on so you have a "local" or "development" setup on your machine that you can use to edit code in an isolated fashion, separate from whatever live servers run the business. Setting things up took awhile, but I recall being up and running within my first few days.
 
-I was hired to largely be a front end developer -- this is the part of the website that runs in your device's browser, and communicates to the server. I have experience with working the latter, but for this job, my focus was a leadership role in the former. One thing I don't take for granted is that as a front end developer, I'm largely divorced from any customer data while working on my local environment. That said, the concept of _authentication_ -- one of the principal things that happens whenever you supply a user and password -- does happen on the client side, even if the important part -- the part where the password gets checked for validity -- doesn't; that's on the server.
+I was hired to largely be a front end developer -- this is the part of the website that runs in your device's browser, and communicates to the server. I have experience with working the latter, but for this job, my focus was a leadership role in the former. One thing I don't take for granted is that as a front end developer, I'm largely divorced from any customer data while working on my local environment. That said, the concept of _authentication_ -- one of the principal things that happens whenever you supply a user and password -- does partially happen on the client side, even if the important part -- the part where the password gets checked for validity -- doesn't; that's on the server.
 
 So, while reviewing the codebase to which I was hoping to dedicate years of my life to, I looked at, well, the page I was looking at when I started my local development setup - the login page.
 
 You may be familiar with the idea of a login page.
 
-One thing I often do is look at the code that assembles the page to see... its my job. It's literally my fucking job. (nts: behave, use your words)
+One thing I often do is look at the code that assembles the page to see how it behaves: it's a big part of my job.
+
+The login page being the first page I looked at had a lot to do with the website in question - the company's "app." website to manage data, not it's more sales oriented main "www." website - locking you out until you login... like... many if not most data oriented websites.
 
 While looking at the login page for Vouch's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Vouch - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
 
@@ -72,6 +78,8 @@ I'm pretty sure I said some judgemental things out loud such as "why would they 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 
 To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Vouch.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Vouch.us used that they were hiring me to help make.
+
+It's kind of like seeing the brand name of a lock on the door of your employer's office, probably not something weird for the guy who works on the front of the employer's office, website wise, to take note of.
 
 Meaning, finding out Vouch used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
 

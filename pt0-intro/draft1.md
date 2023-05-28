@@ -11,7 +11,7 @@
 
 ### Draft
 
-[compelling introductory sentence about being followed I guess]
+_Late July 2022_
 
 After a few years, most New Yorkers form a way to confirm their paranoias about whether or not that weird person who's been walking behind them is indeed _following_ them. One of my tricks, like many, is to pull out a cell phone or something to futz with, pause walking to begin futzing, and wait for the person to (hopefully) keep walking past.
 

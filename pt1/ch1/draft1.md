@@ -10,6 +10,8 @@
 
 ### Draft
 
+_Late January 2022_
+
 Getting Microsoft's Blue Screen of Death in a Windows 10 install is rare, but possible, and like the board game _Clue_, was arguably more popular in the past. The Blue Screen of Death, or BSOD, is a rare computer-halting error state that will force you to turn off your machine, lest you wish to stare at a blue screen with an error message, hence the name. Similar to _Clue_, Microsoft's BSOD involves three things: your active OS thread has been murdered, in the stack trace, by, generally speaking, the weapon of shoddy programming.
 
 Like I said, it doesn't happen as often these days, but the rules haven't changed: some program you were running on your computer caused the BSOD, they don't just happen.

@@ -32,6 +32,10 @@
 1. OR, just stop at being followed in the streets to catch up to the intro. Give a warning that after that, things get weird, involve celebrities, accusations of terrorism, etc. Maybe a good cutoff point for a potential publisher to ask questions, while not having to get to the... more than probably publicly known parts. Exciting! Leave them wanting more!
 
 
+### Notes for further writing through the entire incident to date
+
+1. Elon's story arc should be one of redemption; he was roped into this and lied to as much as anyone, certainly by me. Sure I'll talk about shitting all over him in November, some of that shit was funny, the lil lo lo stuff, etc. The arc should be in bringing him closer to his mother and family, hopefully, and just wishing the Musks' well, with no reason to be gauche or drab about it. The only reason they may have been involved is because I wanted Wall st folks to know about the situation at Liveramp, it's not really their fault, plus as public figures it worked well for my side of the fiction I was forced to live in. The pitch may have to introduce Elon in terms of immaturity, but given what happened at Twitter etc, I think that's not so bad as long as it implies growth / bringing him closer to family in the end, given my story goes well beyond the initial hurdles at Twitter over Q4 2022, and I'm sure by the time I get published things'll straighten out with the new CEO CTO combo. So in the pitch imply that, should the story continue, it was never really him in charge or his fault (at least in my assumptive fictitious POV) and, well, I was just using the celebrity of his family as I was for so many other people for one reason: not being made a fool for someone else. I think they'd be ok with that. Don't forget to talk about the jealousy you feel at Jack Dorsey's beard, however.
+
 
 
 ## Alternate concept

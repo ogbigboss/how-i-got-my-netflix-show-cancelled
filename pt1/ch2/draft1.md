@@ -171,10 +171,56 @@ Rachel never made conversation so I never got to ask, but I remember thinking to
 
 _Hey, is that a picture of Ingrid Bergman, famous for her character Paula in the 1944 film_ Gaslight?
 
-I wasn't certain, though I was grateful at that moment for my mother and her mother, my grandmother's, habit of watching _Nick at Nite_ as well as daytime reruns, and thus knowing a bit about older films and television. Even if I was wrong, and though these films are older, looking back on what happened I am _especially_ grateful to my grandmother for loving shows like _Matlock_, _Columbo_, and of course _Murder She Wrote_, and I wonder how much those helped in knowing how to deduce how full of shit many of you all were and may still be.
+I wasn't certain, though I was grateful at that moment for my mother and her mother, my grandmother's, habit of watching _Nick at Nite_ as well as daytime reruns, and thus knowing a bit about older films and television. Even if I was wrong, and though these films are older, looking back on what happened I am _especially_ grateful to my grandmother for loving shows like _Matlock_, _Columbo_, and of course _Murder She Wrote_, and I wonder how much those helped in deducing how full of shit many of you all were and may still be.
 
 Per my uncertainty, I thought about googling for pictures of Ingrid Bergman, or even aking Rachel, but then I realized I might be under some sort of surveillance which meant monitoring my internet connection, and I didn't want to give anyone at the company the impression that I was interested in someone.
 
 Rachel's last day was the following Friday, an interesting day for me as well.
 
 ...
+
+With disregard to "surveillance," working from home generally involves making sure you're visibly online in some sort of chat software, at the very least, though it's not always required. I was making a habit in my first week of opening my laptop at just about 10:30 AM ET and signing off at 7:30 PM ET. I'd generally take a half hour to hour long lunch so this worked out to a 9 hour total workday.
+
+On the last day of my first week, when I opened my laptop, I couldn't connect to the internet.
+
+These things happen. I check my phone and see a text message.
+
+Spectrum, my internet provider, had texted me at 10:28 AM that day, February 18th, 2022 -- I had a service outage (nts: maybe link photo if you can. given that tying this to an actual pitch will definitely mean taking it out of markdown and into "something else", it may be difficult, look into how things are normally pitched, if a PDF is ok then use some markdown to website to PDF generator, etc).
+
+These things happen! Not wanting to be virtually "late", I thought little of taking out my iPhone and using it's internet to tether to, and continued working. I had some meetings where I chose not to share my webcam feed to save on data as well as keep my internet connection stable.
+
+I moved into the building I live in around 10 years ago, and have "suffered" internet outages before. Post 2012, when I moved in, the internet was pretty stabalized as a necessity to do most things, though not all. When outages happen, especially on nice days -- it was a bright, sunny, not that chilly or windy February day, beautiful realy -- people tend to congregate outside a bit more, and Covid wasn't as much of a threat by 2022. I noticed near the mid afternoon that, well, things outside seemed pretty normal.
+
+Funny, but, hey. I was tethered to my phone; maybe everyone else was too.
+
+I decided to then walk down the hall to throw some garbage out in the chute. As I walked, I could hear many of my neighbors living their lives rather normally as they would at that time -- many worked from home, had meetings like I did, and many watched television during the day while working or otherwise from their apartments, such audio is normal -- but in 2022, it would assume that everyone else had a working internet connection but me.
+
+I check Twitter primarily for evidence of an outage in my area, the Lower East Side, Chinatown, anywhere in Manhattan at that moment -- I couldn't find anything saying that others were suffering an outage.
+
+I sighed inside, and thought through some things.
+
+```
+if my_internet_connection_is_down and my_neighbors_nor_others_in_my_area_seem_affected
+  if this_is_in_response_to_what_I_said_in_my_kitchen then
+    if it_makes_me_wonder_why_Ronnie_left_so_abruptly then
+      if i_try_and_embarass_whoever_did_this then
+        if someone_in_vouch_has_government_connections_as_theyre_in_sf_and_im_in_new_york then
+          i_try_and_embarass_whoever_did_this_to_quietly_stop_fascist_behavior
+        else
+          i_try_and_embarass_whoever_did_this_to_quietly_improve_vouchs_decision_making
+        end
+      end
+    else if Ronnie_didnt_leave_abruptly then
+      i_wouldnt_have_been_as_suspicious_of_a_bully_mentality_with_regards_to_my_situation
+    end
+  else if this_isnt_connected then
+    if i_say_any_dipshitted_thing_I_want_in_the_privacy_of_my_apartment then
+        nothing_would_happen_because_no_one_did_this
+    end
+  end
+end
+```
+
+In english, _if my internet connection is down, but my neighbors isn't, and somehow this was done in response to me saying Id be more impressed if you audio surveilled me in my kitchen, and it makes me wonder why Ronnie left abruptly as a Director, then I ought to try and embarass whoever did this, because if they have government connections, they're fascists, if not, they're just bullies, and if none of this is "really connected", then I don't have anything to worry about because nothing else will happen if I try to embarass whomever did this, because then in that case, they didn't_.
+
+The next logic puzzle was figuring out how to respond; what to say and why.

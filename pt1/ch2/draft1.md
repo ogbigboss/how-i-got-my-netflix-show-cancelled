@@ -224,3 +224,17 @@ end
 In english, _if my internet connection is down, but my neighbors isn't, and somehow this was done in response to me saying Id be more impressed if you audio surveilled me in my kitchen, and it makes me wonder why Ronnie left abruptly as a Director, then I ought to try and embarass whoever did this, because if they have government connections, they're fascists, if not, they're just bullies, and if none of this is "really connected", then I don't have anything to worry about because nothing else will happen if I try to embarass whomever did this, because then in that case, they didn't_.
 
 The next logic puzzle was figuring out how to respond; what to say and why.
+
+...
+
+#### (nts: The below should be broken into it's own chapter. Move the numbers. Consider how to avoid this in the future.)
+
+It was maybe 10 months later, but when I watched the Emilio Estevez cinematic classic _Men at Work_, lines of dialogue shared by he and his brother Charlie Sheen's characters described exactly what I wanted to achieve, with, well, a prank.
+
+> James: ... a pellet gun? What are you going to accomplish using that stupid thing?
+>
+> Carl: It allows me to seriously aggravate a situation without actually changing the course of history. It also stings like a bitch.
+
+(nts: take a moment to time travel to 2023 and discuss Jack Texiera, and how in 2022, you assumed your potential "government counterparts" were folks like that which truly, really exist and are a real threat to security. just a few sentences should do)
+
+(nts: now discuss the rest of that Friday)

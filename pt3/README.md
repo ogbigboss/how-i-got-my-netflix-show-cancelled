@@ -9,19 +9,15 @@
 if my_internet_and_my_therapists_internet_was_cut_to_intimidate_me then
   if my_mothers_sudden_phone_call_after_felt_weird_for_various_reasons then
     if I_act_out_a_routine_involving_a_precinct_visit_to_test_for_a_connection then
-        if these_two_things_are_connected then
-          if the_cops_do_a_routine_knock_and_maybe_mental_health_check then
-            there_is_no_connection and
-            youd_have_to_tell_them_youre_practicing_method_acting_and_apologize_profusely
-          else if the_cops_dont_react_or_hesitate then
-            yeap_uh_huh_your_parents_are_playing_games_with_politicians_and_netflix_super
-          end
+        if the_cops_do_a_routine_knock_and_maybe_mental_health_check then
+          there_is_no_connection and
+          youd_have_to_tell_them_youre_practicing_method_acting_and_apologize_profusely
+        else if the_cops_dont_react_or_hesitate then
+          yeap_uh_huh_your_parents_are_playing_games_with_politicians_and_netflix_super
         end
       end
-    else if these_two_things_are_NOT_connected then
-      the_cops_may_question_why_youre_being_weird then
-        youd_have_to_tell_them_youre_practicing_method_acting_and_apologize_profusely
-      end
+    else if i_do_nothing_in_response then
+      i_wouldnt_know_if_my_parents_were_being_deceitful_given_the_political_implications
     end
   else if my_mom_didnt_call_after then
     I_probably_wouldve_let_it_go_and_maybe_yelled_at_the_surveillance_monitors_at_most

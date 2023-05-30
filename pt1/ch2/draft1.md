@@ -343,7 +343,7 @@ Reader, you may be wondering: if they _had_ confronted you, and asked why you li
 
 I had made a plan, and it was to respond thusly, if I was asked why I lied.
 
-> "Oh, well I thought we were both lying about being spies. That wasn't the joke here?"
+_Oh, well I thought we were both lying about being spies. That wasn't the joke here?_
 
 Look, I probably would've gotten fired, but like I said I had two other job offers and if things happened quickly I doubt they would've gotten to a point where the government would have to try the loudest "cover up" of all time as opposed to just minding their own business.
 

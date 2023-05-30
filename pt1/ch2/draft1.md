@@ -243,6 +243,22 @@ It was maybe 10 months later, but when I watched the Emilio Estevez cinematic cl
 >
 > Carl: It allows me to seriously aggravate a situation without actually changing the course of history. It also stings like a b***h.
 
-(nts: take a moment to time travel to 2023 and discuss Jack Texiera, and how in 2022, you assumed your potential "government counterparts" were folks like that which truly, really exist and are a real threat to security. just a few sentences should do)
+It took me maybe 3 months later, but I also for the first time watched _Apolcalypse Now_ in full, and couldn't help but note Coppola and Company's stressing the point of emotional immaturity not just amongst the ranks of the infantry, but through the leadership as well, perhaps best expressed in Robert Duval's role of Colonel Kilgore.
+
+I didn't need to watch that movie to know that the most powerful military in the world, at any point in history, has had to suffer the mistakes of youth as influenced by emotional immaturity, and will continue to. Calling things out directly isn't always helpful as the immaturity can be within the ranks of leadership or legal outfits at say, the JAG level; the court system which would handle military affairs separate from civil ones.
+
+(Also, _Apocalypse Now_ centers around Martin Sheen's character's mission is to "take care of" his former comrade Marlon Brando's character, so, I felt a prank would be better than anything "official".)
+
+A year later in 2023, as i write this, the country was rocked by an intelligence leak. One Jack Texiera stands accused of accessing classified military information and then spreading it online, on a gamer chat service called Discord of all things. I'd fear for the country's security if not for the fact that Mr. Texiera's actions reflects the immaturity often found in military outfits historically, which is to say, such things aren't distinctly American.
+
+That is said, in 2022, I didn't know Jack Texiera's name, but I figure'd whoever was behind this -- if they were at all -- had the emotional maturity of a 20 year old who spends their time on online chat services and social media.
+
+If they were older or less male it woudn't matter, at least the former point was proven to me by Robert Duvall's performance as Colonel Kilgore: even those in charge can be reduced to children if you figure out what their surf board is and take it away.
+
+Whomever my Colonel Kilgore was, their surf board to me seemed like the ability to take my internet connection down - "just to see how I'd react." Such tactics are useful against criminal organizations, but, I'm not that, and there's no evidence to point me to that in a way a court order could be aquired to legally take my internet down, so, I felt like it was time to take away my Colonel Kilgore's surf board, whomever they were.
+
+If I got away with it, I'd never know who it was, and technically, I still don't.
+
+...
 
 (nts: now discuss the rest of that Friday)

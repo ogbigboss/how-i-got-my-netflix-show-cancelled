@@ -227,13 +227,11 @@ The next logic puzzle was figuring out how to respond; what to say and why.
 
 ...
 
-#### (nts: The below should be broken into it's own chapter. Move the numbers. Consider how to avoid this in the future.)
-
 It was maybe 10 months later, but when I watched the Emilio Estevez cinematic classic _Men at Work_, lines of dialogue shared by he and his brother Charlie Sheen's characters described exactly what I wanted to achieve, with, well, a prank.
 
 > James: ... a pellet gun? What are you going to accomplish using that stupid thing?
 >
-> Carl: It allows me to seriously aggravate a situation without actually changing the course of history. It also stings like a bitch.
+> Carl: It allows me to seriously aggravate a situation without actually changing the course of history. It also stings like a b***h.
 
 (nts: take a moment to time travel to 2023 and discuss Jack Texiera, and how in 2022, you assumed your potential "government counterparts" were folks like that which truly, really exist and are a real threat to security. just a few sentences should do)
 

@@ -261,4 +261,90 @@ If I got away with it, I'd never know who it was, and technically, I still don't
 
 ...
 
-(nts: now discuss the rest of that Friday)
+My mission was clear: I needed to embarass whoever did this in a way that would have no effect if I was wrong, but if I was right, my actions would have to would force whoever did this to take action amongst their superiors within the government which would eventually embarass them.
+
+_What are these people hoping for anyway?_
+
+If they took down my internet, they were probably thinking they'd "interrupt" whatever "criminal" activities I "must" be doing using that connection. If the police know of a location where drug dealers use say, any type of electricity, as those growing hydroponic marijuana indoors may with the halogen lights requried to do so, then sometimes they'll cut the electricity of the area to see how the drug dealers will react. Maybe they'll change locations, reveal their stashes, or act erratically in a way which adjusts their business operations to reveal to authorities what they were up to.
+
+Marijuana having been legalized by 2022 in the great state of New York, I looked at my bong with little fear. I rarely had over the legal limit of marijuana, most times nowhere close to the 3 ounce maximum (nts: check laws). I asked myself a peculiar question which has since, become rather standard form procedure in any of my thought processes:
+
+_Am I doing anything illegal right now?_
+
+In terms of crimes that would get me behind bars or serve any "jail time", no. At times you could get me on misdemeanors -- jaywalking, mostly -- but, no, in the time that I was being investigated up to this moment, I've not committed any crimes that would put me behind bars.
+
+So, then what to do given that I knew my innocence was provable?
+
+The thought came to mind:
+
+_I also need to prevent them from falsely incriminating me._
+
+My only answer there was this: I need to be as appealing of a possible "collar" or "get" to the person as I can be, such that they will act in earnest, up until the point that they ask the investigative services (FBI, most likely) to look into my background, at which point they'll find nothing, and be embarassed by not only their superiors but hopefully create a minor inter-departmental "snafu" and forever be known as "that guy" -- Jack Texiera should live a healthy, full life, but he should, in my opinion, have no way up the ladder in terms of government employment as well.
+
+In most programming languages, a "function" is a group of code that can be refered to by it's name and thus "executed," similar to having a play "codenamed" in say a sports game or an intelligence operation and having that name refer to a predetermined set of actions.
+
+```
+function i_try_and_embarass_whoever_did_this
+  if they_think_im_a_criminal then
+    if they_have_accidentally_committed_government_tyranny_via_overreach then
+      i_need_to_embarass_them_in_a_way_they_cannot_falsly_incriminate_me
+    else if they_actually_dont_have_government_resources then
+      theyll_behave_criminally_but_then_id_call_the_cops_so_theyd_probably_just_fire_me
+    end
+  else if they_dont_think_im_a_criminal then
+    they_would_probably_just_be_direct_about_pranking_me_if_I_do_the_same
+  end
+end
+
+function i_need_to_embarass_them_in_a_way_they_cannot_falsly_incriminate_me
+  if less_eyes_on_this_means_its_easier_to_get_away_with_crimes then
+    i_need_to_embarass_them_in_a_way_that_brings_more_attention_to_this
+  end
+end
+
+function i_need_to_embarass_them_in_a_way_that_brings_more_attention_to_this
+  if i_can_get_them_to_make_a_fool_of_themselves_in_front_of_their_colleages then
+    if i_can_do_it_in_a_way_that_lets_them_think_Im_not_suspicious_of_the_government then
+      if hopefully_they_just_stop_being_idiots_without_bothering_me then
+        mission_accomplished = true
+      else if they_keep_bothering_me then
+        mission_impossible = "its fucking on bro"
+      end
+    end
+  end
+end
+```
+
+I'll admit, this set of logic was a bit more dynamic than previous sets. I probably could have come up with a lot of other ways to satisfy my base constraints which were:
+
+1. I need to get whoever did this to take it further up the chain so I'm investigated by the FBI with NSA assistance, most likely. This will clear my name and make them look stupid, and probably keep me under whatever tabs I'm under due to previous entrepreunerial ambitions.
+1. I need to do it in a way that doesn't let them know I think they're the government
+1. I need to do it in a way such that if I'm called out, I can easily explain it as a joke without losing face.
+
+Here's what I came up with, and yes, it was probably heavily inspired by my favorite TV show of all time, _Burn Notice._ I was going to convince them that actually, I was working for the government. I was hpoing that would be easy enough to sort out as ridiculous, for, the government.
+
+Me, to my laptop, without any meetings in the background, while I was writing code or checking emails, sometime that afternoon of February 18th, 2022:
+
+> "Wow. You got me. You got some mob connection to cut the wire in my apartment building and now my internet connection is down. I'm really scared -- look, now I'm going to have to do a bunch of paperwork. I appreciate your efforts to have fun here, but, if you could just not pull that little stunt again, and treat me like a normal employee, I think we'll be ok."
+
+I never said "I'm a spy" or that I "work for the government" -- just that I knew it was them that cut my internet connection down, and that I assumed they hired a "mob" person to "cut the wire" in my building, things I certainly wasn't actually suspicious of, but I figure'd it would give enough cover to the superiors in this situation to pull out as I wasn't suspicious and things were better that way if they ended that way.
+
+Things did not end that way, but maybe that's my fault.
+
+I didn't think much more of the situation until I ended that afternoon with a 1:1 with my manager Eloise, and she told me why Rachel Bird, after a two month paid leave, was leaving Vouch for good.
+
+...
+
+(discuss meeting with Eloise)
+
+...
+
+Reader, you may be wondering: if they _had_ confronted you, and asked why you lied about being a government spy or intelligence worker of some sort, what would I have said?
+
+I had made a plan, and it was to respond thusly, if I was asked why I lied.
+
+> "Oh, well I thought we were both lying about being spies. That wasn't the joke here?"
+
+Look, I probably would've gotten fired, but like I said I had two other job offers and if things happened quickly I doubt they would've gotten to a point where the government would have to try the loudest "cover up" of all time as opposed to just minding their own business.
+
+Alas, maybe more people are pretending at what they are than I realize.

@@ -59,6 +59,16 @@ _Early February 2022_ (nts: get weeks where needed from notes and calendar, shou
 
 My first two days at Vouch were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
 
+Another thing I thought was weird was Ronnie Wang, a woman I had interviewed with some 3 weeks ago, whom held a Director position and would have been my boss' boss, was not at the company when I joined. That meant she likely hadn't told them she was leaving when she interviewed me (nts: check dates, think it was 1/24), and gave her two weeks notice the following week. This is irregular for a Director -- typically a departure is coordinated with months, not an employee's standard two weeks, given their importance to the company.
+
+Unless, for some reason, she, didn't care and decided to quit, giving Vouch the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Vouch's organization -- if they seem disorganized, that meant Ronnie ran things and she left in a huff to make a point. If they don't seem disorganized, then maybe I'm wrong._
+
+When I was first hired, my boss was to be a man named Eric, and a week after I got the offer, I was told it would be a woman named Eloise. No biggie, but a sudden shift in internal management usually points to disorganization.
+
+Just some things I told myself to keep in mind should the company appeared disorganized or mismanaged at a later time.
+
+...
+
 It's not terribly abnormal to _not_ get a work item your first week on a tech gig as a web developer -- usually you're setting up the code bases of whatever program you're working on so you have a "local" or "development" setup on your machine that you can use to edit code in an isolated fashion, separate from whatever live servers run the business. Setting things up took awhile, but I recall being up and running within my first few days.
 
 I was hired to largely be a front end developer -- this is the part of the website that runs in your device's browser, and communicates to the server. I have experience with working the latter, but for this job, my focus was a leadership role in the former. One thing I don't take for granted is that as a front end developer, I'm largely divorced from any customer data while working on my local environment. That said, the concept of _authentication_ -- one of the principal things that happens whenever you supply a user and password -- does partially happen on the client side, even if the important part -- the part where the password gets checked for validity -- doesn't; that's on the server.

@@ -61,7 +61,7 @@ My first two days at Vouch were of little incident or consequence. I met my mana
 
 Another thing I thought was weird was Ronnie Wang, a woman I had interviewed with some 3 weeks ago, whom held a Director position and would have been my boss' boss, was not at the company when I joined. That meant she likely hadn't told them she was leaving when she interviewed me (nts: check dates, think it was 1/24), and gave her two weeks notice the following week. This is irregular for a Director -- typically a departure is coordinated with months, not an employee's standard two weeks, given their importance to the company.
 
-Unless, for some reason, she, didn't care and decided to quit, giving Vouch the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Vouch's organization -- if they seem disorganized, that meant Ronnie ran things and she left in a huff to make a point. If they don't seem disorganized, then maybe I'm wrong._
+Unless, for some reason, she, didn't care and decided to quit, giving Vouch the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Vouch's organization -- if they seem disorganized, that meant Ronnie ran things and she left abruptly to make a point. If they don't seem disorganized, then maybe I'm wrong._
 
 When I was first hired, my boss was to be a man named Eric, and a week after I got the offer, I was told it would be a woman named Eloise. No biggie, but a sudden shift in internal management usually points to disorganization.
 

@@ -1,14 +1,10 @@
-# Pt 1 Ch 4 -- the last normal weekend of my life
+# Pt 1 ch 4 -- Second week at Vouch
+
+### Summary
+
+1. Ch 4 - Second week, start with google doc showing poor internal comms and shitty spelling at a C level, weird cross C level insinuations, CIO no show with weird camera tricks, lawyer also uses weird camera tricks, end with them forcing Eloise, my new LGBTQ female manager who seemed nice to act as though Putin wasn't a threat, which was weird, because this happened on literally the first morning after the first day of the invasion in Ukraine, which I assume is when most people in the US were just becoming aware of that event. I read the news, had they not, and even if they had, what the fuck is wrong with these people? Whatever, it was Friday. 
 
 ### Notes
-1. Ch 4 - A brief chapter where you emotinally reflect on your weekend after the first week, and how you try to distract yourself / endear yourself to one of your coworkers (T Thompson) via recording you playing with your new guitar pedals, something they've expressed interest in. When you pickup the guitar though, for _some reason_... the Xfiles theme comes out.
-1. Took like over a year almost to get back to that guitar effects pedalboard I setup, which, is mostly a me thing, but whatever, last weekend before things get weird in a way where time is just another part of the record and not a part of my lived experience
-1. Go over reasoning for the Xfiles thing -- recording a video and sharing it with a coworker _should_ show normal people I was joking about the spy (I never said the word spy, but anyway) thing. If, somehow, the people who shut my internet connection down started asking about if there was a "real" "Xfiles" "department" within any hall of government, well, I figure'd that might be possible, but, given that I felt at that point they were acting like their lives were television shows in a childish way, I also knew it'd give me the opportunity, in a direct confrontation, to point out how childish they were, in a passive aggressive way
-1. The whole point of the thing _was_ and _is still_ to get the companies that audio surveilled me into a federal investigation to _admit_ they were listening to me "covertly" and _that's_ what started this. Just ask me directly after admitting it and I'd say "I knew, that's why I was joking about being a government worker and being part of the Xfiles"
-1. Remember that in this chapter you're just mapping out the consequences and thinking that there is no way a video of you playing the xfiles theme on a guitar with a set of pedal effects (it was to switch between two tones to separate the rhythm and lead lines as best I could) could make this situaiton "worse" as they had just used not at all judicial methods to shut your internet connection down to try and intimidate you at "best"
-1. Save the upload to slack for the next chapter's beggining
-1. You could say you were using game theory at this point to be snotty
 
-### Draft
-
-
+1. Indicate that Eloise's awkward suggestion of Putin not being a threat -- smoething you read as not Eloise's genuine opinion but something she was asked to say, at least in your opinion -- that this had something to do with the Democrat party, possibly the DNC, and it was the first time the crazy thought that _yeah sure quite possibly the white house is inovlved but that would be absurd wouldnt it_, and kept the thought in the back of your head where you keep other absurd thoughts, and foreshadow the gradual development of that thought's relocation in your head
+1. Talk a bit more about _The Promised Land_ game, check how much you wrote on it before, make something that develops on top of what was already said while explaining the motivations behind the possible noveau centrist lean towards fascism, just sans bittenburgers. "Politics"

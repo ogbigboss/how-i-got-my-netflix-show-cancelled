@@ -73,3 +73,7 @@ It may be better to bring in back story in betwixt incidents, e.g.
 
 
 The pitch could honestly be just the first three chapters here, with maybe like an outline on the rest just to be like wtf. Another approach, this way I get to constantly add background information, all of which would be of increasing interest as this becomes some weird show on my past or whatever
+
+### Burn Notice quotes to use
+
+> "You can't choose your intelligence sources. Might be a heroin smuggler, a dictator... or your mom." — "Identity" episode, likely Westen

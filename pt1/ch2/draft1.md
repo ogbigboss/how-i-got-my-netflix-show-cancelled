@@ -335,7 +335,65 @@ I didn't think much more of the situation until I ended that afternoon with a 1:
 
 ...
 
-(discuss meeting with Eloise)
+After all the above and near the end of the afternoon, somewhere past 4 PM ET if I remember correctly, I had my final meeting - a 1:1 with my manager Eloise. I had several meetings and 1:1's with her during my first week as one might expect being a new employee and she my boss. I thought we got along and established a fairly normative baseline as to how she communicated professionally as well as personally. I felt this meeting, though it was still my first week, was a bit erratic in comparison.
+
+She asked me how my day was, and I briefly explained this morning my internet was down, so I just tethered to my iPhone.
+
+I'm not a good poker player. In my opinion, it's because I like to have fun with playing cards, not just look, run some math in my head, and then fold. If you don't spend most of your time doing the latter, you lose.
+
+That said, I do know that one of the more common "tells" in poker is when someone places a bet, and as they pick up or move chips towards the center of the table to represent their wager, if they hands shake -- if they show _any_ sign of expended energy, really -- it's a solid sign they're trying to _hide_ their emotions, typically meaning they have good cards and they don't want you to know so you call. Bluffers stereotypically get more stoned up or solid then they were previously; hence the term "Poker Face."
+
+As she responded to my internet being down, Eloise had something to hide, in my opinion. She broke all normative cadences and spoke in a way I hadn't and would not hear her speak in again. Her voice pitched way up, near a Mickey Mouse falsetto to indicate slight shock, and then she had to take down her pitch as she finished her sentence in response to my explanation abou tethering, displaying a nervous excitement to which she had to recognize then put away mid sentence.
+
+(nts: I could probably make a musical staff spell out her pitch changes, I do remember her voice pretty well)
+
+> "Oh, well! There are _so many ways_ you can connect to the internet today!"
+
+I mean, she didn't fumble her chips and drop them everywhere, but typically people hiding something aren't terribly obvious about it. Her voice indicated shock at the points of exclamation as well as italicized areas in the above quote.
+
+I took it to mean a few things:
+
+```
+if eloise_acted_with_shock then
+  if eloise_knew_about_them_taking_my_internet_down then
+    she_was_pissed_off_because_she_told_them_id_just_tether_anyway
+  else if eloise_did_NOT_know_they_took_my_internet_down then
+    she_probably_has_her_suspicions_based_on_prior_knowledge
+  end
+else if eloise_did_not_act_shocked then
+  i_would_have_not_noticed
+else if im_just_mistaken_and_confused then
+  none_of_my_actions_would_have_resulted_in_anything_as_I_never_was_direct_at_that_point
+end
+```
+
+So if Eloise _did_ know they took my internet down, I registered her shock as the common annoyance of a manager who was rebuffed by her superiors -- she knew it was dumb, she told them I'd just tether onto my iPhone and they'd learn nothing, and if anything it may make me suspicious. If Eloise _did not_ know thye took my internet down, then her shock indicated to me possible prior knowledge of management above her acting in this extra legal fashion, which would explain why she told me what she told me next.
+
+Again, it was my first week, Eloise really didn't have to tell me what she was about to tell me.
+
+Apparently, someone named Rachel Bird was quitting, the only person on the team I hadn't really seen in person as I had mentioned. Eloise went on to tell me that Rachel Bird came back this Monday, my first day, from a two month paid leave due to a previous incident of sexual harrassment.
+
+My manager Eloise told me that Rachel was sexually harrassed by a fellow employee, whom was asked to leave prior to my joining. I beat Eloise to the punch in offering an explanation so she wouldn't have to, saying that "I guess Rachel didn't feel comfortable coming back to memories of a bad situation" which, I felt was fair to the new company I was just joining, without revealing what I was thinking myself, without or perhaps relieving Eloise of a need to offer an explanation which might cast judgement on the company we both worked for that Rachel was leaving.
+
+Later I would find out from another coworker, Damon Hastings, that actually Rachel Bird left because she was harassed not by one employee but two -- and the second still works at the company.
+
+That said, Eloise went on. Reader, I'll admit, at this point I may be combining two stories from two separate meetings.
+
+In _this_ meeting I am sure Eloise told me that one of the first things she had to do as an incoming manager months before (she was somewhat new as well) was in fact to help the company "deal with" the sexual harrassment situation. I can't remember if she told me in this meeting or a previous one, but Eloise had described previous experience in the online Business Insurance world, in a separate life where she was married to a man at that company.
+
+At that company, she divorced a man for the woman she is currently married to, and whose approval I implicitly give for the Steve Martin poster Eloise's wife owned. This divorce led to workplace harrasment I believe of another employee at that company, one in whcih Eloise had to navigate as a manager.
+
+I commiserated as best I could without pointing fingers: "That must have been really hard, dealing with something like that - I can't even imagine - butt then having to deal with it _again_ at a new company. I'm so sorry, that must be so tough as a manager."
+
+Eloise was gracious in my attempt to be as close to such a thing, but, I did wonder why she was telling me about Rachel Bird, of all times, now.
+
+I could do the computer programming thing, but you're probably already thinking what I was:
+
+`Eloise probably knows or assumes Rachel went through similiar internet manipulations based on their private communications, and is trying to tell me that's what is happening without risking her own job, as yes, it's most likely several C levels are watching this meeting now or will watch a recording, if I'm right about my internet connection being taken down by them of course. If I'm wrong, then nothing will happen, and this is just an unfortunate history, and I've somehow deeply earned Eloise's trust within a week.`
+
+Or, of course, they asked Eloise to tell me all of those things to see how I'd react. Maybe if they were lucky they would've caught a sexist AND a hacker?
+
+I try not to be the former, and I've never tried to be the latter; the former being a societally taught impulse and the latter taking criminal intent I didn't have. Which is to say, it wasn't the loudest thought in my mind at the time.
 
 ...
 

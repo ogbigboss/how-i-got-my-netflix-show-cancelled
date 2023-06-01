@@ -381,6 +381,18 @@ Or, of course, they asked Eloise to tell me all of those things to see how I'd r
 
 I try not to be the former, and I've never tried to be the latter; the former being a societally taught impulse and the latter taking criminal intent I didn't have. Which is to say, it wasn't the loudest thought in my mind at the time.
 
+I was lightly pondering all of this while I was speaking to her and as though to answer, and confirm in my opinion Eloise was asked to tell me these things by her superiors, she tells me this:
+
+> "So, if you're feeling any tension or anything, it's probably over Rachel."
+
+As a contractor, I've made short roles at I don't know how many companies. Internal strife and drama isn't rote but not uncommon, and it's largest feature is the employee departure for numerous reasons, not always harassment. That said, I know the feeling between a new coworker feeling awkward about _someone else_ vs them feeling awkward about myself.
+
+In my opinion, it felt like whomever took my internet connection down planned to coordinate amongst lower level employees, and wanted me to think their emotional cues meant something else.
+
+The next time I felt suspicious of this was with no coincidence at my very next job, but I didn't know that at the time.
+
+I just knew that in a normal situation, Eloise would have probably told me nothing more than that Rachel had quit, and probably in front of the rest of the team on Monday, and that would've been that - and yes, to avoid tension. So I was pretty sure I wasn't in a normal situation.
+
 ...
 
 Reader, you may be wondering: if they _had_ confronted you, and asked why you lied about being a government spy or intelligence worker of some sort, what would I have said?

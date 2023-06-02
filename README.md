@@ -44,7 +44,7 @@ It may be better to bring in back story in betwixt incidents, e.g.
 
 1. Intro (stalked in the park)
 1. Vouch
-1. FLASHBACK -- 2020 Bison Trails -- refer to as "a crypto currency company" to avoid conflicts, and just talk about "the immature CEO" when referencing the La-Li-Lu-Li-Loser
+1. FLASHBACK -- 2020 "crypto currency company experience" to avoid conflicts, and just talk about job titles
 1. In between liveramp, suicidal thoughts and growing suspicions
 1. FLASHBACK -- 2020 video games, social media, business attempts, DNC spycraft suspicions
 1. Liveramp

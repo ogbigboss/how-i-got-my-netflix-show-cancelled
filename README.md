@@ -77,3 +77,22 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 ### Burn Notice quotes to use
 
 > "You can't choose your intelligence sources. Might be a heroin smuggler, a dictator... or your mom." — "Identity" episode, likely Westen
+
+> "Michael Westen: [narration] In a hostage situation, the same things that get you killed will extend your life."
+
+> "Michael Westen: [narration] Military units are a lot like marching bands. Take out the guy conducting the operation, and you'll throw everyone out of sync. Pretty soon all you have left is sound and fury."
+
+> "Michael Westen: [narration] When fighting in the wilderness, the biggest threats are often the ones you don't see: dehydration, exhaustion, and nerves."
+
+> "Michael Westen: [narration] For a spy, there's no shame in retreat. When faced with a more powerful enemy you're trained to get out of the way and keep moving. It's not about running away or giving up. The goal of any retreat is to find the right place to marshal your resources and make a stand. Military history is filled with stories of small forces taking on larger ones. Whether it's David fighting Goliath or the French Resistance fighting the Nazis, the strategy is basically the same. You have to choose the right ground, deploy your resources carefully, and remember that the greatest weapon in any battle is surprise."
+
+> "Michael Westen: [holding Chechik at knifepoint] You should stick to hunting things that don't fight back."
+
+> Oleg: You're real Michael Westen, yes?
+>
+> Michael: Yeah.
+>
+> Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
+>
+> Michael: Nope. Just me.
+> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_

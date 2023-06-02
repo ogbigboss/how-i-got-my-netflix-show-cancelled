@@ -11,13 +11,4 @@
 
 ### Draft
 
-> Oleg: You're real Michael Westen, yes?
->
-> Michael: Yeah.
->
-> Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
->
-> Michael: Nope. Just me.
-> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
-
-
+> "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Broadcast TV's _Burn Notice_

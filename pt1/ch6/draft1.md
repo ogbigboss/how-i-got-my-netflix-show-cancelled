@@ -2,4 +2,4 @@
 
 ### Draft
 
-> "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
+> "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_

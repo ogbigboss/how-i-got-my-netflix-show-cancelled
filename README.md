@@ -115,6 +115,8 @@ _Season 1 Episode 1_
 
 > Michael Narrating: Home court advantage counts for a lot. You never know what's going to happen. You prepare for everything. Most bad guys expect you to just sit there and wait for them... like those are the rules or something.
 
+> "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
+
 _Season 1 Episode 2_
 
 > Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
@@ -133,3 +135,8 @@ _Season 1 Episode 2_
 _Season 1 Episode 4_
 
 > Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
+
+_Season 1 Episode 5_
+
+> Michael narrating: You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car.
+

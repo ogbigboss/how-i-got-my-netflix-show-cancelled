@@ -1,5 +1,10 @@
-# Chapter 6 - Fifth Week at Vouch, 3/7
+# Chapter 6 - Fifth Week at Vouch, 3/7/22
+
+### Goals
+
+1. Introduce potential Razzlekhan connection - At some point, either prior to or after describing the day of feeling followed / attempted to be weirdly entrapped on 3/7, bring up that unbenknownst to you Netflix was making a documentary series based on Crypto fraudsters that were also into music and kind of kooky, though, in your opinion, not nearly as kooky as you. The interesting thing is the fraudsters, one named "Razzlekhan", were right down the street from you in the Financial District. Probably best to describe afterwards, but decide when writing, as it explains why everyone that may have been setup to surveil or try to entrap me on 3/7 were acting "stupid as fuck" and rather "immature and obvious" about it. At the time, I took it to mean that the boots on the ground were not taking the job of the CO in charge seriously given that it was maybe just a financial or political favor they all realized was ridiculous because I'm not a criminal. However, I now am highly suspicious they were connected to the Razzlekhan show, and many were acting non seriously out of the hope of being on a television show. It's a great way to (finally) introduce Netflix into a book they're in the title of. Make clear that you didn't know about this until later that December as needed, but best to be clear about it.
 
 ### Notes
 
 
+1. 3/7 Monday -- I thought after the last week's meeting I had psychogically fucked with the company's C levels too much based on their over actions, and said outloud to my laptop that I would miss the next company all hands and just take a walk so we can all have a break. I gave them a few hours notice I suppose, which may explain why I felt like there was a network of actors following and getting ahead of me, with some I believe attempting to entrap me into at least a coversation. I thought they all had a goofy vibe about it though. Need to decide level of detail. I could even link the dropbox video maybe, idk.

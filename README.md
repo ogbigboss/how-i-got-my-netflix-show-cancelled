@@ -110,3 +110,5 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Michael: Yeah, that looks pretty bad.
 
 > Michael Narrating: Powerful people don't like being pushed around. You can never quite predict what they're going to do... or have their washed-out Special Forces security guys do.
+
+> Michael Narrating: Home court advantage counts for a lot. You never know what's going to happen. You prepare for everything. Most bad guys expect you to just sit there and wait for them... like those are the rules or something.

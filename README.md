@@ -88,6 +88,8 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Michael Westen: [holding Chechik at knifepoint] You should stick to hunting things that don't fight back."
 
+_Season 1 Episode 1_
+
 > Oleg: You're real Michael Westen, yes?
 >
 > Michael: Yeah.
@@ -113,4 +115,17 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > Michael Narrating: Home court advantage counts for a lot. You never know what's going to happen. You prepare for everything. Most bad guys expect you to just sit there and wait for them... like those are the rules or something.
 
+_Season 1 Episode 2_
+
 > Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
+
+> Michael: Fiona, you were supposed to stop the car, not blow it into the Everglades. What happened to shorting the ignition?
+>
+> Fiona: Well, you said disable. It's not going anywhere.
+
+> Michael Narrating: Go after a group of people directly, and they pull together. They get stronger. Taking on a tight-knit group is about making them turn on each other. You plant the seeds of distrust and watch them grow.
+
+> * this is obviously for the truck fire chapter should I get there *
+> Fiona: I know you're angry, Michael. But I know that an exploding car... can throw a man off balance.
+
+> Michael narrating: I don't much like dealing with paranoids. They get erratic, make bad decisions. Of course, that can be a help when you need them to make a bad decision.

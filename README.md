@@ -96,3 +96,15 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 >
 > Michael: Nope. Just me.
 > - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
+
+> * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *
+>
+> Javier: Last month, there was a robbery. Twenty-two million in odd jewelry and antiques. It was-- It was very bad.
+>
+> Michael: Well, looks like the police are into it. Says here they're talking to persons of interest.
+> *Michael pauses, looks at Javier*
+> You're a person of interest.
+>
+> Javier: The police asked me questions. When this happened, I was at home watching TV with my kid. The security code they used for the alarm-- it's the master code-- my code... It looks bad.
+>
+> Michael: Yeah, that looks pretty bad.

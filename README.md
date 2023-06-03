@@ -108,3 +108,5 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Javier: The police asked me questions. When this happened, I was at home watching TV with my kid. The security code they used for the alarm-- it's the master code-- my code... It looks bad.
 >
 > Michael: Yeah, that looks pretty bad.
+
+> Michael Narrating: Powerful people don't like being pushed around. You can never quite predict what they're going to do... or have their washed-out Special Forces security guys do.

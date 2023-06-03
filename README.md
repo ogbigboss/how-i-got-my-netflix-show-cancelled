@@ -129,3 +129,7 @@ _Season 1 Episode 2_
 > Fiona: I know you're angry, Michael. But I know that an exploding car... can throw a man off balance.
 
 > Michael narrating: I don't much like dealing with paranoids. They get erratic, make bad decisions. Of course, that can be a help when you need them to make a bad decision.
+
+_Season 1 Episode 4_
+
+> Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.

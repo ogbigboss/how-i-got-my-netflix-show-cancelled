@@ -1,15 +1,5 @@
 # Pt 1 ch 3 -- Second week at Vouch (2/20/22)
 
-### Outline
-
-1. Start off with weird google doc, lack of tech --> exec comms, confirm Ronnie's departure as meaningful: she was likely the conduit of info between Clevls and tech as a director, now that's gone no tech person feels good or confident talking to an exec as made clear in the Gdocs comments, also bring up John Wallace's lack of grammatical skill, which, as a native Caucasian American seemed a bit... callous, considering editing is allowed for google doc comments, and yes, allude to this coming up again.
-1. Discuss `git blame` as a way to look through a code base's history, discuss seeing typical signs -- exuberance in commit messages gives way for terseness, attempts to introduce standards and technologies meant to replace outdated ones end up in a beauracratic rigamarole where we end with 2 standards as opposed to the better standard we were aiming for, names that were heavy contributors to the code no longer present, etc. Typical unorganized stuff, but surprising given Vouch's funding and executive pedigree.
-1. Rajat infers something odd about John Wallace - that he "never saw a risk he didn't like taking" -- whcih felt awkward, and I inferred it as a wink -- _that guy took your internet down, not me, government spy guy_
-1. John Wallace doesn't show at the Insurance meeting, as the CIO. Someone else is there, she's nice. But there's another person who's just... there? and positioned so their face is hidden. And from the chcago offiec. And not part of the onbaording team.
-1. Legal counsel for the company, Ms. Wulff (nts: check emails), has an onboarding meeting, where in 2022 she's pulled a curtain so her webcam's white balance reacts by hiding half her face. Most anyone in 2022 after working from home knows this will happen due to the lack of light; just pull the curtain up, turn a light on, or in some cases, pull the curtain down, and turn a light on. Sure, a developer may not care, but a lawyer? And a woman? In 2022? If she's hiding her face, she's doing it for a reason, I think, though at the time I couldn't figure out why.
-1. Eloise, my new LGBTQ female manager who seemed nice, also seemed like her arm was twisted to act as though Putin wasn't a threat, which was weird, because this happened on literally the first morning after the first day of the invasion in Ukraine, which I assume is when most people in the US were just becoming aware of that event. I read the news, had they not, and even if they had, what the fuck is wrong with these people? Whatever, it was Friday.
-1. End with the butterfly effect thing, your one man Don Quixote mission to prevent WWIII before it collides with climate change turning your planet into a wasteland without one nuke spent (but many likely detonating in haphazard, unpredictable manners due to said climate change, creating dozens of chernobyls without a war, but anyway).
-
 ### Draft
 
 > "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Broadcast TV's _Burn Notice_

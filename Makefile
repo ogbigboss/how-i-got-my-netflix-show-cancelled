@@ -1,2 +1,2 @@
 main:
-	rm README.md; cat $$(find -s . -name 'draft1.md') > README.md
+	rm DRAFT.md; cat $$(find -s . -name 'draft1.md') > DRAFT.md

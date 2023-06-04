@@ -1,7 +1,5 @@
-# Pt I Chapter 7 - Final week at Vouch
+# Pt 1 Ch 6 -- Eyes in the back of my mind
 
-> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+### Draft
 
-I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
-
-Also, I was kind of pissed off about the whole thing.
+> "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_

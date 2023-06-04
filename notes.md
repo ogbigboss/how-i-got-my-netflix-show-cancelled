@@ -136,10 +136,6 @@ _Season 1 Episode 4_
 
 > Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
 
-_Season 1 Episode 5_
-
-> Michael narrating: You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car.
-
 _Season 1 Episode 6_
 
 > Michael narrating: When enough people hate you, sometimes the only move is to just stand in the middle and hope they kill each other before they kill you.

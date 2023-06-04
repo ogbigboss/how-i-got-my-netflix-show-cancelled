@@ -352,4 +352,4 @@ But I'll let you know about all that later on in the memoir.
 
 That was Tuesday evening, March 1st, 2022. I still had work in the morning.
 
-...
+

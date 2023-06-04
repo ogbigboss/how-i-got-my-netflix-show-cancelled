@@ -171,3 +171,5 @@ I would later read that Ukraine's leader, Zelensky, was himself a comedian.
 It didn't and it doens't make me laugh.
 
 Reader, let me be clear: If I have been a precusor to the conflict in Ukraine, then it's my duty as a Global Citizen to make sure my story is as well known as possible such to prevent digital "intelligence" from being misused by politicans and businesspeople such that a greater conflict, that potential WWIII, could possibly be avoided, and it's the main reason I'm writing this memoir today.
+
+But, reader, to be clear: at the time, late February 2022, I was mostly trying to keep things light hearted and myself employable.

@@ -163,3 +163,143 @@ I'd write that in the code but I figure'd it's obvious enough, just between us h
 ...
 
 Vouch held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. Vouch being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.
+
+The first two weeks I mostly listened and didn't really run `the_gg_move`, but on that Tuesday, if I had roommates I'm sure they would have wondered why I was talking out loud while my speakers were clearly playing audio of my co workers speaking out loud in a meeting, and it sounds like we're having two separate conversations, albeit at times where it feels like both are listening to each other cautiously such to wonder if that group of people and or weird guy over there is listening to me or them, respectively.
+
+But, I don't have room mates, and like I said, this isn't a normative human social situation; it's something new.
+
+So anyway, March 1 2022 I was talking a lot of shit, refuting people at times, and getting a ton of reactions. I was pretty certain that at least the C levels were listening.
+
+Not shocked given all that the last few weeks hinted at, I generally just kept talking.
+
+At some point, I must've ran out of things to say. My more... base... human instincts must have caused me to react in such a way that I just starting saying, well, general things that would make sense in a casual way, without any real significance.
+
+New employees just starting that week were being introduced. I soon saw a brown skinned man with a solid hair style on my screen. He took a moment to speak, which, gave me a pause to say something while being able to evaluate better if I was being listened to given there was no other stimuli to react to.
+
+But, like I was saying, I think I ran out of things to say, so I just said something like
+
+> "Alright then..."
+
+I really can't remember other than that it was extremely... colloquial? And appropriate? For anyone in that situation, to say, really.
+
+Three people shared the screen at the time, a google hangout managed whom showed up and who didn't based on previous speakers.
+
+An HR person introducing the new employees was there, and the CEO Sam Hodges was also there as they had both spoken recently, and finally, the new brown skinned employee was on the screen.
+
+The new guy spoke, and on my end, this was mere moments -- as a guy that considers game development and music hobbies, this may seem weird but -- maybe about 350 ms after I said what was quoted above, the new guy then began to speak:
+
+> "Alright then..."
+
+The HR person gave less reaction than the CEO, whom nearly choked on something they weren't eating at the moment if I recall. They both flinched, but one flinched way harder. The new guy didn't, and kept talking like things were normal, indicating only two were audio surveilling me.
+
+I'll admit - it was kind of weird. I wondered if I was psychic. I realized if I was, I would've never taken this job.
+
+My instinct was to accuse the flinchers of rascism, which, was stupid, and was just a way to talk random shit to buy time and gauge reactions while I considered what they _might_ think, and well, somewhere inside I sighed.
+
+_They might think that somehow I "hacked" the meeting to know what he was going to say and that I'm showing off._
+
+That's... impossible. I was in New York, I think taht guy was in the midwest, several people were spread across the country. I'd have to somehow be able to remotely delay the new guy's signal such that I could hear it first, fully interpret it, and then time everything appropriately, somehow. Without leaving a massive trail of evidence, if not working in tandem with several actors and at any rate... what kind of a person would do something like that?
+
+To show off? What kind of a person capable of the above would just... show off with it?
+
+Would these people _really_ think I'm some kind of Netflix inspired cartoon brought to life in human form, a television hallucination of a villain with magical hacking super powers?
+
+_No, that's stupid. Surely, if they're flinching because this is some weird group investigation -- which, by the way, is weird! how many people know about this? the HR person?? -- then that means they'll eventually talk to actual technical folks who could explain that its impossible for me to do that, and maybe even just a few I don't know normal police detectives who might explain that I'd be a stupid criminal to do so and would've gotten caught on something long before I pulled off something so complex._
+
+Or something, it was a trail of thoughts I had while calling people rascist for, well, reasons they weren't actually rascist for. It was a weird moment. The fact that the guy was brown, and had a solid hair style, two things I share with him, were in fact coincidences. At least at the time.
+
+I'm _pretty_ sure I corrected myself on the rascist accusations, though, it wasn't the top most thing I tried to remember that day. I do remember attempting to address why I'm nor is anyone capable of "hacking" such to make that minor miracle happen. I didn't fully insinuate it was probably god doing it just to literally try and manufacture a situation where this shit gets so sideways somehow we never do it again while doing the least harm, but, mysterious ways get confused for technology in tech startups all the time - it's a big part of the financing structure!
+
+Somewhat after that moment, while the HR person and the CEO were the only two people on the screen, the CEO, in a planned statement, reminded everyone of the company motto. That's to say I do not think he really thought of the motto in the context of audio surveilling an employee into a bogus federal investigation, but, he said what he said when he said something like:
+
+> "When it comes to our employees at Vouch, we strive to live by the golden rule."
+
+Near immediately, and in the hope that the audio transcription picked up my sudden falsetto, I responded directly:
+
+> "You have me under audio surveillance!"
+
+The HR person flinched and looked away, pain and shame in their eyes. I'm still not sure why they were involved to _that_ extent, given their lack of seniority within the company, but maybe given this new social situation, new expectations are arising for the average HR worker.
+
+I'd recommend they watch _Burn Notice_, personally! But, maybe HR workers don't have to audio surveil the workforce in the future, that could be a thing too. It's a leap from making sure the company benefits package is properly executed, and I don't think there's much overlap in the trainings involved.
+
+The CEO didn't flinch as much, but I saw his eyes tick to the side where I presume a chat window of some sort was transcribing my audio.
+
+At some point, the CEO called on the CIO, John Wallace, directly. Wallace seemed a bit surprised -- this wasn't planned -- and appeared to shift his body to only show half of his face. I felt a bit of tension in the CEO when he called on John, as though he wanted to make a point that well, he was the leader, who could at any point call on anyone in the company and ask them to speak, even if they didn't plan it before.
+
+Maybe the CEO was tense for other reasons. It just felt a bit competitive.
+
+Either way, the CIO John Wallace answered the question as best he could, but in my opinion, while hiding half his face he also had an _excited_ cadence that didn't match up to what he was talking about entirely.
+
+I began to wonder if my earlier suspicions about him could be true, but, to be honest, not that much.
+
+_It's not like I could confirm at that moment that he literally got divorced recently, such to give him motivation to be gossipping about me in a way that led to a federal investigation such so he could feel dominant once again after potentially being rejected by a woman who recently quit._
+
+Well, I still can't confirm _all_ of that, and at the time I coudln't confirm any of it, but it was a thought in my head, however fleeting.
+
+I left the meeting feeling certain that, eventually, once these idiots found out I was joking, they'd fire me. I couldn't confirm that wouldn't happen at that point, but I can tell you that in the end, it was I who quit Vouch, and this meeting probably should have been when I did. Alas.
+
+...
+
+After that meeting, around an hour or two later, it was time to finally meet the C levels in a meeting that was cancelled two weeks ago.
+
+I still wasn't _positive_ anything weird actually happened int he last all hands meeting that day. Maybe, I was just connecting odd occurences.
+
+Only one way to find out, and I needed a break to relax. With about 15 minutes til the next meeting, I picked up my guitar and played. Thinking on it, it feels just like yesterday. I would've been better off getting on my knees and praying, but at least I didn't get fooled again.
+
+Wait, who? Huh? No, no, I actually don't know enough of their songs.
+
+I decided to play two songs by my laptop, that I had been practicing to some extent, while singing. I made some alterations to the lyrics of The Beatles' `Oh! Darling`, as well as David Bowie's `The Man Who Sold The World`, thinking the first could have a neat line about listening, and the second could really test out the theory of whether or not my bosses actually thought I was some kind of hacker that only exists in movies, such that I "sold the world", and can also play guitar, and sing, while looking insanely good doing it, _and_ specialize in a style of code that doesnt really involve hacking much?
+
+I mean, it would have to be too much right? They'd... get it, right?
+
+Maybe I should've also impressed them on my film knowledge.
+
+Anyway, I had a cover of `Oh! Darling` I was working on about a fifth or a fourth down from where McCartney recorded it at. Pretty sure I pitched the Bowie song up a key. In the opening lines of `Oh! Darling`, I sang this, with some musical emphasis involving a quick drop out of my guitar.
+
+> "Ohhh Darling.... if you're listening."
+
+I think I may have growled a bit with the listening part. I was kind of pissed, sure, but, I was also in character! Also the song involves a lot of oxygen so I think I got caught in two places. But I digress, the song continues
+
+> "I will never do you no harm... believe me when I tell you... I will never do you no harm"
+
+Which, fuck me, I thought might be a cute way to say I'm not doing you any harm you dumb weird fucking people. Without the last bit.
+
+I kept the lyrics to the Bowie song straight forward.
+
+I'm not... bad... at guitar. I'm not a great singer. But I can sing, not well, and play somewhat complicated riffs at the same time. I'm not like, John Mayer or something, but I also don't practice. I remember being fairly artful with my arrangement of `The Man Who Sold The World` and, based on the meeting, I wondered if they hypothesized there were two people in the room, as I couldn't confirm as video surveillance was occurring?
+
+I probably could've picked a simpler song, like `My Generation` maybe, but hopefully there's never a next time.
+
+Anyway, if they thought I was more than one person, even just that day, it's one of the better explanations as to why 3 out of the 4 C levels present in the earlier day's all hands meeting would miss the meeting specifically meant to introduce themselves as leaders of a small company to incoming employees, especially a meeting that was cancelled in it's first week and thus representing not just one but two whole batches of new employees.
+
+It also explains why the one C level "thrown to the wolf" was the youngest, Travis Hedge, someone with a family legacy in the insurance industry and along with the CEO a co founder of Vouch. I had met with him in a previous onbaording meeting and had some back and forth dialogue; I thought he was an ok guy and after hearing him talk in that and other meetings, I had established a baseline for his cadence.
+
+It wasn't to be redder in the face than a tomato in the sun, at least for a paleish white guy, who wasn't normally so flush.
+
+I handled the meeting normally, camera and mic recording me for the rest of the group. I was patient and eventually engaged Travis, the sole C level present, in light conversation, mostly to ease his tension, and in the format of easy softball "hey what's this company do" questions that may be helpful for the whole group to hear.
+
+Mostly so he could calm down and stop being so red in the face, which he did quickly.
+
+I wish the other C levels had shown; I think they felt ashamed at not doing so given how differently I handle, well, being in meetings where I consent to being seen and heard.
+
+...
+
+That evening, I continued my fourth re watch of the Anime classic _Death Note_. I'm sorry if that's lame to you, or if you don't know what that is.
+
+(nts: check text and notes) At around 7:30 PM that evening, right when I was habitually "signing off" after work, my internet went down again, and I was streaming via Netflix at the time, to my present day dismay (I now prefer the disc format).
+
+I expressed annoyance to my laptop, saying this was lame, or something.
+
+In 5 minutes or so, my internet connection came back on, though Spectrum took an hour to text me about it while telling me immediately when it went down.
+
+I didn't care, I just went back to _Death Note_.
+
+At some point soon I couldn't focus -- the show involves police and, well, my life probably did at that point in some way as well. I realized it was probably time to do the one thing I hadn't done, on purpose.
+
+I really wanted Vouch to be a place where I could _ignore_ their ineffeciencies, which abound in big tech, in order to pay my debts and balance my life out a bit. That didn't turn out to be possible. However, in that effort, when joining I astutely did absolutely zero research on the "company leadership."
+
+All I knew about them before joining was that the one CFO from another company whose offer I declined seemed impressed enough by Vouch's CEO, which spoke highly to me.
+
+_So who are my bosses anyway?_
+
+To LinkedIn I went.

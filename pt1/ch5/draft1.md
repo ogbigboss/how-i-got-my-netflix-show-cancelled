@@ -77,3 +77,7 @@ In 2020, I had developed a set of techniques meant to decipher if my bosses are 
 I had been streaming for 3 years at the time of 2020 when I combined the skill of knowing how to pay attention in meetings even if I am distracted or talking to someone else with the skill of being able to read faces when they're on webcams that I learned via twitch, with a skill I've always had but never had quite developed for this purpose: talking shit, to some extent, ala the children in the movie _Sandlot_, though hopefully with less gender bias.
 
 By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Vouch, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
+
+In my most private of moments, with some refernce to the film _Perdita Durango_ and the song Lady Gaga _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
+
+The "GG move" works thusly:

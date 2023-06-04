@@ -10,7 +10,9 @@
 >
 > - Jefferey Donovan as Michael Westen, Michael Weston as Spencer Watkowski, and Bruce Campbell as Sam Axe from Broadcast TV's _Burn Notice_
 
-Computer programming ultimately boils down to asking one question a lot: "Is this thing on?"
+Computer programming ultimately boils down to asking one question a lot: 
+
+_Is this thing on?_
 
 A CPU microchip is a bunch of transistors, which are more or less the same technology as an average light switch. Programming languages give you an abstract way to control these transistors, and how they react to input (keyboards, trackpads), how they respond via output (displays, speakers), and a whole lot of math in between that, at the level of most modern programming languages, you can take for granted.
 
@@ -72,6 +74,8 @@ Tuesday, March 1st, 2022, was probably the day everything got worse.
 
 I didn't really know what was going on and knew I would be perceived as rude if I were to be direct about it; but something about the conflict in Ukraine persisting made me feel like whatever was happening, it was _wrong_, and it was worth finding out more about before I became the part that was wrong and not just the victim.
 
+...
+
 In 2020, I had developed a set of techniques meant to decipher if my bosses are paying attention to what I am saying while my laptop is on mute while working from home. It works alarmingly well during meetings, especially if you're decent at reading faces on web cams, as anyone who spent a good amount of time watching live video streams on Twitch would.
 
 I had been streaming for 3 years at the time of 2020 when I combined the skill of knowing how to pay attention in meetings even if I am distracted or talking to someone else with the skill of being able to read faces when they're on webcams that I learned via twitch, with a skill I've always had but never had quite developed for this purpose: talking shit, to some extent, ala the children in the movie _Sandlot_, though hopefully with less gender bias.
@@ -79,8 +83,6 @@ I had been streaming for 3 years at the time of 2020 when I combined the skill o
 By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Vouch, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
 
 In my most private of moments, I call the main technique, with some reference to the film _Perdita Durango_ and the Lady Gaga song _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
-
-In programming, a `switch / case` statement is similar to an if statement, where some other thing gets evaluated as being equal to other things.
 
 The "GG move" works thusly:
 
@@ -98,7 +100,8 @@ function the_gg_move
         end
       else if you_say_something_that_someone_in_another_state_says_moments_before_they_do
         if someone_flinches_such_to_suggest_they_heard then
-        your_boss_thinks_youre_a_hacker_now_despite_the_technical_reasons_this_is_dumb
+          your_tech_boss_thinks_youre_a_hacker_despite_the_tech_reasons_this_is_dumb
+        end
       end
     end
   end
@@ -122,3 +125,41 @@ end
 ```
 
 Let's break these two methods down.
+
+First is `the_gg_move`, the main method, the thing. While in a tele conference meeting while working from home, if you can hide your camera and mute your mic while others do the opposite, you can then basically talk out loud to find out whether the hardware honors the software, or, whether there is a separate program running on your and some of your co worker's machines that monitors your audio and converts it to text in real time so they can know what you're saying.
+
+It's key to note that this would happen in a separate piece of software than your Zoom or Google hangout meeting, most likely, which is to say, if `the_gg_move` feels effective in a meeting, it's more than possible that your mic is not muted and is transcribing whatever it hears into text as often as you or anyone, even your television, speaks out loud around it.
+
+_Is this thing on?_
+
+That's the technical side at least. Welcome to the future. The age old side is more fun, to me. Depending on what _kind_ of shit you talk, you will get different reactions, that reveal different things, given the awkward and new-to-human-evolutionary-existence vibe the social situation you're in has.
+
+I keep saying legal precedent for a reason. I'm a nurture over nature guy, fwiw.
+
+The easiest is to just say wild shit, like you might at a party, but certainly not in relation to the meeting. Maybe jokes about someone. If you can make them laugh, try and do so. This is fun but I have never had it turn out well, to be honest, when I get reactions.
+
+The reactions are usually flinches that - and this is crucial - _would not matter to the normal meeting at hand._ Meaning you _have got to_ pay attention to the meeting. You should be able to take notes after, you paid that much attention.
+
+The interesting side effect about `the_gg_move` is that I end up paying way more attention during meetings, in a way that even if I had my web cam on and mic off mute, I'm pretty sure I wouldn't be nearly as aware. Regardless, the purpose of `the_gg_move` is not to pay better attention during meetings.
+
+The purpose of `the_gg_move` is to decipher to what extent your employer is utilizing digital audio surveillance on your devices while you work from home.
+
+Anyway, if you talk wild shit, try and keep it funny, and you should get someone to laugh. The concept alone is funny, and many will get it - _this new employee is clearly trying to figure out if they're being audio surveilled by doing basic stand up comedy routines_ - just keep it as family friendly as possible and well, you should see someone laugh.
+
+It helps to feel confident in being funny outside of this situation though, I'll allow.
+
+The other thing is to _directly refute what is being said_. At times, the speaker will be a leader who has the audio surveillance text window open, and those reactions are the easiest to gauge. Did they lose their speaking cadence? Did they feel threatened?
+
+Even if they didn't react themselves, this is still useful to gauge other people's reactions. At any rate it's important to try and keep your refutations in line with your own honest opinions, and it's _doubly_ important to, if they continue speaking and touch upon your complaint in a way that your complaint is no longer valid -- take the time to recognize that, actually, you were mistaken a moment ago.
+
+You never know who's listening. But it's best to be honest, and we all have disagreements on procedures at work places that we hold back in politeness. One way audio surveillance is not very polite, in my opinion.
+
+After the flinch, in `evaluate_how_they_may_have_heard`, gauge their emotional state as best you can. Do they feel caught? Does this make them feel threatened, or excited? And finally, last, but not least, and basically generally applicable to any and every office situation:
+
+Who are they and what do they mean to the company hierarchy?
+
+I'd write that in the code but I figure'd it's obvious enough, just between us humans.
+
+...
+
+Vouch held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. Vouch being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.

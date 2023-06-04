@@ -1,5 +1,13 @@
 # Part 1: Vouch inc
 
+1. [Chapter 1](ch1/draft1.md)
+1. [Chapter 2](ch2/draft1.md)
+1. [Chapter 3](ch3/draft1.md)
+1. [Chapter 4](ch4/draft1.md)
+1. [Chapter 5](ch5/draft1.md)
+1. [Chapter 6](ch6/draft1.md)
+1. [Chapter 7](ch7/draft1.md)
+
 ### Goals
 
 1. Just retell the voch situation. About time you wrote it down now.

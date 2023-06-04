@@ -1,4 +1,10 @@
-### I literally wrote the below essay January 19th, apparently, though I could have misread the logs and it was before. Anyway.
+# Pt XX -- A section about the events of January 2023, at least
+
+### lots to talk about
+
+### essay
+
+_I literally wrote the below essay January 19th, apparently, though I could have misread the logs and it was before. Anyway._
 
 Bigotry at it's root is divorced from morality, and words like sexism, racism, and economic classism are actually combinations of bigotry and moral assertions - divorced from the latter bigotry is revealed as a repetitive three step process eventually leading to a fourth and final step: violence!
 

@@ -607,24 +607,3 @@ Tony Thompson never slack chatted to me again during my employment, never offeri
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
 Also, I was kind of pissed off about the whole thing.
-# Pt 1 Ch 3 -- a brief (technical) explanation for my brazeness
-
-### Notes
-The largest reasons I may have acted, to others, brazenly are these three:
-1. I have no dependents, if I were to disappear, no one would really suffer other than, well, me
-1. I was innocent of any crimes that would warrant such overreach, and I knew that quickly the overreach would be more criminal than anything I could come close to getting away with given it was someone(s) within the federal government 
-1. I know how the internet works -- and this is the point of the chapter -- explain how web requests work in broad detail, but focus in on API keys. Consider being brief and then coming back and explaining it in further detail before the Liveramp fiasco. Dividing the details in two may make for better pacing.
-
-#### How internet works, www for dum dum dums, they have computers on the internet now, etc
-1. Explain basics of "web requests", but briefly such to focus on securrity, broadly
-1. maybe explain authentication vs. authorization, and how basically, all "data transactions" are tracked to the user who signed in.
-1. As long as I don't share my API keys, I can't be implicated unless the company were to make requests that appeared like me, so I was only worried about false incrimination, which I felt was unlikely, but technically possible
-1. If a tech company doesn't know the above, that would be weird to me, at least
-1. The above is probably very important for "society" "at large" to know to some level
-1. In general, at this point of time, I felt it very unlikely for a "tech" company to uhm... hire people to follow me around in the streets, even if it was on the government's dime, simply because of how easy it is to track data, or, at least cheaper
-1. Finally, end with pointing out that you were hired largely as a _UI front end client side internet browser web developer_ -- explain this means that, technically, you could have worked your entire career there without ever _needing_ to access company data, given your job title. Such that, if you did _access_ the data (similar to Jack Texiera), that alone should be enough to wave a red flag -- why would I need to? Yes, literaly, plenty of other companies provide API keys that only allow "just what's needed" to developers. I wasn't worried about any digital crimes that I wasn't doing but I was increasingly worried, that, if this situation persisted (remember to write in the voice of you a year ago), that it meant the tech industry at large had no idea how this shit worked, at a very fundamental level, with regards to "security".
-# Chapter 5 -- the optional chapter
-
-### Summary
-
-1. *OPTIONAL -- let's see how much these people piss me off in early June. I'll add it then if needed. Starting chapter quote should be hanlon's razor* Ch 6 - Brief flashback chapter outlining my reactions through 2017 as Rachel Maddow spent nearly a year + talking about Russian hacking and election interference, featuring many prominent Democrats interviewed on their opininons - _without ever discussing or proposing laws making hacking or election interference illegal_. As a computer programmer, I knew at least that this conversation was weird - was Russia doing untoward things election wise with regards to donations and social media? Surely. Were they illegal? Not even a little bit. Should laws be made, would they stop Russia as well as the Democrat and Republican parties from interfering? That's how laws work. Do lawmakers know this? Were they hoping for Democrat xenophobia to magically make laws that only affect Russian citizens at a time when they're not at war with us? Seems... dumb. I wondered if this was bias - but after Eloise being forced into acting that question, I know realized MSNBC's ignorance was the Big Tech company's ignorance was the Democrat party's ignorance around tech - they don't know the technical details well enough of the reality they're living in on the internet, and they allow themselves to be misinformed. It's also how I knew I was being harassed by the Democrat party at that point, if not the DNC portion that MSNBC favors. Again, not corruption, just technical incompetence is the accusation. If Russia can't do computer based election interfence, then the laws should stop Americans from doing it as well. Alas.

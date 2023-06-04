@@ -292,9 +292,9 @@ I wish the other C levels had shown; I think they felt ashamed at not doing so g
 
 That evening, I continued my fourth re watch of the Anime classic _Death Note_. I'm sorry if that's lame to you, or if you don't know what that is.
 
-(nts: check text and notes) At around 7:30 PM that evening, right when I was habitually "signing off" after work, my internet went down again, and I was streaming via Netflix at the time, to my present day dismay (I now prefer the disc format).
+(nts: check text and notes) At around 7:30 PM that evening, right when I was habitually "signing off" after work, my internet went down again, and I was streaming via Netflix at the time, to my present day dismay (I now prefer the disc format). The last time it went down, it was at the start of my workday. Now the opposite.
 
-I expressed annoyance to my laptop, saying this was lame, or something.
+I expressed annoyance to my laptop, saying this was lame, or something to that extent. I felt more hassled than harrassed at that moment, but the law is grey on such things I suppose.
 
 In 5 minutes or so, my internet connection came back on, though Spectrum took an hour to text me about it while telling me immediately when it went down.
 

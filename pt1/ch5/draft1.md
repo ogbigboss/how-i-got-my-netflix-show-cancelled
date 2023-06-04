@@ -276,6 +276,12 @@ It also explains why the one C level "thrown to the wolf" was the youngest, Trav
 
 It wasn't to be redder in the face than a tomato in the sun, at least for a paleish white guy, who wasn't normally so flush.
 
+I think he may have seen me recognize that, and immediately offered that his wife was locked outside his house and he just had to run to get the door.
+
+He took a moment and I thought _that's a pretty solid way to explain why you're gonna be red in the face on the way back, but not at the start of this meeting, but, yeah_.
+
+When he was back he was a bit short in breath in a way he wasn't at the start of the meeting, something that didn't suprise me.
+
 I handled the meeting normally, camera and mic recording me for the rest of the group. I was patient and eventually engaged Travis, the sole C level present, in light conversation, mostly to ease his tension, and in the format of easy softball "hey what's this company do" questions that may be helpful for the whole group to hear.
 
 Mostly so he could calm down and stop being so red in the face, which he did quickly.

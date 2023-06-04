@@ -33,3 +33,7 @@
 #### Friday, Saturday
 
 1. I just try and smoke weed, accept the severance Vouch gave me, and hope things just pass from here, and that I've made the situation as awkward as I can to make sure Vouch or whomeever else was involved would never do this stupid shit again, at some social loss to me, and hopefully at no further action on their part, given how stupid this shit was. I over estimated some things.
+
+#### Conclusion
+
+1. Make clear to reader that you feel the government committed crimes in their initial investigation, your faking liek you had evidence or notes of this to see if they were still listening led to a sloppy number of excuses at the Federal level to continue investigating me not for my crimes, but the evidence I may have against the state. Everything after the "radio barge" seen on the East River has likely been an attempt by the US Gov't to smear or incriminate me such to cover up the attempt to cover up the evidence I don't have against hte state and was making up jsut to see if they'd continue to be stupid (if I knew that was even possible, i would've tried different things, but I didn't think things could get stupider and really just wanted to see if they'd have the good sense to leave me alone.)

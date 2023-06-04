@@ -126,7 +126,7 @@ end
 
 Let's break these two methods down.
 
-First is `the_gg_move`, the main method, the thing. While in a tele conference meeting while working from home, if you can hide your camera and mute your mic while others do the opposite, you can then basically talk out loud to find out whether the hardware honors the software, or, whether there is a separate program running on your and some of your co worker's machines that monitors your audio and converts it to text in real time so they can know what you're saying.
+First is `the_gg_move`, the main method, the thing. In a tele conference meeting while working from home, if you can hide your camera and mute your mic while others do the opposite, you can find out based on other's reactions how they are audio surveilling you. You basically talk out loud to find out whether the hardware honors the software, or, whether there is a separate program running on your and some of your co worker's machines that monitors your audio and converts it to text in real time so they can know what you're saying, without you knowing it's running.
 
 It's key to note that this would happen in a separate piece of software than your Zoom or Google hangout meeting, most likely, which is to say, if `the_gg_move` feels effective in a meeting, it's more than possible that your mic is not muted and is transcribing whatever it hears into text as often as you or anyone, even your television, speaks out loud around it.
 
@@ -152,7 +152,7 @@ The other thing is to _directly refute what is being said_. At times, the speake
 
 Even if they didn't react themselves, this is still useful to gauge other people's reactions. At any rate it's important to try and keep your refutations in line with your own honest opinions, and it's _doubly_ important to, if they continue speaking and touch upon your complaint in a way that your complaint is no longer valid -- take the time to recognize that, actually, you were mistaken a moment ago.
 
-You never know who's listening. But it's best to be honest, and we all have disagreements on procedures at work places that we hold back in politeness. One way audio surveillance is not very polite, in my opinion.
+You never know who's listening, but still, we all have disagreements on procedures at work places that we hold back in politeness. One way audio surveillance is not very polite, in my opinion, but it's a separate conflict from the one you're stirring up, so it's best to be clear when you're in the wrong, to deliver the best message.
 
 After the flinch, in `evaluate_how_they_may_have_heard`, gauge their emotional state as best you can. Do they feel caught? Does this make them feel threatened, or excited? And finally, last, but not least, and basically generally applicable to any and every office situation:
 

@@ -78,6 +78,6 @@ I had been streaming for 3 years at the time of 2020 when I combined the skill o
 
 By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Vouch, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
 
-In my most private of moments, with some refernce to the film _Perdita Durango_ and the song Lady Gaga _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
+In my most private of moments, I call the main technique, with some reference to the film _Perdita Durango_ and the Lady Gaga song _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
 
 The "GG move" works thusly:

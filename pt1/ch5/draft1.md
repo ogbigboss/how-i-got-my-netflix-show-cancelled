@@ -80,4 +80,45 @@ By 2022, I worked for 3 separate companies that I could not identify as using au
 
 In my most private of moments, I call the main technique, with some reference to the film _Perdita Durango_ and the Lady Gaga song _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
 
+In programming, a `switch / case` statement is similar to an if statement, where some other thing gets evaluated as being equal to other things.
+
 The "GG move" works thusly:
+
+```
+function the_gg_move
+  if you_are_in_a_remote_meeting and you_can_hide_your_face_and_mute_your_mic then
+    if you_start_talking_random_shit then
+      if you_say_some_generally_wild_out_of_place_for_a_meeting_shit then
+        if someone_flinches_or_laughs_such_to_suggest_they_heard then
+          evaluate_how_they_may_have_heard
+        end
+      else if you_say_something_that_refutes_the_current_speaker then
+        if someone_flinches_such_to_suggest_they_heard then
+          evaluate_how_they_may_have_heard
+        end
+      else if you_say_something_that_someone_in_another_state_says_moments_before_they_do
+        if someone_flinches_such_to_suggest_they_heard then
+        your_boss_thinks_youre_a_hacker_now_despite_the_technical_reasons_this_is_dumb
+      end
+    end
+  end
+end
+
+function evaluate_how_they_may_have_heard
+  if they_flinched_while_looking_away_from_the_meeting_on_their_screen then
+    theres_a_likelihood_your_audio_is_being_converted_to_text_in_a_separate_window
+  end
+
+  if their_energy_changes_in_no_recognition_to_actual_meeting then
+    theres_a_likelihood_youve_stolen_their_focus_from_the_meeting_and_they_feel_caught
+  end
+
+  if they_seem_uncomfortable then
+    they_likely_feel_guilty_or_self_conscious_about_privacy_implications
+  else if they_seem_excited then
+    they_likely_are_excited_about_a_context_to_invade_others_privacy
+  end
+end
+```
+
+Let's break these two methods down.

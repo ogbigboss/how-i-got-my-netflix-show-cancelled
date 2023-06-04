@@ -41,6 +41,3 @@ It'd be weird if so.
 But I've also never seen a CEO with such a stellar reputation flinch as hard at anything as I saw Hodges flinch two days ago.
 
 It's probably just a coicidence.
-
-...
-

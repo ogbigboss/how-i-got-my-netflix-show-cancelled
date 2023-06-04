@@ -164,6 +164,8 @@ The darkest theory I can construe would have to be this:
 
 However, I was nowhere near that theory back then because the Ukrainian - Russian conflict hadn't persisted to the point it is has today: nearly a million lives have been lost on both sides, international economics and food supplies have been endangered, and talk of a shifting world order has come to light yet again because of it.
 
+(Not to mention my own continuing conflict with political and private actors attempting to smear me via the utility of a reality TV true crime they may have focused on me when I never actually committed a crime, not a reality TV worthy one at least, to which this memoir becomes focused on in later sections.)
+
 For the most part, I thought my bosses were being idiots, and could use a reminder that to me, this was a joke.
 
 I would later read that Ukraine's leader, Zelensky, was himself a comedian.

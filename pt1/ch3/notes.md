@@ -1,8 +1,8 @@
-# Pt 1 ch 4 -- Second week at Vouch - 2/20/22
+# Pt 1 ch 3 -- Second week at Vouch - 2/20/22
 
 ### Summary
 
-1. Ch 4 - Second week, start with google doc showing poor internal comms and shitty spelling at a C level, weird cross C level insinuations, CIO no show with weird camera tricks, lawyer also uses weird camera tricks, end with them forcing Eloise, my new LGBTQ female manager who seemed nice to act as though Putin wasn't a threat, which was weird, because this happened on literally the first morning after the first day of the invasion in Ukraine, which I assume is when most people in the US were just becoming aware of that event. I read the news, had they not, and even if they had, what the fuck is wrong with these people? Whatever, it was Friday. 
+1. Ch 3 - Second week, start with google doc showing poor internal comms and shitty spelling at a C level, weird cross C level insinuations, CIO no show with weird camera tricks, lawyer also uses weird camera tricks, end with them forcing Eloise, my new LGBTQ female manager who seemed nice to act as though Putin wasn't a threat, which was weird, because this happened on literally the first morning after the first day of the invasion in Ukraine, which I assume is when most people in the US were just becoming aware of that event. I read the news, had they not, and even if they had, what the fuck is wrong with these people? Whatever, it was Friday. 
 1. Chapter should have an "investigative" vibe, shift away from anything but just a recall with little sentiment if possible. Should help make things quicker, move nicely into the Xfiles thing as well
 
 ### Notes

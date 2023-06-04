@@ -308,4 +308,48 @@ All I knew about them before joining was that the one CFO from another company w
 
 _So who are my bosses anyway?_
 
-To LinkedIn I went.
+To LinkedIn I went. I'm pretty sure I remember the order. I at least remember looking at the CEO near last, which, emotionally, was a big mistake.
+
+First was the youngest and the one I had seen the most recently, Travis Hedge. He had recently lost weight, and had a bit of a career gap, and I'm pretty sure came from a family with a background in business insurance, but other than confirming he was midwestern, that was it on him. His career was less impressive than the rest of the board's, but the family lineage probably helped to make him a co founder with Hodges. I don't think he had much but some backgruond in "tech", likely due to his youth.
+
+Next was my boss' boss, Rajat Kongovi. He had much previous experience in tech and Ivy League credentials. I think he played basketball in college. I imagined him being the guy on the board that made the older whiter guys feel cool, as Rajat felt a lot more relaxed than others. Call me rascist, it's fine, I do it all the time. Rajat had a very if not the most impressive resume of anyone on the C suite, particularly with regards to tech and business leadership, but nothing of interest to me in relation to my situation.
+
+Next was the CIO, John Wallace. He had a deep legacy in business insurance and other types of things, but none in tech, this appeared to be his first gig there. I noted it seemed like he grew up or went ot college in the Colorado area, lived in Wisconsin for sometime, then recently moved to Chicago, right where Vouch had an office. Nothing else worth seeing, though, I did laugh out loud when I saw his profile picture, just in case they were listening. In honesty, it was a fine picture.
+
+Finally, at least to my memory, was the CEO, Sam Hodges. Sam had an insanely long linked in profile. There were several long stints as company leadership of all kinds, much in the sector of tech venture capital, and much to be said as a CEO - it wasn't his first time. But there were also board appointments - oh the board appointments! I remember scrolling quite a bit before I saw this:
+
+```
+Trade Finance Advisory Council Member
+U.S. Department of Commerce
+Oct 2016 - Sep 20182 years
+
+Washington D.C. Metro Area
+
+Appointed by Secretary Pritzker to serve a two-year term on the Trade Finance Advisory Council, which advises the Secretary and executive staff on the development of strategies and programs that help expand access to trade finance for U.S. exporters.
+```
+
+I've checked recently, I think he's slimmed down some of the information.
+
+That said, apparently my boss' boss' boss, the CEO, was formerly a part of the Obama administration by way of an appointment via Secretary Penny Pritzker.
+
+I'd be proud of Sam if I were his parents, I really would. But I'm not, and I was pretty sure this had something to do with my suspicions about everything being federally involved.
+
+I sighed, but kept checking, and saw something else - that he graduated from Brown University.
+
+At the time he didnt' list the date of graduation, but if referring to when his internships ended and his first signs of employment started, it seemed to me like he could have attended Brown Univesity somewhere between the years of 1999 and 2003.
+
+My sister, to whom I'm estranged from and have been for the last three or five years at least, attended Brown University between the years 1999 and 2003.
+
+My sister, given a quick linked in check, was at the time of my employment at Vouch, a DEI officer of the 9th district federal court of the US, and was at one point an employee of the US EOC, or Equal Opportunity Commission.
+
+And here I am, a brown guy getting his internet cut because he rocked out to some white guys's tunes too hard, but I ain't ever worked for no government.
+
+Reader, if you were wondering - didn't any of this make you feel awful, as well as suspicious, and paranoid, and just generally unwell?
+
+Well, a little, but not a lot. Until that point. I started to feel awful then, but in a familiar way that perhaps had less to do with my feelings on government overreach and more to do on my feelings about my family's feelings on me.
+
+But I'll let you know about all that later on in the memoir.
+
+That was Tuesday evening, March 1st, 2022. I still had work in the morning.
+
+...

@@ -1,4 +1,4 @@
-# Pt 1 Ch 6 -- Eyes in the back of my mind
+# Pt 1 Ch 7 -- Eyes in the back of my mind
 
 ### Draft
 

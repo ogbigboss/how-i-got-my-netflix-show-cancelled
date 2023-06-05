@@ -1,4 +1,4 @@
-# Chapter 6 - Fifth Week at Vouch, 3/6/22
+# Chapter 7 - Fifth Week at Vouch, 3/6/22
 
 ### Goals
 

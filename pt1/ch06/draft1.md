@@ -135,14 +135,23 @@ In programming, a linked list is a set of data structures where one links to ano
 A thought process can feel like one at times, if you hear all your thoughts.
 
 > OK. So this could be the White House.
+>
 > OK. So my boss' boss' boss used to, in some way, work for a former White House admin.
+>
 > OK. So my sister may have gone to college with my boss' boss' boss.
+>
 > OK. So my sister works in a federal court in California and lives in Los Angeles.
+>
 > OK. Wait, this could be the White House? Which one?
+>
 > Oh. The White House admin with a VP who used to represent California, where your sister lives.
+>
 > Oh. The White House admin with a VP who is half the nationality you and your sister are.
+>
 > Oh. The White House admin that is pushing DEI, and your sister is a DEI officer
+>
 > Oh. Oh. Oh.
+>
 > Well, my sister had political ambitions, maybe, but moreso she had ambitions as an actor. As long as this isn't some Netflix show, maybe Ill be fine.
 
 Your brain can think some crazy things. You can't prove them for truth. I remember thinking the above and thinking, man, that'd be crazy. And fucked up. And it'd only be true if, well, somehow this thing continues in a way to prove that those connections matter more than the law which was being utilized to investigate me.

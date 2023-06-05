@@ -13,10 +13,8 @@
 
 ### Outline (remaining to write)
 
-1. Discuss time before liveramp, therapy, suicidality, going through legitimate mental health issues that you had many tools for in terms of therapy but didn't want to let on that you were maybe better off that you were out of the hope that the federal government would just leave you alone, foolish really. Talk about patching yourself up through April and, two weeks before starting at LR, you felt very very good, albeit somewhat certain you were still being watched to some degree.
-1. First week before LR should be it's own chapter, weird shipping, weird therapy, 
-1. Quick chapter going over Twitch history and reading faces re: chat
-1. Quick quick chapter on Dem's failure to secure Abortion vote, light suspicions you held of your actions being what caused their distractions & distrust amongst their own ranks
+1. Quick intro chapter going over Twitch history and reading faces re: chat, then lead to social media socialism video game times in 2021 as a reason the cenrist Dems may be targeting you...
+1. ... especially in light of the recent Dem's failure to secure Abortion vote, light suspicions you held of your actions being what caused their distractions & distrust amongst their own ranks
 1. First week of LR -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
 1. Pissed off that you had to go through this bullshit, and relizing that your therapist was involved, talk about the markdown essays
 1. Second week -- keep testing the above, get the strongest reaction wrt "the blown cover hair flip moment," being offended that many people were involved and at ages you found offensive, also consider that the hair flip was an attempt to intimidate me via gender egoisms I don't really have (I'm for all skittles haired people of all genders).

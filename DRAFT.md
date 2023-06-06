@@ -1274,7 +1274,7 @@ But, given it was DC, I'd probably never be able to prove it. Well, not alone at
 
 ### Draft
 
-> "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
+> "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
 I honestly wasn't sure what was more dissapointing with Vouch: that they had "woopsie-daisied" their way into putting me under what felt like a federal investigation of some sort, or that they told half the damn company that I was under some kind of investigation like it was gossip, and asked them to try and "trigger" me in meetings to see how I'd respond to things like the "Sandanistas."
 
@@ -1427,6 +1427,34 @@ But, I was acting. When Razzlekhan committed crimes they weren't, and that will 
 But we are both kooky people.
 
 _What kind of fascism is this?_
+# Pt 1 Ch 8 - Fifth Week at Vouch, 3/6/22 -- After my walk being followed
+
+> Oleg: You're real Michael Westen, yes?
+>
+> Michael: Yeah.
+>
+> Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
+>
+> Michael: Nope. Just me.
+> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
+
+*open with section retrospectively, from 2023, outlining the Biden / Harris' admin, perhaps at an appointee's level, likely fascination with crucifying me for political purposes* *see notes in folder for details*
+
+...
+
+*go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
+
+...
+
+*talk about the next day, getting more pissed off, then acting it up a bit more*
+
+...
+
+*talk about that evening, seeing if they would react to me letting them kill me if they wanted to*
+
+...
+
+*talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
 # Pt I Chapter 8 - Final week at Vouch
 
 > "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_

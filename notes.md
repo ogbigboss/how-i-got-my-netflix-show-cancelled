@@ -88,16 +88,9 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Michael Westen: [holding Chechik at knifepoint] You should stick to hunting things that don't fight back."
 
-_Season 1 Episode 1_
+> "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
-> Oleg: You're real Michael Westen, yes?
->
-> Michael: Yeah.
->
-> Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
->
-> Michael: Nope. Just me.
-> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
+_Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *
 >
@@ -115,7 +108,6 @@ _Season 1 Episode 1_
 
 > Michael Narrating: Home court advantage counts for a lot. You never know what's going to happen. You prepare for everything. Most bad guys expect you to just sit there and wait for them... like those are the rules or something.
 
-> "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
 _Season 1 Episode 2_
 

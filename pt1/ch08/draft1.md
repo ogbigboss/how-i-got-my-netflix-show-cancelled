@@ -26,3 +26,5 @@
 ...
 
 *talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
+
+*mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*

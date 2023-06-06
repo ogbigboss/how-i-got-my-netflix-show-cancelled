@@ -161,3 +161,5 @@ Oh, reader, I should mention, `the_gg_move`, the one I said I picked up in 2020?
 It was during my one stint in the crypto currency industry.
 
 You might've figure'd that one out on your own -- I don't really need to say much more about that experience for you to get the rest.
+
+_What kind of fascism is this?_

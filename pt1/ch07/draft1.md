@@ -122,10 +122,40 @@ _My tax dollars deserve better than this. Maybe even other people's too._
 
 ...
 
+One thing I hadn't thought about was Cryptocurrency. Other than working for a single company in athat industry in a career that's seen employ at dozens of other non Crypto firms, it wasn't really a big part of my life.
 
+I've had regrets. Many of us have. I could have been a millionaire etc.
 
+Over a decade ago I gave my buddy some cash that he turned into Crypto ~~so he could buy acid~~ but we liquidated it too quickly to see it as investment.
 
+That said I've never spent one US Penny of mine on a Crypto currency, and I'll keep that at that.
 
+It's a very popular thing to do these days, however.
 
+A month before, on February 8th, 2022, the US Justice Department arrested a couple for laundering money via crypto currency, seizing more than $3.5 billion in assets along the way, the largest financial seizure ever.
 
+On February 12th, 2022, Netflix ordered a docuseries on the couple.
 
+I share nothing in common wiht that couple, save for a few things:
+
+1. They were living blocks away from where I lived and worked in the financial district at the time.
+1. I think I'm funnier but yes one of them has put out content under the identity "Razzlekhan," referring to herself as the "Crocodile of Wall st", and is a, well, "character", like I am aware I can be.
+1. Razzlekhan is a musician and puts out music under that name, as well, I was just hoping to maybe do with a guitar and some like 90s cover songs, a totally different style if you ask me, but whatever
+
+Reader, in 2023, I'm pretty sure we were both under a federal investigation due to the fact that I share the three things above, this has been revealed via audio surveillance to my company whom unbenknownst to me may have connections with the federal government, who is more than likely being interviewed right that moment by Netflix for the Razzlekahn thing.
+
+But I have never, not once, spent a dime on crypto currency. I've never committed financial fraud.
+
+I'm not a criminal.
+
+But I am a kooky person.
+
+_What kind of fascism is this?_ is a thought I frequently have; though, I wouldn't google for the keywords "netflix cryptocurrency series" until about December that year of 2022, when 9 months later I finally realized I needed more answers than these people apparently needed to leave my life.
+
+Either way, had I known society's true crime fascination was overlapping with a digital fraud case of historic proportions that centered around the social media habits of the criminal, well, I probably wouldn't have acted the way I did.
+
+But, I was acting. When Razzlekhan committed crimes they weren't, and that will always be the difference between them and me.
+
+But we are both kooky people.
+
+_What kind of fascism is this?_

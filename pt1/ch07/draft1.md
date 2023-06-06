@@ -10,10 +10,6 @@ I supposed I'd have to deal with the latter more than the former, though that ch
 
 ...
 
-*introduce Razzlekhan incident, describe how Netflix was in town for it working with the feds, unbenknownst to you*
-
-...
-
 That week I skipped the company all hand's on purpose. I felt I had caused too much a scene between that and the other meeting the previous week. A few hours before, I told my manager I'd be absent in the afternoon, making up the excuse of a doctor's appointment. Outside of meetings, I said to my laptop outloud:
 
 > "Look, I think we can all use a break. I'm going for a walk during the meeting, I'll be back online in the afternoon."

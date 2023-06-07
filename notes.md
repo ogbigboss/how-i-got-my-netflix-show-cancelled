@@ -121,6 +121,8 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Michael: Agreed.
 > Jeffrey Donovan as etc etc etc and Todd Stashwick as Carmelo Dante
 
+> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

@@ -87,6 +87,16 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
+> Oleg: You're real Michael Westen, yes?
+>
+> Michael: Yeah.
+>
+> Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
+>
+> Michael: Nope. Just me.
+> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
+
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

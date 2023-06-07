@@ -1,4 +1,4 @@
-# Pt 4 - Post Liveramp, possibly up to the knife incident
+# Pt 4 - Post Liveramp, possibly up to the knife incident -- the start of June to early August 2022 
 
 1. Talk about Jesse Sommer + therapist having suspicious communications that felt off and oddly connected, though, with two separate overtones: the intent to exploit and the fear of being exploited, respectively. This proved to you that the Democrats were leveraging every resource they coudl to try and paint me as a psychicatric problem.
 1. After being followed in the park, and before the "knife incident", recall making a website that was a joke called [bigbosswatch.com](https://github.com/ogbigboss/bigbossos) as a way to "respond" to being followed in the streets as described in the intro. While making this website, that weird thing with the cockroach that was of a type not native to the area happened, make sure that you read it as a "retaliation" for starting to work on a joke website. Double check dates from notes. After launching the site, they did the thing with the internet connection downing on you and the therapist, leading to the "knife incident."

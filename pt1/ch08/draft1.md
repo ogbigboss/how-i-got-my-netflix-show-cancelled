@@ -13,7 +13,20 @@
 
 *start with your own lack of social media usage, joining facebook in '08, quitting the first time in '09, and not really using social media in earnest until 2017 for the idea of game development. In 2020, you started reaching out to "social media socialists" well after the Demoractic primary was over, and that was your first real foray into social media. use the KHive's reputation against them as you can't really be lumped into toxic bernie bro people as you weren't even a social media person before 2020, and I'm guessing all the "let's tell other black women to kill themselves after we find out they tweeted about being sexual assault victims" is something the KHivers didn't earn from Kamala but from social media itself, something you jsut don't get down on*
 
-*open with section retrospectively, from 2023, outlining the Biden / Harris' admin, perhaps at an appointee's level, likely fascination with crucifying me for political purposes* *see notes in folder for details*
+*brief bullet poit, legal argument style perspective outlining the Biden / Harris' admin, perhaps at an appointee's level, likely fascination with crucifying me for political purposes and their motivations listed and summarized then explained a bit more below*
+
+*bring up then Netflix CEO Reed Hasting's relatinship with the centrist Dems, including a connection to Obama via a podcast you were vaguely aware existed given his famous partner*
+
+*Now bring up Obama's book, end with his weird mention of the woman who rejected him in Harvard and how he blames socialism and not lack of swerve*
+
+*Now go back to Eloise bringing up her own relationship + Rachel Bird harrassment situation as a way to see if I'd behave sexistly; DNC projection*
+
+*Come back to Russia -- they need you to not just be sexist, that's a "Bernie bro" stereotype they've built already, they need you to be a criminal, and they'd prefer you to be working with foreigners to at least justify CIA style activity on US social against a private citizen via a political party*
+
+*Make a joke about Democrat era McCarthyism. McBidenism? McHarrism? McTandenism? I've been trying to figure this one out for weeks folks, it's been hard. It'll come, a mention should be fine for now.*
+
+*End with an allusion to the failure to secure the right to abortion in early May and hint to the reader that since this shit show has never stopped, you ahve always felt the Biden Harris administration distracted themselves into chasing you like a criminal to crucify ala christ so the townspeople knew now to go against the doctrine of the times, largely because they would leave me alone if they didn't feel I was to blame for their professional failures. DNC projection,
+again.*
 
 Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Vouch, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
 

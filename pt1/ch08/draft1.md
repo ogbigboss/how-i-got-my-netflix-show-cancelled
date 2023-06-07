@@ -25,8 +25,7 @@
 
 *Make a joke about Democrat era McCarthyism. McBidenism? McHarrism? McTandenism? I've been trying to figure this one out for weeks folks, it's been hard. It'll come, a mention should be fine for now.*
 
-*End with an allusion to the failure to secure the right to abortion in early May and hint to the reader that since this shit show has never stopped, you ahve always felt the Biden Harris administration distracted themselves into chasing you like a criminal to crucify ala christ so the townspeople knew now to go against the doctrine of the times, largely because they would leave me alone if they didn't feel I was to blame for their professional failures. DNC projection,
-again.*
+*End with an allusion to the failure to secure the right to abortion in early May and hint to the reader that since this shit show has never stopped, you ahve always felt the Biden Harris administration distracted themselves into chasing you like a criminal to crucify ala christ so the townspeople knew not to go against the doctrine of the times. I feel this way because largely because they would have just left me alone if they didn't feel I was to blame for their professional failures. DNC projection, again.*
 
 Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Vouch, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
 

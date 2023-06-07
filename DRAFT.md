@@ -1446,6 +1446,8 @@ _What kind of fascism is this?_
 > Michael: Nope. Just me.
 > - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
 
+> "They spent time retweeting my posts and calling me a white supremacist, a coon and all sorts of derogatory names, fueling others who began to DM me telling me I was a sell out because I was Black and I should’ve killed myself when I had the chance," Jeffrey said. "I was mocked and harassed for being a sexual assault survivor, a domestic abuse survivor, and was told by the KHive that it was good for me and they hope it happens again, since I don’t support Harris." - Son of Luverta Jeffrey, former Kamala Harris supporter, as quoted in the (huffpost)[https://www.huffpost.com/entry/kamala-harris-khive-toxic-side_n_5f4fa573c5b69eb5c037473e]
+
 *open with section retrospectively, from 2023, outlining the Biden / Harris' admin, perhaps at an appointee's level, likely fascination with crucifying me for political purposes* *see notes in folder for details*
 
 Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Vouch, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.

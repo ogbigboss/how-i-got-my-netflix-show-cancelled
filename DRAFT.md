@@ -1713,8 +1713,6 @@ end
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
 # Potential remaining outline (in parts)
 
-# Pt 4 - Post Liveramp, possibly up to the knife incident -- the start of June to early August 2022 
-
 1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.
 1. Flash forward: November 2022, maybe just include parts of the long ass tell all essay I wrote
 1. Late September post truck fire to the week before Halloween

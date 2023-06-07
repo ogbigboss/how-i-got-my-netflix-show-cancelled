@@ -1,7 +1,5 @@
 # Potential remaining outline (in parts)
 
-# Pt 4 - Post Liveramp, possibly up to the knife incident -- the start of June to early August 2022 
-
 1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.
 1. Flash forward: November 2022, maybe just include parts of the long ass tell all essay I wrote
 1. Late September post truck fire to the week before Halloween

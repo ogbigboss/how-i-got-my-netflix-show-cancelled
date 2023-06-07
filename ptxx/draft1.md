@@ -23,7 +23,7 @@ function play_the_good_game
 end
 ```
 
-If you're wondering what a hashtag means, well, in many programming languages it's something called a comment. It doesn't actually do anything save for give programmers a chance to write things other than code, such to explain the code their writing.
+If you're wondering what a hashtag means, well, in many programming languages it's something called a comment. It doesn't actually do anything save for give programmers a chance to write things other than code, such to explain the code they're writing.
 
 So when that line says nothing happens and the good game ends... that's what it means.
 

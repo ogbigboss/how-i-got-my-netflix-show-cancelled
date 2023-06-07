@@ -15,6 +15,8 @@ Recursion in computer programming is a deep topic; but at it's surface it's a fu
 
 ```
 function play_the_good_game
+  try_and_get_my_harassers_to_realize_this_is_a_bad_idea_and_they_should_go_home_before_it_gets_worse
+
   if my_harassers_keep_harassing_me then
     play_the_good_game
   else if my_harassers_realize_its_legally_politically_socially_and_morally_better_to_stop then
@@ -28,6 +30,8 @@ If you're wondering what a hashtag means, well, in many programming languages it
 So when that line says nothing happens and the good game ends... that's what it means.
 
 Nothing happens.
+
+Ah, September in the rain. Writing this in June 2023, some 9 months later, I'm still in this loop somehow. Alas.
 
 # Potential remaining outline (in parts)
 

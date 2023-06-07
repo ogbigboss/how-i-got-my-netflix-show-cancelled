@@ -1481,6 +1481,9 @@ But that's 2023. Let's get back to early March 2022.
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
 Also, I was kind of pissed off about the whole thing.
+# Chapter 11 - First Week post Vouch, 3/21/22
+# Chapter 12 - Second Week post Vouch, 3/27/22
+
 # Pt 1.5 -- A flash to the future
 
 ### Mid afternoon near the end of the workday in a conference call with around 8 people on Friday, May 20 2022

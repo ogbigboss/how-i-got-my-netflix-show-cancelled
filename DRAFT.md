@@ -1742,9 +1742,9 @@ If you're wondering what a hashtag means, well, in many programming languages it
 
 So when that line says nothing happens and the good game ends... that's what it means.
 
-Nothing happens.
+Nothing happens. In a code review profesionally, someone would probably point that out and say you could even get rid of two lines of code, since nothing at all happens in that case. You don't need the word `morally` to even be in the function, that way.
 
-Ah, September in the rain. Writing this in June 2023, some 9 months later, I'm still in this loop somehow. Alas.
+Anyway, September in the rain. Writing this in June 2023, some 9 months later, I'm still in this loop somehow. Alas.
 
 # Potential remaining outline (in parts)
 

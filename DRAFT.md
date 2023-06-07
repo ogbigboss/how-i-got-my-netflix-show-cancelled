@@ -1439,8 +1439,6 @@ _What kind of fascism is this?_
 
 > "They spent time retweeting my posts and calling me a white supremacist, a coon and all sorts of derogatory names, fueling others who began to DM me telling me I was a sell out because I was Black and I should’ve killed myself when I had the chance," Jeffrey said. "I was mocked and harassed for being a sexual assault survivor, a domestic abuse survivor, and was told by the KHive that it was good for me and they hope it happens again, since I don’t support Harris." - Luverta Jeffrey, former black female Kamala Harris supporter, as quoted in the [huffpost](https://www.huffpost.com/entry/kamala-harris-khive-toxic-side_n_5f4fa573c5b69eb5c037473e)
 
-*start with your own lack of social media usage, joining facebook in '04, quitting the first time in '07, and not really using social media in earnest until 2017 for the idea of game development. In 2020, you started reaching out to "social media socialists" well after the Demoractic primary was over, and that was your first real foray into social media. use the KHive's reputation against them as you can't really be lumped into toxic bernie bro people as you weren't even a social media person before 2020, and I'm guessing all the "let's tell other black women to kill themselves after we find out they tweeted about being sexual assault victims" is something the KHivers didn't earn from Kamala but from social media itself, something you jsut don't get down on*
-
 I joined Facebook a year after it was made and my first year before college, 2004. It was funny; I made a long joke name for myself that was funny. At some point early on, I met someone who said "oh, you're that person with the funny name on facebook." They were being honest, they thought it was funny too.
 
 But I felt funny in a different way -- _you know me for that, but I'm right here, that's weird_ -- I look back on it as the first time I felt like I could do without social media. I quit I believe for the first time in 2007, and then several times until around perhaps the 2010s when if I signed on, it would have been for professional web development purposes only.
@@ -1462,6 +1460,8 @@ Reader, I believe that toxicity and pursuit of fame that social media has come t
 Pure fascism has come to America, and it wants to be televised.
 
 *brief bullet poit, legal argument style perspective outlining the Biden / Harris' admin, perhaps at an appointee's level, likely fascination with crucifying me for political purposes and their motivations listed and summarized then explained a bit more below*
+
+*lightly describe game project, you spoke on it already but make sure the website is known and there were 20-30 names of "soial media leftists" on it that the DNC likely thought I was leading as opposed to introducing myself to*
 
 *bring up then Netflix CEO Reed Hasting's relatinship with the centrist Dems, including a connection to Obama via a podcast you were vaguely aware existed given his famous partner*
 

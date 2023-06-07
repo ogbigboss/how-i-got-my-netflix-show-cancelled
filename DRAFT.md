@@ -1545,7 +1545,7 @@ Look, `the_gg_move` is not exactly a way to make friends.
 It's a way to figure out to what extent you're being audio surveilled by your boss.
 
 And, apparently, your younger co workers of the opposite gender.
-# Part 2: Post Vouch, Pre LR
+# Part 2: Post Vouch, Pre LR -- Mid March to the start of May 2022 
 
 ### Goals
 
@@ -1615,7 +1615,7 @@ I started panicking and figure'd it'd be best to, if yet again, see if anyone wo
 I remember having one last thought as I left my bathroom to take a walk outside:
 
 _These fuckers better not throw me in the East River either. Sure I act like a Cosmo Kramer from_ Seinfeld _, sure, but I'm not trying to take things that far._
-# Part 3: The Liveramp Fiasco
+# Part 3: The Liveramp Fiasco -- the start of May to early June 2022 
 
 ### Goals
 
@@ -1677,7 +1677,7 @@ It was another time where I wish I was psychic, but I was stupified. I just star
 But I'm sure they exist _somewhere_. Video, even.
 
 Personally, I dont like to play around with fire.
-# Pt 4 - Post Liveramp, possibly up to the knife incident
+# Pt 4 - Post Liveramp, possibly up to the knife incident -- the start of June to early August 2022 
 
 1. Talk about Jesse Sommer + therapist having suspicious communications that felt off and oddly connected, though, with two separate overtones: the intent to exploit and the fear of being exploited, respectively. This proved to you that the Democrats were leveraging every resource they coudl to try and paint me as a psychicatric problem.
 1. After being followed in the park, and before the "knife incident", recall making a website that was a joke called [bigbosswatch.com](https://github.com/ogbigboss/bigbossos) as a way to "respond" to being followed in the streets as described in the intro. While making this website, that weird thing with the cockroach that was of a type not native to the area happened, make sure that you read it as a "retaliation" for starting to work on a joke website. Double check dates from notes. After launching the site, they did the thing with the internet connection downing on you and the therapist, leading to the "knife incident."
@@ -1711,3 +1711,20 @@ end
 ```
 1. Note that your mother's phone call after your therapist appt where the internet connection of both you and your therapist were cut sequentially and theatrically such to intimidate; your mother intimated your presence may be needed in Los Angeles. Realizing I may be on some reality tv concept show, and not wanting to be "pranked" in a city where it's easy to leave someone stranded miles from civilization, compounded with the fact that I don't have a driver's license, made me want to avoid the risk of going to the West Coast for whatever stupid thing this was. So part of my calculation in going with the "knife incident" was to either keep me on the East Coast by circumstance, or, if they wanted to continue playing this game then they're going to have to shoot on location in NYC. I have some conflicts here as a New Yorker; such shit can be very annoying. That said, as a fan of cinema and filmed arts of all kind, if I'm going to be forced onto a reality TV show without my consent, then god damnit it's gonna be shot on location in NYC. No offense, LA. Maybe with a driver's license.
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
+# Potential remaining outline (in parts)
+
+# Pt 4 - Post Liveramp, possibly up to the knife incident -- the start of June to early August 2022 
+
+1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.
+1. Flash forward: November 2022, maybe just include parts of the long ass tell all essay I wrote
+1. Late September post truck fire to the week before Halloween
+1. Flash forward: December 2022 and learning that Yuga labs was a company that was real, reference Lucy Liu movies helping
+1. Last week of October to Early December 2022, start on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told a fiction about you
+1. Flash forward: First visit from people claiming to FBI officers; explain why you thought this was not real, lack of badge numbers, them not wanting to be videotaped, showing up at 8AM on a Saturday, being kind of rude, and explain your thought process and how you couldn't believe they were real and figure'd your bosses or Netflix were playing some joke on you, especially given that the FBI wouldn't want to risk appaering politically biased unless the likelihood of a violent crime was indeed provably likely, etc
+1. Early December 2022 to mid February 2022: The time I tried to record a version of events that could be plausible in order to make sure somoene else doesn't try to produce another version of events that is indeed not plausible but they can edit in anyway they like; largely because I think my story is better than Netflix's.
+1. Flash forward: The getting arrested thing for the above
+1. Mid February to late March 2022: Did I get the Democratic party to distract Netflix into allowing Putin to start a war, distract the crypto currency industry into base liquidity issues, distract their own senate majority by not ensuring the right to abortion, AND distract the tech banking sector into base liquidity issues? I mean... I am good looking, but god damn.
+1. Flash forward: Probably me writing this shit right now
+1. late March 2022 to Mid May 2022: These people have to be kidding right?
+1. Flash forward: ???
+1. June 2022

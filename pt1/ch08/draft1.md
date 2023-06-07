@@ -1,4 +1,4 @@
-# Pt 1 Ch 8 - Fifth Week at Vouch, 3/6/22 -- After my walk being followed
+# Pt 1 Ch 8 - A break to describe the Biden / Harris admin's motivations against me and potential relationships with Netflix and my employer Vouch
 
 > Oleg: You're real Michael Westen, yes?
 >
@@ -20,21 +20,3 @@ This has, clearly, and perhaps unfortunately, all been a big joke to me. Haven't
 Yes, the charges literally have to do with the video series. And yes, I'm writing this memoir literally as a way to keep my name clear before anything more can happen to me while confined or otherwise.
 
 But that's 2023. Let's get back to early March 2022.
-
-...
-
-*go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
-
-...
-
-*talk about the next day, getting more pissed off, then acting it up a bit more*
-
-...
-
-*talk about that evening, seeing if they would react to me letting them kill me if they wanted to*
-
-...
-
-*talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
-
-*mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*

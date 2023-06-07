@@ -106,6 +106,20 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > You're making everyone nervous.
 > - Richard Schiff as Phillip Cowan
 
+> [ Michael Narrating  ]
+> When you can't win in a fight, sometimes you have to settle for making sure that if you lose, everyone loses. It works for nuclear weapons, it works for me.
+
+> Michael: Because he's an importer. He sells to your competition. I put him out of business, it's a win for both of us. And, if you don't do what I want, I will rain hell down upon you until one of us is dead. And I am really, really good at raining down hell. I want an answer tomorrow.
+>
+> Carmelo: Who are you?
+> 
+> Michael: I'm Michael Westen. I used to be a spy.
+> Jeffrey Donovan as etc etc etc and Todd Stashwick as Carmelo Dante
+
+> Carmelo: You take care of this guy, you stay out of my way, we're good. If I ever see your face again, I'll kill you -- bomb or no bomb.
+>
+> Michael: Agreed.
+> Jeffrey Donovan as etc etc etc and Todd Stashwick as Carmelo Dante
 
 _Season 1 Episode 1_
 

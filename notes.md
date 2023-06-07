@@ -130,6 +130,8 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 >
 > Bad guys don't have that chain of command. They can be anywhere as fast as their wheels can take them.
 
+> "Just tell mike it's not personal, okay? Last time I saw him, there was this kind of, you know, 'do this for me or we're enemies for life' vibe. It scared me a little." - Paul Tei as Barry Burkowski from Broadcast TV's _Burn Notice_
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

@@ -126,6 +126,10 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > "[Michael Narrating]
 > Badly done surveillance, that is, surveillance you notice, can mean a lot of things. Some organizations need intelligence but can't afford to pay for training... some organizations just want you to know they're watching."
 
+> [Michael Narrating] Once the cops pick up a call on a flagged cell, they triangulate its location. From there, they organize and deploy units a process that can take 10 minutes, give or take.
+>
+> Bad guys don't have that chain of command. They can be anywhere as fast as their wheels can take them.
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

@@ -96,6 +96,16 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Michael: Nope. Just me.
 > - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
 
+> "Phillip Cowan : [Over the phone]  You want to tell me what the head of the Libyan secret police is doing sending me a fruit basket? I've got the FBI on my front lawn!" - Richard Schiff as Phillip Cowan
+
+> People I work for, they have plans for you... powerful, dangerous people. And, man, are they upset with me.
+>
+> I misread you, Michael.
+> Didn't expect you to buck quite so much.
+>
+> You're making everyone nervous.
+> - Richard Schiff as Phillip Cowan
+
 
 _Season 1 Episode 1_
 
@@ -138,3 +148,4 @@ _Season 1 Episode 4_
 _Season 1 Episode 6_
 
 > Michael narrating: When enough people hate you, sometimes the only move is to just stand in the middle and hope they kill each other before they kill you.
+

@@ -1542,6 +1542,23 @@ Look, `the_gg_move` is not exactly a way to make friends.
 It's a way to figure out to what extent you're being audio surveilled by your boss.
 
 And, apparently, your younger co workers of the opposite gender.
+# Part 2: Post Vouch, Pre LR
+
+### Goals
+
+1. Talk about being depressed in the past, using therapy to not be as fucked up about it, but kind of lying about it to see if the government or whomever would try and use that against me (they did, they keep trying to, it's horrifying in it's implications)
+1. Talk about patching yourself up over the next few weeks, being vocal -- just in case anyone was listening -- about a lot of my problems as a way to also just self talk my way through my problems. If whomever was listening got "pissed off" at my insinuation that many of my issues are from how I was raised, in weird subtle ways, then that was a heavy indicator that if things continued then somehow someone else's career now may hinge on the fact that they believe my mother's perspective of my own childhood more than mine, which, I can understand for my family arguments, but even my own mother never risked her career or livelihood over validating her or my perspective, we just have sore feelings over it. Whcih is to say, I didn't care if anyone listened to my self talk, I was actually legit very depressed, but paging further reactions to it for sure, beign aware that I knew I was talking out loud about my personal problems, as well as with my therapist
+1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Liveramp's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
+1. Might wanna dedicate a whole chapter to your own depression, collision with suicidal thoughts, how you've learned to deal with them, how you've accepted other people handle them when made aware, and how you used all of this to feel out the situation: did the government and private actors that positioned themselves against me at Vouch not care about my mental health, and in fact, seek to take advantage of it should I make it seem more unstable on purpose than not? I'll admit this was dishonest to my therapist, but, it was a special situation
+
+
+### Outline
+
+1. Start by going over history of therapy, describe CBT process as the way I handle "triggering" thoughts and have for over a decade. Describe the idea of evolutionary psychology and say you're a believer; but it took a lot more work than just taking pills, I had to make the change, not my therapists or some doctor. Emphasize the work and that other options are essentailly shortcuts, to you. That said, beacuse you can handle when others try and trigger you, this process involved a changing of my own personal character such to "counter trigger" those trying to trigger me with, say, shit about the Sandanistas, for an example.
+1. Go over early April, suicidality, wanting to talk to family with therapist, your family and especailly your sister's shadyiness there, ultimately your therapist suggests it may be a bad idea.
+1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Amrita Mallik. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
+1. Go over pre LR - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
+1. Probably best to end on finally getting the LR laptop on the morning of your first day after all the shipping awkwardness
 # Pt 2.5 - A flash to the future
 
 ### Somewhere near the end of July, in my bathroom, with the door open, with my ipad out, reading random things about computers or guitars until I worked up the swerve to masturabte to internet porn
@@ -1595,6 +1612,35 @@ I started panicking and figure'd it'd be best to, if yet again, see if anyone wo
 I remember having one last thought as I left my bathroom to take a walk outside:
 
 _These fuckers better not throw me in the East River either. Sure I act like a Cosmo Kramer from_ Seinfeld _, sure, but I'm not trying to take things that far._
+# Part 3: The Liveramp Fiasco
+
+### Goals
+
+1. I mean, lol, just try not to sound like you're bragging. Or that you had as much fun as you did. That shit was hilarious though.
+1. I think it might be good to have a flashback to twitch streaming from late 2017-early 2021 ish as an explanation of a) how you familiarized yourself with "reading faces" while on computer webcams before the general population could w/ covid, and you were familiar with tells such as "are they reading from a chat log like literally every twitch channel" etc. Also, this would explain how you may be... used to... acting as a "psuedo character" while on live audio / video feeds, though, that character was a "video game developer" and is a lot closer to "literally really you." Maybe, leave the identity crisis parts out.
+1. This was why I may have seemed like I had "training" that put me ahead of... middle managers in tech mostly, who have no "intelligence" training, and then intelligence workers who may not be as aware of technological shifts due to being "in the field" and realize that the things I knew most of the "younger generation" that populated twitch (the development channels skew older, but, it's still younger) would know to a certain percentage. This type of surveillance "technique" -- audio surveillance converted to chat logs for your manager to be able to read in real time or at a later time what you were saying to your laptop -- would be the type of things children in America already knew how to, well, counter, intelligence wise. I just knew it because I thought streaming myself learning game development as a professional web programmer would be interesting (it was, sort of, but also a drag, streaming is a lot of effort).
+1. Use the above as an... onramp?... to what happened the week of 05-22-2022, against being pissed off that these people were selling some bullshit ass software that was obviously NOT working out, why you, felt confident doing what you did. Also, audio surveillance not made like, clear, is not terribly admissable in court, and if they just.. asked me about what I was saying while on "mute"... well, I was literally, actually, working on a character, I was acting. Woops. Do you want to give me something to do at work so you can judge me on that? Because... I didn't ge tmuch of that here either.
+1. Definitely a decision to be made here with regards to how much I reference _Burn Notice_ because it's almost too easy
+1. Need to decide how much of "pre liveramp" needs to be discussed. Not sure anything outside of a quick chapter may be necessary, perhaps two.
+1. Big decision on how much of the markdown essays should be here. They're great but... long... and... confusing, though I wrote them that way on purpose a bit.
+1. Open a chapter / section with the pontification I've had that the second ammendment is misread wrt firearms -- the real question is when the government has tipped over into tyranny, should the citzenry have anything to do with it? Or just watch facsism rise and allow a new normal to be justified by a court system that is suffocated by a non working legislative system led by an executive system that seeks celebrity and fame given the success it perhaps cheated to win with doesn't satisfy it's ego? Again, if the government is behaving tyranical, and I didn't use firearms to stop it, how am I not just using my second ammendment right with another technology: audio surveillance? Originalism works in my favor, yes, albeit in my opinion, but with no bullets spent.
+
+### Outline (remaining to write)
+
+1. Quick intro chapter going over Twitch history and reading faces re: chat, then lead to social media socialism video game times in 2021 as a reason the cenrist Dems may be targeting you...
+1. ... especially in light of the recent Dem's failure to secure Abortion vote, light suspicions you held of your actions being what caused their distractions & distrust amongst their own ranks
+1. First week of LR -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
+1. Pissed off that you had to go through this bullshit, and relizing that your therapist was involved, talk about the markdown essays
+1. Second week -- keep testing the above, get the strongest reaction wrt "the blown cover hair flip moment," being offended that many people were involved and at ages you found offensive, also consider that the hair flip was an attempt to intimidate me via gender egoisms I don't really have (I'm for all skittles haired people of all genders).
+1. Weekend after second week -- You're going to have to talk about the Friday Night Loser porn thing. It's become historically important, apparently. Sorry, to the ghost of Ewen Cameron, I'm guessing you thought this shit would die wth you. Alas. Discuss thinking that that wasn't _enough_ to stop what was clearly a financial opportunity, and you hadn't realized it til Saturday morning / afternoon. Discuss realizing the financial thing on Saturday, and realizing the best thing for you to do for your country was to involve wall st and make sure the widest audience saw this backfire in the most spectacular of ways. Talk about _Burn Notice_, and how one of it's central points was that to take down a criminal organization -- particularly one with government connections -- you just have to threaten the leadership, and I made a plan to threaten the leadership's ego while jeopardizing the thing they were selling to their clients: security.
+1. Third week -- well, you being weird is one thing, but also, discuss your suspicions with the TV hack, and whether or not that's true it may have influenced a certain side to try and convince me this was "something else" -- discuss the 30 cops vs 1 criminal arrest sideshow outsdie of your apartment, putting the markdown essays onto github
+1. Memorial day weekend -- discuss the weird rocky & bowinkle villains you thought were hired models meant to make me think they were "russian spies" or some shit and started to wonder if there are two sides to this clown show. One side is trying to keep this "investigation" as honest as possible, and another side wants to make it hilarious and stupid as fuck. 
+1. Fourth week -- shifting from murder talk to corporate "your company's kind of disorganized but that's ok" talk on mute, seeing effects
+1. June 4th weekend -- hamburgers, tevas, and shit talking with a side of thinking about keeping calm and celebrity birth-spawn. End with June 5th debit card fiasco, where you knew that there was clearly two sides -- one was honest and wearing a bjork shirt, even if they were investigating me, and the other was just trying to fuck me over anyway they could even if it meant outright fascism like using a state financed investigation to debit card fraud me because I made fun of some rich kid's shoes
+1. Think about who would have the money and the access AND the profile to be fascistly stupid af, and check Elon Musk's tweets. Realize this is maybe an attempt by some financial folks + Democrat party workers to lure Elon into donating for Dems and other finance schemes by creating some weird side show around me, realizing I'd be his dream candidate considering my profile to "prove he was right" about "this and that or whatever". But also realize that _some_ people have to be taking this seriously, and wonder if "two sides" are forming, one trying to beguile Elon Musk via his immaturity into some kind of finance scam, and another probably trying to move on from this obvious civil rights nightmare. Make a personal note that if this stops getting weird, and someone like Elon was involved, that means Elon is more mature than I thought. If it keeps getting weird, well, he's probably just another guy who doesn't get jokes and catches weird feelings about it.
+1. Last week at live ramp -- quitting, making a cover story about thinking this was a "right wing conspiracy" specifically to provide cover for the Dems, so they could feel like they "got away" with it (provided they actually "left" me alone), making the markdown essays on Bickle Bin Laden, hoping for the best. End on how you thought anyone with two cents of a writer's instict would realize I was making a joke, albiet one that would cover me from a smear of being a "violent leftist anarchist", and the biggest "tell" that this was a joke was the line about Hitler, Mussolini, and Sowell. It was there all along.
+
+
 # Pt 3.5 -- A flash to the future
 
 ### Early morning around 1AM, Sunday September the 25th outside 275 South St and under the FDR between the DSNY and Unlabled city parking areas
@@ -1628,3 +1674,37 @@ It was another time where I wish I was psychic, but I was stupified. I just star
 But I'm sure they exist _somewhere_. Video, even.
 
 Personally, I dont like to play around with fire.
+# Pt 4 - Post Liveramp, possibly up to the knife incident
+
+1. Talk about Jesse Sommer + therapist having suspicious communications that felt off and oddly connected, though, with two separate overtones: the intent to exploit and the fear of being exploited, respectively. This proved to you that the Democrats were leveraging every resource they coudl to try and paint me as a psychicatric problem.
+1. After being followed in the park, and before the "knife incident", recall making a website that was a joke called [bigbosswatch.com](https://github.com/ogbigboss/bigbossos) as a way to "respond" to being followed in the streets as described in the intro. While making this website, that weird thing with the cockroach that was of a type not native to the area happened, make sure that you read it as a "retaliation" for starting to work on a joke website. Double check dates from notes. After launching the site, they did the thing with the internet connection downing on you and the therapist, leading to the "knife incident."
+1. Catch up to the intro, get to the knife, and maybe just hint at the very end about realizing you had a big batch of bootleg DVDs and you were aware a streaming network like Netflix, particularly with their CEO's political leanings, being one of the most likely outcomes, and if you could prove it (this is pre Paula Patton), then you'd know what to do: catch up on some movies, apparently. Just a day in the life of a not spy.
+1. You could preface the walk to the police station with this internal monologue: _I love my mom, my dad, and my sister, and I really wish we could have resolved this whole situation in a peaceful way that didn't involve intimidation of my therapist via disabling our internet connections, but if my mom, dad, and sister are trying to play a game as I suspect they are, how can I best protect myself in this situation while ensuring that I don't let them get away with playing games when and where they shouldn't be. If I was wrong, I'd find out and pay some cost, but if it turns out I wasn't wrong, or things wouldn't have ever been this weird between me and my family, which, is saying something. I love them but I'm not going to lose for them if it means they have to win like this. I won't lose to them; but I do love them. So what if the government is involved? It's_ on.
+
+```
+if my_internet_and_my_therapists_internet_was_cut_to_intimidate_me then
+  if my_mothers_sudden_phone_call_after_felt_weird_for_various_reasons then
+    if I_act_out_a_routine_involving_a_precinct_visit_to_test_for_a_connection then
+        if the_cops_do_a_routine_knock_and_maybe_mental_health_check then
+          there_is_no_connection and
+          youd_have_to_tell_them_youre_practicing_method_acting_and_apologize_profusely
+        else if the_cops_dont_react_or_hesitate then
+          yeap_uh_huh_your_parents_are_playing_games_with_politicians_and_netflix_super
+        end
+      end
+    else if i_do_nothing_in_response then
+      i_wouldnt_know_if_my_parents_were_being_deceitful_given_the_political_implications
+    end
+  else if my_mom_didnt_call_after then
+    I_probably_wouldve_let_it_go_and_maybe_yelled_at_the_surveillance_monitors_at_most
+  end
+else if you_people_stopped_playing_internet_games_meant_to_intimidate_or_trigger then
+  we_wouldnt_be_reading_this_then_would_we
+end
+
+function yeap_uh_huh_your_parents_are_playing_games_with_politicians_and_netflix_super
+  pfft_time_for_some_tough_love
+end
+```
+1. Note that your mother's phone call after your therapist appt where the internet connection of both you and your therapist were cut sequentially and theatrically such to intimidate; your mother intimated your presence may be needed in Los Angeles. Realizing I may be on some reality tv concept show, and not wanting to be "pranked" in a city where it's easy to leave someone stranded miles from civilization, compounded with the fact that I don't have a driver's license, made me want to avoid the risk of going to the West Coast for whatever stupid thing this was. So part of my calculation in going with the "knife incident" was to either keep me on the East Coast by circumstance, or, if they wanted to continue playing this game then they're going to have to shoot on location in NYC. I have some conflicts here as a New Yorker; such shit can be very annoying. That said, as a fan of cinema and filmed arts of all kind, if I'm going to be forced onto a reality TV show without my consent, then god damnit it's gonna be shot on location in NYC. No offense, LA. Maybe with a driver's license.
+1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.

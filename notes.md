@@ -83,8 +83,6 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Michael Westen: [narration] When fighting in the wilderness, the biggest threats are often the ones you don't see: dehydration, exhaustion, and nerves."
 
-> "Michael Westen: [narration] For a spy, there's no shame in retreat. When faced with a more powerful enemy you're trained to get out of the way and keep moving. It's not about running away or giving up. The goal of any retreat is to find the right place to marshal your resources and make a stand. Military history is filled with stories of small forces taking on larger ones. Whether it's David fighting Goliath or the French Resistance fighting the Nazis, the strategy is basically the same. You have to choose the right ground, deploy your resources carefully, and remember that the greatest weapon in any battle is surprise."
-
 > "Michael Westen: [holding Chechik at knifepoint] You should stick to hunting things that don't fight back."
 
 > "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_

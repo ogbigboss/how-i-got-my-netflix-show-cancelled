@@ -8,7 +8,7 @@
 
 _Late July 2022_
 
-After a few years, most New Yorkers form a way to confirm their paranoias about whether or not that weird person who's been walking behind them is indeed _following_ them. One of my tricks, like many, is to pull out a cell phone or something to futz with, pause walking to begin futzing, and wait for the person to (hopefully) keep walking past.
+After a few years, most of us who lived in a big city like New York form a way to confirm their paranoias about whether or not that weird person who's been walking behind them is indeed _following_ them. One of my tricks, like many, is to pull out a cell phone or something to futz with, pause walking to begin futzing, and wait for the person to (hopefully) keep walking past.
 
 The creepy short brown haired girl in the red dress who was just a little too *close* to me not only walked past, but as I began to walk forward, she seemed to look back at me with a coy glance before turning into the park on Essex st. before Canal as I was walking back to my South St. apartment in the Lower East Side.
 
@@ -20,7 +20,7 @@ As the creepy short brown haired girl in the red dress walked into the park, she
 
 But why, from about 50 ft away, did it feel like they were all shoulders pointed in my direction, looking at me or the girl?
 
-New Yorkers also have a way of figuring out if that gang of men are oggling you in a threatening way down the street or not -- my favorite is crossing the street to see if they follow.
+New Yorkers and those from other dense cities also have a way of figuring out if that gang of men are oggling you in a threatening way down the street or not -- my favorite is crossing the street to see if they follow.
 
 Two men begin to cross, and purposelly eye me the whole time. I wait til we're about 15 feet apart and on the same side of Essex st to look up.
 

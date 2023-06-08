@@ -10,11 +10,11 @@ I'm pretty sure I went to that class one day, with my father and many other pare
 
 One summer day I picked it up and figured out how to play the basic melody to "Louie Louie" on one string as a teenager. It was the opposite string the Mel Bay book started you on, the lowest string. I eventually picked up the Mel Bay book, and after learning "Twinkle Twinkle", I was happy that I wasn't 6 years old, not necessarily because of any reason to do with me - between the years 1992 and 1998, the internet had changed quite dramatically and I could find these coarsely written "tabs" to learn my favorite Blink 182 songs with.
 
-I think I was 35 when I was watching Rick Beato on his YouTube channel interview a storied guitar player I'd learn about shortly after I picked up the guitar in earnest: famed New Yorker Joe Satriani.
+I think I was 35 when I was watching Rick Beato on his YouTube channel interview a storied guitar player I'd learn about shortly after I picked up the guitar in earnest: famed guitar player __ (nts: look I'm 99% sure it's satriani and I missed it a second ago when I rewarched their interview, but it's definitely someone talking to Beato, I think it may be Tim Pierce, but it also could be Satch w/ someone else. I'll do the research before publishing).
 
-Satriani regaled Beato with tales of learning the instrument, shared stories of their careers, and finally given they were both industry veterans in 2021, reflections on the industry. In particular, they noted that all you really need is one person who knows how to use a computer, and another person who really wants to be famous, and that's basically the formula these days; they offered in a somewhat ironic but mostly serious tone.
+The "famed guitar player" regaled Beato with tales of learning the instrument, shared stories of their careers, and finally given they were both industry veterans in 2021, reflections on the industry. In particular, they noted that all you really need is one person who knows how to use a computer, and another person who really wants to be famous, and that's basically the formula these days; they offered in a somewhat ironic but mostly serious tone.
 
-I remember Satriani saying something like this in particular:
+I remember the "famed guitar player" saying something like this in particular:
 
 > "So if you're a character, just go for it."
 
@@ -26,7 +26,7 @@ Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of 
 
 However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
 
-Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look back in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Vouch, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
+Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Vouch, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
 
 I then thought about why they were having so much fun, and I could only assume it was _awkward_ -- the assumptions about me seemed, to me, to be rooted in rascism if anything. I'm just not sure why else the whistle would have been blown on me, at least in this way, and felt that someone acted in a bigoted way and no one wanted to address the obvious political hipocricy so, well, why not act stupid as fuckly?
 

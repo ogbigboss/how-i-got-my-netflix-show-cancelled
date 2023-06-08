@@ -20,6 +20,26 @@ I remember Satriani saying something like this in particular:
 
 (nts: rewatch interview, its a really good one. Joe's got a great story about learning jazz theory I think from some character in Queens, plus the above quote I think is the very end of the interview, anyway)
 
+...
+
+Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.
+
+However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
+
+Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look back in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Vouch, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
+
+I then thought about why they were having so much fun, and I could only assume it was _awkward_ -- the assumptions about me seemed, to me, to be rooted in rascism if anything. I'm just not sure why else the whistle would have been blown on me, at least in this way, and felt that someone acted in a bigoted way and no one wanted to address the obvious political hipocricy so, well, why not act stupid as fuckly?
+
+Again reader, had I realized Razzlekhan was a thing that was to be on Netflix, and what that meant, and where the actual overlaps with mine and their lives were, I would've done _anything_ else.
+
+So anyway, back in early March, I decided to entertain the troops as much as I could, and in turn I decided to act stupid as fuckly as I could.
+
+And reader, had I realized that most of the "troops" were probably acting the way they were out of wanting to be Netflix famous, I probably would've just called a lawyer that minute.
+
+But I didn't know what Razzlekhan was in early March, 2022.
+
+...
+
 *go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
 
 ...
@@ -33,5 +53,7 @@ I remember Satriani saying something like this in particular:
 ...
 
 *talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
+
+*mention door knock in the morning from someone you assume was a fed and saw again in late July in the essex market knocking on my door and saying they got the wrong place, I at the time thought "the troops" were leaving and it was just me and my bosses aafter that -- that guy was probably working for Netflix in some capacity in retrospect*
 
 *mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*

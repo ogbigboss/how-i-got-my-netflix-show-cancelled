@@ -121,8 +121,6 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Michael: Agreed.
 > Jeffrey Donovan as etc etc etc and Todd Stashwick as Carmelo Dante
 
-> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
-
 > "[Michael Narrating]
 > Badly done surveillance, that is, surveillance you notice, can mean a lot of things. Some organizations need intelligence but can't afford to pay for training... some organizations just want you to know they're watching."
 

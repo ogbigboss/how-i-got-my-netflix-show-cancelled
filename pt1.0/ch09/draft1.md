@@ -18,8 +18,6 @@ I remember the "famed guitar player" saying something like this in particular:
 
 > "So if you're a character, just go for it."
 
-(nts: rewatch interview, its a really good one. Joe's got a great story about learning jazz theory I think from some character in Queens, plus the above quote I think is the very end of the interview, anyway)
-
 ...
 
 Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.

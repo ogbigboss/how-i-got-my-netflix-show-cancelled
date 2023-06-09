@@ -2,24 +2,6 @@
 
 > "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
 
-I've been playing guitar since about the age of 12.
-
-When I was like, 6, my dad got a cheap acoustic and signed me up for a class where one poor adult soul attempted to, simultaneously, teach about 2 dozen other 6 year olds how to play "twinkle twinkle" on one string using a Mel Bay begginner's guitar book.
-
-I'm pretty sure I went to that class one day, with my father and many other parents looking rather dubious in the back row. We kept the guitar.
-
-One summer day I picked it up and figured out how to play the basic melody to "Louie Louie" on one string as a teenager. It was the opposite string the Mel Bay book started you on, the lowest string. I eventually picked up the Mel Bay book, and after learning "Twinkle Twinkle", I was happy that I wasn't 6 years old, not necessarily because of any reason to do with me - between the years 1992 and 1998, the internet had changed quite dramatically and I could find these coarsely written "tabs" to learn my favorite Blink 182 songs with.
-
-I think I was 35 when I was watching Rick Beato on his YouTube channel interview a storied guitar player I'd learn about shortly after I picked up the guitar in earnest: famed guitar player __ (nts: look I'm 99% sure it's satriani and I missed it a second ago when I rewarched their interview, but it's definitely someone talking to Beato, I think it may be Tim Pierce, but it also could be Satch w/ someone else. I'll do the research before publishing).
-
-The "famed guitar player" regaled Beato with tales of learning the instrument, shared stories of their careers, and finally given they were both industry veterans in 2021, reflections on the industry. In particular, they noted that all you really need is one person who knows how to use a computer, and another person who really wants to be famous, and that's basically the formula these days; they offered in a somewhat ironic but mostly serious tone.
-
-I remember the "famed guitar player" saying something like this in particular:
-
-> "So if you're a character, just go for it."
-
-...
-
 Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.
 
 However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
@@ -39,6 +21,24 @@ But I didn't know what Razzlekhan was in early March, 2022.
 ...
 
 *go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
+
+...
+
+I've been playing guitar since about the age of 12.
+
+When I was like, 6, my dad got a cheap acoustic and signed me up for a class where one poor adult soul attempted to, simultaneously, teach about 2 dozen other 6 year olds how to play "twinkle twinkle" on one string using a Mel Bay begginner's guitar book.
+
+I'm pretty sure I went to that class one day, with my father and many other parents looking rather dubious in the back row. We kept the guitar.
+
+One summer day I picked it up and figured out how to play the basic melody to "Louie Louie" on one string as a teenager. It was the opposite string the Mel Bay book started you on, the lowest string. I eventually picked up the Mel Bay book, and after learning "Twinkle Twinkle", I was happy that I wasn't 6 years old, not necessarily because of any reason to do with me - between the years 1992 and 1998, the internet had changed quite dramatically and I could find these coarsely written "tabs" to learn my favorite Blink 182 songs with.
+
+I think I was 35 when I was watching Rick Beato on his YouTube channel interview a storied guitar player I'd learn about shortly after I picked up the guitar in earnest: famed guitar player __ (nts: look I'm 99% sure it's satriani and I missed it a second ago when I rewarched their interview, but it's definitely someone talking to Beato, I think it may be Tim Pierce, but it also could be Satch w/ someone else. I'll do the research before publishing).
+
+The "famed guitar player" regaled Beato with tales of learning the instrument, shared stories of their careers, and finally given they were both industry veterans in 2021, reflections on the industry. In particular, they noted that all you really need is one person who knows how to use a computer, and another person who really wants to be famous, and that's basically the formula these days; they offered in a somewhat ironic but mostly serious tone.
+
+I remember the "famed guitar player" saying something like this in particular:
+
+> "So if you're a character, just go for it."
 
 ...
 

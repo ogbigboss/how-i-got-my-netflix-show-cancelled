@@ -151,8 +151,6 @@ _Season 1 Episode 1_
 
 _Season 1 Episode 2_
 
-> Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
-
 > Michael: Fiona, you were supposed to stop the car, not blow it into the Everglades. What happened to shorting the ignition?
 >
 > Fiona: Well, you said disable. It's not going anywhere.

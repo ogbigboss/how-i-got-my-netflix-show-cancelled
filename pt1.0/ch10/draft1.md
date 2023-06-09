@@ -1,7 +1,11 @@
-# Pt I Chapter 10 - Final week at Vouch
+# Pt I Chapter 10 - A brief explanation on why I'm such, at least at this point of my life, a loser
 
-> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
 
-I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
+*explain to your dear reader why you weren't really uhhh socializing at all in any normative ways and how that may have looked given the context*
 
-Also, I was kind of pissed off about the whole thing.
+*tell them you're a loser and you knew it but it was fine since you are in between definitive states in your adult life and you're not as hung up about it as others may perceive which, normally, isn't my problem*
+
+*imply that in the context of people spying on you you didn't care because you're in your mid thirties and don't really care what people who would spend that much money and time ot spy on you would think in the first place*
+
+*finish with why you didn't care because you realized how, historically, people like you are treated after trying things like the video game project, and that, in feudal times, you'd be beheaded, and in modern times, you figure'd a federal investigation to clear your (my) name early on in my life before I get a business going may actually be the best thing for me*

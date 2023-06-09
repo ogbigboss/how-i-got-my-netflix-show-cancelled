@@ -8,7 +8,7 @@
 
 _Late July 2022_
 
-After a few years, most New Yorkers form a way to confirm their paranoias about whether or not that weird person who's been walking behind them is indeed _following_ them. One of my tricks, like many, is to pull out a cell phone or something to futz with, pause walking to begin futzing, and wait for the person to (hopefully) keep walking past.
+After a few years, most of us who lived in a big city like New York form a way to confirm their paranoias about whether or not that weird person who's been walking behind them is indeed _following_ them. One of my tricks, like many, is to pull out a cell phone or something to futz with, pause walking to begin futzing, and wait for the person to (hopefully) keep walking past.
 
 The creepy short brown haired girl in the red dress who was just a little too *close* to me not only walked past, but as I began to walk forward, she seemed to look back at me with a coy glance before turning into the park on Essex st. before Canal as I was walking back to my South St. apartment in the Lower East Side.
 
@@ -20,7 +20,7 @@ As the creepy short brown haired girl in the red dress walked into the park, she
 
 But why, from about 50 ft away, did it feel like they were all shoulders pointed in my direction, looking at me or the girl?
 
-New Yorkers also have a way of figuring out if that gang of men are oggling you in a threatening way down the street or not -- my favorite is crossing the street to see if they follow.
+New Yorkers and those from other dense cities also have a way of figuring out if that gang of men are oggling you in a threatening way down the street or not -- my favorite is crossing the street to see if they follow.
 
 Two men begin to cross, and purposelly eye me the whole time. I wait til we're about 15 feet apart and on the same side of Essex st to look up.
 
@@ -1489,7 +1489,45 @@ Yes, the charges literally have to do with the video series. And yes, I'm writin
 But that's 2023. Let's get back to early March 2022.
 # Pt 1 Ch 9 - Back to my fifth week at Vouch 03/08/2022 and on
 
+> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
+
+Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.
+
+However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
+
+Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Vouch, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
+
+I then thought about why they were having so much fun, and I could only assume it was _awkward_ -- the assumptions about me seemed, to me, to be rooted in rascism if anything. I'm just not sure why else the whistle would have been blown on me, at least in this way, and felt that someone acted in a bigoted way and no one wanted to address the obvious political hipocricy so, well, why not act stupid as fuckly?
+
+Again reader, had I realized Razzlekhan was a thing that was to be on Netflix, and what that meant, and where the actual overlaps with mine and their lives were, I would've done _anything_ else.
+
+So anyway, back in early March, I decided to entertain the troops as much as I could, and in turn I decided to act stupid as fuckly as I could.
+
+And reader, had I realized that most of the "troops" were probably acting the way they were out of wanting to be Netflix famous, I probably would've just called a lawyer that minute.
+
+But I didn't know what Razzlekhan was in early March, 2022.
+
+...
+
 *go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
+
+...
+
+I've been playing guitar since about the age of 12.
+
+When I was like, 6, my dad got a cheap acoustic and signed me up for a class where one poor adult soul attempted to, simultaneously, teach about 2 dozen other 6 year olds how to play "twinkle twinkle" on one string using a Mel Bay begginner's guitar book.
+
+I'm pretty sure I went to that class one day, with my father and many other parents looking rather dubious in the back row. We kept the guitar.
+
+One summer day I picked it up and figured out how to play the basic melody to "Louie Louie" on one string as a teenager. It was the opposite string the Mel Bay book started you on, the lowest string. I eventually picked up the Mel Bay book, and after learning "Twinkle Twinkle", I was happy that I wasn't 6 years old, not necessarily because of any reason to do with me - between the years 1992 and 1998, the internet had changed quite dramatically and I could find these coarsely written "tabs" to learn my favorite Blink 182 songs with.
+
+I think I was 35 when I was watching Rick Beato on his YouTube channel interview a storied guitar player I'd learn about shortly after I picked up the guitar in earnest: famed guitar player __ (nts: look I'm 99% sure it's satriani and I missed it a second ago when I rewarched their interview, but it's definitely someone talking to Beato, I think it may be Tim Pierce, but it also could be Satch w/ someone else. I'll do the research before publishing).
+
+The "famed guitar player" regaled Beato with tales of learning the instrument, shared stories of their careers, and finally given they were both industry veterans in 2021, reflections on the industry. In particular, they noted that all you really need is one person who knows how to use a computer, and another person who really wants to be famous, and that's basically the formula these days; they offered in a somewhat ironic but mostly serious tone.
+
+I remember the "famed guitar player" saying something like this in particular:
+
+> "So if you're a character, just go for it."
 
 ...
 
@@ -1503,8 +1541,21 @@ But that's 2023. Let's get back to early March 2022.
 
 *talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
 
+*mention door knock in the morning from someone you assume was a fed and saw again in late July in the essex market knocking on my door and saying they got the wrong place, I at the time thought "the troops" were leaving and it was just me and my bosses aafter that -- that guy was probably working for Netflix in some capacity in retrospect*
+
 *mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*
-# Pt I Chapter 10 - Final week at Vouch
+# Pt I Chapter 10 - A brief explanation on why I'm such, at least at this point of my life, a loser
+
+> Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
+
+*explain to your dear reader why you weren't really uhhh socializing at all in any normative ways and how that may have looked given the context*
+
+*tell them you're a loser and you knew it but it was fine since you are in between definitive states in your adult life and you're not as hung up about it as others may perceive which, normally, isn't my problem*
+
+*imply that in the context of people spying on you you didn't care because you're in your mid thirties and don't really care what people who would spend that much money and time ot spy on you would think in the first place*
+
+*finish with why you didn't care because you realized how, historically, people like you are treated after trying things like the video game project, and that, in feudal times, you'd be beheaded, and in modern times, you figure'd a federal investigation to clear your (my) name early on in my life before I get a business going may actually be the best thing for me*
+# Pt I Chapter 11 - Final week at Vouch
 
 > "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
@@ -1579,6 +1630,7 @@ And, apparently, your younger co workers of the opposite gender.
 
 ### Goals
 
+1. You need to bring up making a "tiktok" just to try and give people you assumed were just federal investigators the feeling like all you wanted was to be a social media musician so they would fuck off and just let me play guitar covers and not act liek idiots at Liveramp. Instead, I think this really made everyone act super idiotically at Liveramp, considering the Razzlekhan thing. Some must've thought it "fit the content," others may have thought I was trying to "send a message", and well it'd be SO funny to bring up the fact that I'm pretty sure I covered 99 red ballons (nts: check tiktok stop being embarssed about it) -- I literally stopped because of hwo stupid Liveramp's investigation got
 1. Talk about being depressed in the past, using therapy to not be as fucked up about it, but kind of lying about it to see if the government or whomever would try and use that against me (they did, they keep trying to, it's horrifying in it's implications)
 1. Talk about patching yourself up over the next few weeks, being vocal -- just in case anyone was listening -- about a lot of my problems as a way to also just self talk my way through my problems. If whomever was listening got "pissed off" at my insinuation that many of my issues are from how I was raised, in weird subtle ways, then that was a heavy indicator that if things continued then somehow someone else's career now may hinge on the fact that they believe my mother's perspective of my own childhood more than mine, which, I can understand for my family arguments, but even my own mother never risked her career or livelihood over validating her or my perspective, we just have sore feelings over it. Whcih is to say, I didn't care if anyone listened to my self talk, I was actually legit very depressed, but paging further reactions to it for sure, beign aware that I knew I was talking out loud about my personal problems, as well as with my therapist
 1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Liveramp's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
@@ -1741,6 +1793,7 @@ end
 ```
 1. Note that your mother's phone call after your therapist appt where the internet connection of both you and your therapist were cut sequentially and theatrically such to intimidate; your mother intimated your presence may be needed in Los Angeles. Realizing I may be on some reality tv concept show, and not wanting to be "pranked" in a city where it's easy to leave someone stranded miles from civilization, compounded with the fact that I don't have a driver's license, made me want to avoid the risk of going to the West Coast for whatever stupid thing this was. So part of my calculation in going with the "knife incident" was to either keep me on the East Coast by circumstance, or, if they wanted to continue playing this game then they're going to have to shoot on location in NYC. I have some conflicts here as a New Yorker; such shit can be very annoying. That said, as a fan of cinema and filmed arts of all kind, if I'm going to be forced onto a reality TV show without my consent, then god damnit it's gonna be shot on location in NYC. No offense, LA. Maybe with a driver's license.
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
+1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Aparna Mallik, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
 # Potential remaining outline (in parts)
 
 1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.

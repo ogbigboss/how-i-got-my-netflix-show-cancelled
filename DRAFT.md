@@ -1768,9 +1768,45 @@ I've been doing the above 4 step process for over a decade now.
 
 It really helps, so I did it for this case.
 
-*CBT steps for the above*
+1. Identify what triggered you
 
-*Deciding that without therapy, I would be suicidal, and I should leave a trail of that to see if they'd react, becaues then there'd be a record of whomeever is doing this stupid ass shit in taking advantage of my mental health instead of fucking off and letting me be*
+_I'm pretty sure my sister, my employer, and my government have put me under some dipshitted investigation that no one outside of some opportunists are taking seriously, and that given those constraints, I'll probably never hear the truth about at best or at worst will be thrown into a hole for the rest of my life and everyone's gonna get away with this like it was nothing._
+
+2. Summarize it into one thought, emotionally
+
+_I'm getting fucked over by my family, my employer, and my country. My family has difficulties with me and at least I owe back taxes; not sure what Vouch's deal is._
+
+Sometimes I'm flexible with the rules; that was two thoughts.
+
+3. Summarize it into one or two words, emotionally
+
+_Fear and anger_
+
+4. Try and turn it around or see it another way
+
+_Well, I am handling this like a fucking legend. I'm gonna be a weird story for sure to a bunch of random spooks no matter what happens. It's not the worst thing for a fan of_ Burn Notice. _Not something I'll ever get to share but every now and then someone's gonna give me a funny look and I'll just assume that they were involved in this and move on, smiling back if I can._
+
+At this point, thinking of how Michael Westen's fictitious family consistently does NOT rat him out to the government despite several opporutnities to do so, I was triggered yet again and had to repeat the above cycle.
+
+I didn't feel that bad. I wasn't that afraid, certainly not after turning things around. That said... me having a history of therapy, and a succesful one, is rare in the population in general.
+
+_They might do this stupid ass shit again. Someone's gonna kill themselves if many haven't already like this. How can I make this worse so these people don't do this again?_
+
+I thought about a lot of the characters in _Burn Notice_, and perhaps I thought of Lucy Lawless' assassin in Season 1, who kills herself to avoid Michael from taking her to the authorities.
+
+It's probably a pretty common ending for a lot of "super duper secret covert" folks.
+
+Also, I wanted to find out, just exactly what kind of moral behavior could I expect from these people?
+
+Could I get them to _not_ react, and show some sense of shame?
+
+I thought and came up with something like this, saying it aloud to my laptop at some point after midnight.
+
+> "Sigh. Well, you're all obviously connected to money and DC. I don't really know who you are, but looking at things, if Wallace was the guy that fingered me through a mob connection and that's how this started... well, look, I'm gonna take a walk and if you have to take me out, then, you know, do what you have to do. Otherwise, I think I'm gonna buy some cream cheese. But do what you need to do."
+
+I think I acted wistfully about the day or some shit, and tried to give the impression of a person accepting their death or imprisonment under the kind of terms that often comes with representing but being outside of the law, say, on movies and TV shows like _Burn Notice._
+
+...
 
 *Take the walk of death, make analogy between 1-10 scale for suicidality and a 0-100% chance of them killing you IRL, and putting it at 15%*
 

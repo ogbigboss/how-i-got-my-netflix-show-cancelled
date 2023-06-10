@@ -146,6 +146,8 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 >
 > Sam: Well, that's why I think our best bet might be to have a friend inside. They speak the same language. Someone to talk to, confide in.
 
+> [Michael Narrating] One issue in dealing with modern criminal gangs is that their operations are diversified. The heat shielding you hope is hiding a human smuggling operation could be hiding radio emissions from software pirating computers.
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

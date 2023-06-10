@@ -1810,8 +1810,16 @@ It really helps, so I did it for this case.
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
 Also, I was kind of pissed off about the whole thing.
-# Chapter 11 - First Week post Vouch, 3/21/22
-# Chapter 12 - Second Week post Vouch, 3/27/22
+# Chapter 12 - First Week post Vouch, 3/21/22
+
+> Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.
+>
+> Michael: We don't have a deep bench here.
+>
+> Sam: I don't know. I think we can do it. Fi grabs the guy. She's the extraction team. You and me tag team the guy on questions, we do the sunglasses, the suit, the whole bit... make him think he's up against every agency with initials.
+# Chapter 13 - Second Week post Vouch, 3/27/22
+
+> [Michael narrating while being beaten by Fiona] It's unfortunate but true that no makeup can simulate blood and bruises well enough to stand up to close observation. So if your cover requires looking like you've been beaten... you have to get beaten.
 
 # Pt 1.5 -- A flash to the future
 

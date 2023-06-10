@@ -134,6 +134,18 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
+> [Michael Narrating] Stun guns are a great way to bring down a larger opponent. The only problem is, if you use one on someone who's touching you, you'll zap yourself too.
+
+> [Michael Narrating] The fact is, torture is for sadists and thugs. It's like getting groceries with a flamethrower. It doesn't work, and it makes a mess. Getting useful information is about creating a new reality for the interrogation subject with no hope of escape or freedom. You control every aspect of their world. How they eat, where they sleep. Even whether it's day or night. When it's time to ask questions, you want them disoriented, anxious, wondering who you are and what you can do to them. You have to make them understand that their entire future, their hopes, their dreams... every breath they will ever take from then on it all depends on one thing.
+
+> This one might be good to introduce the Ellen Saroterelli character
+>
+> Sam: I mean, this guy's gulag tough. I've seen the type. Now, after a month, when he's been in isolation so long he's howling at the moon, you know, maybe.
+>
+> Michael: We got three days, Sam.
+>
+> Sam: Well, that's why I think our best bet might be to have a friend inside. They speak the same language. Someone to talk to, confide in.
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

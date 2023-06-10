@@ -112,9 +112,9 @@ Followed by some other shit like this:
 
 > "Look, sorry Vouch, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
 
-Pretty sure 6 months later I'd be setup by the DNC KHive while in the audience of a Bruce Springsteen / Jann Wenner on-stage interview, but reader, I didn't take the bait -- you could say that a champ like me, baby, I was Born to Run - but, I digress.
+Pretty sure 6 months later I'd be setup by the DNC KHive while in the audience of a Bruce Springsteen / Jann Wenner on-stage interview, but reader, I didn't take the bait -- you could say that a champ like me, baby, I was Born to Run, or perhaps, preferred to not gather some wack ass "how do you do fellow kids lets talk about supporting the FTC and call it a culture council" moss - but, I digress. 6 months later I had realized I was on some kind of Reality TV show at least.
 
-Back to March 2022 - I kept saying shit inferring the above, but making it clear that I was "done" or "out".
+Back to March 2022, I just thought my bosses tried playing with the government looked stupid for it - I kept saying shit inferring the above, but making it clear that I was "done" or "out".
 
 I'm pretty sure I wasn't in meetings, I was just talking out loud to a laptop.
 

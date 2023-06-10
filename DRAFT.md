@@ -1533,7 +1533,7 @@ I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out
 
 ...
 
-I have serious concerns that the DNC KHive distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.
+I have serious concerns that the DNC KHive along with Netflix and possibly Higher Grounds Productions distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.
 
 ...
 

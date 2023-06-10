@@ -1721,7 +1721,12 @@ I guess I underestimated my audience, in terms of stature amongst other things.
 *to re-introduce Vouch, given that the next chapter is quitting the company, make a brief reflection on the work you were assigned while there -- two tasks, one seeming suspicious as though they wanted to know something about image bullshit -- but underline that over a month period you received little to no direction or direct work orders, pointing to at best internal disorganization and at worst internal disorganization due to a Netflix show*
 # Pt I Chapter 11 - Final week at Vouch
 
-> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> Waseem: - I'm Waseem Alihan. And you are?
+> Michael: - Just a friend who needs a favor.
+>
+> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
+>
+> Michael: So direct. It's refreshing.
 
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 

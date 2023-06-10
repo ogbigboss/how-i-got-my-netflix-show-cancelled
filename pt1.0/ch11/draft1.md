@@ -1,6 +1,11 @@
 # Pt I Chapter 11 - Final week at Vouch
 
-> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> Waseem: - I'm Waseem Alihan. And you are?
+> Michael: - Just a friend who needs a favor.
+>
+> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
+>
+> Michael: So direct. It's refreshing.
 
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 

@@ -130,6 +130,10 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Just tell mike it's not personal, okay? Last time I saw him, there was this kind of, you know, 'do this for me or we're enemies for life' vibe. It scared me a little." - Paul Tei as Barry Burkowski from Broadcast TV's _Burn Notice_
 
+> [ Michael Narrating ] Exploiting an asset is easier when they have a vice... an addiction you can feed– drugs, money, respect, women.
+
+> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+
 _Season 1 Episode 1_
 
 > * use to describe how a computer programmer could be framed easily by their company or the government using API keys, analogies are easy *

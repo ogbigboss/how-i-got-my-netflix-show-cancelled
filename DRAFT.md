@@ -1519,7 +1519,35 @@ But I didn't know what Razzlekhan was in early March, 2022.
 
 ...
 
-*go back to getting back home from the walk, talk about the rest of that day, communicating to whomever was listening that you were well aware of what just took place and what it meant*
+I really wish I had been recording myself.
+
+I really should have been at least taking some contemporaneous notes.
+
+That said, I chose not to do these things on purpose at the time because my goal was to get this thing shut down _without_ leaving evidence so whomeever did this stupid ass shit would be handled internally in whater 2 or 3 or 4 letter department let this happen.
+
+I really didn't think this or any White House administration, nor the country in general, needed to embarass itself considering how much effort I took to _not_ do anything illegal or extreme with regards to my "social media leftist" project. I knew that anything they took further would, in the end, embarass them and make them look fascist. I kind of figure'd they'd realize that on their own.
+
+Like I said, I hadn't really thought I could be on a TV show -- that's what I was making fun of my bosses for acting like!
+
+Anyway, when I got home from that walk, after realizing that not only was I followed, I was being surveilled and my movements were being planned against, AND they were for some reason having fun with it and telling each other things like "quick! run ahead of him and flex your ass funny ok, like you were a gay! Gary, I can say a gay, that's ok with you right?" over headset mics and earpieces.
+
+Or so I presumed. It's funny I didn't think _more_ about the possibility of being on a TV show at the time. But I digress.
+
+When I got back home I went to my window so I could look outside across the street and made sure my laptop was nearby as I chastised them.
+
+Again, I can't remember _exactly_ what I said. But I made it clear that I thought the following about a group of people I would come to later, but perhaps then, often describe directly as "you fucks."
+
+1. You fucks aren't one department, you're several, and some are private folks, meaning this isn't anything official
+1. Some of you fucks are from around here, and some of you aren't, and some of you fucks are hackers, and some of you are johnny law types
+1. Zero of you fucks are taking this seriously
+
+I made fun of how dumb the situation was, mostly, as I recall, and at some point after telling everyone to go home, I got back to work.
+
+I think I said one thing though, just to keep some hope alive in those dumb enough to believe that, given how much change the FBI could say I had in my bank accounts, I was some kind of super hacker.
+
+> "Look, you want to know about me? I used to do some things, with some people, but that's gone now and so are many of them. You happy?"
+
+At least that's the best I can remember. I don't think I really started _lying_ lying until the next day.
 
 ...
 

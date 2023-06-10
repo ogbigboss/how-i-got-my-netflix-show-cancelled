@@ -98,6 +98,8 @@ I lied about the music.
 
 My favorite thing about _Burn Notice_ is Jeffrey Donovan's weird characters that he uses when he goes "under cover" -- there's the crime guy from Bahston, the crime guy from the Redneck Riviera, the crime guy from New Yahk, the mines diamonds but murders the villagers first guy from Australia or maybe somewhere else idk, and many, many more, alongside the equally hilarious caricatures "tactically deployed" by the characters played by Gabrielle Anwar, Bruce Campbell, Coby Bell, Sharon Gless, and many more. They're all great. And yeah, I find them, well, hilarious.
 
+Anyway, the character Michael Westen had numerous skills, but, the show most often relied on his skill of figuring out people and getting them to commit crimes that defame or incriminate them.
+
 So I _think_, as I was really just kind of "riffing", I started playing what to me would be an obviously fake version of a Michael Westen, of some sorts, whom, is just a computer programmer now.
 
 The downfall of camp can be in it's misinterpretation, of course. 

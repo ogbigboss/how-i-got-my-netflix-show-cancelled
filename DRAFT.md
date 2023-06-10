@@ -1545,6 +1545,8 @@ Ms. Tanden has a storied history of "Social Media Beef." Politico desribed her i
 
 I believe she was motivated to take her personal failure out on my future, and played a key role in manipulating my family to act against me as an Indian American -- we both have roots in a country which sold itself out to the British for nearly four centuries; such things as they say takes a village.
 
+(Reader, you may find it interesting that literally 10 minutes after I saved this to a privately owned location on the internet, I received a rejection from an application I made to join the USDS, or the United States Digital Service, as a web developer. At 2:30 PM, on a Saturday afternoon, June 10th, 2023. A rather uncommon time for anyone in the USDS to work, or any civil service worker for that matter -- maybe Ms. Tanden's influence on the USDS at the beggining of her tenure in the Biden / Harris administration had something to do with it.)
+
 ...
 
 I have serious concerns that the DNC KHive along with Netflix and possibly Higher Grounds Productions distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.

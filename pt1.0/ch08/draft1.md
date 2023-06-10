@@ -30,7 +30,7 @@ Reader, here are the reasons I am suspicious that the DNC, led by the Biden / Ha
 
 When joining Vouch, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
 
-I believe Vouch reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
+In late January or possibly sometime in February to March 2022, I believe Vouch reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
 
 At this point, I believe that Vouch, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If Vouch was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
 

@@ -1657,6 +1657,12 @@ I remember the "famed guitar player" saying something like this in particular:
 *imply that in the context of people spying on you you didn't care because you're in your mid thirties and don't really care what people who would spend that much money and time ot spy on you would think in the first place*
 
 *finish with why you didn't care because you realized how, historically, people like you are treated after trying things like the video game project, and that, in feudal times, you'd be beheaded, and in modern times, you figure'd a federal investigation to clear your (my) name early on in my life before I get a business going may actually be the best thing for me*
+
+...
+
+*get back to the weekend and reflect on the meeting where the guy with the dog seemed, well, excited about the whole thing, and talk about how you were concerned Vouch was treating this interanlly as a matter of gossip. Reflect on the Sandanista-baiter and how they both likely dyed their hair recently AND seemed very, well, excited, and talk about how at the time you read it as gossip. "reader, had I known about Razzlekhan or gave a fuck about reality tv or true crime etc etc"*
+
+*to re-introduce Vouch, given that the next chapter is quitting the company, make a brief reflection on the work you were assigned while there -- two tasks, one seeming suspicious as though they wanted to know something about image bullshit -- but underline that over a month period you received little to no direction or direct work orders, pointing to at best internal disorganization and at worst internal disorganization due to a Netflix show*
 # Pt I Chapter 11 - Final week at Vouch
 
 > "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_

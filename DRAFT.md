@@ -181,7 +181,11 @@ The login page being the first page I looked at had a lot to do with the website
 
 While looking at the login page for Vouch's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Vouch - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
 
-I'm pretty sure I said some judgemental things out loud such as "why would they still be using this?" I'm not really... _sure_ what I said, to be honest, because I was just wondering why a company that size, with that many developers, without the need for dynamic machine to machine keys or anything really that Auth0 provides -- why would they need this?
+I'm pretty sure I said some judgemental things, and out loud but to myself as I said before, such as:
+
+> "Why would they still be using this? Are they not equipped enough to handle authentication internally with this many developers? Maybe there's a reason but that seems kind of sloppy if you ask me. They even have the more tacked on version than not. Why pay so much money for a service? Whatever, at least I'm familiar with it."
+
+I'm not really... _sure_ what I said, to be honest, because I was just wondering why a company that size, with that many developers, without the need for dynamic machine to machine keys or anything really that Auth0 provides -- why would they need this?
 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 
@@ -1623,7 +1627,7 @@ I remember the "famed guitar player" saying something like this in particular:
 
 ...
 
-*talk about that evening, seeing if they would react to me letting them kill me if they wanted to*
+*talk about that evening, realizing there's no way the government would step this far without at least talking to my sister who has worked for their employ in some way twice though yes as a civilian, looking up Wallace and wondering more about him, deciding I might as well see if they would react to me letting them kill me if they wanted to in order to lay down more breadcrumbs of inappropriate behavior to be exposed at a later time internally so I can go back to being a well paid normal computer programmer who occassionally talks through programming problems out loud*
 
 ...
 
@@ -1732,6 +1736,7 @@ And, apparently, your younger co workers of the opposite gender.
 1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Amrita Mallik. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
 1. Go over pre LR - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
 1. Probably best to end on finally getting the LR laptop on the morning of your first day after all the shipping awkwardness
+1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to LR.
 # Pt 2.5 - A flash to the future
 
 ### Somewhere near the end of July, in my bathroom, with the door open, with my ipad out, reading random things about computers or guitars until I worked up the swerve to masturabte to internet porn

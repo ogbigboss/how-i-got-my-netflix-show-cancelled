@@ -69,7 +69,11 @@ The login page being the first page I looked at had a lot to do with the website
 
 While looking at the login page for Vouch's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Vouch - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
 
-I'm pretty sure I said some judgemental things out loud such as "why would they still be using this?" I'm not really... _sure_ what I said, to be honest, because I was just wondering why a company that size, with that many developers, without the need for dynamic machine to machine keys or anything really that Auth0 provides -- why would they need this?
+I'm pretty sure I said some judgemental things, and out loud but to myself as I said before, such as:
+
+> "Why would they still be using this? Are they not equipped enough to handle authentication internally with this many developers? Maybe there's a reason but that seems kind of sloppy if you ask me. They even have the more tacked on version than not. Why pay so much money for a service? Whatever, at least I'm familiar with it."
+
+I'm not really... _sure_ what I said, to be honest, because I was just wondering why a company that size, with that many developers, without the need for dynamic machine to machine keys or anything really that Auth0 provides -- why would they need this?
 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 

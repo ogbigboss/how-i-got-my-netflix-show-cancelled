@@ -74,7 +74,7 @@ I remember the "famed guitar player" saying something like this in particular:
 
 ...
 
-*talk about that evening, seeing if they would react to me letting them kill me if they wanted to*
+*talk about that evening, realizing there's no way the government would step this far without at least talking to my sister who has worked for their employ in some way twice though yes as a civilian, looking up Wallace and wondering more about him, deciding I might as well see if they would react to me letting them kill me if they wanted to in order to lay down more breadcrumbs of inappropriate behavior to be exposed at a later time internally so I can go back to being a well paid normal computer programmer who occassionally talks through programming problems out loud*
 
 ...
 

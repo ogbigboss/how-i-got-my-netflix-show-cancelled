@@ -94,6 +94,16 @@ This "streaming network" has been putting out a more consistent form of garbo en
 
 I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at Vouch, collapsing further to $200 a share when I started working at Liveramp, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
 
+10. *Neera Tanden may have played a role given her ability to control WH messaging at the time as the Staff Secretary to POTUS Biden and may have been motivated due to her long history of Social Media fueds*
+
+Ms. Tanden, a fellow Indian American, may have also played a role in ensuring the POTUS had little to no input or at best late notice of this gross overlap of private business, donor interests, literally military services with regards to the intelligence network, fucking Netflix, and for political purposes that spell out Fascism.
+
+I believe POTUS Biden may have avoided this situation had they known more and I belive Ms. Tanden used her position as the Staff Secretary to influence the flow of information to allow the KHive DNC to conduct an investigation and attempt to frame me for political as well as personal purposes.
+
+Ms. Tanden has a storied history of "Social Media Beef." Politico desribed her in a matter of fact style as "known for her combative Twitter feed and in-your-face politics" [link](https://www.politico.com/news/2021/05/14/neera-tanden-white-house-488375), and I believe this reputation caused her to see me like many other within the KHive DNC as a target for a political beef I played little role in, but which may have caused Ms. Tanden to be rejected for what is usually a routine nomination to the OMB's office.
+
+I believe she was motivated to take her personal failure out on my future, and played a key role in manipulating my family to act against me as an Indian American -- we both have roots in a country which sold itself out to the British for nearly four centuries; such things as they say takes a village.
+
 ...
 
 I have serious concerns that the DNC KHive along with Netflix and possibly Higher Grounds Productions distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.

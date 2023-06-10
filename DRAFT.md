@@ -1695,11 +1695,90 @@ I guess I underestimated my audience, in terms of stature amongst other things.
 
 *talk about that evening, realizing there's no way the government would step this far without at least talking to my sister who has worked for their employ in some way twice though yes as a civilian, looking up Wallace and wondering more about him, deciding I might as well see if they would react to me letting them kill me if they wanted to in order to lay down more breadcrumbs of inappropriate behavior to be exposed at a later time internally so I can go back to being a well paid normal computer programmer who occassionally talks through programming problems out loud*
 
+As the evening came, none of the cars across the street showed any indication of moving, and in fact seemed to be going in and out every now and then.
+
+I figure'd it was to pickup food, mostly.
+
+I remember thinking to myself _well ok, this is dumb. There's no way the government would get themselves this involved without first talking to at least some of my relations, especially if any worked in the government... like my sister, for example, who was currently employed by the court system, as well as having a previous stint in the EOC._ And I sighed.
+
+My sister and I have been estranged for around the last 5 years. I've had numerous difficult situations with my family in the past that are probably more than common to first generation immigrant families. Growing up, my sister would often be the one to offer perspectives to my parents to realize that things may be different here -- her being older, this is also very common.
+
+As me and my sister grew older, particularly after she went to college at Brown University, I felt a type of animosity between the two of us. I believe she feels the parents were much harder on her, and that she was held back socially in ways I didn't have to deal with growing up, and as an adult resents me for it.
+
+One time when I was like 19 and back home from college and she was 23 and after her first year of law school I think, the parents were away. I spent the night at a friend's house, and told her I wouldn't be back til tomorrow because we were drinking.
+
+We had put an ounce of weed in a bottle of everclear and let it sit for a week. It seemed better to not drive home.
+
+She warned that the parents wouldn't want that, and when they came home two days later, she tried to "rat me out" and see if htey'd yell at me.
+
+They were confused and didn't care. I yelled at her a bit for that, and I regret some of the words I said.
+
+If, some 15 years later, my sister had an opportunity to say to the parents that I was under a Federal Investigation and was actually a criminal this whole time well... she might, it really wouldn't suprise me.
+
+Idk. We've been estranged for well, not shit as stupid as that, but certainly shit like that. I'd prefer her help me out when it comes to my parents a bit more, and I think she'd prefer to... play out some weird sibling melodrama.
+
+Awkward, I know. In retrospect this must have been very easy for certain actors to exploit.
+
+The thought made me somewhat depressed.
+
 ...
 
-*talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
+Later that evening, I decided to go over the scenario a bit more, and somehow came back to the John Wallace message in the DEI chat. Days later he still hadn't edited it.
+
+I wondered -- what if Rajat was being truthful and it was John? Would my theory about him being the guy who hit on Rachel, a 40 year old entry into tech, work out in any other ways?
+
+I remember he recently moved from Wisconsin to Chicago. I looked up the neighborhoods - in WI, he lived in the suburbs. In Chicago, well, it's Chicago. It's a city.
+
+Who moves from the suburbs to a city in their late 40s and is a corporate executive type?
+
+A divorced dork ass loser corporate executive type.
+
+I checked public divorce records in Wisconsin and found information that would match up to Wallace, and indicating that the divorce proceedings must have taken place as he was beginning to talk to Sam Hodges and Travis Hedge about joining Vouch.
+
+I'm guessing he divorced his wife on purpose before joining Vouch to make sure she wouldn't receive his life changing "big tech" money.
+
+Historically, and to this day due to a lack of equal pay laws, it's to some degree true that a woman's best bet in terms of financial security is their marriage.
+
+I think there was something to this mix that really bothered me, considering my sister was a DEI officer and all.
+
+...
+
+_Jesus fucking christ. My sister wants to prove to the parents I'm a criminal and she lied to some feds about me in some stupid ass way and that's a good enough explanation as to why I'm here - her word would mean more than mine given her employment history._
+
+_I want to kill myself._
+
+It was just a thought.
+
+I've had a lot of therapy in my life - a lifetime where I've had to deal with suicidal thoughts.
+
+You really don't want to let them spiral. You need to deal with it in the moment, as you're triggered.
+
+My CBT based technique for such thoughts is structured in 4 steps:
+
+1. Identify what triggered you
+1. Summarize it into one thought, emotionally
+1. Summarize it into one or two words, emotionally
+1. Try and turn it around or see it another way
+
+It may not be what everyone does, but whenever I feel emotionally triggered, I do the above.
+
+CBT comes from a branch of therapy called evolutionary psychology. The idea is that you can "evolve" your brain, or grow emotionally, given repetitive exercises.
+
+I've been doing the above 4 step process for over a decade now.
+
+It really helps, so I did it for this case.
+
+*CBT steps for the above*
+
+*Deciding that without therapy, I would be suicidal, and I should leave a trail of that to see if they'd react, becaues then there'd be a record of whomeever is doing this stupid ass shit in taking advantage of my mental health instead of fucking off and letting me be*
+
+*Take the walk of death, make analogy between 1-10 scale for suicidality and a 0-100% chance of them killing you IRL, and putting it at 15%*
+
+...
 
 *mention door knock in the morning from someone you assume was a fed and saw again in late July in the essex market knocking on my door and saying they got the wrong place, I at the time thought "the troops" were leaving and it was just me and my bosses aafter that -- that guy was probably working for Netflix in some capacity in retrospect*
+
+*talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
 
 *mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*
 # Pt I Chapter 10 - A brief explanation on why I'm such, at least at this point of my life, a loser

@@ -1463,7 +1463,17 @@ Pure fascism has come to America, and it wants to be televised.
 
 Reader, here are the reasons I am suspicious that the DNC, led by the Biden / Harris admin and the "KHive", has since at most January 2022 been targeting me via the mechanism of a Netflix show formerly based on the hope that I would be connected to the behaviors of the Razzlekhan folks.
 
-1. *Guilty by association to KHive enemies on social media*
+1. *Vouch introduces me to the Biden Harris DOJ and intelligence services in an attempt to position themselves as better cyber insurance experts*
+
+When joining Vouch, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
+
+I believe Vouch reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
+
+At this point, I believe that Vouch, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If Vouch was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
+
+Perhaps they've learned a lesson about pricing utility against pure fantasy.
+
+2. *Guilty by association to KHive enemies on social media*
 
 In 2020, I attempted to raise funds for COVID 19 and Climate Change by organizing -- after the Democratic primary -- a small group of mostly Sanders supporters who had varied degrees of "internet fame" in representing a group of nearly 3 dozen "e-celebs" I'll refer to from here on as the "social media left" -- I had no true following before or after this, but I was able to get the attention of many of the social media left given the idea. 
 
@@ -1471,7 +1481,7 @@ The idea was to simultaenousely raise money as well as crowd fund a video game w
 
 It was of minor note then but I was suspicious at the time of possible DNC sabateouring from within the people I was working with, though again, I thought little of this beyond paranoia at the time.
 
-2. *Me To Vouch to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
+3. *Me To Vouch to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
 
 In the beggining of 2022, major Democratic donor Netflix's CEO was Reed Hastings. Per the NYT:
 
@@ -1483,7 +1493,7 @@ The CEO at Vouch where I worked at the time was Sam Hodges, formerly appointed t
 
 This connected me, via Vouch, to Sam Hodges, who was connected to the Obama / Biden admin, where Obama has active connections to Netflix, all while Razzlekhan had just been arrested by the Biden / Harris DOJ in 2022 and made into a Netflix special.
 
-3. *My video game named in late 2018 and a book that came out two years later*
+4. *My video game named in late 2018 and a book that came out two years later*
 
 I came up with the idea for the video game mentioned before in late 2018, and called it _The Promised Land_ largely out of difficulty thinking of anything else and wanting to focus on the programming moreso at the time. I was also listening to a lot of Bruce Springsteen, someone who at the time was I believe making a podcast with the former President Barack Obama.
 
@@ -1493,25 +1503,25 @@ Other than Obama's book being somewhat chastised politely as "not his best effor
 
 But, I didn't think much of it at the time, similar to my suspicions of DNC sabateouring.
 
-4. *DNC seeks a sexist stereotype and I see right through it, pt. I in an ongiong series of my life*
+5. *DNC seeks a sexist stereotype and I see right through it, pt. I in an ongiong series of my life*
 
 In retrospect, my direct boss at Vouch Eloise's forced questioning and "oversharing" of her own relationship history as well as an in company sexual harrassment situation that was resolved in several employees leaving was a way for whomeever was telling her what to say to see if I'd react sexistly.
 
 Any behavior easily categorizable as "bait for cheap claims of sexism" was clearly read by me as a tactic to better portray me as a "Bernie Bro" and made me realize the more it occurred in various degrees that the KHive wing of the DNC was likely more in charge than not, and this was due to bitterness over social media wars they wished I took more place in than I did.
 
-5. *DNC seeks a Russian scapegoat to legitimize CIA style investigation on first generation Indian American citizen on US soil*
+6. *DNC seeks a Russian scapegoat to legitimize CIA style investigation on first generation Indian American citizen on US soil*
 
 In order to feel like I _did_ play a role in their social media wars, as well as to amplify the need for drastic, CIA style investigations into a US citizen, the KHive wing of the DNC attempted to paint connections between me and Russia by way of my computer profession being an indicator that I must "be a hacker" despite my strong suspicions that they couldn't really define what that is.
 
 This combination made me potential bait with someone that has authority in both the KHIVe DNC as well as somewhere in the White House itself ti attempt to crucify me simply for the opportunity I posed. If I hadn't been a computer programmer, I probably wouldn't have been targeted as a potential "Russian Hacker" by the DNC McKhartyistHive.
 
-6. *DNC accidentally keeps entrapping the Cryptocurrency industry instead of guiding it or regulating it and bad things happen*
+7. *DNC accidentally keeps entrapping the Cryptocurrency industry instead of guiding it or regulating it and bad things happen*
 
 I believe small portions of the Cryptocurrency industry which employed me in 2020 were encouraged to point a finger at me early in 2022 in order to justify connecting me to Razzlekhan, at least for an investigation.
 
 After that made the DNC Khive look bad internally in Washington DC, they continued to entrap larger and larger pockets of the Cryptocurrency industry in attempting to crucify me. This distacted them all to the point that I believe the DNC Khive led the Cryptocurrency industry to the liquidity failures in various Crypto markets as 2022 went on.
 
-7. *DNC / Netflix attempt to make me their Razzle-Dazzle-kahn man leads to lack of political grounding to pass abortion vote despite majority; I donated to Planned Parenthood like monthly for years before going broke to the DNC harrassment Netflix show, but whatever*
+8. *DNC / Netflix attempt to make me their Razzle-Dazzle-kahn man leads to lack of political grounding to pass abortion vote despite majority; I donated to Planned Parenthood like monthly for years before going broke to the DNC harrassment Netflix show, but whatever*
 
 More importantly to me, I think this insane series of events led VP Kamala Harris to forgo her responsibilty as the VPOTUS to deal with congress in passing major legislation. It's possible Senator Manchin, as a man, took offense to the attempt to paint me as a sexist via the utility of intelligence services that were beguiled into criminality while investigating due to Netflix, and voted against the Abortion bill.
 

@@ -1611,7 +1611,7 @@ I think I said one thing though, just to keep some hope alive in those dumb enou
 
 > "Look, you want to know about me? I used to do some things, with some people, but that's gone now and so are many of them. You happy?"
 
-At least that's the best I can remember. I don't think I really started _lying_ lying until the next day.
+At least that's the best I can remember. I don't think I really started _lying_ lying until the later that day.
 
 ...
 
@@ -1634,6 +1634,58 @@ I remember the "famed guitar player" saying something like this in particular:
 ...
 
 *talk about the next day, getting more pissed off, then acting it up a bit more*
+
+So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by Vouch, possibly.
+
+Oh, I also felt confident it was something of a joke. I'm not sure if Quantico or Langley offer "buttcheek meanuever training", but I guessed that at the time my situation was the most harmless version of what many call a "black bag operation" on behalf of the intelligence services and law enforcement at a Federal level, with some number of private connections due to my employment.
+
+So I figure'd, well, given that that's my audience -- "intelligence" types and maybe "cops" as well as "politicos," I just couldn't help but think of my favorite TV show of all time, which, you may have guessed, would be USA Networks' _Burn Notice_.
+
+Michael Westen, the show's main character, is your typical absolute absurdist theater of a "spy" whom somehow has the skills of about several dozen people in an incredibly recognizable body that would absolutely have been gunned down by one cartel or some other organization somewhere in the first two seasons of a show, which, despite it's military, intelligence, and at times political allusions, would still be best described as, well, campy.
+
+> CAMP: A sensibility that revels in artifice, stylization, theatricalization, irony, playfulness, and exaggeration rather than content, as Susan Sontag famously defined the term in her short essay, "Notes on 'Camp.'" According to Sontag, "Camp sensibility is disengaged, depoliticized—or at least apolitical"
+>
+> [Some Purdue link from a class on postmodernism](https://www.cla.purdue.edu/academic/english/theory/postmodernism/terms/camp.html)
+
+I knew this was likely inspired at some level by internal Democrat partisanship more than anything, and I just didn't care for that, but I also knew _who_ my audience was - or so I thought.
+
+Look, you ask me what _my_ favorite things about _Burn Notice_ would be? It would be the campy nature of the character's relationships, obviously the narration and it's 'field notes' style writing such to be broader than the context being spoken of, but mostly? The music. Hell yeah, give me that Miami ass soundtrack anytime.
+
+I'm not sure the show couldn't be more apolitical given it's context of the main character being an "on again off again" CIA agent, in Miami of all places, somehow constantly dealing with ex European and often former Soviet agents in the late aughts, but it's not exactly the most political show either.
+
+Again reader, I forgot _everything_ I said, and I'm guessing _someone_ recorded it, but, I think I was just trying to do what Jeffrey Donovan does as Michael Westen: obviously play a character. Often times the Michael Westen character "goes undercover" as spies do, and convinces some criminal cartel -- of which there are an alarming amount of in one city in Florida by the way, and none of them talk about the guy that looks like famed _Wrath of Man_ actor Jeffrey Donovan! -- to do something which typically incriminates them, or makes them run away and stop doing whatever it was they were doing at the episode's beginning.
+
+But the point is, to my opinion at least, Jeffrey Donovan is being obvious as an actor - irl - that his character Michael Westen is acting. He's not being very convincing because he realizes his audience needs to at least have an avenue to understand he's "under cover", and Donovan does my favorite thing on the show.
+
+I lied about the music.
+
+My favorite thing about _Burn Notice_ is Jeffrey Donovan's weird characters that he uses when he goes "under cover" -- there's the crime guy from Bahston, the crime guy from the Redneck Riviera, the crime guy from New Yahk, the mines diamonds but murders the villagers first guy from Australia or maybe somewhere else idk, and many, many more, alongside the equally hilarious caricatures "tactically deployed" by the characters played by Gabrielle Anwar, Bruce Campbell, Coby Bell, Sharon Gless, and many more. They're all great. And yeah, I find them, well, hilarious.
+
+So I _think_, as I was really just kind of "riffing", I started playing what to me would be an obviously fake version of a Michael Westen, of some sorts, whom, is just a computer programmer now.
+
+The downfall of camp can be in it's misinterpretation, of course. 
+
+I knew _some_ people would get what I was doing -- maybe not referencing _Burn Notice_ itself, though, perhaps if they had the NSA research my faves for profiling. And I knew some people might... not. Repeating the cycle of the previous experiment where I try to embarass whomever doesn't get that I'm joking.
+
+I don't remember _everything_ I said, but in early March 2022 I remember some shit like this:
+
+> "You all fucked up and now your leadership in various levels both looks bad and is trying to deal with it with as much grace as possible. Let me make something clear: you acted maleovolently here, whether you like it or not, making me the Benevolent Actor. As the Benevolent Actor, chaos will always favor me. I'd reccomend you all find a way out of this situation as soon as possible."
+
+Followed by some other shit like this:
+
+> "Look, sorry Vouch, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
+
+Pretty sure 6 months later I'd be setup by the DNC KHive while in the audience of a Bruce Springsteen / Jann Wenner on-stage interview, but reader, I didn't take the bait -- you could say that a champ like me, baby, I was Born to Run - but, I digress.
+
+Back to March 2022 - I kept saying shit inferring the above, but making it clear that I was "done" or "out".
+
+I'm pretty sure I wasn't in meetings, I was just talking out loud to a laptop.
+
+I made it pretty clear that if they just wanted to knock on my door and talk things through, I could do that. It was a joke I made several times over the course of the next few weeks. I think they found that one really funny.
+
+During my month or so at Vouch, I was assigned two whole work items; they were both minor. Maybe I'd of had less time on my hands if I was being utilitized as a web developer and not bait for a Netflix television show.
+
+I guess I underestimated my audience, in terms of stature amongst other things.
 
 ...
 

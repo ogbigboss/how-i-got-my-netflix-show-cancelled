@@ -1525,7 +1525,15 @@ After that made the DNC Khive look bad internally in Washington DC, they continu
 
 More importantly to me, I think this insane series of events led VP Kamala Harris to forgo her responsibilty as the VPOTUS to deal with congress in passing major legislation. It's possible Senator Manchin, as a man, took offense to the attempt to paint me as a sexist via the utility of intelligence services that were beguiled into criminality while investigating due to Netflix, and voted against the Abortion bill.
 
-Either way I have serious concerns that the DNC KHive distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.
+9. *Let's face it folks: Netflix has been on a backslide since they started making their own content*
+
+This "streaming network" has been putting out a more consistent form of garbo entertainment as we enter into 2020, leveraging reality TV and "true crime" to a larger and larger extent. While the media is popular - titles liek _Tiger King_, _Inventing Anna_ etc - they also create an opportunity where the "star" becomes newly affordable due to their recent imprisonment and legal fees, with _Razzlekhan_ being a recent entry.
+
+I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at Vouch, collapsing further to $200 a share when I started working at Liveramp, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
+
+...
+
+I have serious concerns that the DNC KHive distracted the Biden / Harris administration in attempting to crucify me in early 2022 to the degree that they lapsed securing the right to abortion despite having a Senate majority. The irony of the Roe v. Wade reversal concerning the lack of a true right to privacy was never lost on me.
 
 ...
 

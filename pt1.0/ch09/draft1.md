@@ -328,8 +328,70 @@ At least the NYPD didn't want to kill me.
 
 ...
 
-*mention door knock in the morning from someone you assume was a fed and saw again in late July in the essex market knocking on my door and saying they got the wrong place, I at the time thought "the troops" were leaving and it was just me and my bosses aafter that -- that guy was probably working for Netflix in some capacity in retrospect*
+The next morning I decided to stay in bed for awhile. I was awoken late, sometime after 10 AM, to a door knock.
 
-*talk about waking up the next day, funny Elvis Costello references, then end chapter on feeling very angry and wanting someone to be direct with me about what just happened given how infuriating it was given that I'm an innocent man, legally speaking*
+I opened the door to a black man, a bit shorter, younger and ever so slightly lighter skinned than I, who was different than the man in the street from last night. He was wearing a backpack.
 
-*mention how infuriated you were in particular that Sam Hodges had connections to a Democratic party flaunting the idea of Diversity, and I had to deal with this bullshit in my brown-y brown skin, seems fucked up*
+I was in my boxers and a tshirt and I was probably looking at him not terribly friendly like, given my condition and the previous night's events. He gave me an awkward glance before breaking the silence.
+
+Or maybe the awkward glance was from seeing my bong out in plain sight behind me.
+
+Either way, after a few moments, he said something like:
+
+> "Oh, uhm, we must've gotten the wrong apartment."
+
+I could be wrong but I am pretty sure he said "we".
+
+I closed the door and I presume they left. I went back to sleep a bit before meetings that day.
+
+I felt at the time in March he could be a "hacker" type, such to explain their look and appearance.
+
+I'd see him a few months later talking to someone else I thought was following me. They made little effort to be hidden and were easy to "make" in Essex market.
+
+I'm now pretty sure that guy worked or works for Netflix or a subsidiary, and I'm certain I could make him in any number of photographs of team parties etc.
+
+Nice guy, though.
+
+At the time, in March 2022, my biggest take away was this:
+
+_OK, so this is probably a sign from the government saying they're out because this is awful. That means it's just my bosses and whatever private security firm they're working with._
+
+Again, "Had I known about Razzlekhan and Netflix etc etc etc." I'm sure you can fill in the sentence there.
+
+...
+
+I woke up and didn't feel great about the situation. I wanted to find some way to communicate to the company that I was aware in a way that could page for reactions.
+
+Over the previous weeks, I had started playing Cake's _Shadow Stabbing_, as kind of a cute way to reference detectives, with the lines in the chorus: "The man over there might just as well be" -- I wasn't ever direct, but I covered it more and more over that time as a wink to anyone who would be up for "getting it" while audio surveilling me.
+
+I'm also a big Elvis Costello guy. His first album in particular. In the modern cut it has an extra song called _Watching the Detectives._
+
+It's a favorite of mine. It can be interpreted many ways, but, to me, it's not really about spies and detectives persay, but it's about a woman who's bored with her lover and is instead "watching the detectives" on TV, which is to say, well, something like my situation.
+
+It's also literally called _Watching the Detectives_.
+
+I decided to, somewhat out of the blue, share it on a group chat at work as an offering.
+
+I got little emoji reaction, but in the one meeting I attended, I couldn't help but get a feeling out of someone on my team that felt extra... jovial. As though they knew something funny that I didn't, but in a way that felt... special to me.
+
+It was just an instinct. I'd often just chalk such things up to paranoia.
+
+CBT helps with those feelings.
+
+But CBT wasn't really designed to help with the context of possibly being in a federal investigation spurred on by not only your employer's surveillance tech vs technique issues, but the fantasies other people have developed as realities via social media politics that I, dear reader, as of March 2022, had abstained from for almost half a year.
+
+It's been nearly a year and a half since I've tried to have any affects on politics via social media, by not using the stuff for politics, if anything.
+
+At the time of writing my goal of getting off social media has remained achieved, though, not without it's apparent costs to politics.
+
+In 2023, my relevance often leaves me at a loss against the poetic nature of it's arrival. But in 2022, I was mostly hoping this would all go away quietly.
+
+Maybe I missed posting. And how people react.
+
+But I couldn't help but wonder:
+
+_I've seen this person talk several times and in many forms of excitement. They now seem like they have something funny to hide. Could it be about the song I shared? And how could they find this... funny?_
+
+_Is this company gossipping about me behind my virtual back while I have to deal with cops being forced to do a phony investigation on me to make my bosses feel tough?_
+
+I asked Eloise, my boss, for the rest of the week off. She said yes without hesitation.

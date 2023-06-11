@@ -12,4 +12,4 @@ After 2022, I can say with a somewhat clear mind that Bruce Sprintsteen might've
 
 Without Bruce Springsteen, I'm just not sure that Netflix along with the Biden Harris Administration, the KHive DNC, and very likely Barack Obama's Higher Grounds Productions would have been held accountable or in check, such to create a semblance of balance, and I may have suffered a far worse fate because of my leap of faith.
 
-Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into a fight with them, and then I'm going to get profiled for it in the future where I'm accused of having delusions of being an aging legacy Rock n' Roll act. I hope the horn section I hallucinate can be anything close to what you had IRL.
+Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into a fight with them, and then I'm going to get profiled for it in the future where I'm accused of having delusions of being a timeless and legendary Rock n' Roll act. I hope the horn section I hallucinate can be anything close to what you had IRL.

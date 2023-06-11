@@ -70,8 +70,6 @@ I remember the "famed guitar player" saying something like this in particular:
 
 ...
 
-*talk about the next day, getting more pissed off, then acting it up a bit more*
-
 So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by Vouch, possibly.
 
 Oh, I also felt confident it was something of a joke. I'm not sure if Quantico or Langley offer "buttcheek meanuever training", but I guessed that at the time my situation was the most harmless version of what many call a "black bag operation" on behalf of the intelligence services and law enforcement at a Federal level, with some number of private connections due to my employment.
@@ -127,8 +125,6 @@ During my month or so at Vouch, I was assigned two whole work items; they were b
 I guess I underestimated my audience, in terms of stature amongst other things.
 
 ...
-
-*talk about that evening, realizing there's no way the government would step this far without at least talking to my sister who has worked for their employ in some way twice though yes as a civilian, looking up Wallace and wondering more about him, deciding I might as well see if they would react to me letting them kill me if they wanted to in order to lay down more breadcrumbs of inappropriate behavior to be exposed at a later time internally so I can go back to being a well paid normal computer programmer who occassionally talks through programming problems out loud*
 
 As the evening came, none of the cars across the street showed any indication of moving, and in fact seemed to be going in and out every now and then.
 
@@ -243,7 +239,92 @@ I think I acted wistfully about the day or some shit, and tried to give the impr
 
 ...
 
-*Take the walk of death, make analogy between 1-10 scale for suicidality and a 0-100% chance of them killing you IRL, and putting it at 15%*
+I can't remember the exact time. I really should have been taking notes. But I'm pretty certain it was after midnight.
+
+Vouch was largely a west coast company and meetings were all well after 12 PM ET, for whatever that's worth.
+
+I headed out onto Clinton St, eventually turning right on Broome St. It's not just a quiet street but a few blocks up is an NYPD precint. This was, I thought, a polite way to acknowledge their likely involvemnt, as well as, well, if things really were _that_ dirty in this world, take care of me right there.
+
+Or, fuck up while doing so in a way that gets you caught near a NYPD precint. Either or.
+
+Reader, did I really think I was going to be killed?
+
+Well, therapists often ask, if they are aware you're feeling or capable of feeling suicidal, to rate your emotional state at the moment from a 0 to a 10, with the 10 being as suicidal as you could possibly feel wiht 1 being the least.
+
+I'd say I was at a 1.5 at that moment, but mostly due to the decade or so of therapy helping me through, well, other situations.
+
+Convienently at the time I remember thinking _I don't know. Maybe 15% chance I get detained and questioned in some weird shady way, and like 1.5% it leads to me being detained long term in a weirder shady way, with about .15% for getting like shot or stabbed in the streets or something._
+
+None of that happened of course, but what gambler wouldn't feel confident about 85% odds in your favor? This wasn't the 2008 Super Bowl, and if it was, I don't think I'd be on New England's side, I say sitting in Manhattan writing this to you, dear reader.
+
+Look it up.
+
+Anyway, I walked by the precint on Broome and saw a single officer sitting outside in one of those smaller 3 wheel vehicles. His body was tight and read nervous to me, facing forward, with his eyes clearly in the side of his sockets, trying to look at me, without looking directly at me.
+
+I could be wrong about their eyes; it was about 25 feet away and they were in a car. But I wasn't wrong about them feeling nervous.
+
+Reader; it's not that kind of neighborhood, not even after midnight. Not for an NYPD officer, anyway.
+
+I turn a right and get back onto Grand st, walking back towards my apartment. While walking down I did detect someone behind and across the 4 lane (nts: check notes) street from me walking in my direction, and made out their basic form.
+
+The best I could tell you was that they were a "young black male", aged "16-40", about "5 foot 3 to 5 foot 8," but, that's very normal for the area, no matter what the hour.
+
+At a darkish area, with no stores and an unlit yard to my side, I suddenly heard a light scuffle behind me.
+
+Reader, I remember my thoughts -- I wasn't really afraid in that moment of anything _human_.
+
+I turned, and I'll admit, I had my arms on the way up a bit, with my hands out. I didn't intend violence, just, maybe more of an instinct to protect myself.
+
+The training, did not, "kick in." Though I don't have the video to know how it may have appeared.
+
+Near immediately I saw the man I thought I identified across the street -- they somehow very quietly got close and then about 3 feet away, purposefully scuffled their feet so I could hear. The latter is a move I often do myself to elt people know I'm behind them, though usually from a greater distance.
+
+But I also make sure I don't quietly sneak up on anyone in the darkness because well - I'm a really dark skinned individual myself, even for an Indian guy.
+
+When I say those were my immediate thoughts, in the moment, they were, because they're my most "go to" reactions in this scenario which happens often to dark skinned people in places everywhere where not everyone feels safe around you.
+
+This man was about 3 feet away from me and unlike the NYPD officer earlier, I was certain of their reaction to me.
+
+The black man behind me had a face that read of guilt, and a bit of shame; particularly in their eyes.
+
+A recurring program that's been running quite often in reaction to odd events in my life starts writing itself in my head:
+
+```
+function handle_weird_incident_in_public_while_being_investigated
+  if you_have_reasonable_doubts_that_this_is_plausible then
+    react_with_immediacy_in_a_plausible_manner
+    consider_things_contextually_later
+  else if you_are_sure_this_is_related_to_some_clownshow_if_not_yours then
+    act_like_a_clown_the_worst_is_youll_ruin_a_private_joke_and_be_seen_as_weird_to_strangers
+  end
+end
+```
+
+This was a situation I handled given how plausible it was to me and recurring. Every now and then, maybe while wearing headphones, I've turned around and saw someone I didn't realize was behind me, and they were dark skinned. The immediate reaction I have on my face may be shock, which may read as racist sure, but my hurt someone else's feelings in a way I've been hurt.
+
+That'd make me feel bad in my case, so, generally speaking but in any and all cases where I turn around and am "surprised" by a random dark skinned stranger, I usually say what I said to the guy behind me:
+
+> "Oh, I'm sorry."
+
+And I turned around before they could get past me, to indicate I didn't fear them or whatever, they just startled me.
+
+The man then walked past me with a quickened pace. He started takling out loud like he was mentally ill, and waving his hands back and forth similar to an NFL referee's "no good" signal when a field goal is missed. I couldn't make out everything he was saying, but at some point, as he walked ahead of me and waved his hands back and forth, I heard him say quite a few times:
+
+> "Not in New York! Not gonna happen in New York! Not in New York!"
+
+Ah, I thought: _So I saw not one but two NYPD officers tonight, and that look of guilt or shame had more to do with their vocation than just your basic racial politics. Awkward._
+
+As I walked back down Clinton st towards my apartment -- I couldn't get cream cheese as the store I wanted was closed and really I didn't need anymore dairy -- a procession of cars that I recognized as being parked under the FDR slowly moved pass me. I took it as a sign of respect.
+
+In retrospect -- I should have left things there.
+
+But that's given hindsight. I didn't know about Razzlekhan or even think that the upper most levels of government I live in could be working with Netflix literally, and possibly tying in a recent show with whatever this was.
+
+All I remember thinking was I was pissed off that Vouch put me through this and they'd better have something to say for it.
+
+But it was late, and it was after midnight, and I'm pretty sure I went to sleep after going home. I can't remember what if anything I said to my captors afterwards.
+
+At least the NYPD didn't want to kill me.
 
 ...
 

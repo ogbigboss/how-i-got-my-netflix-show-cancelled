@@ -26,6 +26,24 @@ But in this situation? Could I have made a better decision, with respect to the 
 
 ...
 
+It's probably not from CBT, but another thing I picked up in therapy that works very nicely alongside being a programmer is basic "worst case scenario" planning.
+
+In a situation that peaks your anxiety or triggers you or whatever, asking yourself some variety of "what the worst case scenario" or "what's the worst that could actually happen" is a great way to bring reality to measure against your emotions.
+
+_I haven't heard from my tailor about the thing and I got the other thing I need the first thing for coming up tomorrow._
+
+What's the worst that can happen?
+
+_I'll have to use my backup thing to take care of the formerly mentioned thing such that I'll be good for the laterly mentioned thing._
+
+Different things peak different people for different reasons. This fictitious person above has obviously had childhood trauma concerning button repairs on a family heirloom, and now refers to all dry cleaning arrangements as a mobster for some reason. That said, the dry cleaners triggers them, and they need to calm down, and this exercise helps them to get realistic.
+
+In programming, it's usually a great way to ask yourself, well "if" this thing is true, what "else" may be true in opposition, and to an extreme bounds?
+
+Anyway, I don't think that's CBT, it's pretty basic, and it's helpful in a lot of ways.
+
+...
+
 In April, I'd learn about something I've heard about from my then therapist: DBT.
 
 Dialectical Behavioral Therapy, separate though influenced by Cognitive Behavioral Therapy, or CBT, seems to have another system of dealing with complicated or "triggering" thoughts, albeit not one that counters CBT though in my dillettante's opinion, adds to it.

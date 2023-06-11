@@ -2088,6 +2088,21 @@ end
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
 1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Aparna Mallik, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
 1. Add that you went to the police station beacuse you had a strong feeling the VP's office was involved, due to VP Harris' history in law enforcement, she would have the ability to make a "loyalist" faction of NYPD work for her whim -- if I was right. I went to the precint specifically to make sure ALL or as many of the NYPD knew about this, so I wasn't just facing VP Harris' NYPD Loyalists, and the entire NYPD as much as possible, for objectivity #yespleaseALLcops
+# Pt 5 Chapter 1
+
+"Bruce Springsteen" saved my life is probably something that's been said before, and will be said again, about the man's music.
+
+If you had asked me before 2018, I'd of told you I grew up in Jersey, and was familiar with most of his hits, but was really more of a Tom Petty guy.
+
+After 2020, I'd of told you I was a big fan -- I even named a video game after one of his songs, well, sort of, also the Bible I guess, but whatever.
+
+(I probably would've been too shy to say I had been practicing singing three of his songs every night just about for the year of 2019, but I parenthetically digress).
+
+After 2022, I can say with a somewhat clear mind that Bruce Sprintsteen might've saved my life - but not with something stupid like his rock n roll music.
+
+Without Bruce Springsteen, I'm just not sure that Netflix along with the Biden Harris Administration, the KHive DNC, and very likely Barack Obama's Higher Grounds Productions would have been held accountable or in check, such to create a semblance of balance, and I may have suffered a far worse fate because of my leap of faith.
+
+Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into a fight with them, and then I'm going to get profiled for it in the future where I'm accused of having delusions of being an aging legacy Rock n' Roll act. I hope the horn section I hallucinate can be anything close to what you had IRL.
 # Potential remaining outline (in parts)
 
 1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.

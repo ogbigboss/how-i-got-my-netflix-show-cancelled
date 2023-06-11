@@ -1,5 +1,9 @@
 # How I Got My Government Cover-up Netflix Show Cancelled: A Memoir
 
+## OR
+
+# How I Got My True-Framed-Crime Netflix Show Cancelled While Stealing the Hearts of Every Mean Girl From DC to Hollywood: A Burn Notice Book
+
 # Intro
 
 ### Draft

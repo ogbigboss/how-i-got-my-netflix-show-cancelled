@@ -1707,9 +1707,9 @@ As me and my sister grew older, particularly after she went to college at Brown 
 
 One time when I was like 19 and back home from college and she was 23 and after her first year of law school I think, the parents were away. I spent the night at a friend's house, and told her I wouldn't be back til tomorrow because we were drinking.
 
-We had put an ounce of weed in a bottle of everclear and let it sit for a week. It seemed better to not drive home.
+We had put an ounce of weed in a bottle of everclear and let it sit for a week. It seemed better to not drive home. I didn't tell my sister about that, I'm not sure it would have helped.
 
-She warned that the parents wouldn't want that, and when they came home two days later, she tried to "rat me out" and see if htey'd yell at me.
+She warned that the parents wouldn't want that and I of course ignored her. When my parents came home two days later, my sister tried to "rat me out" and see if htey'd yell at me.
 
 They were confused and didn't care. I yelled at her a bit for that, and I regret some of the words I said.
 

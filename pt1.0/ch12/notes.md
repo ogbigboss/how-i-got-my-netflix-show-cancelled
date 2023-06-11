@@ -22,7 +22,7 @@ I think leaving therapy at that for now would be good, just make it clear from t
 
 #### Wednesday
 
-Pretty sure the woman I refer to as "couch girl" helped me get my couch on time when I almost missed it. It made me think that, well, a normal person wouldn't do that, and if they were involved, maybe just maybe, some of these people weren't all god awful human beings. I'm pretty sure in retrospect they may have worked on the TV show I didn't realize I was on.
+Pretty sure the woman I refer to as "couch girl" helped me get my couch on time when I almost missed it. It made me think that, well, a normal person wouldn't do that, and if they were involved, maybe just maybe, some of these people weren't all god awful human beings. I'm pretty sure in retrospect they may have worked on the TV show I didn't realize I was on. I do remember thinking about that being a possibility for the first time based on the fact that a fed probably would have been trained to stay out of the way as much as possible, and someone on TV might just... want to be nice. A normal neighbor, especially an Air BnB person, would probably never, but recall charting it as a suspicion in th eback of your mind along the at the times incredible idea that this was linked to the Biden / Harris admin, but probably the first time I at least mused on the thought that Netflix is pretty chummy with Dems.
 
 #### Thursday
 

@@ -83,8 +83,6 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 
 > "Michael Westen: [narration] When fighting in the wilderness, the biggest threats are often the ones you don't see: dehydration, exhaustion, and nerves."
 
-> "Michael Westen: [holding Chechik at knifepoint] You should stick to hunting things that don't fight back."
-
 > "You'd be surprised how often covert operatives pose as international men of mystery. Fantasies about glamarous covert ops can be extremely useful to exploit. Though, some secret agent fantasies are more useful than others." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
 > Oleg: You're real Michael Westen, yes?

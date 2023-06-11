@@ -66,7 +66,7 @@ _Welp, I guess I'm gonna spend the rest of my life under some light tabs or surv
 
 Again reader, my project was pretty explicit in the whole "not a crime" thing -- just a game that gave some of it's money to other groups.
 
-Pretty sure the customer would get the tax deduction, not us, for whatever it's worth. I never got around to hiring a tax guy to make sure though, because, well, I'm broke.
+Pretty sure the customer would get the tax deduction, not us, for whatever it's worth. I never got around to hiring a tax profesional to make sure though, because, well, I'm broke.
 
 But I felt and still feel hopeful I can ressurect my project in time, and I knew it would at some point be looked into from the point of view of political machinations and not helping society at large, so I figure'd the earlier would be the better, the more internal it is, even better.
 

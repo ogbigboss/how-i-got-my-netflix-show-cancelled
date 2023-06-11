@@ -12,6 +12,8 @@
 
 ...
 
+*talk about the light show across the street - mention the tesla - but take it as another signal that the gov't stuff was over and I was jsut left with my company, which I felt was fucked up and bad enough allowed me to focus on the company and I, mentally speaking at the time*
+
 *get back to the weekend and reflect on the meeting where the guy with the dog seemed, well, excited about the whole thing, and talk about how you were concerned Vouch was treating this interanlly as a matter of gossip. Reflect on the Sandanista-baiter and how they both likely dyed their hair recently AND seemed very, well, excited, and talk about how at the time you read it as gossip. "reader, had I known about Razzlekhan or gave a fuck about reality tv or true crime etc etc"*
 
 *to re-introduce Vouch, given that the next chapter is quitting the company, make a brief reflection on the work you were assigned while there -- two tasks, one seeming suspicious as though they wanted to know something about image bullshit -- but underline that over a month period you received little to no direction or direct work orders, pointing to at best internal disorganization and at worst internal disorganization due to a Netflix show*

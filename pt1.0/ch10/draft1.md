@@ -74,8 +74,116 @@ That said, in the worst case scenarios, I'd have the receipts.
 
 ...
 
-*talk about the light show across the street - mention the tesla - but take it as another signal that the gov't stuff was over and I was jsut left with my company, which I felt was fucked up and bad enough allowed me to focus on the company and I, mentally speaking at the time*
+Later that week, after one day I took off, I looked outside and across the street. I was talking openly, if they heard me it would have had to have been through another device as my laptop was in the other room, or through some sort of device pointed at my window picking up on the vibrations of what I was saying. Or maybe they could read lips.
 
-*get back to the weekend and reflect on the meeting where the guy with the dog seemed, well, excited about the whole thing, and talk about how you were concerned Vouch was treating this interanlly as a matter of gossip. Reflect on the Sandanista-baiter and how they both likely dyed their hair recently AND seemed very, well, excited, and talk about how at the time you read it as gossip. "reader, had I known about Razzlekhan or gave a fuck about reality tv or true crime etc etc"*
+I basically thanked everyone across the street for not being weird. I then half jokingly asked, given that several seemed to be sitting in or getting in and out of their cars at the time, a polite request:
 
-*to re-introduce Vouch, given that the next chapter is quitting the company, make a brief reflection on the work you were assigned while there -- two tasks, one seeming suspicious as though they wanted to know something about image bullshit -- but underline that over a month period you received little to no direction or direct work orders, pointing to at best internal disorganization and at worst internal disorganization due to a Netflix show*
+> "You know, it'd be great if, just so I knew I wasn't crazy the guy in the car over there could blink their lights."
+
+The headlights blinked.
+
+> "Oh. Wow. Ok."
+
+After some time, I thought and then offered this:
+
+> "Well... ok... that could be a coincidence. Could it maybe pull out and leave?"
+
+After a moment, the car did just that.
+
+One thing I had thought was a bit weird was that one car seemed to stand out. That was weird to me because I wasn't sure why anyone in this situation would buy a vehicle which would. I was pretty sure it was a Tesla. I remember saying this when I saw someone get in with the lights on shortly after that.
+
+> "Wow, you know I've always wanted to drive one of those electric cars. I hear the pickup is immediate, must be nice."
+
+As though to demonstrate that, yes, they can hear me, and yes, the car can pickup quickly, just as I finish the sentence, and before I could take my next breath, the Tesla jumps out and leaves the parking lot.
+
+I remember thinking _Well someone really likes their new rental. Though its' weird; what kind of a fed would rent a Tesla? It's literally a bright white car._
+
+And in the furthest corner of my mind:
+
+_Well... that guy really likes social media too... and his ex wife seemed to get into politics in a way that could lump him in with a certain recent late 2020 author in feeling sexually frustrated and blaming it on political ideology as opposed to moving on in life... it would be crazy... but the game project was largely a twitter thing, comms wise... fuck... I really hope it isn't Elon._
+
+And then:
+
+_I'm weird enough for one life. I don't need a guy who may be as or more weird than me to be involved in it. I have enough chaos as it is._
+
+I kept it in my head, just in case I was correct. All of what just happened could be a series of coincidences, after all.
+
+The Tesla sedan in question is extremely popular and sold very well throughout the early 2020's.
+
+I really didn't want this situation getting weirder, I swear.
+
+But at the time I felt like the "investigation" was over and the "investigators" were making it as clear to me as possible that it was never a serious thing to begin with, and that maybe yeah a Tesla would be cool to drive.
+
+...
+
+Later that weekend I tried getting my mind off of the whole thing, but I just couldn't.
+
+Two things bothered me: many of my coworkers felt to me, to have an excited energy most familiar to me as gossip.
+
+I, in my middle age, ignore the energy as soon as I see it. 
+
+If it really needs to be known, then it can't be avoided.
+
+Gossip can be avoided.
+
+However, in this situation, not only was it something I was paging for, I was also looking for that certain flavor of gossip:
+
+_People are talking about you behind your back._
+
+It usually comes across as a light teasing that can't be spoken on - yet, or perhaps ever. It makes the other person feel better, in an almost magical way, in your presence. Every question is loaded such that if you never answer in a way that reveals your suspicions - if you never cross the line - then it offers the other person pleasure, of a social variety: a feeling of dominance.
+
+Others reveal this by feeling nervous, and guilty. They don't want to be involved.
+
+And, there is the gradient in between. Sometimes you have to chuckle to get by at something that makes you uncomfortable because the person doing the something is more powerful than you are, or at least, has been at the firm, organization, or tribe for longer.
+
+My mind flashed in particular to the woman who kept bringing up the Sandanistas in a women's history month meeting that I believe was focused on the Stonewall riots. She had appeared as though she dyed her recently.
+
+I thought it looked nice, for whatever it's worth. Her curls seemed natural and fluffy and light; she likely was just hiding some gray.
+
+I remember thinking, however, this funny and retrospectively hiarious thought:
+
+_Did she dye her hair because she knew someone would be watching her ask me this and want to impress them?_
+
+Reader: How did I NOT know I was on a reality TV show?
+
+Sigh. It's probably because I wanted a normal job so I could pay my debts and live a life under light surveillance that goes nowhere because I'm trying to positively but creatively contribute to society. That's what I wanted at least.
+
+Alas.
+
+...
+
+Reader, you may be wondering: what work did you do while at Vouch?
+
+Well, for a month, not much of anything. Eloise gave me the excuse of the company shifting, and some documents to look over, and the usual statements of "hang in there."
+
+It's fine, that's normal really.
+
+But I was given two light tasks I completed. One was a bit peculiar - it included a bug where a video was uploaded to show an example of the misbehavior.
+
+I couldn't repeat the misbehavior in my browsers, trying many.
+
+I honestly felt like the video had been doctored. I imagined they wanted me to try and look at the frame where the "bug" was -- it was a distorted set of pixels -- and there would have been some kind of watermark or some message in it.
+
+I mean, I don't know. I didn't do any of that stuff.
+
+Instead, I just responded on the ticket that I couldn't replicate the behavior, and asked the person who brought it up to see if they could do it again. Sometimes hiccups happen and if you can't replicate a bug - meaning you can't reliably cause it to happen consistently, and especially if it only happened once - it's usually skipped.
+
+I may be overanalyzing it.
+
+If I don't have much to do, I tend to overanalyze what little I have to do.
+
+It's usually not that bad of a thing as a programmer, but, I wasn't a programmer.
+
+I was being framed as a Reality TV star.
+
+I just didn't know that at the time -- all I knew is somehow it seemed like my bosses dipshittedly used their connections to put me under a bogus investigation for no reason and I've waited 2 whole days and most of the weekend and gotten no semblance of a response. I think this warrants at least a notice.
+
+Particularly if your employees, my coworkers, are gossipping about me as a result.
+
+Sometimes, in my head, I see the meme of the cartoon _Arthur_, the one with the two frames, and the hands.
+
+Sometimes, I just see the hands.
+
+I returned to my CBT exercise quite a bit that weekend, and it calmed me down, but only so much.
+
+I wanted answers.

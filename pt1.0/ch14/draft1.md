@@ -102,3 +102,5 @@ I think in 2022, I got caught up in another love affair, and bigger than just on
 It's hard to move on from some things, but yeah, I think the country could certainly do that, with a number of things, emotionally.
 
 I just didn't think it needed to start with me and my family, personally, but, as the kids say "FML".
+
+And that ends this first section of my personal history with madness. The "F" doesn't actually stand for fuck.

@@ -103,4 +103,4 @@ It's hard to move on from some things, but yeah, I think the country could certa
 
 I just didn't think it needed to start with me and my family, personally, but, as the kids say "FML".
 
-And that ends this first section of my personal history with madness. The "F" doesn't actually stand for fuck.
+And that ends this first section of my personal History of Madness. The "F" doesn't actually stand for fuck.

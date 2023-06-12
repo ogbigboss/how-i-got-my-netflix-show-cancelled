@@ -2144,9 +2144,9 @@ I just didn't know that at the time -- all I knew is somehow it seemed like my b
 
 Particularly if your employees, my coworkers, are gossipping about me as a result.
 
-Sometimes, in my head, I see images of memes of the cartoon _Arthur_, and I see his iconic yellow sweater, his fiery passion for justice, and I see the hands.
+Sometimes, in my head, I see images of memes of the cartoon _Arthur_, and I see his iconic yellow sweater, his fiery passion for justice, and I see the hand.
 
-Sometimes, I just see the hands.
+Sometimes, I just see the hand.
 
 I returned to my CBT exercise quite a bit that weekend, and it calmed me down, but only so much.
 

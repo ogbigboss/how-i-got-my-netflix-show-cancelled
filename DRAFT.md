@@ -2285,6 +2285,26 @@ But then I remembered, even in the furthest reaches of my mind, VP Harris' histo
 Then I remembered, in the furthest reaches of my mind, that India has twice the population of the European continent yet was under various European colonist rule for four centuries.
 
 I'm not sure I would have reacted any differently.
+
+...
+
+I think the hardest thing about being someone who's engaged with so much therapy, and largely at their own will, is that it's caused me to grow past many people.
+
+Maintaining those relationships, particularly with my family, has always been difficult.
+
+My best interpretation is that these people wish for me to not be "past them," and would rather have me closer again.
+
+However, the therapy caused me to grow in a way that recognized I wanted to be past them, and that leaves them with a tough choice:
+
+_If the therapy made them better, and as a result it made them want to see things my way less, then is the therapy actually bad?_
+
+It's a matter of perspective. Like I said, personally, it hurts the most with my family.
+
+I think in 2022, I got caught up in another love affair, and bigger than just one my family could define.
+
+It's hard to move on from some things, but yeah, I think the country could certainly do that, with a number of things, emotionally.
+
+I just didn't think it needed to start with me and my family, personally, but, as the kids say "FML".
 # Pt 1.5 -- A flash to the future
 
 ### Mid afternoon near the end of the workday in a conference call with around 8 people on Friday, May 20 2022

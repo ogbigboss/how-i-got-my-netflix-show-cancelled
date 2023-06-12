@@ -2249,6 +2249,52 @@ Anyway, I don't think that's CBT, it's pretty basic, and it's helpful in a lot o
 
 ...
 
+One of my first therapists introduced me to CBT, and as a budding computer programmer, I think I treated it like anything with three letters that stood for something else -- I wanted to know more about it. They told me a bit about it's history as well as some of it's luminaries and offshoots, namely, schema therapy.
+
+They reccomended a book on schema therapy, and warned that it was rewritten as a "self help" book in order to fit a publisher's guidelines, and that the title was not actually a promise it could serve on.
+
+The book is called _Reinventing Your Life_ by Jeffrey E. Young and Janet S. Klosko, both Ph.D.'s, if you're into that sort of thing. I keep it in a section of my apartment you'd have to break into to find, because I was more embarassed about having something like this on my bookshelf than any of the dozens of comic books, given it's title.
+
+It describes what I believe are the 16 "schemas" in schema therapy as lifetraps. From the book, chapter 1, page 1:
+
+> "A lifetrap is a pattern that starts in childhood and reverberates throughout life. It began with something that was _done_ to us by our families or by other children. We were abandoned, criticized, overprotected, abused, excluded, or deprived -- we were damaged in some way. Eventually the lifetrap becomes part of us. Long after we leave the home we grew up in, we continue to create situations in which we are mistreated, ignored, put down, or controlled in which we fail ot reach our most desired goals."
+
+I would use my dillettante's knowledge of schema therapy as the events you're reading about would proceed to try and anticipate the base motivations and goals of the people coming after me. It was more clear as time passed that a manufactured lie of some sort was told about me and needed to be defended, especially given the connections as outlined by both my family and my employers to the federal government, but moreso the types of things I was going through would only be possible with someone very high up the federal government food chain.
+
+Continuing from the book:
+
+> "Lifetraps determine how we think, feel, act, and relate to others. The trigger strong feelings such as anger, sadness, and anxiety. Even when we _appear_ to have everything -- social status, an ideal marriage, the respect of people close to us, career success -- we are often unable to savor life or believe in our accomplishments."
+
+In the social media era, it's rather easy to know quite a bit not only about someone's past, but also what makes them, well, triggered. It may not even be something about their past, but moreso what someone else said about them. Say, their timeline of awareness of Tupac Shakur and Snoop Dogg's music, or, their drinking habits and preference towards wine coolers, and all online.
+
+The future is now.
+
+Reader, I'd reccomend, well, reading the above book if you're interested. The immediate effect ought to be self analysis, but, you more than likely will begin to analyze literally eveyrone you know.
+
+It's a bad habit. I got over it a decade ago when I first read the book, though it took a few months of reminding myself to not be a prick. Doing CBT and mindfulness to better hear my own thoughts a decade ago really helped as well with that part.
+
+But, I never stopped thinking about it intellectually because I also a decade ago wanted to escape my own life traps, which are only "schemas" of your identity if you let them be.
+
+Here's Oxford's defintion of a "schema", by the way:
+
+> 
+> sche·ma
+> noun TECHNICAL
+> a representation of a plan or theory in the form of an outline or model.
+> "a schema of scientific reasoning"
+> - LOGIC a syllogistic figure.
+> - (in Kantian philosophy) a conception of what is common to all members of a class; a general or essential type or form.
+
+That last one works really well against Object Oriented Programming, if you're familiar. But, I digress.
+
+I think a lot about how most of society has not had therapy or taken it seriously the way I have. In June, former JAG Jesse Sommer would tell me he avoids therapy, despite the traumatic experiences he may have had or been exposed to while serving for a decade, specifically to avoid getting diagnosed.
+
+I thought a lot about Jesse Sommer when I read the book a decade or so ago, about the time I knew him before he served almost two decades ago.
+
+Lifetraps are probably a cheesy term, but they may be more appropriate than schemas, but I'm still hiding the book from plain sight.
+
+...
+
 In April, I'd learn about something I've heard about from my then therapist: DBT.
 
 Dialectical Behavioral Therapy, separate though influenced by Cognitive Behavioral Therapy, or CBT, seems to have another system of dealing with complicated or "triggering" thoughts, albeit not one that counters CBT though in my dillettante's opinion, adds to it.

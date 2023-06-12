@@ -1968,8 +1968,6 @@ I asked Eloise, my boss, for the rest of the week off. She said yes without hesi
 
 > Michael Narrating: Sometimes you have to decide just how committed you are... to pretending you are who you say you are.
 
-*tell them you're a loser and you knew it but it was fine since you are in between definitive states in your adult life and you're not as hung up about it as others may perceive which, normally, isn't my problem*
-
 In my mid thirties, I definitely portray a certain male stereotype - I'm not dating, have really only had one actual relationship, and have a lot of hobbies that many adolescents have - I used to feel well, ashamed of such things, but mostly with therapy I've grown to not care, though, such things were never why I went to therapy. That was more the whole "I have a successful career but why do I still feel awful" question I started asking 2 years into my career of being a web developer.
 
 In terms of dating I was an early bloomer. I think 9/11, which took place after said blooming, was a bit weird for me to contextualize after starting to contextualize things like dating, and I shut down a bit. Later in life, I wondered if that experience stuck with me, but as we got closer to a post "me too" era in society, I began to have suspicions that felt far more suitable after late 2017.
@@ -2146,7 +2144,7 @@ I just didn't know that at the time -- all I knew is somehow it seemed like my b
 
 Particularly if your employees, my coworkers, are gossipping about me as a result.
 
-Sometimes, in my head, I see the meme of the cartoon _Arthur_, the one with the two frames, and the hands.
+Sometimes, in my head, I see images of memes of the cartoon _Arthur_, and I see his iconic yellow sweater, his fiery passion for justice, and I see the hands.
 
 Sometimes, I just see the hands.
 

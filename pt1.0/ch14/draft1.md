@@ -131,6 +131,21 @@ I'm not sure I would have reacted any differently.
 
 ...
 
+Reader, if you're considering seeking talk therapy in the form of a psychologist and not necessarily a psychiatrist (the latter being the kind that has a prescription pad), I'll let you know right now that I've seen several, and I didn't feel like I "fit" with all of them.
+
+It's a rather personal process. I'm sure it was me, not them.
+
+That said, if you're interested, I'd suggest asking your potential therapist two questions:
+
+1. Do you yourself practice what you preach in your own personal conflicts?
+1. Are you yourself seeing a therapist?
+
+I think the second part is crucial, and if my therapist wasn't seeing their own, I would see someone else. It's a tough career and comes with it's own psychological pratfalls altogether. I wouldn't want to be guided by someone who in turn was alone themselves.
+
+The biggest thing I've learned about therapy, with CBT as a focus, is that it's applications are more universal and it's very unfortunate in my opinion only some of us are exposed and often through what we look down upon as weaknesses.
+
+...
+
 I think the hardest thing about being someone who's engaged with so much therapy, and largely at their own will, is that it's caused me to grow past many people.
 
 Maintaining those relationships, particularly with my family, has always been difficult.

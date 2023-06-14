@@ -104,6 +104,9 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > You're making everyone nervous.
 > - Richard Schiff as Phillip Cowan
 
+> [ Michael Narrating  ] When selling yourself as a traitor, you can't be too eager. A good op[erative] will walk away from a recruitment that seems too good to be true.
+
+
 > [ Michael Narrating  ]
 > When you can't win in a fight, sometimes you have to settle for making sure that if you lose, everyone loses. It works for nuclear weapons, it works for me.
 
@@ -164,9 +167,6 @@ _Season 1 Episode 1_
 
 > Michael Narrating: Home court advantage counts for a lot. You never know what's going to happen. You prepare for everything. Most bad guys expect you to just sit there and wait for them... like those are the rules or something.
 
-
-_Season 1 Episode 2_
-
 > Michael: Fiona, you were supposed to stop the car, not blow it into the Everglades. What happened to shorting the ignition?
 >
 > Fiona: Well, you said disable. It's not going anywhere.
@@ -178,11 +178,41 @@ _Season 1 Episode 2_
 
 > Michael narrating: I don't much like dealing with paranoids. They get erratic, make bad decisions. Of course, that can be a help when you need them to make a bad decision.
 
-_Season 1 Episode 4_
-
 > Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
-
-_Season 1 Episode 6_
 
 > Michael narrating: When enough people hate you, sometimes the only move is to just stand in the middle and hope they kill each other before they kill you.
 
+> Michael: What has he been doing since he was last here?
+>
+> Sam: Well, my fed buddy's been trackin' his credit card. Your sniper's in Daytona, hitting all the strip clubs. Mike, do you think he's just blowing off steam before he starts shooting?
+
+> Michael: They always hire extra security.
+>
+> Lesher: Extra security, aside from you?
+>
+> Michael: They got two more guys locked and loaded-- watchers watching the watchers. Can you believe that? For one girl.
+>
+> Lesher: Two more guards. Seriously?
+>
+> Michael: See for yourself. They got more money than sense.
+
+> Sam: So I tried to get ears on her with the directional mike, but whenever they're out in the open, it's just small talk.
+
+> [Michael Narrating] When someone turns you into an asset, their main weapon is fear. If you fear poverty or exposure or death, that's what they use against you.
+>
+> Their worst nightmare, then, is an asset with no fear.
+
+> [ Michael Narrating  ]
+> Blowing an operation is a delicate business.
+>
+> You have to convince your opponent to abandon his plans, make a case that the smart move is to just pack up and go home.
+>
+> Problem is, even when you do your job well, people don't always go with the smart move.
+
+> "You thought you could kill me? I gave you a chance to be redeemed, but you turned your back! These are your sins, Lesher, here on this paper."
+> - Michael acting undercover as an ex special forces guy turned security guard turned religious zealot
+
+> [ Michael Narrating  ]
+> There's a reason they call the spy trade the hall of mirrors. You can never know for sure whether you're in control or you're being played, but if you do it long enough, you learn to trust your instincts.
+>
+> Michael: It's a setup.

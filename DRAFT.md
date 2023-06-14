@@ -1657,6 +1657,8 @@ Look, you ask me what _my_ favorite things about _Burn Notice_ would be? It woul
 
 I'm not sure the show couldn't be more apolitical given it's context of the main character being an "on again off again" CIA agent, in Miami of all places, somehow constantly dealing with ex European and often former Soviet agents in the late aughts, but it's not exactly the most political show either.
 
+To that note, Donovan's character Michael Westen is a spy living in Miami speaking everything from English to Urdu to Czech and everything in between, and yet still doesn't learn how to speak spanish until the seventh season. ~~Or maybe... he knew the whole time!~~
+
 Again reader, I forgot _everything_ I said, and I'm guessing _someone_ recorded it, but, I think I was just trying to do what Jeffrey Donovan does as Michael Westen: obviously play a character. Often times the Michael Westen character "goes undercover" as spies do, and convinces some criminal cartel -- of which there are an alarming amount of in one city in Florida by the way, and none of them talk about the guy that looks like famed _Wrath of Man_ actor Jeffrey Donovan! -- to do something which typically incriminates them, or makes them run away and stop doing whatever it was they were doing at the episode's beginning.
 
 But the point is, to my opinion at least, Jeffrey Donovan is being obvious as an actor - irl - that his character Michael Westen is acting. He's not being very convincing because he realizes his audience needs to at least have an avenue to understand he's "under cover", and Donovan does my favorite thing on the show.
@@ -2151,7 +2153,7 @@ Sometimes, I just see the hand.
 I returned to my CBT exercise quite a bit that weekend, and it calmed me down, but only so much.
 
 I wanted answers.
-# Pt I Chapter 11 - Final week at Vouch
+# Pt I Chapter 11 - Final week at Vouch, 3/13/2022
 
 > Waseem: I'm Waseem Alihan. And you are?
 > Michael: Just a friend who needs a favor.
@@ -2165,6 +2167,10 @@ I wanted answers.
 I never got a direct confrontation from my bosses, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
 Also, I was kind of pissed off about the whole thing.
+
+...
+
+
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

@@ -2684,6 +2684,34 @@ Anyway, September in the rain. Writing this in June 2023, some 9 months later, I
 1. Last week of October to Early December 2022, end on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told another fiction about you
 1. Flash forward: First visit from people claiming to FBI officers; explain why you thought this was not real, lack of badge numbers, them not wanting to be videotaped, showing up at 8AM on a Saturday, being kind of rude, and explain your thought process and how you couldn't believe they were real and figure'd your bosses or Netflix were playing some joke on you, especially given that IMO the FBI wouldn't want to risk showing up to someone's door appaering politically biased unless the likelihood of a violent crime was indeed provably likely, etc
 1. Early December 2022 to mid February 2023: The time I tried to record a version of events that could be plausible in order to make sure somoene else doesn't try to produce another version of events that is indeed not plausible but they can edit in anyway they like; largely because I think my story is better than Netflix's.
+
+
+# Pt xx -- Early December Possible Intro
+
+In early December 2022, my best take on my then situation was this.
+
+_My entire apartment and large portions of the building I live in are being surveilled via at least several devices via "hacks" and also bugs planted by the building management in tandem with either the NYPD, Netflix, or both; they have video and audio.__
+
+_This is for a reality TV show originally meant to defame me and possibly falsely incriminate me._
+
+_There are two groups surveilling me and using this surveillance in various ways. One seeks to defame me at least, another seeks to defend me also at least.__
+
+_This has been going on since July 2022 and has escalated in various ways._
+
+_The group seeking to defame me has already or will at some point doctor their footage, and spread it to a wider audience to portray me in an edited fashion. They also may likely employ voice overs to make it seem like I say things that I'm not._
+
+_This will take away the voice of those seeking to defend me; a larger audience will have to realize one is lying. The group seeking to defame likely knows this but has more clout than my defenders._
+
+_How can I help defend myself while helping those that are already defending me in this bizzaro situation?_
+
+I had a fancy-ish video camera setup to my desktop PC for Twitch streaming. I rarely before December 2022 hit the "record" button.
+
+I had to do something to defend myself, and if they would use video and audio against me, then fair's fair.
+
+I started hitting the record button sometime in early December (nts: possibly late Novemeber, check).
+
+# Potential remaining outline (in parts)
+
 1. Flash forward: The getting arrested thing for the above
 1. Mid February to late March 2023: Did I get the Democratic party to distract Netflix into allowing Putin to start a war, distract the crypto currency industry into base liquidity issues, distract their own senate majority by not ensuring the right to abortion, AND distract the tech banking sector into base liquidity issues? I mean... I am good looking, but god damn.
 1. Flash forward: Probably me writing this shit right now

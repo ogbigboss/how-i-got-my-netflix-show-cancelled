@@ -216,3 +216,34 @@ _Season 1 Episode 1_
 > There's a reason they call the spy trade the hall of mirrors. You can never know for sure whether you're in control or you're being played, but if you do it long enough, you learn to trust your instincts.
 >
 > Michael: It's a setup.
+
+> Michael: "I want answers! I want my life back!"
+
+> [Michael Narrating]
+> There's a saying in interrogation: "Violence perceived is violence achieved." You don't want someone screaming. You want him asking questions, asking "What is he doing with that knife?"
+
+> [Michael Narrating] In covert work, you try to make friends with the bad guys. But sometimes you just can't pull it off.
+>
+> Once it's clear you're not going to be friends you have to resolve the situation as quickly and as cleanly as possible.
+>
+> Sometimes you can't pull that off either.
+
+> [Michael Narrating]
+> Using sound to determine an enemy's position is one of the oldest techniques in war, whether it's putting an ear to the ground or bouncing sonar off a submarine.
+>
+> If you can get your enemy on the phone that opens up new possibilities. Hook up your cell phone to an amplifier and a computer that can analyze sound, and you have a powerful weapon if you know how to use it.
+
+> [Michael Narrating]
+> Running an operation is like poker. Ideally, you've got good cards and you play them well. When your cards are bad, though, you have to know how to bluff.
+
+> Fiona: If they went off the balcony...
+> Michael: I could check the security cameras at the businesses along the river.
+>
+> Fiona: You're really gonna do this? Hunt them down?
+> Michael: Worth a try.
+
+> "We recruited you because you're a good liar. Guess we can't complain too much when you lie to us. Hmm? But know this. One way or another... I expect results. Understand?" - Tricia Helfer
+
+> [Michael Narrating] When you've spent enough time as an operative, recovering from a brush with death isn't about an appointment with the psychiatrist or a week in Hawai.
+>
+> It's about having a purpose, whether it's something to fight... or someone to hunt.

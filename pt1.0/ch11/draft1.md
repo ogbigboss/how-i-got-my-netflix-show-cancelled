@@ -30,7 +30,7 @@ Vouch didn't care what my life experience was like, they stopped having empathy 
 
 I think I kept remembering the CEO saying the company motto with regards to how they treat their employees with "the golden rule" -- treat others as you yourself would wish to be treated -- all after I was pretty sure I was under audio surveillance, had law authorities involved to some extent, and on top of all that, had my boss asking questions like I was in the 1940's facing a McCarthyist inquisition; not like I was in the 2020's at a company espousing DEI of all things.
 
-That said, though I was a brown man, my makeshift McCarthyist boss was a LGBTQ woman, so I guess things have gotten more diverse.
+That said, though I was a brown man, my makeshift McCarthyist middle manager was a LGBTQ woman, so I guess things have gotten more diverse.
 
 ...
 

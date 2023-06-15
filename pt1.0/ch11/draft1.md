@@ -80,3 +80,83 @@ From the US National Library of Medicine, [Race, Ethnicity, and Culture in the M
 My mind leapt to the fantastical part of my head that thinks of the worst case scenario - just in case:
 
 _You know, if the Biden / Harris admin was involved somehow, I'm going to guess they are hip to how important it would be to set a precedent here before an entire industry anchors themselves to the concept of predatory audio surveillance for minority employees. They're the Democrats!_
+
+But it was just a thought.
+
+...
+
+Monday morning, somewhere around 9 AM and before they would normally wake up as they lived in Michigan, messaged my immediate boss something like the below:
+
+> Hey Eloise, this may sound crazy, but I have a feeling like there is at least a rumour being spread about me that I may be some sort of hacker, and at most I even might be under some sort of "investigation" as a result. I think the rumour started because of miscommunications over audio surveillance, possibly while I was watching my favorite show in the background, _Burn Notice_, about a spy.
+
+Eloise responded within the hour, with some concern and saying they would ask about it up the chain, but, with a slight cadence that did not feel like the way they would write sentences.
+
+It was just a hunch, but I had a feeling someone else was typing for Eloise. I didn't expect much of a response.
+
+Maybe I should have waited longer. I certainly could have. I'm not sure it would have changed much.
+
+I knew the C levels were on PST time for the most part, save for John Wallace.
+
+At around 10:30 AM I believe, I sent a message to the CIO John Wallace and the CEO Sam Hodges, copy pasting what I told Eloise, but adding one extra line:
+
+> And personally, if I was "put under an investigation" of some sort, and for some reason anyone was still suspicious of me for being something I'm not, I'd prefer they show up to my door so I can talk with my fists.
+
+I mostly remember the part about the fists, I couldn't resist. I knew these people wanted to at least get away with pushing me around, otherwise they wouldn't of ever read as excited.
+
+Otherwise they would've just asked me to stop fucking around. They had some opportunity, and no, I didn't realize I was on a Reality TV show at the time, and no, I'm not sure I care in retrospect.
+
+Also, at the time, I was kind of pissed off about the whole thing.
+
+_What kind of fascism is this?_
+
+I never got a response, and somwhere around noon, my access to Slack, the company's chat, and Google apps, the company's other main comms tool, were cut and I was signed out of everything.
+
+I got a phone call from someone in HR.
+
+...
+
+I remember mostly being pissed off but realizing that that wasn't a way to act in this situation if they were gonna handle it this way.
+
+My improv partners did NOT want to give me a single conversation where I would have the moral highground due to their actions against me. Fine, typical, but from the DEI Democrats? Nope. I wasn't going to let them off for this one, nope nope nope.
+
+I sighed, and realized feigning fear to the best extent I could might make some sense, but I just don't think I had the motivation for it.
+
+The HR person told me that the "company thinks I've been hacked" and that "strange messages were sent to Sam and John" which couldn't of been me.
+
+I took it all in like it was scenery, and responded to it as plainly as one could a beautiful landscape rolling by on a night train headed north by north west, which is to say, I didn't disagree with it, but I didn't think I was seeing the whole picture.
+
+I told them that was interesting, and they told me something else - that they had contacted my emergency contacts.
+
+_Why in the world would they contact my parents in this situation?_
+
+Sure we were estranged, but I still have to put down _someone's_ number when I start jobs with insurance plans.
+
+I hadn't really thought of bringing my family into the situation, to be honest. I had wondered about my sister, given her potential conenction to the CEO's college.
+
+I believe at that point I tried explaining to the HR person what happened. They were a young African American woman who had earlier led the meeting on the Stonewall riots -- I thought they might like to know my side in brief, which I told them in a hurried and slightly fearful manner, that I think this had more to do with miscommunications over audio surveillance. I told her I think government workers were following me in the streets as a result.
+
+I also told her that none of this was her fault; and that no matter what happens she should never blame herself. She seemed to appreciate that.
+
+I knew my bosses were listening; I'm not an idiot.
+
+I tried leaving anyone listening, but most plausibly the HR person, the feeling that I was afraid more than anything, and confused.
+
+I was angry more than anything, along with annoyed:
+
+_I have to call my parents now?_
+
+...
+
+As of that time, March 2022, me and the 'rents didn't talk regularly much. I asked them for a bit of financial support during Covid and they were happy to oblige, though not terribly happy to hear from me either. Other than that we've been "off again and on again" for more than a decade, with around maybe 3 years regularly speaking here and there.
+
+My parents aren't very thrilled that I don't have a college degree: I ought to, by now, have at least two of them, at my age. It's a bit... unseemly. I think they're more angry about that than anything, and I don't have much intent to get one given my career as a web developer.
+
+I haven't depended on them financially for over a decade now, and I'm proud of that given that I'm both a college dropout and the economy I've been employed in -- 2007 to 2022 -- has been more competitive than previous ones for folks of my generation. Most people I know in the city need their parents, at least more than I do. 
+
+What if the reason I could live without their financial need AND do it without a college degree was because I was also some sort of criminal?
+
+I'd like to have an emotionally steady relationship with my parents one day, but until then, I'm proud to have spent nearly 15 years not depending on them financially, with or without a college degree.
+
+That all changed a few months later, when I realized that since at least March 2022, my parents had to be convinced by someone within the Federal Government that I may be a criminal, and may have convinced them right back that maybe, they were right.
+
+Have you ever heard the term echo chambers?

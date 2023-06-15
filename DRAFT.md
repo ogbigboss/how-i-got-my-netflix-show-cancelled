@@ -2236,7 +2236,7 @@ From the US National Library of Medicine, [Race, Ethnicity, and Culture in the M
 
 My mind leapt to the fantastical part of my head that thinks of the worst case scenario - just in case:
 
-`You know, if the Biden / Harris admin was involved somehow, I'm going to guess they are hip to how important it would be to set a precedent here before an entire industry anchors themselves to the concept of predatory audio surveillance for minority employees. They're the Democrats!`
+_You know, if the Biden / Harris admin was involved somehow, I'm going to guess they are hip to how important it would be to set a precedent here before an entire industry anchors themselves to the concept of predatory audio surveillance for minority employees. They're the Democrats!_
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

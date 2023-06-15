@@ -242,7 +242,7 @@ _Season 1 Episode 1_
 > Fiona: You're really gonna do this? Hunt them down?
 > Michael: Worth a try.
 
-> "We recruited you because you're a good liar. Guess we can't complain too much when you lie to us. Hmm? But know this. One way or another... I expect results. Understand?" - Tricia Helfer
+> "We recruited you because you're a good liar. Guess we can't complain too much when you lie to us. Hmm? But know this. One way or another... I expect results. Understand?" - Tricia Helfer as Carla Baxter
 
 > [Michael Narrating] When you've spent enough time as an operative, recovering from a brush with death isn't about an appointment with the psychiatrist or a week in Hawai.
 >

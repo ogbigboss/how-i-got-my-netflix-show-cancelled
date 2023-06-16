@@ -2221,7 +2221,7 @@ However, as to my urgency, I also did not want to spend years of my life working
 
 Even if things did work out I wanted my name cleared by everyone who heard about this nonsense, I deserved at least that from a company supporting the idea of "DEI" of all things.
 
-Famed behavior psychologists Amos Tversky and Daniel Kahnman spent much of their careers researching a concept called _anchoring_. From [Wikipedia](https://en.wikipedia.org/wiki/Anchoring_%28cognitive_bias%29#:~:text=Kahneman%20suggests%20that%20anchoring%20occurs,or%20low%20before%20their%20prediction)
+Famed Israel-American psychologists Amos Tversky and Daniel Kahnman spent much of their careers researching a concept called _anchoring_. From [Wikipedia](https://en.wikipedia.org/wiki/Anchoring_%28cognitive_bias%29#:~:text=Kahneman%20suggests%20that%20anchoring%20occurs,or%20low%20before%20their%20prediction)
 
 > Kahneman and Tversky showed that people's judgements could be skewed either higher or lower when presented with random numbers either high or low before their prediction.
 
@@ -2317,6 +2317,10 @@ I'd like to have an emotionally steady relationship with my parents one day, but
 That all changed a few months later, when I realized that since at least March 2022, my parents had to be convinced by someone within the Federal Government that I may be a criminal, and may have convinced them right back that maybe, they were right.
 
 Have you ever heard the term echo chambers?
+
+...
+
+
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

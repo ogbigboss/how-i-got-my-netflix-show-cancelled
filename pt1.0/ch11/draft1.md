@@ -123,6 +123,8 @@ I sighed, and realized feigning fear to the best extent I could might make some 
 
 The HR person told me that the "company thinks I've been hacked" and that "strange messages were sent to Sam and John" which couldn't of been me.
 
+They knew me so well, after all.
+
 I took it all in like it was scenery, and responded to it as plainly as one could a beautiful landscape rolling by on a night train headed north by north west, which is to say, I didn't disagree with it, but I didn't think I was seeing the whole picture.
 
 I told them that was interesting, and they told me something else - that they had contacted my emergency contacts.

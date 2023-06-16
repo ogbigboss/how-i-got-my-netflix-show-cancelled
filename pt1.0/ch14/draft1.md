@@ -10,7 +10,7 @@ Except for maybe to some like, classified CIA documents or some weird shit like 
 
 Reader, you may be looking back on my exercise, the one I do when I get "triggered", and asking yourself this:
 
-`Ok. So the idea of being under a covert investigation, including the possibility of being framed such to legitimize said investigation, was triggering to you. That's understandable. Did this CBT therapy thing make you try to... turn it around, such that you acted that way? And without it, would you have just acted out of normal fear and anger, in a way that would have been easier to handle?`
+_Ok. So the idea of being under a covert investigation, including the possibility of being framed such to legitimize said investigation, was triggering to you. That's understandable. Did this CBT therapy thing make you try to... turn it around, such that you acted that way? And without it, would you have just acted out of normal fear and anger, in a way that would have been easier to handle?_
 
 Look man, I've been through a lot in my life that hasn't involved the CIA or CBT. I don't think my reactions were purely the result of the therapy I've become well, reflexive in utilizing when I feel triggered emotionally.
 

@@ -1,5 +1,7 @@
 # Pt 3.5 -- A flash to the future
 
+> The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
+
 ### Early morning around 1AM, Sunday September the 25th outside 275 South St and under the FDR between the DSNY and Unlabled city parking areas
 
 There were just a few times in this situation where I was so shocked that I developed tunnel vision.

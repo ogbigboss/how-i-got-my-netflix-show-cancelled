@@ -2280,6 +2280,8 @@ I sighed, and realized feigning fear to the best extent I could might make some 
 
 The HR person told me that the "company thinks I've been hacked" and that "strange messages were sent to Sam and John" which couldn't of been me.
 
+They knew me so well, after all.
+
 I took it all in like it was scenery, and responded to it as plainly as one could a beautiful landscape rolling by on a night train headed north by north west, which is to say, I didn't disagree with it, but I didn't think I was seeing the whole picture.
 
 I told them that was interesting, and they told me something else - that they had contacted my emergency contacts.
@@ -2371,7 +2373,7 @@ Except for maybe to some like, classified CIA documents or some weird shit like 
 
 Reader, you may be looking back on my exercise, the one I do when I get "triggered", and asking yourself this:
 
-`Ok. So the idea of being under a covert investigation, including the possibility of being framed such to legitimize said investigation, was triggering to you. That's understandable. Did this CBT therapy thing make you try to... turn it around, such that you acted that way? And without it, would you have just acted out of normal fear and anger, in a way that would have been easier to handle?`
+_Ok. So the idea of being under a covert investigation, including the possibility of being framed such to legitimize said investigation, was triggering to you. That's understandable. Did this CBT therapy thing make you try to... turn it around, such that you acted that way? And without it, would you have just acted out of normal fear and anger, in a way that would have been easier to handle?_
 
 Look man, I've been through a lot in my life that hasn't involved the CIA or CBT. I don't think my reactions were purely the result of the therapy I've become well, reflexive in utilizing when I feel triggered emotionally.
 
@@ -2702,6 +2704,8 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 
 # Pt 3.5 -- A flash to the future
 
+> The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
+
 ### Early morning around 1AM, Sunday September the 25th outside 275 South St and under the FDR between the DSNY and Unlabled city parking areas
 
 There were just a few times in this situation where I was so shocked that I developed tunnel vision.
@@ -2800,6 +2804,7 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - Point out the guy who as you walked into Best Buy talked aloud about 55", whcih is a TV size. Recall how you played JJ Cale's Magnolia recentlyish, and thinking they were hinting at either something that was going to be on the TV's in Best Buy's famed "Magnolia" section, OR, that they were trying to hint you're being watched at through one or both of your own 55" TV's, something you had assumed had to be at least setup on your Bedroom TV (hey you pervs) since March given the events that occured in May/June/July and the previous week -- either way you purpsoefully avoided the bait and didn't go into that section
 - Definitely talk about seeing the blu ray security cases in a box to be thrown out, how the main entrance was blocked, feeling suspicious of that being a setup or hint to me talking about working at Blockbuster and knowing how to break into those. Allude to _Watching the Detectives_ being a movie taht exists, possibly. Maybe use a _Cypher_ to do so. Ok, I'll stop being so awful, just call me _Codename: The Cleaner_. Ok I'll stop.
 - DEFINITELY mention that you felt one guy who looked like a cop and felt was following you around a bit cracked up when he saw you cover up the Netflix gift certificates with Regal Theaters' gift certificates. I felt pretty certain Netflix was behind things at that point and decided not to press the point or topic more for some weeks to months feeling they had to be linked to a lesser subsidiary. I also knew the Obamas had _some_ kind of corporate relationship, though I didn't know the details, because I didn't care. But it was all in my head at the Best Buy, I just was hoping they'd all run away before I started Googling again. The truck fire in late september made me start googling again. (nts: really stop it with the copy)
+- Dedicate a chapter at some point to introducing Neera Tanden as a character in your life at that point. You really didnt know much about her beyond what some media appearances and knowledge ascertained on the internet between the Obama admin era and somewhere in mid 2021 could offer. You had heard about combative twitter feuds, but only understood it the way you would understand anyone who was a societal leader would use twitter for social manipulation. Break down Twitter as a generic internet service and describe the ways someone like a Neera Tanden can use Twtiter, not just with their own personal accounts, but with associated accounts, staff, budget, and the influence -- both in real life and on the social media platform -- to coerce and get others to do your bidding to boost opinions past their true societal validity, then bring it back to NT's political interests and some available indications that the before are true given the "gang war" style of social harrassment twitter often implies. Could be a good chapter to end things on, either right after or before the truck fire chapter most likely, or break a section between the two. NT intro should be near truck fire moment as it was the peak in "racial insensitivity motivated by social status feuds and historical ignorance" which is to me "the problem with the internet" in a parenthetical nutshell
 # Potential remaining outline (in parts)
 
 1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.

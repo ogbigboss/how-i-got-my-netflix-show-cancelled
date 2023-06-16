@@ -2804,13 +2804,56 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - Point out the guy who as you walked into Best Buy talked aloud about 55", whcih is a TV size. Recall how you played JJ Cale's Magnolia recentlyish, and thinking they were hinting at either something that was going to be on the TV's in Best Buy's famed "Magnolia" section, OR, that they were trying to hint you're being watched at through one or both of your own 55" TV's, something you had assumed had to be at least setup on your Bedroom TV (hey you pervs) since March given the events that occured in May/June/July and the previous week -- either way you purpsoefully avoided the bait and didn't go into that section
 - Definitely talk about seeing the blu ray security cases in a box to be thrown out, how the main entrance was blocked, feeling suspicious of that being a setup or hint to me talking about working at Blockbuster and knowing how to break into those. Allude to _Watching the Detectives_ being a movie taht exists, possibly. Maybe use a _Cypher_ to do so. Ok, I'll stop being so awful, just call me _Codename: The Cleaner_. Ok I'll stop.
 - DEFINITELY mention that you felt one guy who looked like a cop and felt was following you around a bit cracked up when he saw you cover up the Netflix gift certificates with Regal Theaters' gift certificates. I felt pretty certain Netflix was behind things at that point and decided not to press the point or topic more for some weeks to months feeling they had to be linked to a lesser subsidiary. I also knew the Obamas had _some_ kind of corporate relationship, though I didn't know the details, because I didn't care. But it was all in my head at the Best Buy, I just was hoping they'd all run away before I started Googling again. The truck fire in late september made me start googling again. (nts: really stop it with the copy)
+
+#### Post BB/GC/Legacy visit weekend
+
+- Recall spending the weekend talking the events that took place in your life from January to that point aloud to "yourself" in your apartment. Having ascertained that you were being recorded, it was likely for a Netflix show, and that it was to cover up the events of January to the present moment, or at best convince me "I was on a tv show the whoel time" -- which, while true, was obviously one that involved a speculative investigation almost at some point purely  motivated by a combination of a political witch hunt and a want to "use tech" like children with videogames
+- The hope was that some "TV producer" who was also on the side of the "DNC" or some shit would hear me, realize that a bunch of TV people are inevitably going to hear these recordings, along with cops, etc etc etc, and it'd be best to leave as oppose to convince all _those_ people with _their_ connections that I wasn't telling the truth
+- It also afforded me a great way to make sure I remember things; talking aloud or writing things down has an effect on memory such to aid it, at least def for writing hence notes in class, do some research on whether the same is proven true for takling aloud
+- At some point that Sunday I believe I recalled that I thought, just maybe, the EMS guy who grilled me like he wanted to kick my ass that previous June 3rd was perhaps someone's kid
+- That seemed to generate a direct response across the street, describe scene in DSNY parking garage with three guys, the one in teh center in a dierctor chair of some sort, I'm pretty sure, one goes into the red truck and drives off as soon as they make me making them making me. Remind the reader how long you've lived here, perhaps
+
+#### The week they brainhacked my barber and literally hacked my Persona 5 game just for me to say I'd rather not hang out with them even if they have one cool friend with a band
+
+- I believe the framework of the week should be hearing and compiling the hints in the game and then the walk to the barber -- first potential hack of Persona 5 dialogue in subway area
+- next day walk to barber and back: women talking about bees, Mr. Bee's comments on broncos, red flag yellow shirt girl, red shirt "tu es mi corazon" guy, Hacha y Machete playing at Cheeky's (that was pretty funny tbh), possible higher grounds producer sighting (dont really need more details than you making an assumption based on a later group photo + them tailing red flag girl), the subway Persona reference, followed by you taking the bait and going home to play Persona, and getting a hint about "breaking into the entertainment industry"
+- rant aloud in your apartment that you get it, and your initial reaction was this: _Look, I'll go with it, but you have to make things alright with my sister and parents as well since they obviously fucked up here more than I did_
+- after taking another day, you tell whomever's listening that you're not interested, most primarily because they said some shit about bucking me like a bronco. Internally you thought there was no _way_ the Boss themselves said that, but there was only one way to find out: reject the dangle, even if it was for real
+- make quick call to mom to see how real this shit may be, she starts talking about 70 year olds like it's someting special, felt like enough of a hint + her dialogue matched up heavily wiht Mr. Bee's dialogue, constnatly referring to a "70 year old bronco bucker" -- first of all, listen to that statement. That guy lives alone? Get the fuck out of here. You find me a 70 year old bronco bucker. That seems way too old for taht shit to me, but I digress. The emphasis on the age given someone else's then age was to me an indicator that both Mr. Bee, my barber, and Aparna Mallik, my mother, were being directed by the same chain of command
+- tell whoever's listening including your parents that if you want, tell your people to send someone to kill me, I'd rather that at this point. I figure'd it was the most dramatic rejection I could come up with at the time
+- end with taking a walkt o the store on Saturday and seeing a 40 year old man wearing a clean, newish Notorius B.I.G. "Ready to die" t shirt (the one with the baby like on the album cover), thought it was funny, well, at least it was awhile since I saw a Biggie Tshirt.
+
+#### The week after the above
+
+- Mostly thinking these people woudl fuck off
+- Going to Legacy and realizing Mars #1 _definnitely_ is still hunting for an available opportunity, not her fault, but not what I was seeking
+- Talk about playing _I Wish I Were Blind_, then hearing what to you sounded like apologia via Tidal DJ in the form of _Jealous Guy_
+
+#### The week after the above (last week of august into first week of september I thnk)
+
+- Deciding to use the idea of "witchcraft" against my enemies as they've been trying to position me as some kind of sexist or pervert or bigot towards women for months now, so, I thought that was funny and not exactly without it's foundations
+- Talk about movies - the 4 of diamonds part of _Apocalypse now_ perhaps, talk about spells, and talk about it all in the framework of good old fashion as american pie _psychological warfare_
+- Talk about talking about magic spells, how you said to someone you'd "bury your heart in the ground where you stand leaving you a walking zombie of a corpse good for nothing but fund raisers" - still one of my favorite lines of dialogue to this day, tbh, messaging family about "honesty" spell
+- Technicaly at the time I felt I was setting up a future legal argument that "magic" is my religion, and these people were persecuting me based on it. Magic isn't a protected religion by the first ammendment techincally (nts check etc) but the fact that I could get female leadership to come after me based on "witchcraft" seemed too good to not at least _try_ as bait, that said...
+- Shonda's words to Therapist to Twitter to Gina to perhaps poorly chosen phrasing to Ariana played by Uma and comic books. Also mention feeling like "spirirtual" types were eyeing you, which was hilarious, considering it was in reaction to the "magic" thing if anything.
+- Make sure the reader knows you don't really believei n this stuff nearly as much as you did it to garner reactions from those surveiling you based on it. They'd either try to play me thinking I'd think this stuff was real, and double down on the delusional thing, and that'd be obvious (allude to truck fire moment). But also let the reader know that you did take the time to understand this stuff as "systems", and well...
+- Either magic is real, or a distinct portion of our leadership society may be stupid AF. I'm still unsure.
+- End chapter or whatever on you not liking the idea that "technology is like magic" - to you, "magic is like a good crime -- you're supposed to get away with it."
+
+#### The first and last week at Glimpse LLC
+
+#### The second Springsteen incident, realizing a person "founded" the Rolling Stone and it didn't just appear in airports for me to steal on occasion, the Bernie Mac line about negotiating with children
+
+#### The landlord of the flies and The quiet before the storm of the Truck Fire
+
+#### The truck fire
+
+#### End of section, last chapter most likely
 - Dedicate a chapter at some point to introducing Neera Tanden as a character in your life at that point. You really didnt know much about her beyond what some media appearances and knowledge ascertained on the internet between the Obama admin era and somewhere in mid 2021 could offer. You had heard about combative twitter feuds, but only understood it the way you would understand anyone who was a societal leader would use twitter for social manipulation. Break down Twitter as a generic internet service and describe the ways someone like a Neera Tanden can use Twtiter, not just with their own personal accounts, but with associated accounts, staff, budget, and the influence -- both in real life and on the social media platform -- to coerce and get others to do your bidding to boost opinions past their true societal validity. Point out that as leaders this bears the risk of your underlings doing too much to impress you, and this is NT's fatal flaw as a character in this novel (be subtle at this point). Then bring it back to NT's political interests and recent history moving up the DNC foodchain by cyberbulling, and some available indications that the aforementioned poits are true given the "gang war" style of social harrassment twitter often implies. Could be a good chapter to end things on, either right after or before the truck fire chapter most likely, or break a section between the two. NT intro should be near truck fire moment as it was the peak in "racial insensitivity motivated by social status feuds and historical ignorance" which is to me "the problem with the internet" in a parenthetical nutshell
 # Potential remaining outline (in parts)
 
-1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.
 1. Flash forward: November 2022, maybe just include parts of the long ass tell all essay I wrote
 1. Late September post truck fire to the week before Halloween
-
 
 # Pt xx -- Late September (possible intro)
 
@@ -2840,8 +2883,12 @@ Nothing happens. In a code review profesionally, someone would probably point th
 
 Anyway, September in the rain. Writing this in June 2023, some 9 months later, I'm still in this loop somehow. Alas.
 
-# Potential remaining outline (in parts)
+#### From Arthur comes Batman, realizing these people thought you were bluffing, singing and howling on Wall st pt I
 
+- Batman R.I.P. - I was thinking of it since at least July to be honest in this situation. I was glad to finally take it out so I could remember the word "Apophenia", as well as that other quote about Joker rooting on the Batman's predictable next steps.
+- "I know what they're scared of" - tehcnically I didn't, I thought it was strippers, they were probably scared of the Anonymous articles running Yuga Labs at the time of the last week of September, which considering the truck fire's allusions to KKK behavior, was... hilarious, to me, a sicko. I didn't learn about those articles til January in 2023 though, I believe.
+
+# Potential remaining outline (in parts)
 
 1. Flash forward: December 2022 and learning that Yuga labs was a company that was real, reference Lucy Liu movies helping
 1. Last week of October to Early December 2022, end on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told another fiction about you

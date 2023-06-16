@@ -1,9 +1,7 @@
 # Potential remaining outline (in parts)
 
-1. Early August 2022 - late september, start with the Boss and end with the Fire. Make Dancing in the Dark jokes as much as possible.
 1. Flash forward: November 2022, maybe just include parts of the long ass tell all essay I wrote
 1. Late September post truck fire to the week before Halloween
-
 
 # Pt xx -- Late September (possible intro)
 
@@ -33,8 +31,12 @@ Nothing happens. In a code review profesionally, someone would probably point th
 
 Anyway, September in the rain. Writing this in June 2023, some 9 months later, I'm still in this loop somehow. Alas.
 
-# Potential remaining outline (in parts)
+#### From Arthur comes Batman, realizing these people thought you were bluffing, singing and howling on Wall st pt I
 
+- Batman R.I.P. - I was thinking of it since at least July to be honest in this situation. I was glad to finally take it out so I could remember the word "Apophenia", as well as that other quote about Joker rooting on the Batman's predictable next steps.
+- "I know what they're scared of" - tehcnically I didn't, I thought it was strippers, they were probably scared of the Anonymous articles running Yuga Labs at the time of the last week of September, which considering the truck fire's allusions to KKK behavior, was... hilarious, to me, a sicko. I didn't learn about those articles til January in 2023 though, I believe.
+
+# Potential remaining outline (in parts)
 
 1. Flash forward: December 2022 and learning that Yuga labs was a company that was real, reference Lucy Liu movies helping
 1. Last week of October to Early December 2022, end on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told another fiction about you

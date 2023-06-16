@@ -2842,6 +2842,15 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 
 #### The first and last week at Glimpse LLC
 
+- Describe first meeting with coworkers, several are making gossipy jokes about both witchraft and family estragement. Describe feeling it was likely that the KHive DNC utilized Netflix and surveillance technology to share this information about withcraft with my upcoming workplace to defame me before I coudl even start; anchoring me as crazy at a senior level due to what should have been a completely separate affair. Government collusion with businesses for political purposes have never been lamer, but being cool is not a requirement of Fascism.
+- Describe the incident where after your boss feels liek they are forced to give you a "middle finger", you take the rest of your second day off, and then are immediately assaulted in the street by a King Mob lookalike who partially dislocates your sohulder.
+- Describe the "middle finger" thing as likely happening due ot an escalation on your part
+- From January to about August, you made a rule to no matter how you behaved inside your apartment ot be completely normal in the streets of NYC.
+- During August, you started to "slyly" give "middle fingers" to people you thought may have been eyeing you bceause you realized you were on some prank show at that point and trying to make footage unusable - it's hard to build a prank show around a guy constantly giving the finger to your people. I think the incident at work was in retaliation
+- After beign assaulted by likely a KHive DNC Netflix affiliate, I decided to change one rule after that day and eventually started by dancing in the streets like an idiot a few days later.
+- Make it clear to the reader that for months you _purposefully_ didn't react in the streets to anything (recall biker cop as example), and since you realized you were ona  prank show involving coworkers, any "street footage" was an attempt on my part to sabotage the television show I didn't consent to be on. Otherwise I may have been more self conscious, to be honest.
+- If this was a revolution, my actions were to make sure that it wasn't to be televised, and nothing less. My escalating reactions were to alter their content strategies such to force budget constraints and eventually make them see a sunken cost fallacy and move away. Alas, these were not rational actors I was dealing with.
+
 #### The second Springsteen incident, realizing a person "founded" the Rolling Stone and it didn't just appear in airports for me to steal on occasion, the Bernie Mac line about negotiating with children
 
 #### The landlord of the flies and The quiet before the storm of the Truck Fire

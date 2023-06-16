@@ -33,7 +33,8 @@ Anyway, September in the rain. Writing this in June 2023, some 9 months later, I
 
 #### From Arthur comes Batman, realizing these people thought you were bluffing, singing and howling on Wall st pt I
 
-- Batman R.I.P. - I was thinking of it since at least July to be honest in this situation. I was glad to finally take it out so I could remember the word "Apophenia", as well as that other quote about Joker rooting on the Batman's predictable next steps.
+- Batman R.I.P. - I was thinking of it since at least July to be honest in this situation. I didn't want to take it off the bookshelf or even reference it because I knew I was being watched at all times and wasn't quite ready to make this reference to my captors until it fit better. I think someone was wearing a Batman outfit when I took a jog around the pier the day after the truck fire so I believe someone may have wanted for it. It was late September and a bit early for Halloween at least. I was glad to finally take it out so I could remember the word "Apophenia", as well as that other quote about Joker rooting on the Batman's predictable next steps.
+    - I also, fwiw, held back on referencing the Liar Cat character from _Saga_ for so long. I knew some of you fuckers _had_ to be talkign about it. I need to read the rest of that someday, digressing
 - "I know what they're scared of" - tehcnically I didn't, I thought it was strippers, they were probably scared of the Anonymous articles running Yuga Labs at the time of the last week of September, which considering the truck fire's allusions to KKK behavior, was... hilarious, to me, a sicko. I didn't learn about those articles til January in 2023 though, I believe.
 
 # Potential remaining outline (in parts)

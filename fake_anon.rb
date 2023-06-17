@@ -32,9 +32,9 @@ to_be_or_not_to_be.each do |names|
         surreal_sur_names[name] = new_name if surreal_sur_names[name].nil?
       end
 
-      puts "#{name} > #{new_name}"
+      # puts "#{name} > #{new_name}"
 
-      text = text.gsub(name, new_name)
+      text.gsub!(name, new_name)
     end
   end
 end
@@ -42,10 +42,10 @@ end
 to_work_or_not_to_work.each do |org|
   surreal_company = Faker::Company.name
 
-  puts "#{org} > #{surreal_company}"
+  # puts "#{org} > #{surreal_company}"
   org.each do |org_name|
-    text = text.gsub(org_name, surreal_company)
+    text.gsub!(org_name, surreal_company)
   end
 end
 
-File.open(file_name, 'w') { |file| file.puts text }
+puts text

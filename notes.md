@@ -247,3 +247,19 @@ _Season 1 Episode 1_
 > [Michael Narrating] When you've spent enough time as an operative, recovering from a brush with death isn't about an appointment with the psychiatrist or a week in Hawai.
 >
 > It's about having a purpose, whether it's something to fight... or someone to hunt.
+
+> [Michael Narrating] There's an element of theater in any offensive campaign. It's not just abou bullets and bodies. Killing people usually creates more problems than it solves. It's about undermining your enemy's will to fight, destroying the morale of his troops, sending the message that fighting back is useless because the battle is already lost.
+
+> Fiona: Michael McBride.
+>
+> Michael: Michael McBride.
+>
+> Fiona: Sometimes I wonder if he's the one I fell in love with.
+>
+> Michael: I wouldn't be surprised. We caused a lot of mayhem, you and I. He was your type of guy.
+>
+> Fiona: Yes, he was. Where did he go?
+>
+> Michael: Oh, you know how it is with cover IDs. You become who you need to be.
+>
+> Fiona: And everyone gets to guess who you really are.

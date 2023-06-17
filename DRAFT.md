@@ -2825,6 +2825,10 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - At some point that Sunday I believe I recalled that I thought, just maybe, the EMS guy who grilled me like he wanted to kick my ass that previous June 3rd was perhaps someone's kid
 - That seemed to generate a direct response across the street, describe scene in DSNY parking garage with three guys, the one in teh center in a dierctor chair of some sort, I'm pretty sure, one goes into the red truck and drives off as soon as they make me making them making me. Remind the reader how long you've lived here, perhaps
 
+#### Pick a point but start talking about movies
+
+- I think August had a few good ones. Bring up _Clueless_, _Charlie's Angels_, but definitely mention starting early with _Inside Man_ -- maybe bring up the Denzel T shirt thing. It was around when you called your mom, I think in the week below. Either way, definitely bring up feeling imprisoned in a weird way but being somewhat if not completely inspired by Clive Owen's character, as far as life analogies go. Wasn't that movie also about Nazis or something? Wild. I'm feeling all spiked out.
+
 #### The week they brainhacked my barber and literally hacked my Persona 5 game just for me to say I'd rather not hang out with them even if they have one cool friend with a band
 
 - I believe the framework of the week should be hearing and compiling the hints in the game and then the walk to the barber -- first potential hack of Persona 5 dialogue in subway area

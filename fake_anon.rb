@@ -14,7 +14,7 @@ surreal_sur_names = {}
 
 to_work_or_not_to_work = [
   %w[Vouch vouch],
-  %w[Liveramp LiveRamp liveramp],
+  %w[Liveramp LiveRamp liveramp LR],
   %w[Glimpse]
 ]
 

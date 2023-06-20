@@ -43,7 +43,7 @@ What, were they TV producers or something?
 I took a large, _Arrested Development_-with-the-_Charlie Brown_-music-in-the-background sigh on the corner of Canal and Essex, directly across from the remains of the white shirt gang. I got a chicken sandwich, then on the walk home up Canal, I saw the creepy brunette ina red dress again, she made a point to look at me with a big frown, as though I had just disappointed her. I tried giving her a "what the fuck is wrong with you" look, and walked home, where I chastised those potentially audio surveilling me for sexism in operational tactics.
 
 Given everything that happened in the past few months, along with the Federal Government denying the right to abortion despite trying to pass a law codifying it, it seemed like the right move. And just in case I was right about the TV producer thing, in the back of my mind, I remembered the large collection of stolen and bootleg DVDs I had in my closet.
-# Part 1 Chapter 1 -- Pre Flatley Inc
+# Part 1 Chapter 1 -- Pre Senger-Huel
 
 ### Draft
 
@@ -57,7 +57,7 @@ Like I said, it doesn't happen as often these days, but the rules haven't change
 
 So, just like in _Clue_, you have three distinct facts that add up to one question: who done it?
 
-On January 28 2022 (nts: check, was a friday), after accepting an offer in principal from Flatley Inc inc, the only thing I was doing on my windows machine at the time was looking at a PDF of their business basics in a single chrome tab running Gmail's preview of the PDF.
+On January 28 2022 (nts: check, was a friday), after accepting an offer in principal from Senger-Huel inc, the only thing I was doing on my windows machine at the time was looking at a PDF of their business basics in a single chrome tab running Gmail's preview of the PDF.
 
 Earlier that day I had what felt like an odd communication around the background check after accepting the offer. I immediately assumed the company was "looking into" my machine -- they may have found it odd that in my interviews I used my Apple Macbook, and had suddenly used a Windows machine to open an email, perhaps, though that has more to do with my Macbook being portable for more suitable webcam angles than my Windows machine, a desktop, can offer given it's position opposite to my framed covers of weird comic books.
 
@@ -99,11 +99,11 @@ Which is to say, after 2021, I decided to check out due to burn out, and stopped
 
 Did that seem weird to them? It may have, idk. Looking back at the videos, I mostly feel I could have worked out a bit more as I was very skinny, but my playing seemed OK, and some people hit the like button on my reels, and that made me feel good.
 
-So, in early 2022, I just wanted a job. Three companies gave me offers, and during one final interview, a CFO not at Flatley Inc spoke highly of the CEO at Flatley Inc, influencing my decision in an ironic way. I often wonder what if I wasn't impressed at someone else being impressed at someone so much that I went in that direction? Alas, I was grateful for the opportunity, and based on Flatley Inc's position as a startup focused insurer, I felt the equity would work out, just as long as the Fed kept printing money at a consistent rate, the startup machine would never stop, not soon at least.
+So, in early 2022, I just wanted a job. Three companies gave me offers, and during one final interview, a CFO not at Senger-Huel spoke highly of the CEO at Senger-Huel, influencing my decision in an ironic way. I often wonder what if I wasn't impressed at someone else being impressed at someone so much that I went in that direction? Alas, I was grateful for the opportunity, and based on Senger-Huel's position as a startup focused insurer, I felt the equity would work out, just as long as the Fed kept printing money at a consistent rate, the startup machine would never stop, not soon at least.
 
 ...
 
-That Friday, January 28th 2022, When I got the email from the HR person at Flatley Inc about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
+That Friday, January 28th 2022, When I got the email from the HR person at Senger-Huel about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
 
 Anyway, I was working in NYC, for a company which had offices in San Francisco and Chicago, and talking to an HR person based in Chicago with about 3 other HR people CC'd. The background check form asked for a zip code for the company -- I looked up the first SF zip code I could find, hit enter, and was asked by the website to review the information first. I checked SF zip codes, and noticed there were a few. I then began to wonder if the company was actually, tax wise or whatever, based in Chicago. I didn't feel like looking shady and screwing up the background check form, so I asked Friday afternoon around 3 PM Chicago time via the email chain what the zip code was.
 
@@ -111,10 +111,10 @@ There were 3 other people, including the recruiter who worked with me earlier wh
 
 Later that evening, while reviewing the company's PDF, looking at the pinwheel diagram which explained that the company would pickup the "best" startups (I assumed that meant those with the most VC traction) and stick with them as they grew, thus, the premiums would grow with the companies. Seemed smart, I thought, as long as the economy sticks with big tech, my equity might work out and not just my bosses'. At that high point, having just secured employment, and feeling as though I had made the right choice between three offers -- my Windows 10 gaming and music production machine did something it hadn't ever done before: given me it's Blue Screen Of Death.
 
-I assumed the worst, I suppose, and handled it as best I could. On Monday, I hadn't received a response from Flatley Inc, so around 3 PM (nts: check emails) I reached out. I received a response shortly after saying the background check actually cleared -- but I had never hit "confirm" on the final submission. Perhaps the company gathered the data pre-emptively, but, I still found this a bit, well, shady.
+I assumed the worst, I suppose, and handled it as best I could. On Monday, I hadn't received a response from Senger-Huel, so around 3 PM (nts: check emails) I reached out. I received a response shortly after saying the background check actually cleared -- but I had never hit "confirm" on the final submission. Perhaps the company gathered the data pre-emptively, but, I still found this a bit, well, shady.
 
 That said, a job's a job, and a white woman in Chicago working in an HR department can think a lot of things about a brown man in NYC working remotely for a tech department, and if a mistake was made, I wouldn't of minded if it stopped there.
-# Pt 1 Ch 2 -- First Week at Flatley Inc, 2/13/2022
+# Pt 1 Ch 2 -- First Week at Senger-Huel, 2/13/2022
 
 ### Draft
 
@@ -130,7 +130,7 @@ Before 2020, I was upset the way I discovered this -- via a boss' psychological 
 
 Back in 2020, I went through an experience that confirmed to my suspicions that some companies in "big tech" were using audio surveillance on their remote employees. As a computer programmer, I knew this wasn't hard to pull off and hide -- audio processing takes a minute amount of power on a modern CPU, to where it wouldn't interfere with the average worker bee's day. The way I figured out was the immaturity in how the audio surveillance was being used -- it seemed if I setup myself as a joke, my bosses were more than likely to play off it in meetings, indicating they were listening, and they were not threatened but willing to use it as a cheap way to feel superior, like children. But that was then.
 
-In 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at Flatley Inc, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
+In 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at Senger-Huel, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
 
 ...
 
@@ -147,7 +147,7 @@ In offices, I limit this to an occasional one word mumble, if anything. Sometime
 
 You might think it's crazy, but I've talked to a lot of therapists about it, and they don't, often categorizing it as a type of self talk.
 
-All these things came to an odd head of sorts early on at Flatley Inc. My instinct was not to care, because, if it was a problem, surely someone would be direct and just ask me about it.
+All these things came to an odd head of sorts early on at Senger-Huel. My instinct was not to care, because, if it was a problem, surely someone would be direct and just ask me about it.
 
 Wouldn't you do that if you were confused about something a co-worker or employee said aloud to themselves or anyone else in an office?
 
@@ -159,11 +159,11 @@ After 2022, I wonder if emotional immaturity is more acceptable compared to pure
 
 _Early February 2022_ (nts: get weeks where needed from notes and calendar, should be second week of Feb)
 
-My first two days at Flatley Inc were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
+My first two days at Senger-Huel were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
 
 Another thing I thought was weird was Ronnie Wang, a woman I had interviewed with some 3 weeks ago, whom held a Director position and would have been my boss' boss, was not at the company when I joined. That meant she likely hadn't told them she was leaving when she interviewed me (nts: check dates, think it was 1/24), and gave her two weeks notice the following week. This is irregular for a Director -- typically a departure is coordinated with months, not an employee's standard two weeks, given their importance to the company.
 
-Unless, for some reason, she, didn't care and decided to quit, giving Flatley Inc the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Flatley Inc's organization -- if they seem disorganized, that meant Ronnie ran things and she left abruptly to make a point. If they don't seem disorganized, then maybe I'm wrong._
+Unless, for some reason, she, didn't care and decided to quit, giving Senger-Huel the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Senger-Huel's organization -- if they seem disorganized, that meant Ronnie ran things and she left abruptly to make a point. If they don't seem disorganized, then maybe I'm wrong._
 
 When I was first hired, my boss was to be a man named Eric, and a week after I got the offer, I was told it would be a woman named Eloise. No biggie, but a sudden shift in internal management usually points to disorganization.
 
@@ -183,7 +183,7 @@ One thing I often do is look at the code that assembles the page to see how it b
 
 The login page being the first page I looked at had a lot to do with the website in question - the company's "app." website to manage data, not it's more sales oriented main "www." website - locking you out until you login... like... many if not most data oriented websites.
 
-While looking at the login page for Flatley Inc's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Flatley Inc - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
+While looking at the login page for Senger-Huel's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Senger-Huel - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
 
 I'm pretty sure I said some judgemental things, and out loud but to myself as I said before, such as:
 
@@ -193,11 +193,11 @@ I'm not really... _sure_ what I said, to be honest, because I was just wondering
 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 
-To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Flatley Inc.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Flatley Inc.us used that they were hiring me to help make.
+To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Senger-Huel.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Senger-Huel.us used that they were hiring me to help make.
 
 It's kind of like seeing the brand name of a lock on the door of your employer's office, probably not something weird for the guy who works on the front of the employer's office, website wise, to take note of.
 
-Meaning, finding out Flatley Inc used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
+Meaning, finding out Senger-Huel used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
 
 But again, I may have sounded _really_ judgemental.
 
@@ -320,10 +320,10 @@ if my_internet_connection_is_down and my_neighbors_nor_others_in_my_area_seem_af
   if this_is_in_response_to_what_I_said_in_my_kitchen then
     if it_makes_me_wonder_why_Ronnie_left_so_abruptly then
       if i_try_and_embarass_whoever_did_this then
-        if someone_in_Flatley Inc_has_government_connections_as_theyre_in_sf_and_im_in_new_york then
+        if someone_in_Senger-Huel_has_government_connections_as_theyre_in_sf_and_im_in_new_york then
           i_try_and_embarass_whoever_did_this_to_quietly_stop_fascist_behavior
         else
-          i_try_and_embarass_whoever_did_this_to_quietly_improve_Flatley Incs_decision_making
+          i_try_and_embarass_whoever_did_this_to_quietly_improve_Senger-Huels_decision_making
         end
       end
     else if Ronnie_didnt_leave_abruptly then
@@ -437,7 +437,7 @@ I never said "I'm a spy" or that I "work for the government" -- just that I knew
 
 Things did not end that way, but maybe that's my fault.
 
-I didn't think much more of the situation until I ended that afternoon with a 1:1 with my manager Eloise, and she told me why Rachel Bird, after a two month paid leave, was leaving Flatley Inc for good.
+I didn't think much more of the situation until I ended that afternoon with a 1:1 with my manager Eloise, and she told me why Rachel Bird, after a two month paid leave, was leaving Senger-Huel for good.
 
 ...
 
@@ -524,7 +524,7 @@ _Oh, well I thought we were both lying about being spies. That wasn't the joke h
 Look, I probably would've gotten fired, but like I said I had two other job offers and if things happened quickly I doubt they would've gotten to a point where the government would have to try the loudest "cover up" of all time as opposed to just minding their own business.
 
 Alas, maybe more people are pretending at what they are than I realize.
-# Pt 1 ch 3 -- Second week at Flatley Inc (2/20/22)
+# Pt 1 ch 3 -- Second week at Senger-Huel (2/20/22)
 
 ### Draft
 
@@ -538,7 +538,7 @@ The formality gives developers a log of changes that is easily reviewable. In fa
 
 That said, `git blame` is my favorite tool for assessing a company against it's codebase. Along with `git log`, you can easily see not just what code went through the most changes, but _who_ makes the most important changes in code. One tell tale sign of a poorly run company, in a general sense, is employee attrition -- do people not stay at the company for long?
 
-At Flatley Inc, when looking at their codebase, there were several names that read important to the code, that simply weren't present at the company. Asking about them got a nervous look at best, and generally current employees don't like talking about previous ones - particularly if they left out of disapointment.
+At Senger-Huel, when looking at their codebase, there were several names that read important to the code, that simply weren't present at the company. Asking about them got a nervous look at best, and generally current employees don't like talking about previous ones - particularly if they left out of disapointment.
 
 Disappointment from a developer's point of view is easy to track with `git log` and `git blame` - most developers like myself are, if anything, overly exuberant in the English messages we leave when we "commit" code. At the beggining, like most employees, the exuberant developer _over_ writes.
 
@@ -548,7 +548,7 @@ Soon, massive code changes are accompanied with one to two word commit messages,
 
 And then, they quit, or from my perspective, were no longer part of the company.
 
-By my second week at Flatley Inc, I had diagnosed all of these things in previous developers as well as my current team mates, particularly Tony Thompson, who had a similar set of skills to me as a developer and I was to work closely with. This disheartened me to say the least.
+By my second week at Senger-Huel, I had diagnosed all of these things in previous developers as well as my current team mates, particularly Tony Thompson, who had a similar set of skills to me as a developer and I was to work closely with. This disheartened me to say the least.
 
 But code is only one way to judge the internal behaviors of a tech firm. The other way is seeing how clear the _process for requesting code changes_, in any form, is.
 
@@ -574,17 +574,17 @@ Given that I felt the company leadership _may_ have leveraged federal resources 
 
 That, or, the developers had given up trying to communicate to the leadership, for _some_ reason.
 
-Either way, Flatley Inc, despite it's pedigree and financing, was clearly just another run of the mill disorganized tech company that hides it's lack off efficiency or professionality behind investor graft to make investment appear as value without creating the actual value it represents. Which, is typical.
+Either way, Senger-Huel, despite it's pedigree and financing, was clearly just another run of the mill disorganized tech company that hides it's lack off efficiency or professionality behind investor graft to make investment appear as value without creating the actual value it represents. Which, is typical.
 
 What kept me from quitting right then and there was my finances, and that I could deal with typical, if it meant a good paycheck. My coworkers were.
 
-That said, while Flatley Inc's lack of professional standards with regards to technology is rather pro forma for most tech companies, particularly startups, I still had to wonder if all of the employees go through a "covert" federal investigation as a matter of routine as well. But, at that point, I could have been wrong about my assumptions, or at least I hoped.
+That said, while Senger-Huel's lack of professional standards with regards to technology is rather pro forma for most tech companies, particularly startups, I still had to wonder if all of the employees go through a "covert" federal investigation as a matter of routine as well. But, at that point, I could have been wrong about my assumptions, or at least I hoped.
 
 The last thing I found funny in the Google doc was this: the CIO, a John Wallace, made numerous typos; spelling and grammar. Given that he is a top level employee and a leader representing Insurance -- the one thing that kept this company from just being tech, after all -- I thought his lack of attention to detail was alarming, and I do believe I said something out loud about it.
 
 ...
 
-My second week at Flatley Inc, like the first, involved several "onboarding" meetings to introduce me to the various departments and leaders of the company. My boss' boss, the Chief Product Officer, was another Indian man named Rajat Kongovi, the same man who I felt had hinted towards authentication in a strange way a week before in an email. His onboarding meeting to represent our shared internal department of Product seemed fine, save for one comment about his fellow C Suite board member, John Wallace.
+My second week at Senger-Huel, like the first, involved several "onboarding" meetings to introduce me to the various departments and leaders of the company. My boss' boss, the Chief Product Officer, was another Indian man named Rajat Kongovi, the same man who I felt had hinted towards authentication in a strange way a week before in an email. His onboarding meeting to represent our shared internal department of Product seemed fine, save for one comment about his fellow C Suite board member, John Wallace.
 
 Rajat said something like this about John:
 
@@ -606,7 +606,7 @@ Felt, shady, to me.
 
 ...
 
-Another onboarding meeting, and one I was anticipating learning a lot about being that I had no perception prior to Flatley Inc about the "insurance indsutry" in general, was the onboarding meeting for the insurance department.
+Another onboarding meeting, and one I was anticipating learning a lot about being that I had no perception prior to Senger-Huel about the "insurance indsutry" in general, was the onboarding meeting for the insurance department.
 
 Given what Rajat just said, as well as my suspicions, as well as wondering "how does a white C level not use proper english in online documents", I was looking forward to this meeting because it was to be led by John Wallace, the CIO himself.
 
@@ -686,7 +686,7 @@ Just call me your pusherman, I guess. This is all theory and conjecture, however
 
 The darkest theory I can construe would have to be this:
 
-`During my first week at Flatley Inc, the company attempted to investigate me alongside the Federal government, utilizing overreach to which I responded to by lying. In order to justify the overreach, the company or the federal government began spreading the idea that I could be "working with Russia", in reflection of their own political ambitions. However, given this happened via internet comms, Russian intelligence may have picked up on this. Realizing I do not have any connection to Russian intelligence, and realizing that the US Gov't broke their own constitution in pursuing me, perhaps Vladimir Putin started a war simply because he knew the US Gov't could be held at arms length via the blackmail of this situation, which Eloise is now being asked to validate on behalf of those that investigated me under false and perhaps illegal pretenses.`
+`During my first week at Senger-Huel, the company attempted to investigate me alongside the Federal government, utilizing overreach to which I responded to by lying. In order to justify the overreach, the company or the federal government began spreading the idea that I could be "working with Russia", in reflection of their own political ambitions. However, given this happened via internet comms, Russian intelligence may have picked up on this. Realizing I do not have any connection to Russian intelligence, and realizing that the US Gov't broke their own constitution in pursuing me, perhaps Vladimir Putin started a war simply because he knew the US Gov't could be held at arms length via the blackmail of this situation, which Eloise is now being asked to validate on behalf of those that investigated me under false and perhaps illegal pretenses.`
 
 However, I was nowhere near that theory back then because the Ukrainian - Russian conflict hadn't persisted to the point it is has today: nearly a million lives have been lost on both sides, international economics and food supplies have been endangered, and talk of a shifting world order has come to light yet again because of it.
 
@@ -715,7 +715,7 @@ That said, I realized that if I was right about the company's behaviors, then I 
 
 One of my new coworkers was a man named Tony Thompson. He was extremely kind during the interview, and after I was given an offer emailed me personally to ask if I had any questions or just wanted to chat while I was considering the offer. While joining, during the "get to know you" session, I found out he learned guitar with his son during the Covid lockdown, and they were both into guitar sound effect pedals; two of my bigger hobbies. I had chatted a few times with Tony online about boutique guitar pedal manufacturers; Chase Bliss, Old Blood Noise Endeavors, and others.
 
-Just prior to joining Flatley Inc, I had setup a "pedal board" - a preconfigured collection of effects pedals placed on a board such that you can move them easily - which I was quite proud of. That weekend I had just figured out some of the ways MIDI worked and decided that it may be a nice way to endear myself to a new colleague I'd be working close with if I shot a video of me playing with the pedals.
+Just prior to joining Senger-Huel, I had setup a "pedal board" - a preconfigured collection of effects pedals placed on a board such that you can move them easily - which I was quite proud of. That weekend I had just figured out some of the ways MIDI worked and decided that it may be a nice way to endear myself to a new colleague I'd be working close with if I shot a video of me playing with the pedals.
 
 One of the pedals, a Chase Bliss MKII Automatone (nts: double check name), has mechanical faders which literally move when you change the preset, which is unique. I setup this and other pedals to have two sound effects, and thought it would be cool to make a video which shows both.
 
@@ -764,7 +764,7 @@ I'm sure somewhere Ms. Anderson and Mr. Duchovny, as well as their FakeBI counte
 ...
 
 Tony Thompson never slack chatted to me again during my employment, never offering his thoughts on my cool pedal board, or what he, a man in his 40s, thought of _The X Files_ when growing up, after responding to everything else we had spoken on that week.
-# Pt 1 Chapter 5 -- Third Week at Flatley Inc, 2/28/22
+# Pt 1 Chapter 5 -- Third Week at Senger-Huel, 2/28/22
 
 > Michael: [after having Spencer committed to a psych ward for his alien paranoia] "Spencer, you can't be here."
 >
@@ -800,9 +800,9 @@ Over the last year I've gotten used to it, and, considering the legal precedent 
 
 ...
 
-My manager Eloise was on vacation that week, where on monday I had a 1:1 to get to know a new coworker, Damon Hastings. Damon was around my age or a bit older, but newer to development as he made a career change in his late 20s. Damon was very nice and I thought he was smarter than his confidence allowed, though that can happen to minorities in tech quite often. Either way Damon seemed very happy at Flatley Inc.
+My manager Eloise was on vacation that week, where on monday I had a 1:1 to get to know a new coworker, Damon Hastings. Damon was around my age or a bit older, but newer to development as he made a career change in his late 20s. Damon was very nice and I thought he was smarter than his confidence allowed, though that can happen to minorities in tech quite often. Either way Damon seemed very happy at Senger-Huel.
 
-However, somehow Rachel Bird came up, and Damon, whom if I recall correctly was sitting with his wife in a diner at the time working via the diner's wifi, let me know an interesting detail that Eloise hadn't about Rachel Bird's time at Flatley Inc.
+However, somehow Rachel Bird came up, and Damon, whom if I recall correctly was sitting with his wife in a diner at the time working via the diner's wifi, let me know an interesting detail that Eloise hadn't about Rachel Bird's time at Senger-Huel.
 
 Apparently Rachel had been sexually harassed by not one but two employees; and one was still present at the company.
 
@@ -813,7 +813,7 @@ I had gathered via her linked in profile that Rachel was also like Damon a devel
 I immediately thought of John Wallace, who had a loserly vibe to me. I rethought the chain of event's from John Wallace's perspective, if and only if he was a dork ass divorced loser.
 
 ```
-if Flatley Inc_cio_john_wallace_is_a_dork then
+if Senger-Huel_cio_john_wallace_is_a_dork then
   if john_hit_on_and_got_rejected_by_rachel_bird then
     if rachel_saw_it_as_harassment_and_took_two_months off then
       if rachel_quit_on_a_friday then
@@ -846,7 +846,7 @@ In 2020, I had developed a set of techniques meant to decipher if my bosses are 
 
 I had been streaming for 3 years at the time of 2020 when I combined the skill of knowing how to pay attention in meetings even if I am distracted or talking to someone else with the skill of being able to read faces when they're on webcams that I learned via twitch, with a skill I've always had but never had quite developed for this purpose: talking shit, to some extent, ala the children in the movie _Sandlot_, though hopefully with less gender bias.
 
-By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Flatley Inc, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
+By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Senger-Huel, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
 
 In my most private of moments, I call the main technique, with some reference to the film _Perdita Durango_ and the Lady Gaga song _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
 
@@ -928,7 +928,7 @@ I'd write that in the code but I figure'd it's obvious enough, just between us h
 
 ...
 
-Flatley Inc held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. Flatley Inc being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.
+Senger-Huel held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. Senger-Huel being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.
 
 The first two weeks I mostly listened and didn't really run `the_gg_move`, but on that Tuesday, if I had roommates I'm sure they would have wondered why I was talking out loud while my speakers were clearly playing audio of my co workers speaking out loud in a meeting, and it sounds like we're having two separate conversations, albeit at times where it feels like both are listening to each other cautiously such to wonder if that group of people and or weird guy over there is listening to me or them, respectively.
 
@@ -978,7 +978,7 @@ I'm _pretty_ sure I corrected myself on the rascist accusations, though, it wasn
 
 Somewhat after that moment, while the HR person and the CEO were the only two people on the screen, the CEO, in a planned statement, reminded everyone of the company motto. That's to say I do not think he really thought of the motto in the context of audio surveilling an employee into a bogus federal investigation, but, he said what he said when he said something like:
 
-> "When it comes to our employees at Flatley Inc, we strive to live by the golden rule."
+> "When it comes to our employees at Senger-Huel, we strive to live by the golden rule."
 
 Near immediately, and in the hope that the audio transcription picked up my sudden falsetto, I responded directly:
 
@@ -1002,7 +1002,7 @@ _It's not like I could confirm at that moment that he literally got divorced rec
 
 Well, I still can't confirm _all_ of that, and at the time I coudln't confirm any of it, but it was a thought in my head, however fleeting.
 
-I left the meeting feeling certain that, eventually, once these idiots found out I was joking, they'd fire me. I couldn't confirm that wouldn't happen at that point, but I can tell you that in the end, it was I who quit Flatley Inc, and this meeting probably should have been when I did. Alas.
+I left the meeting feeling certain that, eventually, once these idiots found out I was joking, they'd fire me. I couldn't confirm that wouldn't happen at that point, but I can tell you that in the end, it was I who quit Senger-Huel, and this meeting probably should have been when I did. Alas.
 
 ...
 
@@ -1038,7 +1038,7 @@ I probably could've picked a simpler song, like `My Generation` maybe, but hopef
 
 Anyway, if they thought I was more than one person, even just that day, it's one of the better explanations as to why 3 out of the 4 C levels present in the earlier day's all hands meeting would miss the meeting specifically meant to introduce themselves as leaders of a small company to incoming employees, especially a meeting that was cancelled in it's first week and thus representing not just one but two whole batches of new employees.
 
-It also explains why the one C level "thrown to the wolf" was the youngest, Travis Hedge, someone with a family legacy in the insurance industry and along with the CEO a co founder of Flatley Inc. I had met with him in a previous onbaording meeting and had some back and forth dialogue; I thought he was an ok guy and after hearing him talk in that and other meetings, I had established a baseline for his cadence.
+It also explains why the one C level "thrown to the wolf" was the youngest, Travis Hedge, someone with a family legacy in the insurance industry and along with the CEO a co founder of Senger-Huel. I had met with him in a previous onbaording meeting and had some back and forth dialogue; I thought he was an ok guy and after hearing him talk in that and other meetings, I had established a baseline for his cadence.
 
 It wasn't to be redder in the face than a tomato in the sun, at least for a paleish white guy, who wasn't normally so flush.
 
@@ -1068,9 +1068,9 @@ I didn't care, I just went back to _Death Note_.
 
 At some point soon I couldn't focus -- the show involves police and, well, my life probably did at that point in some way as well. I realized it was probably time to do the one thing I hadn't done, on purpose.
 
-I really wanted Flatley Inc to be a place where I could _ignore_ their ineffeciencies, which abound in big tech, in order to pay my debts and balance my life out a bit. That didn't turn out to be possible. However, in that effort, when joining I astutely did absolutely zero research on the "company leadership."
+I really wanted Senger-Huel to be a place where I could _ignore_ their ineffeciencies, which abound in big tech, in order to pay my debts and balance my life out a bit. That didn't turn out to be possible. However, in that effort, when joining I astutely did absolutely zero research on the "company leadership."
 
-All I knew about them before joining was that the one CFO from another company whose offer I declined seemed impressed enough by Flatley Inc's CEO, which spoke highly to me.
+All I knew about them before joining was that the one CFO from another company whose offer I declined seemed impressed enough by Senger-Huel's CEO, which spoke highly to me.
 
 _So who are my bosses anyway?_
 
@@ -1080,7 +1080,7 @@ First was the youngest and the one I had seen the most recently, Travis Hedge. H
 
 Next was my boss' boss, Rajat Kongovi. He had much previous experience in tech and Ivy League credentials. I think he played basketball in college. I imagined him being the guy on the board that made the older whiter guys feel cool, as Rajat felt a lot more relaxed than others. Call me rascist, it's fine, I do it all the time. Rajat had a very if not the most impressive resume of anyone on the C suite, particularly with regards to tech and business leadership, but nothing of interest to me in relation to my situation.
 
-Next was the CIO, John Wallace. He had a deep legacy in business insurance and other types of things, but none in tech, this appeared to be his first gig there. I noted it seemed like he grew up or went ot college in the Colorado area, lived in Wisconsin for sometime, then recently moved to Chicago, right where Flatley Inc had an office. Nothing else worth seeing, though, I did laugh out loud when I saw his profile picture, just in case they were listening. In honesty, it was a fine picture.
+Next was the CIO, John Wallace. He had a deep legacy in business insurance and other types of things, but none in tech, this appeared to be his first gig there. I noted it seemed like he grew up or went ot college in the Colorado area, lived in Wisconsin for sometime, then recently moved to Chicago, right where Senger-Huel had an office. Nothing else worth seeing, though, I did laugh out loud when I saw his profile picture, just in case they were listening. In honesty, it was a fine picture.
 
 Finally, at least to my memory, was the CEO, Sam Hodges. Sam had an insanely long linked in profile. There were several long stints as company leadership of all kinds, much in the sector of tech venture capital, and much to be said as a CEO - it wasn't his first time. But there were also board appointments - oh the board appointments! I remember scrolling quite a bit before I saw this:
 
@@ -1106,7 +1106,7 @@ At the time he didnt' list the date of graduation, but if referring to when his 
 
 My sister, to whom I'm estranged from and have been for the last three or five years at least, attended Brown University between the years 1999 and 2003.
 
-My sister, given a quick linked in check, was at the time of my employment at Flatley Inc, a DEI officer of the 9th district federal court of the US, and was at one point an employee of the US EOC, or Equal Opportunity Commission.
+My sister, given a quick linked in check, was at the time of my employment at Senger-Huel, a DEI officer of the 9th district federal court of the US, and was at one point an employee of the US EOC, or Equal Opportunity Commission.
 
 And here I am, a brown guy getting his internet cut because he rocked out to some white guys's tunes too hard, but I ain't ever worked for no government.
 
@@ -1119,7 +1119,7 @@ But I'll let you know about all that later on in the memoir.
 That was Tuesday evening, March 1st, 2022. I still had work in the morning.
 
 
-# Chapter 6 - Third Week at Flatley Inc, 3/2 on
+# Chapter 6 - Third Week at Senger-Huel, 3/2 on
 
 > "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Broadcast TV's _Burn Notice_
 
@@ -1165,7 +1165,7 @@ It's probably just a coicidence.
 
 ...
 
-March is, of course, women's history month, and Flatley Inc was not going to let that one slide. On Thursday, there was an optional meeting that, had I more work to do, I probably would have politely tried to avoid, focused on celebrating the month.
+March is, of course, women's history month, and Senger-Huel was not going to let that one slide. On Thursday, there was an optional meeting that, had I more work to do, I probably would have politely tried to avoid, focused on celebrating the month.
 
 I've come a long way with regards to the whole "politics at work" thing -- yes, I wish communicating to people about my politics caused effective change, but I think we really tried that a bit too much with the social media and we should all dial back a bit ~~before we go insane as a society in such a way that normal people like me feel like we're in a zombie movie where we can't just behead our problems away due to the zombie class' elevated police state~~, but that's just my opinion.
 
@@ -1231,7 +1231,7 @@ I have another 1:1 with a developer, this time outside of my team but within my 
 
 She seemed a bit taken aback and commented that she had made the same suggestion but was brushed off.
 
-Now, I don't know the full technical details -- this was a "rails" backend, and often, rails developers want to stick to idioms that are more structured than NoSQL. Pardon the tech jargon - that's just to say she and I could have both been wrong but, given the way she let me know, I began to wonder, against all the other things I had experienced, whether Flatley Inc was a company dealing with internal bigotry more than it's CEO, a former Obama apointee, might want to be known for.
+Now, I don't know the full technical details -- this was a "rails" backend, and often, rails developers want to stick to idioms that are more structured than NoSQL. Pardon the tech jargon - that's just to say she and I could have both been wrong but, given the way she let me know, I began to wonder, against all the other things I had experienced, whether Senger-Huel was a company dealing with internal bigotry more than it's CEO, a former Obama apointee, might want to be known for.
 
 It'd make a lot of sense considering I thoguht I was under investigation for crimes I hadn't committed nor really existed such that at least _someone else_ did the stuff they were investigating me for. I mean, maybe, but they never todl me why they were investigating me, if they were. Anyway.
 
@@ -1278,13 +1278,13 @@ A thought process can feel like one at times, if you hear all your thoughts.
 Your brain can think some crazy things. You can't prove them for truth. I remember thinking the above and thinking, man, that'd be crazy. And fucked up. And it'd only be true if, well, somehow this thing continues in a way to prove that those connections matter more than the law which was being utilized to investigate me.
 
 But, given it was DC, I'd probably never be able to prove it. Well, not alone at least.
-# Pt 1 Ch 7 - Fifth Week at Flatley Inc, 3/6/22 -- Eyes in the back of my mind
+# Pt 1 Ch 7 - Fifth Week at Senger-Huel, 3/6/22 -- Eyes in the back of my mind
 
 ### Draft
 
 > "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
-I honestly wasn't sure what was more dissapointing with Flatley Inc: that they had "woopsie-daisied" their way into putting me under what felt like a federal investigation of some sort, or that they told half the damn company that I was under some kind of investigation like it was gossip, and asked them to try and "trigger" me in meetings to see how I'd respond to things like the "Sandanistas."
+I honestly wasn't sure what was more dissapointing with Senger-Huel: that they had "woopsie-daisied" their way into putting me under what felt like a federal investigation of some sort, or that they told half the damn company that I was under some kind of investigation like it was gossip, and asked them to try and "trigger" me in meetings to see how I'd respond to things like the "Sandanistas."
 
 I supposed I'd have to deal with the latter more than the former, though that changed this week.
 
@@ -1443,7 +1443,7 @@ It was during my one stint in the crypto currency industry.
 You might've figure'd that one out on your own -- I don't really need to say much more about that experience for you to get the rest.
 
 _What kind of fascism is this?_
-# Pt 1 Ch 8 - A break to describe the Biden / Harris admin's motivations against me and potential relationships with Netflix and my employer Flatley Inc
+# Pt 1 Ch 8 - A break to describe the Biden / Harris admin's motivations against me and potential relationships with Netflix and my employer Senger-Huel
 
 > "They spent time retweeting my posts and calling me a white supremacist, a coon and all sorts of derogatory names, fueling others who began to DM me telling me I was a sell out because I was Black and I should’ve killed myself when I had the chance," Jeffrey said. "I was mocked and harassed for being a sexual assault survivor, a domestic abuse survivor, and was told by the KHive that it was good for me and they hope it happens again, since I don’t support Harris." - Luverta Jeffrey, former black female Kamala Harris supporter, as quoted in the [huffpost](https://www.huffpost.com/entry/kamala-harris-khive-toxic-side_n_5f4fa573c5b69eb5c037473e)
 
@@ -1471,13 +1471,13 @@ Pure fascism has come to America, and it wants to be televised.
 
 Reader, here are the reasons I am suspicious that the DNC, led by the Biden / Harris admin and the "KHive", has since at most January 2022 been targeting me via the mechanism of a Netflix show formerly based on the hope that I would be connected to the behaviors of the Razzlekhan folks.
 
-1. *Flatley Inc introduces me to the Biden Harris DOJ and intelligence services in an attempt to position themselves as better cyber insurance experts*
+1. *Senger-Huel introduces me to the Biden Harris DOJ and intelligence services in an attempt to position themselves as better cyber insurance experts*
 
-When joining Flatley Inc, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
+When joining Senger-Huel, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
 
-In late January or possibly sometime in February to March 2022, I believe Flatley Inc reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
+In late January or possibly sometime in February to March 2022, I believe Senger-Huel reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
 
-At this point, I believe that Flatley Inc, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If Flatley Inc was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
+At this point, I believe that Senger-Huel, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If Senger-Huel was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
 
 Perhaps they've learned a lesson about pricing utility against pure fantasy.
 
@@ -1489,7 +1489,7 @@ The idea was to simultaenousely raise money as well as crowd fund a video game w
 
 It was of minor note then but I was suspicious at the time of possible DNC sabateouring from within the people I was working with, though again, I thought little of this beyond paranoia at the time.
 
-3. *Me To Flatley Inc to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
+3. *Me To Senger-Huel to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
 
 In the beggining of 2022, major Democratic donor Netflix's CEO was Reed Hastings. Per the NYT:
 
@@ -1497,9 +1497,9 @@ In the beggining of 2022, major Democratic donor Netflix's CEO was Reed Hastings
 
 Netflix also had several contractual relationships with former President Barack Obama's "Higher Ground" productions company, offering several ways the center right DNC wing led by the Biden / Harris administration in the White house and Barack Obama outside of it a way to connect directly with Netflix.
 
-The CEO at Flatley Inc where I worked at the time was Sam Hodges, formerly appointed to the Obama / Biden administration via the Secretary of Commerce, giving him a slight but definitive connection to the current POTUS as well as former POTUS Obama.
+The CEO at Senger-Huel where I worked at the time was Sam Hodges, formerly appointed to the Obama / Biden administration via the Secretary of Commerce, giving him a slight but definitive connection to the current POTUS as well as former POTUS Obama.
 
-This connected me, via Flatley Inc, to Sam Hodges, who was connected to the Obama / Biden admin, where Obama has active connections to Netflix, all while Razzlekhan had just been arrested by the Biden / Harris DOJ in 2022 and made into a Netflix special.
+This connected me, via Senger-Huel, to Sam Hodges, who was connected to the Obama / Biden admin, where Obama has active connections to Netflix, all while Razzlekhan had just been arrested by the Biden / Harris DOJ in 2022 and made into a Netflix special.
 
 4. *My video game named in late 2018 and a book that came out two years later*
 
@@ -1513,7 +1513,7 @@ But, I didn't think much of it at the time, similar to my suspicions of DNC saba
 
 5. *DNC seeks a sexist stereotype and I see right through it, pt. I in an ongiong series of my life*
 
-In retrospect, my direct boss at Flatley Inc Eloise's forced questioning and "oversharing" of her own relationship history as well as an in company sexual harrassment situation that was resolved in several employees leaving was a way for whomeever was telling her what to say to see if I'd react sexistly.
+In retrospect, my direct boss at Senger-Huel Eloise's forced questioning and "oversharing" of her own relationship history as well as an in company sexual harrassment situation that was resolved in several employees leaving was a way for whomeever was telling her what to say to see if I'd react sexistly.
 
 Any behavior easily categorizable as "bait for cheap claims of sexism" was clearly read by me as a tactic to better portray me as a "Bernie Bro" and made me realize the more it occurred in various degrees that the KHive wing of the DNC was likely more in charge than not, and this was due to bitterness over social media wars they wished I took more place in than I did.
 
@@ -1537,7 +1537,7 @@ More importantly to me, I think this insane series of events led VP Kamala Harri
 
 This "streaming network" has been putting out a more consistent form of garbo entertainment as we enter into 2020, leveraging reality TV and "true crime" to a larger and larger extent. While the media is popular - titles liek _Tiger King_, _Inventing Anna_ etc - they also create an opportunity where the "star" becomes newly affordable due to their recent imprisonment and legal fees, with _Razzlekhan_ being a recent entry.
 
-I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at Flatley Inc, collapsing further to $200 a share when I started working at Swift Inc, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
+I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at Senger-Huel, collapsing further to $200 a share when I started working at Runolfsdottir Group, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
 
 10. *Neera Tanden may have played a role given her ability to control WH messaging at the time as the Staff Secretary to POTUS Biden and may have been motivated due to her long history of Social Media fueds*
 
@@ -1560,7 +1560,7 @@ I have serious concerns that the DNC KHive along with Netflix and possibly Highe
 ...
 
 
-Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Flatley Inc, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
+Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Senger-Huel, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
 
 Now, in 2023, I may be facing time or at least a life of always being labeled a criminal simply for trying to make a publicly accessible video recording of not my proof of anything in fact; but what remains a fiction until proven true: my story. All I know is that I was acting, and talking about acting, and acting while talking about acting - but on my own recording devices, not their's.
 
@@ -1569,7 +1569,7 @@ This has, clearly, and perhaps unfortunately, all been a big joke to me. Haven't
 Yes, the charges literally have to do with the video series. And yes, I'm writing this memoir literally as a way to keep my name clear before anything more can happen to me while confined or otherwise.
 
 But that's 2023. Let's get back to early March 2022.
-# Pt 1 Ch 9 - Back to my fifth week at Flatley Inc 03/08/2022 and on
+# Pt 1 Ch 9 - Back to my fifth week at Senger-Huel 03/08/2022 and on
 
 > "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
 
@@ -1577,7 +1577,7 @@ Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of 
 
 However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
 
-Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Flatley Inc, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
+Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Senger-Huel, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
 
 I then thought about why they were having so much fun, and I could only assume it was _awkward_ -- the assumptions about me seemed, to me, to be rooted in rascism if anything. I'm just not sure why else the whistle would have been blown on me, at least in this way, and felt that someone acted in a bigoted way and no one wanted to address the obvious political hipocricy so, well, why not act stupid as fuckly?
 
@@ -1641,7 +1641,7 @@ I remember the "famed guitar player" saying something like this in particular:
 
 ...
 
-So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by Flatley Inc, possibly.
+So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by Senger-Huel, possibly.
 
 Oh, I also felt confident it was something of a joke. I'm not sure if Quantico or Langley offer "buttcheek meanuever training", but I guessed that at the time my situation was the most harmless version of what many call a "black bag operation" on behalf of the intelligence services and law enforcement at a Federal level, with some number of private connections due to my employment.
 
@@ -1683,7 +1683,7 @@ I don't remember _everything_ I said, but in early March 2022 I remember some sh
 
 Followed by some other shit like this:
 
-> "Look, sorry Flatley Inc, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
+> "Look, sorry Senger-Huel, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
 
 Pretty sure 6 months later I'd be setup by the DNC KHive while in the audience of a Bruce Springsteen / Jann Wenner on-stage interview, but reader, I didn't take the bait -- you could say that a champ like me, baby, I was Born to Run, or perhaps, preferred to not gather some wack ass "how do you do fellow kids lets talk about supporting the FTC and call it a culture council" moss - but, I digress. 6 months later I had realized I was on some kind of Reality TV show at least.
 
@@ -1693,7 +1693,7 @@ I'm pretty sure I wasn't in meetings, I was just talking out loud to a laptop.
 
 I made it pretty clear that if they just wanted to knock on my door and talk things through, I could do that. It was a joke I made several times over the course of the next few weeks. I think they found that one really funny.
 
-During my month or so at Flatley Inc, I was assigned two whole work items; they were both minor. Maybe I'd of had less time on my hands if I was being utilitized as a web developer and not bait for a Netflix television show.
+During my month or so at Senger-Huel, I was assigned two whole work items; they were both minor. Maybe I'd of had less time on my hands if I was being utilitized as a web developer and not bait for a Netflix television show.
 
 I guess I underestimated my audience, in terms of stature amongst other things.
 
@@ -1737,9 +1737,9 @@ Who moves from the suburbs to a city in their late 40s and is a corporate execut
 
 A divorced dork ass loser corporate executive type.
 
-I checked public divorce records in Wisconsin and found information that would match up to Wallace, and indicating that the divorce proceedings must have taken place as he was beginning to talk to Sam Hodges and Travis Hedge about joining Flatley Inc.
+I checked public divorce records in Wisconsin and found information that would match up to Wallace, and indicating that the divorce proceedings must have taken place as he was beginning to talk to Sam Hodges and Travis Hedge about joining Senger-Huel.
 
-I'm guessing he divorced his wife on purpose before joining Flatley Inc to make sure she wouldn't receive his life changing "big tech" money.
+I'm guessing he divorced his wife on purpose before joining Senger-Huel to make sure she wouldn't receive his life changing "big tech" money.
 
 Historically, and to this day due to a lack of equal pay laws, it's to some degree true that a woman's best bet in terms of financial security is their marriage.
 
@@ -1778,7 +1778,7 @@ _I'm pretty sure my sister, my employer, and my government have put me under som
 
 2. Summarize it into one thought, emotionally
 
-_I'm getting fucked over by my family, my employer, and my country. My family has difficulties with me and at least I owe back taxes; not sure what Flatley Inc's deal is._
+_I'm getting fucked over by my family, my employer, and my country. My family has difficulties with me and at least I owe back taxes; not sure what Senger-Huel's deal is._
 
 Sometimes I'm flexible with the rules; that was two thoughts.
 
@@ -1814,7 +1814,7 @@ I think I acted wistfully about the day or some shit, and tried to give the impr
 
 I can't remember the exact time. I really should have been taking notes. But I'm pretty certain it was after midnight.
 
-Flatley Inc was largely a west coast company and meetings were all well after 12 PM ET, for whatever that's worth.
+Senger-Huel was largely a west coast company and meetings were all well after 12 PM ET, for whatever that's worth.
 
 I headed out onto Clinton St, eventually turning right on Broome St. It's not just a quiet street but a few blocks up is an NYPD precint. This was, I thought, a polite way to acknowledge their likely involvemnt, as well as, well, if things really were _that_ dirty in this world, take care of me right there.
 
@@ -1893,7 +1893,7 @@ In retrospect -- I should have left things there.
 
 But that's given hindsight. I didn't know about Razzlekhan or even think that the upper most levels of government I live in could be working with Netflix literally, and possibly tying in a recent show with whatever this was.
 
-All I remember thinking was I was pissed off that Flatley Inc put me through this and they'd better have something to say for it.
+All I remember thinking was I was pissed off that Senger-Huel put me through this and they'd better have something to say for it.
 
 But it was late, and it was after midnight, and I'm pretty sure I went to sleep after going home. I can't remember what if anything I said to my captors afterwards.
 
@@ -2120,7 +2120,7 @@ Alas.
 
 ...
 
-Reader, you may be wondering: what work did you do while at Flatley Inc?
+Reader, you may be wondering: what work did you do while at Senger-Huel?
 
 Well, for a month, not much of anything. Eloise gave me the excuse of the company shifting, and some documents to look over, and the usual statements of "hang in there."
 
@@ -2155,7 +2155,7 @@ Sometimes, I just see the hand.
 I returned to my CBT exercise quite a bit that weekend, and it calmed me down, but only so much.
 
 I wanted answers.
-# Pt I Chapter 11 - Final week at Flatley Inc, 3/13/2022
+# Pt I Chapter 11 - Final week at Senger-Huel, 3/13/2022
 
 > Waseem: I'm Waseem Alihan. And you are?
 > Michael: Just a friend who needs a favor.
@@ -2179,11 +2179,11 @@ Alas, I never got a direct confrontation from my bosses.
 
 I tried not responding, but I believe I cracked on Sunday of that week.
 
-I also thought that waving a flag early may help someone on Flatley Inc's side -- or whomever, really -- react more quickly.
+I also thought that waving a flag early may help someone on Senger-Huel's side -- or whomever, really -- react more quickly.
 
 I was through being coy; I would have told them up front what was a lie and what wasn't, and we could have moved on from there. They could have fired me. I would've preferred they just had done so; it would've sent the same message they sent anyway when they later told me my machine was hacked for sending the messages I knew I sent.
 
-Flatley Inc didn't care what my life experience was like, they stopped having empathy for me awhile ago if they ever did in the first place.
+Senger-Huel didn't care what my life experience was like, they stopped having empathy for me awhile ago if they ever did in the first place.
 
 I think I kept remembering the CEO saying the company motto with regards to how they treat their employees with "the golden rule" -- treat others as you yourself would wish to be treated -- all after I was pretty sure I was under audio surveillance, had law authorities involved to some extent, and on top of all that, had my boss asking questions like I was in the 1940's facing a McCarthyist inquisition; not like I was in the 2020's at a company espousing DEI of all things.
 
@@ -2215,7 +2215,7 @@ It took me a few days after last week's incidents to realize that if I don't hea
 
 Being quiet about something like this is not the precedent I wanted to set.
 
-I was hoping Flatley Inc would at least understand that and have thought of an excuse for this "worst case scenario" - I caught them pointing the finger at me to the feds and they were wrong, surely people with their resumes would have done basic worst case scenario planning for something like this? Wouldn't the Government?
+I was hoping Senger-Huel would at least understand that and have thought of an excuse for this "worst case scenario" - I caught them pointing the finger at me to the feds and they were wrong, surely people with their resumes would have done basic worst case scenario planning for something like this? Wouldn't the Government?
 
 However, as to my urgency, I also did not want to spend years of my life working alongside people whom were gossipping about me being a criminal at the very start of our working relationships.
 
@@ -2323,14 +2323,14 @@ Have you ever heard the term echo chambers?
 ...
 
 
-# Chapter 12 - First Week post Flatley Inc, 3/21/22
+# Chapter 12 - First Week post Senger-Huel, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.
 >
 > Michael: We don't have a deep bench here.
 >
 > Sam: I don't know. I think we can do it. Fi grabs the guy. She's the extraction team. You and me tag team the guy on questions, we do the sunglasses, the suit, the whole bit... make him think he's up against every agency with initials.
-# Chapter 13 - Second Week post Flatley Inc, 3/27/22
+# Chapter 13 - Second Week post Senger-Huel, 3/27/22
 
 > [Michael narrating while being beaten by Fiona] It's unfortunate but true that no makeup can simulate blood and bruises well enough to stand up to close observation. So if your cover requires looking like you've been beaten... you have to get beaten.
 
@@ -2544,7 +2544,7 @@ It was my second week in the job, and, things seemed suspicious yet again even b
 
 _Did... they... remove their hair tie on purpose...?_
 
-Given my suspicions started before the new job did, and this was after the Flatley Inc fiasco, if you read the previous part you'd be safe to assume I was running `the_gg_move` as often as I could muster, which meant most any meeting with 5+ people where I could politely turn my camera and mic off without fear of feeling socially awkward.
+Given my suspicions started before the new job did, and this was after the Senger-Huel fiasco, if you read the previous part you'd be safe to assume I was running `the_gg_move` as often as I could muster, which meant most any meeting with 5+ people where I could politely turn my camera and mic off without fear of feeling socially awkward.
 
 Maybe it's the lack of that fear that causes me to act, but, in previous cases, if no one responds, I get to stop acting, and I know that the "mute" button means just that - if it's honest, I can be too.
 
@@ -2564,7 +2564,7 @@ I realized that technically, I was an asset - I'm a very good programmer, and a 
 
 But maybe more importantly -
 
-_People only get concerned if there's something to lose. I'm not the only asset. Someone is selling this audio surveillance software to big tech companies, and likely at a unit level. Otherwise my coworker and HR people at Flatley Inc wouldn't be introduced to what is essentially spycraft. I'm in a sales pitch._
+_People only get concerned if there's something to lose. I'm not the only asset. Someone is selling this audio surveillance software to big tech companies, and likely at a unit level. Otherwise my coworker and HR people at Senger-Huel wouldn't be introduced to what is essentially spycraft. I'm in a sales pitch._
 
 Or, at least I thought at the time.
 
@@ -2589,15 +2589,15 @@ Look, `the_gg_move` is not exactly a way to make friends.
 It's a way to figure out to what extent you're being audio surveilled by your boss.
 
 And, apparently, your younger co workers of the opposite gender.
-# Part 2: Post Flatley Inc, Pre LR -- Mid March to the start of May 2022 
+# Part 2: Post Senger-Huel, Pre Runolfsdottir Group -- Mid March to the start of May 2022 
 
 ### Goals
 
-1. You need to bring up making a "tiktok" just to try and give people you assumed were just federal investigators the feeling like all you wanted was to be a social media musician so they would fuck off and just let me play guitar covers and not act liek idiots at Swift Inc. Instead, I think this really made everyone act super idiotically at Swift Inc, considering the Razzlekhan thing. Some must've thought it "fit the content," others may have thought I was trying to "send a message", and well it'd be SO funny to bring up the fact that I'm pretty sure I covered 99 red ballons (nts: check tiktok stop being embarssed about it) -- I literally stopped because of hwo stupid Swift Inc's investigation got
+1. You need to bring up making a "tiktok" just to try and give people you assumed were just federal investigators the feeling like all you wanted was to be a social media musician so they would fuck off and just let me play guitar covers and not act liek idiots at Runolfsdottir Group. Instead, I think this really made everyone act super idiotically at Runolfsdottir Group, considering the Razzlekhan thing. Some must've thought it "fit the content," others may have thought I was trying to "send a message", and well it'd be SO funny to bring up the fact that I'm pretty sure I covered 99 red ballons (nts: check tiktok stop being embarssed about it) -- I literally stopped because of hwo stupid Runolfsdottir Group's investigation got
 1. Talk about being depressed in the past, using therapy to not be as fucked up about it, but kind of lying about it to see if the government or whomever would try and use that against me (they did, they keep trying to, it's horrifying in it's implications)
 1. Talk about patching yourself up over the next few weeks, being vocal -- just in case anyone was listening -- about a lot of my problems as a way to also just self talk my way through my problems. If whomever was listening got "pissed off" at my insinuation that many of my issues are from how I was raised, in weird subtle ways, then that was a heavy indicator that if things continued then somehow someone else's career now may hinge on the fact that they believe my mother's perspective of my own childhood more than mine, which, I can understand for my family arguments, but even my own mother never risked her career or livelihood over validating her or my perspective, we just have sore feelings over it. Whcih is to say, I didn't care if anyone listened to my self talk, I was actually legit very depressed, but paging further reactions to it for sure, beign aware that I knew I was talking out loud about my personal problems, as well as with my therapist
-1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Swift Inc's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
-1. Might wanna dedicate a whole chapter to your own depression, collision with suicidal thoughts, how you've learned to deal with them, how you've accepted other people handle them when made aware, and how you used all of this to feel out the situation: did the government and private actors that positioned themselves against me at Flatley Inc not care about my mental health, and in fact, seek to take advantage of it should I make it seem more unstable on purpose than not? I'll admit this was dishonest to my therapist, but, it was a special situation
+1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Runolfsdottir Group's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
+1. Might wanna dedicate a whole chapter to your own depression, collision with suicidal thoughts, how you've learned to deal with them, how you've accepted other people handle them when made aware, and how you used all of this to feel out the situation: did the government and private actors that positioned themselves against me at Senger-Huel not care about my mental health, and in fact, seek to take advantage of it should I make it seem more unstable on purpose than not? I'll admit this was dishonest to my therapist, but, it was a special situation
 
 
 ### Outline
@@ -2614,17 +2614,17 @@ And, apparently, your younger co workers of the opposite gender.
 #### Further chapters / points
 
 1. Go over early April, suicidality, wanting to talk to family with therapist, your family and especailly your sister's shadyiness there, ultimately your therapist suggests it may be a bad idea.
-1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Ozzie Brown. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
-1. Go over pre LR - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
-1. Probably best to end on finally getting the LR laptop on the morning of your first day after all the shipping awkwardness
-1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to LR.
+1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Tanner Murray. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
+1. Go over pre Runolfsdottir Group - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
+1. Probably best to end on finally getting the Runolfsdottir Group laptop on the morning of your first day after all the shipping awkwardness
+1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to Runolfsdottir Group.
 # Pt 2.5 - A flash to the future
 
 ### Somewhere near the end of July, in my bathroom, with the door open, with my ipad out, reading random things about computers or guitars until I worked up the swerve to masturabte to internet porn
 
 _Jesus christ that thing is big. Where did it come from?_
 
-So seeing the man I nicknamed "Tevas" again the other day was certainly something, even if he traded his namesakes for what looked like combat boots with splattered paint on them. I realized after that that I couldn't sell the laptop Swift Inc gave me after quitting, out of fear of some immature prank being pulled with it.
+So seeing the man I nicknamed "Tevas" again the other day was certainly something, even if he traded his namesakes for what looked like combat boots with splattered paint on them. I realized after that that I couldn't sell the laptop Runolfsdottir Group gave me after quitting, out of fear of some immature prank being pulled with it.
 
 _Why did it lift it's leg liek that on the way in? Is that thing... drunk?_
 
@@ -2671,7 +2671,7 @@ I started panicking and figure'd it'd be best to, if yet again, see if anyone wo
 I remember having one last thought as I left my bathroom to take a walk outside:
 
 _These fuckers better not throw me in the East River either. Sure I act like a Cosmo Kramer from_ Seinfeld _, sure, but I'm not trying to take things that far._
-# Part 3: The Swift Inc Fiasco -- the start of May to early June 2022 
+# Part 3: The Runolfsdottir Group Fiasco -- the start of May to early June 2022 
 
 ### Goals
 
@@ -2680,7 +2680,7 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 1. This was why I may have seemed like I had "training" that put me ahead of... middle managers in tech mostly, who have no "intelligence" training, and then intelligence workers who may not be as aware of technological shifts due to being "in the field" and realize that the things I knew most of the "younger generation" that populated twitch (the development channels skew older, but, it's still younger) would know to a certain percentage. This type of surveillance "technique" -- audio surveillance converted to chat logs for your manager to be able to read in real time or at a later time what you were saying to your laptop -- would be the type of things children in America already knew how to, well, counter, intelligence wise. I just knew it because I thought streaming myself learning game development as a professional web programmer would be interesting (it was, sort of, but also a drag, streaming is a lot of effort).
 1. Use the above as an... onramp?... to what happened the week of 05-22-2022, against being pissed off that these people were selling some bullshit ass software that was obviously NOT working out, why you, felt confident doing what you did. Also, audio surveillance not made like, clear, is not terribly admissable in court, and if they just.. asked me about what I was saying while on "mute"... well, I was literally, actually, working on a character, I was acting. Woops. Do you want to give me something to do at work so you can judge me on that? Because... I didn't ge tmuch of that here either.
 1. Definitely a decision to be made here with regards to how much I reference _Burn Notice_ because it's almost too easy
-1. Need to decide how much of "pre Swift Inc" needs to be discussed. Not sure anything outside of a quick chapter may be necessary, perhaps two.
+1. Need to decide how much of "pre Runolfsdottir Group" needs to be discussed. Not sure anything outside of a quick chapter may be necessary, perhaps two.
 1. Big decision on how much of the markdown essays should be here. They're great but... long... and... confusing, though I wrote them that way on purpose a bit.
 1. Open a chapter / section with the pontification I've had that the second ammendment is misread wrt firearms -- the real question is when the government has tipped over into tyranny, should the citzenry have anything to do with it? Or just watch facsism rise and allow a new normal to be justified by a court system that is suffocated by a non working legislative system led by an executive system that seeks celebrity and fame given the success it perhaps cheated to win with doesn't satisfy it's ego? Again, if the government is behaving tyranical, and I didn't use firearms to stop it, how am I not just using my second ammendment right with another technology: audio surveillance? Originalism works in my favor, yes, albeit in my opinion, but with no bullets spent.
 
@@ -2688,7 +2688,7 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 
 1. Quick intro chapter going over Twitch history and reading faces re: chat, then lead to social media socialism video game times in 2021 as a reason the cenrist Dems may be targeting you...
 1. ... especially in light of the recent Dem's failure to secure Abortion vote, light suspicions you held of your actions being what caused their distractions & distrust amongst their own ranks
-1. First week of LR -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
+1. First week of Runolfsdottir Group -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
 1. Pissed off that you had to go through this bullshit, and relizing that your therapist was involved, talk about the markdown essays
 1. Second week -- keep testing the above, get the strongest reaction wrt "the blown cover hair flip moment," being offended that many people were involved and at ages you found offensive, also consider that the hair flip was an attempt to intimidate me via gender egoisms I don't really have (I'm for all skittles haired people of all genders).
 1. Weekend after second week -- You're going to have to talk about the Friday Night Loser porn thing. It's become historically important, apparently. Sorry, to the ghost of Ewen Cameron, I'm guessing you thought this shit would die wth you. Alas.
@@ -2696,13 +2696,15 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 1. Discuss thinking that that wasn't _enough_ to stop what was clearly a financial opportunity, and you hadn't realized it til Saturday morning / afternoon. Discuss realizing the financial thing on Saturday, and realizing the best thing for you to do for your country was to involve wall st and make sure the widest audience saw this backfire in the most spectacular of ways. Talk about _Burn Notice_, and how one of it's central points was that to take down a criminal organization -- particularly one with government connections -- you just have to threaten the leadership, and I made a plan to threaten the leadership's ego while jeopardizing the thing they were selling to their clients: security.
 1. Third week -- well, you being weird is one thing, but also, discuss your suspicions with the TV hack, and whether or not that's true it may have influenced a certain side to try and convince me this was "something else" -- discuss the 30 cops vs 1 criminal arrest sideshow outsdie of your apartment, putting the markdown essays onto github
 1. Memorial day weekend -- discuss the weird rocky & bowinkle villains you thought were hired models meant to make me think they were "russian spies" or some shit and started to wonder if there are two sides to this clown show. One side is trying to keep this "investigation" as honest as possible, and another side wants to make it hilarious and stupid as fuck. 
-1. Fourth week -- shifting from murder talk to corporate "your company's kind of disorganized but that's ok" talk on mute, seeing effects
+1. Fourth week -- shifting from murder talk to corporate "your company's kind of disorganized but that's ok" talk on mute, seeing effects. I remember also in an effort to shift to a more family friendly content format I began to lean on "italian mob guy" stereotypes of various east coast accents. I'm not sure why or what inspired that -- maybe the murdery talk, probably -- but it just felt like a way to keep things fresh, to keep them spicy. I had been playing a weird depressed guy who went "to the dark side" basically as a way to teach anyone on the other side of the shit show investigation what they're potentially doing to normal people and to just be normal next time you idiots don't create lone wolves in society you dumb fucks what the fuck is the matter with you -- you see how I just slip into it? It's a bad habit, but it's an incredibly humurous acting stereotype and I had fun with it. I hope some of yous kids did too. I thought it was fun for whomeever was surveilling me, had I known about Razzlekhan or thought I was on reality TV at the time etc etc etc.
 1. June 4th weekend -- hamburgers, tevas, and shit talking with a side of thinking about keeping calm and celebrity birth-spawn. End with June 5th debit card fiasco, where you knew that there was clearly two sides -- one was honest and wearing a bjork shirt, even if they were investigating me, and the other was just trying to fuck me over anyway they could even if it meant outright fascism like using a state financed investigation to debit card fraud me because I made fun of some rich kid's shoes
 1. Think about who would have the money and the access AND the profile to be fascistly stupid af, and check Elon Musk's tweets. Realize this is maybe an attempt by some financial folks + Democrat party workers to lure Elon into donating for Dems and other finance schemes by creating some weird side show around me, realizing I'd be his dream candidate considering my profile to "prove he was right" about "this and that or whatever". But also realize that _some_ people have to be taking this seriously, and wonder if "two sides" are forming, one trying to beguile Elon Musk via his immaturity into some kind of finance scam, and another probably trying to move on from this obvious civil rights nightmare. Make a personal note that if this stops getting weird, and someone like Elon was involved, that means Elon is more mature than I thought. If it keeps getting weird, well, he's probably just another guy who doesn't get jokes and catches weird feelings about it.
 1. Last week at live ramp -- quitting, making a cover story about thinking this was a "right wing conspiracy" specifically to provide cover for the Dems, so they could feel like they "got away" with it (provided they actually "left" me alone), making the markdown essays on Bickle Bin Laden, hoping for the best. End on how you thought anyone with two cents of a writer's instict would realize I was making a joke, albiet one that would cover me from a smear of being a "violent leftist anarchist", and the biggest "tell" that this was a joke was the line about Hitler, Mussolini, and Sowell. It was there all along.
 
 
 # Pt 3.5 -- A flash to the future
+
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terrorist is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
 
 > The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
 
@@ -2737,11 +2739,12 @@ It was another time where I wish I was psychic, but I was stupified. I just star
 But I'm sure they exist _somewhere_. Video, even.
 
 Personally, I dont like to play around with fire.
-# Pt 4 - Post Swift Inc, possibly up to the knife incident -- the start of June to early August 2022 
+# Pt 4 - Post Runolfsdottir Group, possibly up to the knife incident -- the start of June to early August 2022 
 
 ### General notes:
 
 1. As a crew of people known for encouraging others to kill themselves on social media via direct messages, the KHive DNC were likely very frustrated with my lack of social media presence, one of their main areas of combat, while they were aware, though wrong to the degree of, my mental illness. Their documented history of bloodthirst as a social media culture along with my feigning mental illness probably "triggered" them into making rash decisions like cutting my therapist's internet connection alongside gaslighting me against their misguided idea of mental health as a utility for social defamation. An on again off again theme from about June onwards, starting with Jesse Sommer, cotinuing to this day and recently peaking in late April 2023. Here's to a bright future.
+1. Talk about weird Legacy + Mike Epps thing, after seeing a cop car outside of the Chase ATM you were debit card frauded at, you take a walk before going to the store. Weird psuedo social interrogation from older women not normally at store, nice about it. Talk about Mike Epps promoting his Runtz brand strain of weed based on his character from the film _Friday_. First time I thought _Jesus christ so this is definitely the VP Harris using her connections within the media and other communities along with a weed store partially owned by a rap group somewhat ironically named Dead Prez otherwise people wouldn't be acting this weird_. I did assume at the time it was an attempt ot be nice to me but honestly it's whatever, I just wish they left me alone I didn't need to meet anyone famous. I probably said something to this extent when I got home to my audio surveillance, and this may have psychologically broken someone within Harris' click to function against me. Also reference Irie's track at some point
 1. Talk about Jesse Sommer + therapist having suspicious communications that felt off and oddly connected, though, with two separate overtones: the intent to exploit and the fear of being exploited, respectively. This proved to you that the Democrats were leveraging every resource they coudl to try and paint me as a psychicatric problem.
 1. After being followed in the park, and before the "knife incident", recall making a website that was a joke called [bigbosswatch.com](https://github.com/ogbigboss/bigbossos) as a way to "respond" to being followed in the streets as described in the intro. While making this website, that weird thing with the cockroach that was of a type not native to the area happened, make sure that you read it as a "retaliation" for starting to work on a joke website. Double check dates from notes. After launching the site, they did the thing with the internet connection downing on you and the therapist, leading to the "knife incident."
 1. Catch up to the intro, get to the knife, and maybe just hint at the very end about realizing you had a big batch of bootleg DVDs and you were aware a streaming network like Netflix, particularly with their CEO's political leanings, being one of the most likely outcomes, and if you could prove it (this is pre Paula Patton), then you'd know what to do: catch up on some movies, apparently. Just a day in the life of a not spy.
@@ -2774,9 +2777,10 @@ end
 ```
 1. Note that your mother's phone call after your therapist appt where the internet connection of both you and your therapist were cut sequentially and theatrically such to intimidate; your mother intimated your presence may be needed in Los Angeles. Realizing I may be on some reality tv concept show, and not wanting to be "pranked" in a city where it's easy to leave someone stranded miles from civilization, compounded with the fact that I don't have a driver's license, made me want to avoid the risk of going to the West Coast for whatever stupid thing this was. So part of my calculation in going with the "knife incident" was to either keep me on the East Coast by circumstance, or, if they wanted to continue playing this game then they're going to have to shoot on location in NYC. I have some conflicts here as a New Yorker; such shit can be very annoying. That said, as a fan of cinema and filmed arts of all kind, if I'm going to be forced onto a reality TV show without my consent, then god damnit it's gonna be shot on location in NYC. No offense, LA. Maybe with a driver's license.
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
-1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Blythe Brown, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
+1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Lawerence Murray, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
 1. Add that you went to the police station beacuse you had a strong feeling the VP's office was involved, due to VP Harris' history in law enforcement, she would have the ability to make a "loyalist" faction of NYPD work for her whim -- if I was right. I went to the precint specifically to make sure ALL or as many of the NYPD knew about this, so I wasn't just facing VP Harris' NYPD Loyalists, and the entire NYPD as much as possible, for objectivity #yespleaseALLcops
 1. Talk aobut getting into philosophy, not knowing what you're thinking or talking about on the subject, but searching for someone who commented on fame. Talk about the Piano man game, likely close the chapter on the "from the second perspective" concept being inspired by the events described. End on this research finding someone describing fame as "an expectation" and given that you currently more than ever appreciated the nature of flaunting other people's expectations (you were at the time faking as though you were suspicious of the opposite political party than the one you knew was acting against you in an attempt to get them to realize they could just leave me alone if they wanted). Basically end on the idea that as of July 2022, you had made a personal decision that you didn't really want to be famous. It certainly didn't seem like it would be useful at the time.
+1. Discuss Friday or Thursday that week, while presumably under surveillance and with all your devices turned off, you made a minorly dramatic speech about how you were doing this to prevent some idiotic WWIII from happening due to mishaps in surveillance technology. I just read about it but it's ironic that if it does it would somehow make a truth out of the WWI era rumour that the first Great War started because of something to do with "words" - the gang makes newspeak real! In retrospect with regards to WWI, I think people got stupid with tanks and other combustion based vehicles and got violent quickly as a result with planes, trains, and automobiles. I think the same thing is happenign with internet technology now. Different transportation altering equiptment, but the problem is the same - societal wide stupid as fuck. Use better language, maybe. Point out never making that comment again because it's kind of heavy handed. Anyway, that was near the end of the first week of August 2022 before the first weekend. Still kind of heavy handed, let's hope it stays that way!
 # Pt 5 Chapter 1
 
 "Bruce Springsteen" saved my life is probably something that's been said before, and will be said again, about the man's music.
@@ -2795,6 +2799,17 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 
 #### Outline / events / chapters
 
+#### 8/6 post Grey Lady visit
+
+- Recall trying to play videogames after 2 days of just lying down and doing nothing with everything turned off, playing for liek 5 minutes, and then turning everything off, deciding internally it wasn't the time to be passive, and begin a week of doing nothing essentially but sipping espresso, drinking 7.5 oz mini Coke cans, smoking weed, and talking aloud to myself.
+- The weekend I was trying to figure out how and what to say and do. I kind of realized that from March to April, I was somewhat suspicious of the WH being ivnolved, and the weird "tactics" felt like someone with psychological damage was running the show. There are a lot of reasons that I would be triggering to a VP Harris. From May onwards, particularly after the failed right to abortion vote in senate, I felt more certain of her involvement and possibly being a huge distraction given the combination of the Senate failure + said psychological damage. I think at that point I said "fuck it" and brought up outloud by Sunday I believe that I was suspicious of her; though in truth I had been for awhile. My Mother's involvement made me more certain, of course.
+- Then bring up saying "hey wait was that Paula Patton?" and then they cut your internet connection again lol
+- Describe responding to them turning your internet connection off while you realized you were on a netflix show by acting like an asshole on your porch. Talk about benching the keybaord etc. Definitely bring up going outside and having a mic stand to your face, but just standing there not saying a damn thing for 10 minutes. It was to make it clear -- on camera -- and a fucking great shot, great lighting, beautiful afternoon by the way -- anyway, I wanted to make it clear then that yes, I can shutup if I want to. I'm not just "ranting impulsively" to myself. Meaning, I was in control. Also, the imagery of the whole stand up comic thing was funny to me. I think these fuckers missed the point though.
+- This was the first time you responded to Spectrum texts about delays in internet connections by saying "no worries you just keep following orders" in your first of many allusions that this is more or less fascist behavior
+- Introduce the Dollar Bill Butcher character - a real life fictional federal crime doer - and talk about other shit you put on your window that day, particularly _Priceless_ by William Poundstone along with a hint that the misunderstandings economically speaking were also kind of foundational to the CIA, like it or not. I really thought that no way these Dems would want ot actually _have_ that conversation and fuck off. They didn't. Pretty sure I put a copy of _Killing Them Softly_ up there but probably not that day, lol.
+- After the before, describe going off on the Dems a bit, and letting them know you knew this had more to do with that video game project
+- Recall how you told them -- I believe on 8/8 if not 8/9, or at least whoever was listening to me at the time, that if successful your "dream project" -- and this was true, if something you held personally to yourself given the expense of the project -- would be a Harriet Tubman video game where you play her and it's like one of those spy / stealth / assasin games. I had a whole idea with regards to celebrities. I remember thinking in late 2020, and literally saying this shit to my window and likely surveillance friendos early August of 2022, that my only other owrry than money was that I needed a way to make sure that celebrities wouldn't fuck around with my scehdule just because I was some video game guy. But this was all a dream, at least in 2020. Anyway I said that shit to make VP Harris feel bad. And it's the truth -- all of it. I can understand why she got so mad and needed to shut down my future from happening. I also said she couldn't be in the game as a celebrity given her... law enforcement career, essentially. I did that shit to be mean.
+
 #### 8/12 or 8/13 Best Buy to Guitar Center to Taco place to Legacy to Home Visit
 - nts: check receipts on CC purchases at either GC, BB, also you stopped by legacy later, check email to confirm
 - Talk about leaving that day, as you were waling out of the building your neighbor Mr. Gibbs says "whatup God" to me despite never talking to me "like that" in my ten years of acknowledging to him our shared presence as we pass in the hallways and streets. He seemed to be waiting for me to deliver that line. I was ranting to myself all week previously -- alone in my apartment with nearly every single electronic device that I own shut off on purpose to show the point that I wasn't communicating with anyone --  and one joke I kept making -- sorry Hollywood I wouldn't of been critical had I really thought this would go this far and whatever I'm just joking I just don't want to be anyone's art critic but I digress -- was about the LL Cool J / Omar Epps / Nia Long 1999 film _In Too Deep_, and how yes, I thought I would have made LL's character call himself anything but "God" as a nickname. You can watch the movie. Anyway I might've been making a bunch of jokes about that movie, considering I felt certain and was hoping that I at least got the NYPD to join in larger portions of whatever this was after the events of the previous week, and I felt like it was a movie that perhaps exagerrated a lot of things about the situation it was portraying. Mr. Gibbs saying this to me was a clear sign they knew, and were hinting to be kind about it with a joke. (nts: stop writing copy in notes)
@@ -2804,6 +2819,7 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - Point out the guy who as you walked into Best Buy talked aloud about 55", whcih is a TV size. Recall how you played JJ Cale's Magnolia recentlyish, and thinking they were hinting at either something that was going to be on the TV's in Best Buy's famed "Magnolia" section, OR, that they were trying to hint you're being watched at through one or both of your own 55" TV's, something you had assumed had to be at least setup on your Bedroom TV (hey you pervs) since March given the events that occured in May/June/July and the previous week -- either way you purpsoefully avoided the bait and didn't go into that section
 - Definitely talk about seeing the blu ray security cases in a box to be thrown out, how the main entrance was blocked, feeling suspicious of that being a setup or hint to me talking about working at Blockbuster and knowing how to break into those. Allude to _Watching the Detectives_ being a movie taht exists, possibly. Maybe use a _Cypher_ to do so. Ok, I'll stop being so awful, just call me _Codename: The Cleaner_. Ok I'll stop.
 - DEFINITELY mention that you felt one guy who looked like a cop and felt was following you around a bit cracked up when he saw you cover up the Netflix gift certificates with Regal Theaters' gift certificates. I felt pretty certain Netflix was behind things at that point and decided not to press the point or topic more for some weeks to months feeling they had to be linked to a lesser subsidiary. I also knew the Obamas had _some_ kind of corporate relationship, though I didn't know the details, because I didn't care. But it was all in my head at the Best Buy, I just was hoping they'd all run away before I started Googling again. The truck fire in late september made me start googling again. (nts: really stop it with the copy)
+- Talk about how you go to Legacy after Best Buy, how it felt clear there was an opportunity for Mars #1, Lisa felt defensive of you, and that they had a bug zapper out front. An eventual recurring theme. That said you felt Mars #1 was very suspicious - it was actually your first time meeting her I believe - and thus you watched _Mean Girls_ later that night.
 
 #### Post BB/GC/Legacy visit weekend
 
@@ -2813,13 +2829,17 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - At some point that Sunday I believe I recalled that I thought, just maybe, the EMS guy who grilled me like he wanted to kick my ass that previous June 3rd was perhaps someone's kid
 - That seemed to generate a direct response across the street, describe scene in DSNY parking garage with three guys, the one in teh center in a dierctor chair of some sort, I'm pretty sure, one goes into the red truck and drives off as soon as they make me making them making me. Remind the reader how long you've lived here, perhaps
 
+#### Pick a point but start talking about movies
+
+- I think August had a few good ones. Bring up _Clueless_, _Charlie's Angels_, but definitely mention starting early with _Inside Man_ -- maybe bring up the Denzel T shirt thing. It was around when you called your mom, I think in the week below. Either way, definitely bring up feeling imprisoned in a weird way but being somewhat if not completely inspired by Clive Owen's character, as far as life analogies go. Wasn't that movie also about Nazis or something? Wild. I'm feeling all spiked out.
+
 #### The week they brainhacked my barber and literally hacked my Persona 5 game just for me to say I'd rather not hang out with them even if they have one cool friend with a band
 
 - I believe the framework of the week should be hearing and compiling the hints in the game and then the walk to the barber -- first potential hack of Persona 5 dialogue in subway area
 - next day walk to barber and back: women talking about bees, Mr. Bee's comments on broncos, red flag yellow shirt girl, red shirt "tu es mi corazon" guy, Hacha y Machete playing at Cheeky's (that was pretty funny tbh), possible higher grounds producer sighting (dont really need more details than you making an assumption based on a later group photo + them tailing red flag girl), the subway Persona reference, followed by you taking the bait and going home to play Persona, and getting a hint about "breaking into the entertainment industry"
 - rant aloud in your apartment that you get it, and your initial reaction was this: _Look, I'll go with it, but you have to make things alright with my sister and parents as well since they obviously fucked up here more than I did_
 - after taking another day, you tell whomever's listening that you're not interested, most primarily because they said some shit about bucking me like a bronco. Internally you thought there was no _way_ the Boss themselves said that, but there was only one way to find out: reject the dangle, even if it was for real
-- make quick call to mom to see how real this shit may be, she starts talking about 70 year olds like it's someting special, felt like enough of a hint + her dialogue matched up heavily wiht Mr. Bee's dialogue, constnatly referring to a "70 year old bronco bucker" -- first of all, listen to that statement. That guy lives alone? Get the fuck out of here. You find me a 70 year old bronco bucker. That seems way too old for taht shit to me, but I digress. The emphasis on the age given someone else's then age was to me an indicator that both Mr. Bee, my barber, and Blythe Brown, my mother, were being directed by the same chain of command
+- make quick call to mom to see how real this shit may be, she starts talking about 70 year olds like it's someting special, felt like enough of a hint + her dialogue matched up heavily wiht Mr. Bee's dialogue, constnatly referring to a "70 year old bronco bucker" -- first of all, listen to that statement. That guy lives alone? Get the fuck out of here. You find me a 70 year old bronco bucker. That seems way too old for taht shit to me, but I digress. The emphasis on the age given someone else's then age was to me an indicator that both Mr. Bee, my barber, and Lawerence Murray, my mother, were being directed by the same chain of command
 - tell whoever's listening including your parents that if you want, tell your people to send someone to kill me, I'd rather that at this point. I figure'd it was the most dramatic rejection I could come up with at the time
 - end with taking a walkt o the store on Saturday and seeing a 40 year old man wearing a clean, newish Notorius B.I.G. "Ready to die" t shirt (the one with the baby like on the album cover), thought it was funny, well, at least it was awhile since I saw a Biggie Tshirt.
 
@@ -2839,9 +2859,10 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - Shonda's words to Therapist to Twitter to Gina to perhaps poorly chosen phrasing to Ariana played by Uma and comic books. Also mention feeling like "spirirtual" types were eyeing you, which was hilarious, considering it was in reaction to the "magic" thing if anything.
 - Make sure the reader knows you don't really believei n this stuff nearly as much as you did it to garner reactions from those surveiling you based on it. They'd either try to play me thinking I'd think this stuff was real, and double down on the delusional thing, and that'd be obvious (allude to truck fire moment). But also let the reader know that you did take the time to understand this stuff as "systems", and well...
 - Either magic is real, or a distinct portion of our leadership society may be stupid AF. I'm still unsure.
+- That said, early data suggests each time one gets COVID-19, there's a 10% chance of contracting long covid. Coincidentally earlier that month, and I blieve a day after "the knife" incident, the Federal Reserve published an article stating a 62% chance of adults reporting long term COVID issues as ahving cognitive decline of some sort. If there's a 5% chance that after one gets COVID they suffer future cognitive issues, one must wonder how the leadership class of America is doing, considering how much they traveled and contracted the virus on a regular basis. The attempt to paint me as criminally unwell may have all been the impulsive and defensive reactions of a generation of leadership undergoing mass cognitive decline due to a once in a generation virus like COVID-19, and reacting childishly -- using reality TV to fest delusions of grandeur -- in order to control the future of what is considered mental wellness; leaders often fear persecution to delusional standards, cognitive decline wouldn't help that https://www.federalreserve.gov/econres/notes/feds-notes/long-covid-cognitive-impairment-and-the-stalled-decline-in-disability-rates-20220805.html
 - End chapter or whatever on you not liking the idea that "technology is like magic" - to you, "magic is like a good crime -- you're supposed to get away with it." Technology should do _exactly_ what it says, and have copious documentation available on how it does that. Copious. The budget ot make technology should include time for copious documentation. I'm digressing.
 
-#### The first and last week at Johnson, Spencer and Padberg LLC
+#### The first and last week at Hintz Group LLC
 
 - Describe first meeting with coworkers, several are making gossipy jokes about both witchraft and family estragement. Describe feeling it was likely that the KHive DNC utilized Netflix and surveillance technology to share this information about withcraft with my upcoming workplace to defame me before I coudl even start; anchoring me as crazy at a senior level due to what should have been a completely separate affair. Government collusion with businesses for political purposes have never been lamer, but being cool is not a requirement of Fascism.
 - Describe the incident where after your boss feels liek they are forced to give you a "middle finger", you take the rest of your second day off, and then are immediately assaulted in the street by a King Mob lookalike who partially dislocates your sohulder.
@@ -2905,7 +2926,7 @@ Anyway, September in the rain. Writing this in June 2023, some 9 months later, I
 1. Flash forward: December 2022 and learning that Yuga labs was a company that was real, reference Lucy Liu movies helping
 1. Last week of October to Early December 2022, end on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told another fiction about you
 1. Flash forward: First visit from people claiming to FBI officers; explain why you thought this was not real, lack of badge numbers, them not wanting to be videotaped, showing up at 8AM on a Saturday, being kind of rude, and explain your thought process and how you couldn't believe they were real and figure'd your bosses or Netflix were playing some joke on you, especially given that IMO the FBI wouldn't want to risk showing up to someone's door appaering politically biased unless the likelihood of a violent crime was indeed provably likely, etc
-1. Early December 2022 to mid February 2023: The time I tried to record a version of events that could be plausible in order to make sure somoene else doesn't try to produce another version of events that is indeed not plausible but they can edit in anyway they like; largely because I think my story is better than Netflix's.
+1. Early December 2022 to mid February 2023: The time I tried to record a version of events that could be plausible in order to make sure somoene else doesn't try to produce another version of events that is indeed not plausible but they can edit in anyway they like; largely because I think my story is better than Netflix's. Detail how you in your head made a plan to make a "confessional video series" that was long winded and overly detailed, humorous at times to hope that only those that "enjoyed" it or "had to for their job" woudl watch it, hoping that yet again, this would get someone smart in the DNC to call the whole thing off in a way that they also got me to politely agree to stop recording materials of my recollections that could be coroborated with other parties and potential surveillance, netflix, and street camera recordings etc. Allude to "Her Story".
 
 
 # Pt xx -- Early December Possible Intro

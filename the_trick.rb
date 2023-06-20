@@ -4,23 +4,30 @@ require 'colorize'
 require 'ruby_figlet'
 using RubyFiglet
 
-FONT = 'USA Flag'
+FONT = 'Cursive'
 
 text = File.read('DRAFT.md')
 paragraphs = text.split(/\R+/)
 
-paragraphs.shuffle.each do |paragraph|
-  paragraph.split(/ +/).shuffle.each do |word|
-    break if word.empty?
+Kernel.loop do
+  paragraphs.shuffle.each do |paragraph|
+    paragraph.split(/ +/).shuffle.each do |word|
+      break if word.empty?
 
-    system 'clear'
-    puts RubyFiglet::Figlet.new(word, FONT).to_s.colorize(String.colors.sample)
+      system 'clear'
 
-    begin
-      sleep 0.666
-    rescue SignalException
-      puts 'Later'
-      exit(true)
+      begin
+        puts RubyFiglet::Figlet.new(word, FONT).to_s.colorize(:red)
+      rescue StandardError
+        puts RubyFiglet::Figlet.new('404', FONT).to_s.colorize(:red)
+      end
+
+      begin
+        sleep 0.666
+      rescue SignalException
+        puts 'Later'
+        exit(true)
+      end
     end
   end
 end

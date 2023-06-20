@@ -6,10 +6,10 @@ using RubyFiglet
 
 FONT = 'Cursive'
 
-text = File.read('DRAFT.md')
-paragraphs = text.split(/\R+/)
-
 Kernel.loop do
+  text = File.read('ANON.md')
+  paragraphs = text.split(/\R+/)
+
   paragraphs.shuffle.each do |paragraph|
     paragraph.split(/ +/).shuffle.each do |word|
       break if word.empty?

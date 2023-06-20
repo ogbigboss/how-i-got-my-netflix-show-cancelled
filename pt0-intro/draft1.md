@@ -8,6 +8,10 @@
 
 ### Draft
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> I will cast abominable filth upon you, make you vile, and make you a spectacle. -Nahum 3:6
+
 > "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
 _Late July 2022_

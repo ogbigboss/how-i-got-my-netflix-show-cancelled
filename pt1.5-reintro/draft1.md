@@ -1,5 +1,9 @@
 # Pt 1.5 -- A flash to the future
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> For God gave us a spirit not of fear but of power and love and self-control. -2 Timothy 1:7
+
 ### Mid afternoon near the end of the workday in a conference call with around 8 people on Friday, May 20 2022
 
 This was the first time in this situation where I was so shocked I developed tunnel vision.

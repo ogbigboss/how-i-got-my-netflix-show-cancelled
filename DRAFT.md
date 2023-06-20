@@ -8,6 +8,10 @@
 
 ### Draft
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> I will cast abominable filth upon you, make you vile, and make you a spectacle. -Nahum 3:6
+
 > "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
 _Late July 2022_
@@ -2530,6 +2534,10 @@ I just didn't think it needed to start with me and my family, personally, but, a
 And that ends this first section of my personal History of Madness. The "F" doesn't actually stand for fuck.
 # Pt 1.5 -- A flash to the future
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> For God gave us a spirit not of fear but of power and love and self-control. -2 Timothy 1:7
+
 ### Mid afternoon near the end of the workday in a conference call with around 8 people on Friday, May 20 2022
 
 This was the first time in this situation where I was so shocked I developed tunnel vision.
@@ -2620,6 +2628,10 @@ And, apparently, your younger co workers of the opposite gender.
 1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to LR.
 # Pt 2.5 - A flash to the future
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. -Psalm 23:4
+
 ### Somewhere near the end of July, in my bathroom, with the door open, with my ipad out, reading random things about computers or guitars until I worked up the swerve to masturabte to internet porn
 
 _Jesus christ that thing is big. Where did it come from?_
@@ -2704,7 +2716,7 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 
 # Pt 3.5 -- A flash to the future
 
-> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terrorist is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
 
 > The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
 

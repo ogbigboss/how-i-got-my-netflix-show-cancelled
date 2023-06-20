@@ -1,6 +1,6 @@
 # Pt 3.5 -- A flash to the future
 
-> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terrorist is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
 
 > The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
 

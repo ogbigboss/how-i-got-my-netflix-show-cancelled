@@ -2,6 +2,8 @@
 
 > "They spent time retweeting my posts and calling me a white supremacist, a coon and all sorts of derogatory names, fueling others who began to DM me telling me I was a sell out because I was Black and I should’ve killed myself when I had the chance," Jeffrey said. "I was mocked and harassed for being a sexual assault survivor, a domestic abuse survivor, and was told by the KHive that it was good for me and they hope it happens again, since I don’t support Harris." - Luverta Jeffrey, former black female Kamala Harris supporter, as quoted in the [huffpost](https://www.huffpost.com/entry/kamala-harris-khive-toxic-side_n_5f4fa573c5b69eb5c037473e)
 
+> But the Lord is with me as a Dread Warrior. Therefore my persecutors will stumble; They will not overcome me. They will be greatly shamed, for they will not succeed. Their eternal dishonour will never be forgotten. -Jeremiah 20:11
+
 I joined Facebook a year after it was made and my first year before college, 2004. It was funny; I made a long joke name for myself that was funny. At some point early on, I met someone who said "oh, you're that person with the funny name on facebook." They were being honest, they thought it was funny too.
 
 But I felt funny in a different way -- _you know me for that, but I'm right here, that's weird_ -- I look back on it as the first time I felt like I could do without social media. I quit I believe for the first time in 2007, and then several times until around perhaps the 2010s when if I signed on, it would have been for professional web development purposes only.

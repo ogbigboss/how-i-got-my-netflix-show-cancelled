@@ -2344,6 +2344,90 @@ There are a lot of reasons for you, when someone is expressing something uncerta
 But given the last few weeks, and that my comms were cut shortly after, I'm pretty sure my direct boss Eloise was trying to let me know that yes, I was going through this.
 
 It wasn't nothing.
+
+...
+
+After hearing from the HR person, I stayed on the phone and called the rents. I'm pretty sure we did the thing where I called one of them, and was called back by the other one shortly afterwards, whom was on speakerphone so both my parents could talk and hear me.
+
+That is, as far as the phone calls we've had in the past, pretty standard of them.
+
+I told them about the situation briefly with the same POV I gave to my direct boss Eloise: that a mishap over audio surveillance may have triggered some weird situation where my job got involved with the government and I was under an investigation of some kind, and I just wanted to clear things up if so, but they cut off my work communications and they told me they contacted my parents -- hence why I was calling.
+
+My parents told me that yes, they had spoken to someone and mentioned the name of the HR person I recently spoke to, saying the young woman said that my computer was hacked and that she had stressed that I was _not_ under any kind of government investigation. Which was good to hear! I felt that could be possible for the next 48 hours or so, when I realized it most certainly was not, but that was Wednesday evening. When I spoke to my parents, it was Monday afternoon.
+
+But, there were a few oddities in how they communicated further to me, a son they hadn't heard from in months.
+
+My father, a company man at IBM for 30 years, and someone who never spoke ill of their bosses or coworkers around family -- at least not around his kids --, and whose advice to me has always been to get a graduated degree and be a lawyer or doctor and not a computer programmer like him, started telling me that I should take some sort of action, do something if I felt this was inappropriate.
+
+I can't remember his exact language. But I remember his cadence; he was having fun. There was the air of pleasure in his voice, as he was saying something that I just didn't think he'd ever say.
+
+I was surprised he wasn't yelling at me for causing trouble.
+
+Furthermore, their reaction to what I felt would be my most obvious query given the situation was most surprising.
+
+My sister went straight to law school at the University of Michigan after graduating from Brown University. She spent some time working at a division of the E.E.O.C., or the Equal Employment Opportunity Commision of the US Federal Government while in California. The EEOC is described as the following from Wikipedia:
+
+> The U.S. Equal Employment Opportunity Commission is a federal agency that was established via the Civil Rights Act of 1964 to administer and enforce civil rights laws against workplace discrimination. Wikipedia
+
+For awhile after that, my sister worked in Hawaii, at a University as a employee dispute negotiatiator. This was not only from her experience at the EEOC, but she also spent time in Hawaii running a legal practice focused on "conflict mediation" with a sub focus on corporate negotiations.
+
+I'm not checking the wayback machine for my stupid sister's dumb little website (nts: you sohuld probably do this). But she literally - literally - once had this story up about how she helped a company with an employee who thought something was racist, when really it was a big misundertanding! They rehired the employee in a new department that more fit their skills and everyone was super happy! Or some such advertising shit.
+
+Look, it was her practice. I don't think it did well, for what it's worth.
+
+At the time of 2022, she had moved back to California and had been working within the 9th circuit of the US Federal Court system, which has San Francisco in it's jurisdiction (nts: check), as a DEI officer.
+
+It's a pretty solid resume she has.
+
+It would seem, to me, if the parents knew, and she knew, that would make sense. Sure.
+
+I had thoguht, at the time, if I could shift this to my sister - and how reasonable it would have been for her to help me given her resume! To at least hear out her own brother in not only his time of need but in a time of need that literally mapped to her skillset and career history! - anyway, if I could shift this clown car to have Amrita as a driver, I might get a job somewhere else, or a new job at Vouch, and she'd have a nice little resume bump within DC as the person that cleaned up a shit show.
+
+When I asked my parents, whom I was estranged to, if they could ask my older sister Amrita if she could help me, given her resume especially, and mentioning a possible connection with the CEO, I was surprised that my parents responded by saying she was quite "busy."
+
+My parents would identify as professionals above and beyond anything else. It is their core identity.
+
+I was shocked, but it confirmed to me, whom knows his family quite well thank you very much, that they were all involved to some extent.
+
+I didn't want to think about how crazy that _coudl_ be - if I was under any sort of federal level investigation, it really wouldn't be taht crazy for them to have been involved.
+
+It just _could_ be really crazy. But I didn't want to think about it.
+
+I told them I would reach out to Amrita myself on LinkedIn just to make sure, and I left my parents to themselves after that.
+
+...
+
+I told the HR person and the company lawyer, whom I was in email correspondence with about the "hacking", that I woudl contact my sister and ask her if she could help in this situation. I provided her LinkedIn, gave a brief history of her, and let them know I thought highly of Amrita and thought she could be the one person who may help us in this situation. They responded amicably.
+
+I messaged my sister on LinkedIn, saying that I worked at Vouch, and that a Sam Hodges runs the company as the CEO and seems to possibly have gone to Brown Univesity when you did. Either way, it would really help if you could just hear me out given the situation is a workplace one that I think involves racism to some degree. Did she have time for like a thirty minute phone call?
+
+#### Tuesday, 3/15/2022
+
+I wasn't surprised, given that I had calculated for at least some such bullshit, but I was dissapointed when my sister responded the next day saying that she was sorry, this just wasn't her line of expertise, and she couldn't help. She did say something like this, though:
+
+> I'm not in touch with him, but I knew Sam Hodges in college, and he's a good man.
+
+Look, I still haven't read _1984_, but as my sister's kid brother, I started to wonder if being the oldest child stunts you in future adult situations with so many "Big Brothers". But I digress.
+
+I was shocked my sister didn't take control of the situation, and moreso that it felt like she _couldn't_. But I'm still not sure.
+
+She always wanted to be an actress, though. That I know.
+
+Given how I had introduced her as a possibility to my then co workers at vouch, the HR person and the company lawyer, I did feel a bit embarassed.
+
+And I was on my own.
+
+If they wanted to do this the hard way, and try and turn my family against me, then I was going to make this as awkward as humanly possible for all the leadership elements involved. 
+
+_If they ever try and do anything like this again, it should trigger within them memories of a social situation so depressing and vile that they come as close to mentally gagging as one can, and do anything else besides play games with audio surveillance._
+
+I had to feel out the lawyer first. How confident are they going to be sending emails to a server the company doesn't own? I was talking via my own Gmail account from that moment on.
+
+From that point on I started laying bread crumbs in digital places that weren't owned by the people positioning themselves against me, which, at that point I felt were at least Vouch and then separately a political faction within the Federal Government. That way I could prove people were spying on me and analyze their usage of information against how they could have gotten it, digitally speaking, as well as in the case of my "untimely demise," leave a pattern of evidence that would cause at least an investigation.
+
+I was on my own and I knew it. However, if I could set a precedent it would protect many others in a future of uncertainty.
+
+First, I had to feel out the lawyer.
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

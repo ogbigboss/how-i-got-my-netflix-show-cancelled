@@ -2325,7 +2325,13 @@ I'd like to have an emotionally steady relationship with my parents one day, but
 
 That all changed a few months later, when I realized that since at least March 2022, my parents had to be convinced by someone within the Federal Government that I may be a criminal, and may have convinced them right back that maybe, they were right.
 
-Have you ever heard the term echo chambers?
+Did you know that Neera Tanden, then Staff Secretary to POTUS Biden, had a son who at that time was about 15? I drifted towards depression myself at that age, and I think it was largely due to 9/11. My mother may disagree, or at least feel like that shouldn't matter as much, it didn't affect her so why would it affect me differently at 15? Obviously something else happened to me, and it was probably my own choices and not politics out of my personal control.
+
+I personally at the time of March 2022 did not know Neera Tanden was even in the Biden adminstration directly, nor that she had a son that was 15 at the time. Or that she has focused her childhood trauma of being abandoned by her father, leaving her and her mother to welfare, as part of her political persona. Nothing echoes in our minds quite like the past, and nothing echoes quite like emotional trauma. The echoes can dictate our actions without us being wary of them.
+
+When we feel abandoned, sometimes we act out to ensure we don't lose what we have - especially our families.
+
+Have you ever heard of the term echo chambers?
 
 ...
 

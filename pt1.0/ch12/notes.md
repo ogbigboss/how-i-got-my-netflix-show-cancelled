@@ -1,53 +1,18 @@
-# Chapter 11 - First Week post Vouch, 3/21/22
+# Chapter 12 - Sixth and Final Week at Vouch, 3/13/22
+
+1. Ch 12 - Next day or the day after the weird radio barge shows up, I realize that not only would people not believe me, but the state has spent millions of dollars on labor, travel, and... US Coast Guard asset deployment?... at this point, and they're suspcious about a video game that would have taken maybe 6 figures to fund and co opt if the Democratic party were... nicer people than they are, I guess, or at least less willing to risk state tax dollars in the name of personal politics, which, given I'm not a politcal actor or criminal, the Democrat party decided to abuse their presidential admin in a personal vendetta against me. Great, real believable. I get a decent but not terribly generous severance -- just enough to get another job -- and I wonder if that means they _didn't_ feel awful and sorry, and that they didn't just want me to feel like I had no reason to feel bad about what happened, which, honestly, at the time, would've cost like, 50 grand, maybe. 
 
 ### Notes
 
-#### Sunday
-
-Head to Legacy. Store is empty, right as I walk in, `How Do U Want it` by Tupac Shakur starts playing, but that might've been fate. Shahim, guy I usually see at the store, is manning the front, and is saying "copycat" after saying "copy that" the previous week as I walk in. I ask him about that almost immediately and he seems weirded out, like I caught him in something. I did that on purpose, to make him feel that way.
-
-Anyway, I leave the store and there was the biker cop guy who did the cop stop thing. Look up how other people describe the "cop stop" move, I don't know if I really am making sense. I'm sure I can rephrase something else.
-
-As he did it, no one else got arrested, the guy in question, asian dude in a blue denim jacket in jeans with a matching wash and a tight ponytail, right by the school on broome and essex (nts: check streets). There seemed to be some cars waiting to my left and a guy waiting to my right that may have been involved, guy on the right laughed into a phone as I looked at him
-
-I email the lawyer about it and BCcd my sister the chain so she was aware of my comms with their lawyer -- it was the chain including the emails with the lawyer refusing to let me talk to their security person after being told my machine was "hacked" etc. I play up the idea of this being uhh weird because essentially it seems NYPD are trying to "intimidate" me, and... y'all are some democrats, huh? I intimiate being more intimidated than I was in the email. Whatever.
-
-#### Tuesday
-
-Therapist appoinment - up to that point I hadn't told my therapist anything, but figure'd since I was porbably still being survilled, and the government might try to do some weird thing to cover this up and smear me, I thoguht one of the better ways to get ahead of that would be to tell my therapist whom I was having online appoinments with.
-
-I gave my therapist a condensed version of what you've read, skipping the prefaces already spoken on in previous appointments. Therapist seems stunned and sympathetic, not sure what to say, but definitely sorry about it. I ask for a second appointment because well, I still had a few more details, but mostly, I was also depressed.
-
-I think leaving therapy at that for now would be good, just make it clear from that point on you weren't using therapy as a way to do any other thing than leave digital breadcrumbs of what I think actually happened to prevent, say, something else happening that would require another version of the truth to be told before mine could be. Haven't been able to get out of that one.
-
-#### Wednesday
-
-Pretty sure the woman I refer to as "couch girl" helped me get my couch on time when I almost missed it. It made me think that, well, a normal person wouldn't do that, and if they were involved, maybe just maybe, some of these people weren't all god awful human beings. I'm pretty sure in retrospect they may have worked on the TV show I didn't realize I was on. I do remember thinking about that being a possibility for the first time based on the fact that a fed probably would have been trained to stay out of the way as much as possible, and someone on TV might just... want to be nice. A normal neighbor, especially an Air BnB person, would probably never, but recall charting it as a suspicion in th eback of your mind along the at the times incredible idea that this was linked to the Biden / Harris admin, but probably the first time I at least mused on the thought that Netflix is pretty chummy with Dems.
-
 #### Thursday
 
-Fedex'd Vouch's laptop back in strange box. Describe weird comms with shipping - you offered to ship, but they insisted on me shipping the laptop back in their own box. Tracking code when receiving the box went through california to utah to chicago adn tehn finally to NYC. Not terribly direct, took awhile, didn't include room for the charger which I just threw out, and strangely was routed through each of the locations to where the C Suite men lived, whcih I thought was funny. Like they didn't trust each other and they all had to take turns checking out the magic box to make sure.
+1. I wake up and see the oddest surveillance boat / barge posted up across from my apartment on the East River that I've ever seen. I still have never seen anything like it. I think it was literally a makeshift barge with a whole bunch of random surveillance equiptment. My guess is they were scanning all bands of whatever is passed through the air to see if I was magically radio'ing whatever was on that USB stick. I was bluffing, I have no evidence of them committing crimes while investigating me, but as to my belief taht they committed crimes while investigating me, it has a lot to do with the series of events over these past few days. My best guess as to what that barge meant was that they were suspicious of me based on what I said over inadmissable audio surveillance. The flag, when googled, seems to relate to the US Coast guard, but is a legacy one that infers something about commerce I believe. I begin to wonder aloud if this had something to do with the industry in which I learned about audio surveillance in 2020; cryptocurrency. It's not something I paid attention to, and wasn't aware of the size the industry had inflated to and it's current overlaps with the government. I wish I had googled for it, but, I thought it was better to continue not caring about it.
+1. Most likely responding to the stimuli in Ms. Wulff's last name, as well as the idea that this company feels that they are so dominant over me that they can lie to me, spread rumours within all levels and departments about me, and when I ccall them out on it, they try and invent an excuse like I've been hacked to cover up for their own embarassment -- if these people feel _that_ dominant over me, is it because they think they're special at something I don't understand? Because I think they're showing that they shouldn't be trusted with basic economic theory if they cost the government and themselves this much money and feel they don't owe me more to not feel awful about it, at the very least. Is this truly what society woudl prefer, were Thomas Rawls' veil of ignorance to be paired with Samuelson's revealed preference theory? I don't think so, I don't think anyone would want to be treated this way for the purpose of selling their normative, market valued labor services and then being put on a Netflix show without their consent -- not without being compensated such to not carry it as a burden further in their lives, especially their profesional but also personal lives. How would they know it wouldn't happen again? I didn't think they were valuing the severance appropriately after lying as much as they did to me. So that was why I followed up that day with talk about "alpha wolves" and "revealed preference theory". I also hoped such things wouldn't be peaking their interest -- my tone read like the act I was putting on -- given how embarassing I assume this all went for them. In retrospect, had I known about RK etc etc.
 
-I assume there was some sort of faraday lining in the box or something. I leave it with the lobby person Thursday, I see someone in the lobby, about my height and build, late 40s but slick healthy gray hair in a ponytail, light brown leather jacket waiting there. As I get back to my eighth floor apartment and look out the window, I see him and I'm pretty sure he's holding the box I gave to the lobby guy and told to give to the fedex guy. I didn't see a fedex logo in that leather jacket. Looked like he could've been a "hacker" type.
+#### Friday, Saturday
 
-#### Friday
+1. I just try and smoke weed, accept the severance Vouch gave me, and hope things just pass from here, and that I've made the situation as awkward as I can to make sure Vouch or whomeever else was involved would never do this stupid shit again, at some social loss to me, and hopefully at no further action on their part, given how stupid this shit was. I over estimated some things.
 
-Reached out to LR after deciding to quit Vouch -- were they still interested in hiring me based on an offer in late January now that it was late March? Sean Carr + Sirishalal Rajput, my boss's boss and my boss had I joined, had a interview wiht me to ask what happened at Vouch. I told them they had too many developers, but also I alluded to a situation where "I was being gossipped" about. I told them it was fine by me if they reached out to Vouch to ask about it. But the real point to make here is that I literally said to Sean and Siri that "look, i'm just a lot more perceptive than people give me credit for and sometimes it gets me into trouble. I'm really good at knowing when people are talking about me and I'd appreciate it if, as my potential new managers, you two could be extra sensitive to the idea of me being more perceptive than your average straight male." Or something to that extent; but the intent and message was there. I now wonder what Vouch may have told LR to cover even for the idea of "gossip" which most certainly was happening on TOP of the investigation, which I didn't mention, but I'm sure LR heard about eventually. Anyway.
+#### Conclusion
 
-#### Saturday
-
-Not 100% but pretty sure thsi was the day a very large ship of some sort came to pick up that weird radio barge thing. THe radio barge had an engine just to get it off the dock and no room for anything more, which, I thought was intriguing. Eventually the boat comes up to it and ties it to it's side.
-
-However, the dockside had like, at least 10-15 Navy people, in uniform. The odd thing about it, was that, instead of looking behind them at the _gorgeous_ day it was (I remember the weather at least), and looking at say, the Manhattan Bridge, or say, Dumbo, or, I don't know, anything iconic, or say, since there were 15 of them or so, maybe looking in multiple directions?
-
-All I know is when I stepped out onto my porch thing, it felt like everyone's shoulders were pointed right at me. No one like, pointed, at me, and maybe they were looking at my building.
-
-275 South St? Or the Manhattan Bridge?
-
-I knew why they were looking at me - it's because they all heard _something_ about me.
-
-I shook my head -- how in the fuck could they have played this one that loose?
-
-Look at the iconic bridge you morons, I'm trying to not lose my shit here (sorry Navy guys, just disavow it's fine).
-
-Internally I just hoped this would all blow over, particularly if Liveramp hired me, and especially given what I told them in the meeting yesterday.
+1. Make clear to reader that you feel the government committed crimes in their initial investigation, your faking liek you had evidence or notes of this to see if they were still listening led to a sloppy number of excuses at the Federal level to continue investigating me not for my crimes, but the evidence I may have against the state. Everything after the "radio barge" seen on the East River has likely been an attempt by the US Gov't to smear or incriminate me such to cover up the attempt to cover up the evidence I don't have against hte state and was making up jsut to see if they'd continue to be stupid (if I knew that was even possible, i would've tried different things, but I didn't think things could get stupider and really just wanted to see if they'd have the good sense to leave me alone.)

@@ -172,4 +172,12 @@ Have you ever heard of the term echo chambers?
 
 ...
 
+Before I was cut off from Slack, I remember my last few messages to my direct boss, Eloise. At some point I felt like I was talking to her directly, and let her know I was stressed about this situation, particularly if racism was involved or even if it wasn't, something I was thinking she'd understand given her status as both a woman in tech but also an LGTBQ woman. I think she did, as much as she could, given the last thing I think she said to me.
 
+> Eloise: I'm so sorry you have to go through this
+
+There are a lot of reasons when someone -- even if they may be legitimately hallucinating, like, on drugs and stuff -- to support the other person's point of view, if they are expressing anxiety or emotional turbulence at the time, no matter how wild. I also acknoledged to Eloise that I could have been misreading coincidences.
+
+But given the last few weeks, and that my comms were cut shortly after, I'm pretty sure my direct boss Eloise was trying to let me know that yes, I was going through this.
+
+It wasn't nothing.

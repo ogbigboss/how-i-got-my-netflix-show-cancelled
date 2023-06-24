@@ -2465,8 +2465,45 @@ Funny, I smelled the same thing.
 
 ...
 
+I mostly wanted to setup an email chain that would make clear that Vouch, at the time, felt it more necessary to protect their client from a potential truth rather than take the time to technically validate what their employee claimed to be the truth.
 
+I mean, Ms. Wulff could've just setup the meeting, she didn't have to take the bait.
 
+But she did, and at that point I realized at least internally that Vouch was more afraid of me and what I knew than anything else.
+
+I ended Tuesday evening giving Ms. Wulff the impression that maybe I was considering that I actually _was_ hacked. This was to buy some time.
+
+I mean, given how Vouch played it, if I wanted to play along, I could still be there, and whenever something didn't go my way, I'd have the ability to dangle that above the literal CEO for what they did to me. And it would work.
+
+That said -- I ahd to ask myself -- with _complete disrespect_ to what happened with regards to any potential investigations, private or governmentally influenced, was Vouch a company worth staying at?
+
+I thought about the attrition, particularly amongst female leadership and ground floor employees, with accusations of sexism already existing before I got there.
+
+I thgouht about the poor to non existent communication between the C levels and the tech leadership.
+
+I looked at the codebase and realized I ran the `git blame` command way more often than the `git commit` command -- the latter is only important when they give you work to commit to after all. The former is perhaps poorly named but, I had to face facts.
+
+Vouch was a poorly run and poorly managed company. The funding they received and the resumes of their founders made them even more of an embarrasment.
+
+This of course led to the situation I was in, but my situation wasn't the only thing emblemic of this company that said I'd be better off elsewhere.
+
+I went to sleep asking myself this:
+
+_Am I really getting paid enough to work at a company which has poor business practices and is bigotted enough to target me the way they did, and then pretend they can pretend their way out of it?_
+
+_Am I being paid enough to believe someone else's lie over my own truth?_
+
+#### Wednesday, 3/16/2022
+
+> "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." -John 3:16
+
+March 16 2022 I made a choice that I will never regret: if I am to live one life, it will be one of my own writing.
+
+No one will take my story from me, not now, and not ever.
+
+Reader, had I realized I was on a Netflix Show, and knew about the Razzlekhan thing -
+
+I probably would've been more pissed off than I was.
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

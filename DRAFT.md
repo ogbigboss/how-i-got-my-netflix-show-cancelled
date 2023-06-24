@@ -2428,6 +2428,45 @@ From that point on I started laying bread crumbs in digital places that weren't 
 I was on my own and I knew it. However, if I could set a precedent it would protect many others in a future of uncertainty.
 
 First, I had to feel out the lawyer.
+
+...
+
+Vouch's legal representative -- I'm not sure if her official title was GC or general counsel but I digress - Ms. Wulff seemed to be leading the communications to me. She wanted to setup a meeting to talk about the "hacking".
+
+Her background was in law, and she was telling me that the company, a tech company, was claiming I had been hacked.
+
+I told the lawyer that because the situation concerns hacking, a technical concept, and I have a separate side of the story, that I'd feel comfortable sharing my side only if one or two people could join the meeting, preferabbly both: my tech manager, whom I felt comfortable with given her LGBTQ status as well, but perhaps more tellingly, the company's own tech security professional, a man I had to look up on LinkedIn named Cody - I had seen him chat previously in the company channels.
+
+I also at the time found out Cody went to college with the brown man with the shared colloquial dialogue from that one meeting where the CEO flinched noticeably, but that's separate.
+
+The lawyer, Ms. Kelly Wulff, immediately refused and said that only she could hear the details of my side of the story; and then she would take the details internally.
+
+Apparently, I was already an external factor to the company.
+
+That said, I was more flabbergasted that a company with 8 figures funding, likely involved with the federal government, would be foolish enough to hire a lawyer who would so brazenly leave a documented email chain showing their unwillingness to allow my perspective to be heard by technical professionals.
+
+What's the point of a lawyer's expertise if they use it to hold back the expertise of others?
+
+It sounds like a philosophical point of debate in a second year law class where ultimately, yes, a lawyer's responsibility is to protect their client, and that is the lesson.
+
+What was Vouch so afraid of to let me speak my side to a tech professional like Cody or at least Eloise?
+
+Did you read the previous parts of my memoir here reader? What do you think?
+
+I had prepared internally for a conversation where I would be talking about the Blue Screen Of Death, something that happened before I started, and something that would indicate a "hacking" moreso than me sending messages I know I sent. I wanted to read Cody's and/or perhaps' Eloise's facial reactions ot my recollections to see if they knew anything as well.
+
+I was confident in my ability ot read others, but I guess Ms. Wulff was suspicious of this as well.
+
+A lawyer's first and foremost duty is to protect their client.
+
+I was embarassed to have to start Tuesday by telling Vouch my sister couldn't help me out, but given how Ms. Wulff reacted, I think she smelled weakness in me given Amrita's lack of willingness to protect me as a client.
+
+Funny, I smelled the same thing.
+
+...
+
+
+
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

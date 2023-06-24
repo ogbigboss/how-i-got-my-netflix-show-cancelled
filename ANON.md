@@ -8,6 +8,10 @@
 
 ### Draft
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> Whenever you pray, you must not be like the hypocrites, because they love to pray standing in the synagogues and on the street corners to be seen by people. Truly I tell you, they have their reward. -Matthew 6:5
+
 > "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
 
 _Late July 2022_
@@ -43,7 +47,7 @@ What, were they TV producers or something?
 I took a large, _Arrested Development_-with-the-_Charlie Brown_-music-in-the-background sigh on the corner of Canal and Essex, directly across from the remains of the white shirt gang. I got a chicken sandwich, then on the walk home up Canal, I saw the creepy brunette ina red dress again, she made a point to look at me with a big frown, as though I had just disappointed her. I tried giving her a "what the fuck is wrong with you" look, and walked home, where I chastised those potentially audio surveilling me for sexism in operational tactics.
 
 Given everything that happened in the past few months, along with the Federal Government denying the right to abortion despite trying to pass a law codifying it, it seemed like the right move. And just in case I was right about the TV producer thing, in the back of my mind, I remembered the large collection of stolen and bootleg DVDs I had in my closet.
-# Part 1 Chapter 1 -- Pre Senger-Huel
+# Part 1 Chapter 1 -- Pre O'Reilly and Sons
 
 ### Draft
 
@@ -57,7 +61,7 @@ Like I said, it doesn't happen as often these days, but the rules haven't change
 
 So, just like in _Clue_, you have three distinct facts that add up to one question: who done it?
 
-On January 28 2022 (nts: check, was a friday), after accepting an offer in principal from Senger-Huel inc, the only thing I was doing on my windows machine at the time was looking at a PDF of their business basics in a single chrome tab running Gmail's preview of the PDF.
+On January 28 2022 (nts: check, was a friday), after accepting an offer in principal from O'Reilly and Sons inc, the only thing I was doing on my windows machine at the time was looking at a PDF of their business basics in a single chrome tab running Gmail's preview of the PDF.
 
 Earlier that day I had what felt like an odd communication around the background check after accepting the offer. I immediately assumed the company was "looking into" my machine -- they may have found it odd that in my interviews I used my Apple Macbook, and had suddenly used a Windows machine to open an email, perhaps, though that has more to do with my Macbook being portable for more suitable webcam angles than my Windows machine, a desktop, can offer given it's position opposite to my framed covers of weird comic books.
 
@@ -99,11 +103,11 @@ Which is to say, after 2021, I decided to check out due to burn out, and stopped
 
 Did that seem weird to them? It may have, idk. Looking back at the videos, I mostly feel I could have worked out a bit more as I was very skinny, but my playing seemed OK, and some people hit the like button on my reels, and that made me feel good.
 
-So, in early 2022, I just wanted a job. Three companies gave me offers, and during one final interview, a CFO not at Senger-Huel spoke highly of the CEO at Senger-Huel, influencing my decision in an ironic way. I often wonder what if I wasn't impressed at someone else being impressed at someone so much that I went in that direction? Alas, I was grateful for the opportunity, and based on Senger-Huel's position as a startup focused insurer, I felt the equity would work out, just as long as the Fed kept printing money at a consistent rate, the startup machine would never stop, not soon at least.
+So, in early 2022, I just wanted a job. Three companies gave me offers, and during one final interview, a CFO not at O'Reilly and Sons spoke highly of the CEO at O'Reilly and Sons, influencing my decision in an ironic way. I often wonder what if I wasn't impressed at someone else being impressed at someone so much that I went in that direction? Alas, I was grateful for the opportunity, and based on O'Reilly and Sons's position as a startup focused insurer, I felt the equity would work out, just as long as the Fed kept printing money at a consistent rate, the startup machine would never stop, not soon at least.
 
 ...
 
-That Friday, January 28th 2022, When I got the email from the HR person at Senger-Huel about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
+That Friday, January 28th 2022, When I got the email from the HR person at O'Reilly and Sons about onboarding there was some odd correspondence with regards to background checks and SSNs, which were being asked of separately. Why would a company want my SSN privately, as well as ask me to do a background check which would ask me the same information, and weeks before I would fill out an I9 tax document with the information anyway? It seemed a bit confusing to me, but I gave the SSN privately via a phone number provided, and filled out the online background check separately. Startups can be sloppy sometimes, it's not that big of a deal.
 
 Anyway, I was working in NYC, for a company which had offices in San Francisco and Chicago, and talking to an HR person based in Chicago with about 3 other HR people CC'd. The background check form asked for a zip code for the company -- I looked up the first SF zip code I could find, hit enter, and was asked by the website to review the information first. I checked SF zip codes, and noticed there were a few. I then began to wonder if the company was actually, tax wise or whatever, based in Chicago. I didn't feel like looking shady and screwing up the background check form, so I asked Friday afternoon around 3 PM Chicago time via the email chain what the zip code was.
 
@@ -111,10 +115,10 @@ There were 3 other people, including the recruiter who worked with me earlier wh
 
 Later that evening, while reviewing the company's PDF, looking at the pinwheel diagram which explained that the company would pickup the "best" startups (I assumed that meant those with the most VC traction) and stick with them as they grew, thus, the premiums would grow with the companies. Seemed smart, I thought, as long as the economy sticks with big tech, my equity might work out and not just my bosses'. At that high point, having just secured employment, and feeling as though I had made the right choice between three offers -- my Windows 10 gaming and music production machine did something it hadn't ever done before: given me it's Blue Screen Of Death.
 
-I assumed the worst, I suppose, and handled it as best I could. On Monday, I hadn't received a response from Senger-Huel, so around 3 PM (nts: check emails) I reached out. I received a response shortly after saying the background check actually cleared -- but I had never hit "confirm" on the final submission. Perhaps the company gathered the data pre-emptively, but, I still found this a bit, well, shady.
+I assumed the worst, I suppose, and handled it as best I could. On Monday, I hadn't received a response from O'Reilly and Sons, so around 3 PM (nts: check emails) I reached out. I received a response shortly after saying the background check actually cleared -- but I had never hit "confirm" on the final submission. Perhaps the company gathered the data pre-emptively, but, I still found this a bit, well, shady.
 
 That said, a job's a job, and a white woman in Chicago working in an HR department can think a lot of things about a brown man in NYC working remotely for a tech department, and if a mistake was made, I wouldn't of minded if it stopped there.
-# Pt 1 Ch 2 -- First Week at Senger-Huel, 2/13/2022
+# Pt 1 Ch 2 -- First Week at O'Reilly and Sons, 2/13/2022
 
 ### Draft
 
@@ -130,7 +134,7 @@ Before 2020, I was upset the way I discovered this -- via a boss' psychological 
 
 Back in 2020, I went through an experience that confirmed to my suspicions that some companies in "big tech" were using audio surveillance on their remote employees. As a computer programmer, I knew this wasn't hard to pull off and hide -- audio processing takes a minute amount of power on a modern CPU, to where it wouldn't interfere with the average worker bee's day. The way I figured out was the immaturity in how the audio surveillance was being used -- it seemed if I setup myself as a joke, my bosses were more than likely to play off it in meetings, indicating they were listening, and they were not threatened but willing to use it as a cheap way to feel superior, like children. But that was then.
 
-In 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at Senger-Huel, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
+In 2020, I was working for a former frat boy president running a startup in an industry known for emotional immaturity, surrounded by mid 30s and 20 year olds. In 2022, I was starting at O'Reilly and Sons, a company being run by 40 year olds, surrounded by 30 year old co workers, in the decidedly more mature industry of business insurance. I thought, before starting, that even if they used audio surveillance, surely they'd be more mature about it.
 
 ...
 
@@ -147,7 +151,7 @@ In offices, I limit this to an occasional one word mumble, if anything. Sometime
 
 You might think it's crazy, but I've talked to a lot of therapists about it, and they don't, often categorizing it as a type of self talk.
 
-All these things came to an odd head of sorts early on at Senger-Huel. My instinct was not to care, because, if it was a problem, surely someone would be direct and just ask me about it.
+All these things came to an odd head of sorts early on at O'Reilly and Sons. My instinct was not to care, because, if it was a problem, surely someone would be direct and just ask me about it.
 
 Wouldn't you do that if you were confused about something a co-worker or employee said aloud to themselves or anyone else in an office?
 
@@ -159,11 +163,11 @@ After 2022, I wonder if emotional immaturity is more acceptable compared to pure
 
 _Early February 2022_ (nts: get weeks where needed from notes and calendar, should be second week of Feb)
 
-My first two days at Senger-Huel were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
+My first two days at O'Reilly and Sons were of little incident or consequence. I met my manager, Eloise, and thought she was really friendly. She had a Steve Martin poster her wife had bought with hats referencing many of his movies, and was fairly outgoing. There was a meeting for the new employees to meet the "C Levels" - the C*O's of the company, the top leadership structure of the then ~ 50 employee large firm - it was scheduled for Tuesday, but cancelled suddenly in the morning. I thought that was a bit weird, but not a big deal.
 
 Another thing I thought was weird was Ronnie Wang, a woman I had interviewed with some 3 weeks ago, whom held a Director position and would have been my boss' boss, was not at the company when I joined. That meant she likely hadn't told them she was leaving when she interviewed me (nts: check dates, think it was 1/24), and gave her two weeks notice the following week. This is irregular for a Director -- typically a departure is coordinated with months, not an employee's standard two weeks, given their importance to the company.
 
-Unless, for some reason, she, didn't care and decided to quit, giving Senger-Huel the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate Senger-Huel's organization -- if they seem disorganized, that meant Ronnie ran things and she left abruptly to make a point. If they don't seem disorganized, then maybe I'm wrong._
+Unless, for some reason, she, didn't care and decided to quit, giving O'Reilly and Sons the least time to react. I checked on LinkedIn and couldn't imagine her equity position being better where she landed, another tech finance outfit. I took a mental note: _evaluate O'Reilly and Sons's organization -- if they seem disorganized, that meant Ronnie ran things and she left abruptly to make a point. If they don't seem disorganized, then maybe I'm wrong._
 
 When I was first hired, my boss was to be a man named Eric, and a week after I got the offer, I was told it would be a woman named Eloise. No biggie, but a sudden shift in internal management usually points to disorganization.
 
@@ -183,7 +187,7 @@ One thing I often do is look at the code that assembles the page to see how it b
 
 The login page being the first page I looked at had a lot to do with the website in question - the company's "app." website to manage data, not it's more sales oriented main "www." website - locking you out until you login... like... many if not most data oriented websites.
 
-While looking at the login page for Senger-Huel's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like Senger-Huel - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
+While looking at the login page for O'Reilly and Sons's site, I noticed they were using a third party provider for authentication that I was familiar with - _Auth0_. Now, if you asked me to my _face_ my opinion on whether a company like O'Reilly and Sons - dozens of developers, 8 figures in funding - needs or ought to be relying on a third party provider for something like authentication, I'd be more polite.
 
 I'm pretty sure I said some judgemental things, and out loud but to myself as I said before, such as:
 
@@ -193,11 +197,11 @@ I'm not really... _sure_ what I said, to be honest, because I was just wondering
 
 Honestly, there may have been a good answer! I may have been being judgemental. To myself, alone, in my apartment.
 
-To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that Senger-Huel.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website Senger-Huel.us used that they were hiring me to help make.
+To be clear: three days into a job, I do have to say that I wasn't "casing the joint", because, as a matter of knowing how to do my job as a web developer -- knowing that O'Reilly and Sons.us uses Auth0 would be simple as visiting their incredibly public website and seeing Auth0's URLs listed somewhere in the requests made to compose the incredibly public website O'Reilly and Sons.us used that they were hiring me to help make.
 
 It's kind of like seeing the brand name of a lock on the door of your employer's office, probably not something weird for the guy who works on the front of the employer's office, website wise, to take note of.
 
-Meaning, finding out Senger-Huel used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
+Meaning, finding out O'Reilly and Sons used Auth0 for authentication wasn't a secret. If I wanted to know, I could've found out without every working there or looking at their code.
 
 But again, I may have sounded _really_ judgemental.
 
@@ -320,10 +324,10 @@ if my_internet_connection_is_down and my_neighbors_nor_others_in_my_area_seem_af
   if this_is_in_response_to_what_I_said_in_my_kitchen then
     if it_makes_me_wonder_why_Ronnie_left_so_abruptly then
       if i_try_and_embarass_whoever_did_this then
-        if someone_in_Senger-Huel_has_government_connections_as_theyre_in_sf_and_im_in_new_york then
+        if someone_in_O'Reilly and Sons_has_government_connections_as_theyre_in_sf_and_im_in_new_york then
           i_try_and_embarass_whoever_did_this_to_quietly_stop_fascist_behavior
         else
-          i_try_and_embarass_whoever_did_this_to_quietly_improve_Senger-Huels_decision_making
+          i_try_and_embarass_whoever_did_this_to_quietly_improve_O'Reilly and Sonss_decision_making
         end
       end
     else if Ronnie_didnt_leave_abruptly then
@@ -437,7 +441,7 @@ I never said "I'm a spy" or that I "work for the government" -- just that I knew
 
 Things did not end that way, but maybe that's my fault.
 
-I didn't think much more of the situation until I ended that afternoon with a 1:1 with my manager Eloise, and she told me why Rachel Bird, after a two month paid leave, was leaving Senger-Huel for good.
+I didn't think much more of the situation until I ended that afternoon with a 1:1 with my manager Eloise, and she told me why Rachel Bird, after a two month paid leave, was leaving O'Reilly and Sons for good.
 
 ...
 
@@ -524,7 +528,7 @@ _Oh, well I thought we were both lying about being spies. That wasn't the joke h
 Look, I probably would've gotten fired, but like I said I had two other job offers and if things happened quickly I doubt they would've gotten to a point where the government would have to try the loudest "cover up" of all time as opposed to just minding their own business.
 
 Alas, maybe more people are pretending at what they are than I realize.
-# Pt 1 ch 3 -- Second week at Senger-Huel (2/20/22)
+# Pt 1 ch 3 -- Second week at O'Reilly and Sons (2/20/22)
 
 ### Draft
 
@@ -538,7 +542,7 @@ The formality gives developers a log of changes that is easily reviewable. In fa
 
 That said, `git blame` is my favorite tool for assessing a company against it's codebase. Along with `git log`, you can easily see not just what code went through the most changes, but _who_ makes the most important changes in code. One tell tale sign of a poorly run company, in a general sense, is employee attrition -- do people not stay at the company for long?
 
-At Senger-Huel, when looking at their codebase, there were several names that read important to the code, that simply weren't present at the company. Asking about them got a nervous look at best, and generally current employees don't like talking about previous ones - particularly if they left out of disapointment.
+At O'Reilly and Sons, when looking at their codebase, there were several names that read important to the code, that simply weren't present at the company. Asking about them got a nervous look at best, and generally current employees don't like talking about previous ones - particularly if they left out of disapointment.
 
 Disappointment from a developer's point of view is easy to track with `git log` and `git blame` - most developers like myself are, if anything, overly exuberant in the English messages we leave when we "commit" code. At the beggining, like most employees, the exuberant developer _over_ writes.
 
@@ -548,7 +552,7 @@ Soon, massive code changes are accompanied with one to two word commit messages,
 
 And then, they quit, or from my perspective, were no longer part of the company.
 
-By my second week at Senger-Huel, I had diagnosed all of these things in previous developers as well as my current team mates, particularly Tony Thompson, who had a similar set of skills to me as a developer and I was to work closely with. This disheartened me to say the least.
+By my second week at O'Reilly and Sons, I had diagnosed all of these things in previous developers as well as my current team mates, particularly Tony Thompson, who had a similar set of skills to me as a developer and I was to work closely with. This disheartened me to say the least.
 
 But code is only one way to judge the internal behaviors of a tech firm. The other way is seeing how clear the _process for requesting code changes_, in any form, is.
 
@@ -574,17 +578,17 @@ Given that I felt the company leadership _may_ have leveraged federal resources 
 
 That, or, the developers had given up trying to communicate to the leadership, for _some_ reason.
 
-Either way, Senger-Huel, despite it's pedigree and financing, was clearly just another run of the mill disorganized tech company that hides it's lack off efficiency or professionality behind investor graft to make investment appear as value without creating the actual value it represents. Which, is typical.
+Either way, O'Reilly and Sons, despite it's pedigree and financing, was clearly just another run of the mill disorganized tech company that hides it's lack off efficiency or professionality behind investor graft to make investment appear as value without creating the actual value it represents. Which, is typical.
 
 What kept me from quitting right then and there was my finances, and that I could deal with typical, if it meant a good paycheck. My coworkers were.
 
-That said, while Senger-Huel's lack of professional standards with regards to technology is rather pro forma for most tech companies, particularly startups, I still had to wonder if all of the employees go through a "covert" federal investigation as a matter of routine as well. But, at that point, I could have been wrong about my assumptions, or at least I hoped.
+That said, while O'Reilly and Sons's lack of professional standards with regards to technology is rather pro forma for most tech companies, particularly startups, I still had to wonder if all of the employees go through a "covert" federal investigation as a matter of routine as well. But, at that point, I could have been wrong about my assumptions, or at least I hoped.
 
 The last thing I found funny in the Google doc was this: the CIO, a John Wallace, made numerous typos; spelling and grammar. Given that he is a top level employee and a leader representing Insurance -- the one thing that kept this company from just being tech, after all -- I thought his lack of attention to detail was alarming, and I do believe I said something out loud about it.
 
 ...
 
-My second week at Senger-Huel, like the first, involved several "onboarding" meetings to introduce me to the various departments and leaders of the company. My boss' boss, the Chief Product Officer, was another Indian man named Rajat Kongovi, the same man who I felt had hinted towards authentication in a strange way a week before in an email. His onboarding meeting to represent our shared internal department of Product seemed fine, save for one comment about his fellow C Suite board member, John Wallace.
+My second week at O'Reilly and Sons, like the first, involved several "onboarding" meetings to introduce me to the various departments and leaders of the company. My boss' boss, the Chief Product Officer, was another Indian man named Rajat Kongovi, the same man who I felt had hinted towards authentication in a strange way a week before in an email. His onboarding meeting to represent our shared internal department of Product seemed fine, save for one comment about his fellow C Suite board member, John Wallace.
 
 Rajat said something like this about John:
 
@@ -606,7 +610,7 @@ Felt, shady, to me.
 
 ...
 
-Another onboarding meeting, and one I was anticipating learning a lot about being that I had no perception prior to Senger-Huel about the "insurance indsutry" in general, was the onboarding meeting for the insurance department.
+Another onboarding meeting, and one I was anticipating learning a lot about being that I had no perception prior to O'Reilly and Sons about the "insurance indsutry" in general, was the onboarding meeting for the insurance department.
 
 Given what Rajat just said, as well as my suspicions, as well as wondering "how does a white C level not use proper english in online documents", I was looking forward to this meeting because it was to be led by John Wallace, the CIO himself.
 
@@ -686,7 +690,7 @@ Just call me your pusherman, I guess. This is all theory and conjecture, however
 
 The darkest theory I can construe would have to be this:
 
-`During my first week at Senger-Huel, the company attempted to investigate me alongside the Federal government, utilizing overreach to which I responded to by lying. In order to justify the overreach, the company or the federal government began spreading the idea that I could be "working with Russia", in reflection of their own political ambitions. However, given this happened via internet comms, Russian intelligence may have picked up on this. Realizing I do not have any connection to Russian intelligence, and realizing that the US Gov't broke their own constitution in pursuing me, perhaps Vladimir Putin started a war simply because he knew the US Gov't could be held at arms length via the blackmail of this situation, which Eloise is now being asked to validate on behalf of those that investigated me under false and perhaps illegal pretenses.`
+`During my first week at O'Reilly and Sons, the company attempted to investigate me alongside the Federal government, utilizing overreach to which I responded to by lying. In order to justify the overreach, the company or the federal government began spreading the idea that I could be "working with Russia", in reflection of their own political ambitions. However, given this happened via internet comms, Russian intelligence may have picked up on this. Realizing I do not have any connection to Russian intelligence, and realizing that the US Gov't broke their own constitution in pursuing me, perhaps Vladimir Putin started a war simply because he knew the US Gov't could be held at arms length via the blackmail of this situation, which Eloise is now being asked to validate on behalf of those that investigated me under false and perhaps illegal pretenses.`
 
 However, I was nowhere near that theory back then because the Ukrainian - Russian conflict hadn't persisted to the point it is has today: nearly a million lives have been lost on both sides, international economics and food supplies have been endangered, and talk of a shifting world order has come to light yet again because of it.
 
@@ -715,7 +719,7 @@ That said, I realized that if I was right about the company's behaviors, then I 
 
 One of my new coworkers was a man named Tony Thompson. He was extremely kind during the interview, and after I was given an offer emailed me personally to ask if I had any questions or just wanted to chat while I was considering the offer. While joining, during the "get to know you" session, I found out he learned guitar with his son during the Covid lockdown, and they were both into guitar sound effect pedals; two of my bigger hobbies. I had chatted a few times with Tony online about boutique guitar pedal manufacturers; Chase Bliss, Old Blood Noise Endeavors, and others.
 
-Just prior to joining Senger-Huel, I had setup a "pedal board" - a preconfigured collection of effects pedals placed on a board such that you can move them easily - which I was quite proud of. That weekend I had just figured out some of the ways MIDI worked and decided that it may be a nice way to endear myself to a new colleague I'd be working close with if I shot a video of me playing with the pedals.
+Just prior to joining O'Reilly and Sons, I had setup a "pedal board" - a preconfigured collection of effects pedals placed on a board such that you can move them easily - which I was quite proud of. That weekend I had just figured out some of the ways MIDI worked and decided that it may be a nice way to endear myself to a new colleague I'd be working close with if I shot a video of me playing with the pedals.
 
 One of the pedals, a Chase Bliss MKII Automatone (nts: double check name), has mechanical faders which literally move when you change the preset, which is unique. I setup this and other pedals to have two sound effects, and thought it would be cool to make a video which shows both.
 
@@ -764,7 +768,7 @@ I'm sure somewhere Ms. Anderson and Mr. Duchovny, as well as their FakeBI counte
 ...
 
 Tony Thompson never slack chatted to me again during my employment, never offering his thoughts on my cool pedal board, or what he, a man in his 40s, thought of _The X Files_ when growing up, after responding to everything else we had spoken on that week.
-# Pt 1 Chapter 5 -- Third Week at Senger-Huel, 2/28/22
+# Pt 1 Chapter 5 -- Third Week at O'Reilly and Sons, 2/28/22
 
 > Michael: [after having Spencer committed to a psych ward for his alien paranoia] "Spencer, you can't be here."
 >
@@ -800,9 +804,9 @@ Over the last year I've gotten used to it, and, considering the legal precedent 
 
 ...
 
-My manager Eloise was on vacation that week, where on monday I had a 1:1 to get to know a new coworker, Damon Hastings. Damon was around my age or a bit older, but newer to development as he made a career change in his late 20s. Damon was very nice and I thought he was smarter than his confidence allowed, though that can happen to minorities in tech quite often. Either way Damon seemed very happy at Senger-Huel.
+My manager Eloise was on vacation that week, where on monday I had a 1:1 to get to know a new coworker, Damon Hastings. Damon was around my age or a bit older, but newer to development as he made a career change in his late 20s. Damon was very nice and I thought he was smarter than his confidence allowed, though that can happen to minorities in tech quite often. Either way Damon seemed very happy at O'Reilly and Sons.
 
-However, somehow Rachel Bird came up, and Damon, whom if I recall correctly was sitting with his wife in a diner at the time working via the diner's wifi, let me know an interesting detail that Eloise hadn't about Rachel Bird's time at Senger-Huel.
+However, somehow Rachel Bird came up, and Damon, whom if I recall correctly was sitting with his wife in a diner at the time working via the diner's wifi, let me know an interesting detail that Eloise hadn't about Rachel Bird's time at O'Reilly and Sons.
 
 Apparently Rachel had been sexually harassed by not one but two employees; and one was still present at the company.
 
@@ -813,7 +817,7 @@ I had gathered via her linked in profile that Rachel was also like Damon a devel
 I immediately thought of John Wallace, who had a loserly vibe to me. I rethought the chain of event's from John Wallace's perspective, if and only if he was a dork ass divorced loser.
 
 ```
-if Senger-Huel_cio_john_wallace_is_a_dork then
+if O'Reilly and Sons_cio_john_wallace_is_a_dork then
   if john_hit_on_and_got_rejected_by_rachel_bird then
     if rachel_saw_it_as_harassment_and_took_two_months off then
       if rachel_quit_on_a_friday then
@@ -846,7 +850,7 @@ In 2020, I had developed a set of techniques meant to decipher if my bosses are 
 
 I had been streaming for 3 years at the time of 2020 when I combined the skill of knowing how to pay attention in meetings even if I am distracted or talking to someone else with the skill of being able to read faces when they're on webcams that I learned via twitch, with a skill I've always had but never had quite developed for this purpose: talking shit, to some extent, ala the children in the movie _Sandlot_, though hopefully with less gender bias.
 
-By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was Senger-Huel, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
+By 2022, I worked for 3 separate companies that I could not identify as using audio surveillance after the company I worked for in 2020 where I developed my techniques and felt that I had confirmed they were surveilling me. The fourth company was O'Reilly and Sons, and the techniques never worked better in my life than on Tuesday, March 1st, 2022.
 
 In my most private of moments, I call the main technique, with some reference to the film _Perdita Durango_ and the Lady Gaga song _Poker Face_, the "Gandolfini Germanotta I Hate Your Little Poker Face Move." But only in private.
 
@@ -928,7 +932,7 @@ I'd write that in the code but I figure'd it's obvious enough, just between us h
 
 ...
 
-Senger-Huel held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. Senger-Huel being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.
+O'Reilly and Sons held company "all hands" meetings every Tuesday, meetings where the entire company gathered to hear updates from mostly leadership but also others within the company as well. You probably do something similar at your work place, if maybe at a different cadence. O'Reilly and Sons being a smallish, largely remote, under 100 employee company at the time, this was easy enough to do every week.
 
 The first two weeks I mostly listened and didn't really run `the_gg_move`, but on that Tuesday, if I had roommates I'm sure they would have wondered why I was talking out loud while my speakers were clearly playing audio of my co workers speaking out loud in a meeting, and it sounds like we're having two separate conversations, albeit at times where it feels like both are listening to each other cautiously such to wonder if that group of people and or weird guy over there is listening to me or them, respectively.
 
@@ -978,7 +982,7 @@ I'm _pretty_ sure I corrected myself on the rascist accusations, though, it wasn
 
 Somewhat after that moment, while the HR person and the CEO were the only two people on the screen, the CEO, in a planned statement, reminded everyone of the company motto. That's to say I do not think he really thought of the motto in the context of audio surveilling an employee into a bogus federal investigation, but, he said what he said when he said something like:
 
-> "When it comes to our employees at Senger-Huel, we strive to live by the golden rule."
+> "When it comes to our employees at O'Reilly and Sons, we strive to live by the golden rule."
 
 Near immediately, and in the hope that the audio transcription picked up my sudden falsetto, I responded directly:
 
@@ -1002,7 +1006,7 @@ _It's not like I could confirm at that moment that he literally got divorced rec
 
 Well, I still can't confirm _all_ of that, and at the time I coudln't confirm any of it, but it was a thought in my head, however fleeting.
 
-I left the meeting feeling certain that, eventually, once these idiots found out I was joking, they'd fire me. I couldn't confirm that wouldn't happen at that point, but I can tell you that in the end, it was I who quit Senger-Huel, and this meeting probably should have been when I did. Alas.
+I left the meeting feeling certain that, eventually, once these idiots found out I was joking, they'd fire me. I couldn't confirm that wouldn't happen at that point, but I can tell you that in the end, it was I who quit O'Reilly and Sons, and this meeting probably should have been when I did. Alas.
 
 ...
 
@@ -1038,7 +1042,7 @@ I probably could've picked a simpler song, like `My Generation` maybe, but hopef
 
 Anyway, if they thought I was more than one person, even just that day, it's one of the better explanations as to why 3 out of the 4 C levels present in the earlier day's all hands meeting would miss the meeting specifically meant to introduce themselves as leaders of a small company to incoming employees, especially a meeting that was cancelled in it's first week and thus representing not just one but two whole batches of new employees.
 
-It also explains why the one C level "thrown to the wolf" was the youngest, Travis Hedge, someone with a family legacy in the insurance industry and along with the CEO a co founder of Senger-Huel. I had met with him in a previous onbaording meeting and had some back and forth dialogue; I thought he was an ok guy and after hearing him talk in that and other meetings, I had established a baseline for his cadence.
+It also explains why the one C level "thrown to the wolf" was the youngest, Travis Hedge, someone with a family legacy in the insurance industry and along with the CEO a co founder of O'Reilly and Sons. I had met with him in a previous onbaording meeting and had some back and forth dialogue; I thought he was an ok guy and after hearing him talk in that and other meetings, I had established a baseline for his cadence.
 
 It wasn't to be redder in the face than a tomato in the sun, at least for a paleish white guy, who wasn't normally so flush.
 
@@ -1068,9 +1072,9 @@ I didn't care, I just went back to _Death Note_.
 
 At some point soon I couldn't focus -- the show involves police and, well, my life probably did at that point in some way as well. I realized it was probably time to do the one thing I hadn't done, on purpose.
 
-I really wanted Senger-Huel to be a place where I could _ignore_ their ineffeciencies, which abound in big tech, in order to pay my debts and balance my life out a bit. That didn't turn out to be possible. However, in that effort, when joining I astutely did absolutely zero research on the "company leadership."
+I really wanted O'Reilly and Sons to be a place where I could _ignore_ their ineffeciencies, which abound in big tech, in order to pay my debts and balance my life out a bit. That didn't turn out to be possible. However, in that effort, when joining I astutely did absolutely zero research on the "company leadership."
 
-All I knew about them before joining was that the one CFO from another company whose offer I declined seemed impressed enough by Senger-Huel's CEO, which spoke highly to me.
+All I knew about them before joining was that the one CFO from another company whose offer I declined seemed impressed enough by O'Reilly and Sons's CEO, which spoke highly to me.
 
 _So who are my bosses anyway?_
 
@@ -1080,7 +1084,7 @@ First was the youngest and the one I had seen the most recently, Travis Hedge. H
 
 Next was my boss' boss, Rajat Kongovi. He had much previous experience in tech and Ivy League credentials. I think he played basketball in college. I imagined him being the guy on the board that made the older whiter guys feel cool, as Rajat felt a lot more relaxed than others. Call me rascist, it's fine, I do it all the time. Rajat had a very if not the most impressive resume of anyone on the C suite, particularly with regards to tech and business leadership, but nothing of interest to me in relation to my situation.
 
-Next was the CIO, John Wallace. He had a deep legacy in business insurance and other types of things, but none in tech, this appeared to be his first gig there. I noted it seemed like he grew up or went ot college in the Colorado area, lived in Wisconsin for sometime, then recently moved to Chicago, right where Senger-Huel had an office. Nothing else worth seeing, though, I did laugh out loud when I saw his profile picture, just in case they were listening. In honesty, it was a fine picture.
+Next was the CIO, John Wallace. He had a deep legacy in business insurance and other types of things, but none in tech, this appeared to be his first gig there. I noted it seemed like he grew up or went ot college in the Colorado area, lived in Wisconsin for sometime, then recently moved to Chicago, right where O'Reilly and Sons had an office. Nothing else worth seeing, though, I did laugh out loud when I saw his profile picture, just in case they were listening. In honesty, it was a fine picture.
 
 Finally, at least to my memory, was the CEO, Sam Hodges. Sam had an insanely long linked in profile. There were several long stints as company leadership of all kinds, much in the sector of tech venture capital, and much to be said as a CEO - it wasn't his first time. But there were also board appointments - oh the board appointments! I remember scrolling quite a bit before I saw this:
 
@@ -1106,7 +1110,7 @@ At the time he didnt' list the date of graduation, but if referring to when his 
 
 My sister, to whom I'm estranged from and have been for the last three or five years at least, attended Brown University between the years 1999 and 2003.
 
-My sister, given a quick linked in check, was at the time of my employment at Senger-Huel, a DEI officer of the 9th district federal court of the US, and was at one point an employee of the US EOC, or Equal Opportunity Commission.
+My sister, given a quick linked in check, was at the time of my employment at O'Reilly and Sons, a DEI officer of the 9th district federal court of the US, and was at one point an employee of the US EOC, or Equal Opportunity Commission.
 
 And here I am, a brown guy getting his internet cut because he rocked out to some white guys's tunes too hard, but I ain't ever worked for no government.
 
@@ -1119,7 +1123,7 @@ But I'll let you know about all that later on in the memoir.
 That was Tuesday evening, March 1st, 2022. I still had work in the morning.
 
 
-# Chapter 6 - Third Week at Senger-Huel, 3/2 on
+# Chapter 6 - Third Week at O'Reilly and Sons, 3/2 on
 
 > "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Broadcast TV's _Burn Notice_
 
@@ -1165,7 +1169,7 @@ It's probably just a coicidence.
 
 ...
 
-March is, of course, women's history month, and Senger-Huel was not going to let that one slide. On Thursday, there was an optional meeting that, had I more work to do, I probably would have politely tried to avoid, focused on celebrating the month.
+March is, of course, women's history month, and O'Reilly and Sons was not going to let that one slide. On Thursday, there was an optional meeting that, had I more work to do, I probably would have politely tried to avoid, focused on celebrating the month.
 
 I've come a long way with regards to the whole "politics at work" thing -- yes, I wish communicating to people about my politics caused effective change, but I think we really tried that a bit too much with the social media and we should all dial back a bit ~~before we go insane as a society in such a way that normal people like me feel like we're in a zombie movie where we can't just behead our problems away due to the zombie class' elevated police state~~, but that's just my opinion.
 
@@ -1231,7 +1235,7 @@ I have another 1:1 with a developer, this time outside of my team but within my 
 
 She seemed a bit taken aback and commented that she had made the same suggestion but was brushed off.
 
-Now, I don't know the full technical details -- this was a "rails" backend, and often, rails developers want to stick to idioms that are more structured than NoSQL. Pardon the tech jargon - that's just to say she and I could have both been wrong but, given the way she let me know, I began to wonder, against all the other things I had experienced, whether Senger-Huel was a company dealing with internal bigotry more than it's CEO, a former Obama apointee, might want to be known for.
+Now, I don't know the full technical details -- this was a "rails" backend, and often, rails developers want to stick to idioms that are more structured than NoSQL. Pardon the tech jargon - that's just to say she and I could have both been wrong but, given the way she let me know, I began to wonder, against all the other things I had experienced, whether O'Reilly and Sons was a company dealing with internal bigotry more than it's CEO, a former Obama apointee, might want to be known for.
 
 It'd make a lot of sense considering I thoguht I was under investigation for crimes I hadn't committed nor really existed such that at least _someone else_ did the stuff they were investigating me for. I mean, maybe, but they never todl me why they were investigating me, if they were. Anyway.
 
@@ -1278,13 +1282,13 @@ A thought process can feel like one at times, if you hear all your thoughts.
 Your brain can think some crazy things. You can't prove them for truth. I remember thinking the above and thinking, man, that'd be crazy. And fucked up. And it'd only be true if, well, somehow this thing continues in a way to prove that those connections matter more than the law which was being utilized to investigate me.
 
 But, given it was DC, I'd probably never be able to prove it. Well, not alone at least.
-# Pt 1 Ch 7 - Fifth Week at Senger-Huel, 3/6/22 -- Eyes in the back of my mind
+# Pt 1 Ch 7 - Fifth Week at O'Reilly and Sons, 3/6/22 -- Eyes in the back of my mind
 
 ### Draft
 
 > "Figuring out if a car is tailing you is mostly about driving like you're an idiot. You speed up, slow down, signal one way, turn the other. Of course, ideally, you're doing this without your mother in the car." - Jeffrey Donovan narrating as Michael Westen from USA Network's _Burn Notice_
 
-I honestly wasn't sure what was more dissapointing with Senger-Huel: that they had "woopsie-daisied" their way into putting me under what felt like a federal investigation of some sort, or that they told half the damn company that I was under some kind of investigation like it was gossip, and asked them to try and "trigger" me in meetings to see how I'd respond to things like the "Sandanistas."
+I honestly wasn't sure what was more dissapointing with O'Reilly and Sons: that they had "woopsie-daisied" their way into putting me under what felt like a federal investigation of some sort, or that they told half the damn company that I was under some kind of investigation like it was gossip, and asked them to try and "trigger" me in meetings to see how I'd respond to things like the "Sandanistas."
 
 I supposed I'd have to deal with the latter more than the former, though that changed this week.
 
@@ -1443,9 +1447,11 @@ It was during my one stint in the crypto currency industry.
 You might've figure'd that one out on your own -- I don't really need to say much more about that experience for you to get the rest.
 
 _What kind of fascism is this?_
-# Pt 1 Ch 8 - A break to describe the Biden / Harris admin's motivations against me and potential relationships with Netflix and my employer Senger-Huel
+# Pt 1 Ch 8 - A break to describe the Biden / Harris admin's motivations against me and potential relationships with Netflix and my employer O'Reilly and Sons
 
 > "They spent time retweeting my posts and calling me a white supremacist, a coon and all sorts of derogatory names, fueling others who began to DM me telling me I was a sell out because I was Black and I should’ve killed myself when I had the chance," Jeffrey said. "I was mocked and harassed for being a sexual assault survivor, a domestic abuse survivor, and was told by the KHive that it was good for me and they hope it happens again, since I don’t support Harris." - Luverta Jeffrey, former black female Kamala Harris supporter, as quoted in the [huffpost](https://www.huffpost.com/entry/kamala-harris-khive-toxic-side_n_5f4fa573c5b69eb5c037473e)
+
+> But the Lord is with me as a Dread Warrior. Therefore my persecutors will stumble; They will not overcome me. They will be greatly shamed, for they will not succeed. Their eternal dishonour will never be forgotten. -Jeremiah 20:11
 
 I joined Facebook a year after it was made and my first year before college, 2004. It was funny; I made a long joke name for myself that was funny. At some point early on, I met someone who said "oh, you're that person with the funny name on facebook." They were being honest, they thought it was funny too.
 
@@ -1471,13 +1477,13 @@ Pure fascism has come to America, and it wants to be televised.
 
 Reader, here are the reasons I am suspicious that the DNC, led by the Biden / Harris admin and the "KHive", has since at most January 2022 been targeting me via the mechanism of a Netflix show formerly based on the hope that I would be connected to the behaviors of the Razzlekhan folks.
 
-1. *Senger-Huel introduces me to the Biden Harris DOJ and intelligence services in an attempt to position themselves as better cyber insurance experts*
+1. *O'Reilly and Sons introduces me to the Biden Harris DOJ and intelligence services in an attempt to position themselves as better cyber insurance experts*
 
-When joining Senger-Huel, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
+When joining O'Reilly and Sons, it was made clear in several meetings as well as the code base that they were figuring out how to separately "price" something they were calling cyber insurance, which seemed new to them and referred to the growing network of activity in the Cryptocurrency network, I believe.
 
-In late January or possibly sometime in February to March 2022, I believe Senger-Huel reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
+In late January or possibly sometime in February to March 2022, I believe O'Reilly and Sons reached out to the Federal Government via their CEO Sam Hodges' connections, hoping that I would be a "cyber criminal" as long as they could treat me like less of a human being than most new employees.
 
-At this point, I believe that Senger-Huel, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If Senger-Huel was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
+At this point, I believe that O'Reilly and Sons, the Biden Harris DOJ, members of the Federal intelligence services, Netflix, and possibly representatives of the NYPD related to the Razzlekhan case all overlapped. If O'Reilly and Sons was aggressive in painting me as a criminal at this time despite the lack of evidence, their motivation aside from fame may have been to better "price" cyber insurance.
 
 Perhaps they've learned a lesson about pricing utility against pure fantasy.
 
@@ -1489,7 +1495,7 @@ The idea was to simultaenousely raise money as well as crowd fund a video game w
 
 It was of minor note then but I was suspicious at the time of possible DNC sabateouring from within the people I was working with, though again, I thought little of this beyond paranoia at the time.
 
-3. *Me To Senger-Huel to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
+3. *Me To O'Reilly and Sons to Sam Hodges to Biden Harris DOJ to Razzlekhan to Netflix to Obama*
 
 In the beggining of 2022, major Democratic donor Netflix's CEO was Reed Hastings. Per the NYT:
 
@@ -1497,9 +1503,9 @@ In the beggining of 2022, major Democratic donor Netflix's CEO was Reed Hastings
 
 Netflix also had several contractual relationships with former President Barack Obama's "Higher Ground" productions company, offering several ways the center right DNC wing led by the Biden / Harris administration in the White house and Barack Obama outside of it a way to connect directly with Netflix.
 
-The CEO at Senger-Huel where I worked at the time was Sam Hodges, formerly appointed to the Obama / Biden administration via the Secretary of Commerce, giving him a slight but definitive connection to the current POTUS as well as former POTUS Obama.
+The CEO at O'Reilly and Sons where I worked at the time was Sam Hodges, formerly appointed to the Obama / Biden administration via the Secretary of Commerce, giving him a slight but definitive connection to the current POTUS as well as former POTUS Obama.
 
-This connected me, via Senger-Huel, to Sam Hodges, who was connected to the Obama / Biden admin, where Obama has active connections to Netflix, all while Razzlekhan had just been arrested by the Biden / Harris DOJ in 2022 and made into a Netflix special.
+This connected me, via O'Reilly and Sons, to Sam Hodges, who was connected to the Obama / Biden admin, where Obama has active connections to Netflix, all while Razzlekhan had just been arrested by the Biden / Harris DOJ in 2022 and made into a Netflix special.
 
 4. *My video game named in late 2018 and a book that came out two years later*
 
@@ -1513,7 +1519,7 @@ But, I didn't think much of it at the time, similar to my suspicions of DNC saba
 
 5. *DNC seeks a sexist stereotype and I see right through it, pt. I in an ongiong series of my life*
 
-In retrospect, my direct boss at Senger-Huel Eloise's forced questioning and "oversharing" of her own relationship history as well as an in company sexual harrassment situation that was resolved in several employees leaving was a way for whomeever was telling her what to say to see if I'd react sexistly.
+In retrospect, my direct boss at O'Reilly and Sons Eloise's forced questioning and "oversharing" of her own relationship history as well as an in company sexual harrassment situation that was resolved in several employees leaving was a way for whomeever was telling her what to say to see if I'd react sexistly.
 
 Any behavior easily categorizable as "bait for cheap claims of sexism" was clearly read by me as a tactic to better portray me as a "Bernie Bro" and made me realize the more it occurred in various degrees that the KHive wing of the DNC was likely more in charge than not, and this was due to bitterness over social media wars they wished I took more place in than I did.
 
@@ -1537,7 +1543,7 @@ More importantly to me, I think this insane series of events led VP Kamala Harri
 
 This "streaming network" has been putting out a more consistent form of garbo entertainment as we enter into 2020, leveraging reality TV and "true crime" to a larger and larger extent. While the media is popular - titles liek _Tiger King_, _Inventing Anna_ etc - they also create an opportunity where the "star" becomes newly affordable due to their recent imprisonment and legal fees, with _Razzlekhan_ being a recent entry.
 
-I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at Senger-Huel, collapsing further to $200 a share when I started working at Runolfsdottir Group, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
+I'm not surprised my low rent comedy-over-audio-surveillance routine spelled out "premium value" to these poor taste having ass clowns, but it's worth noting in the early months of 2022, their stock value went from around $600 a share to just below $400 as I started at O'Reilly and Sons, collapsing further to $200 a share when I started working at Lowe, Littel and Renner, where I suspect they continued their TV show / investigation alongside the DNC McKhartyistHive infiltrated Biden Harris DOJ and intelligence services and have not yet stopped.
 
 10. *Neera Tanden may have played a role given her ability to control WH messaging at the time as the Staff Secretary to POTUS Biden and may have been motivated due to her long history of Social Media fueds*
 
@@ -1560,7 +1566,7 @@ I have serious concerns that the DNC KHive along with Netflix and possibly Highe
 ...
 
 
-Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at Senger-Huel, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
+Reader, I write this in 2023 facing criminal charges brought up in the context of me spending my late 2022 and early 2023 making a series of dropbox videos in the style of a "confessional" outlining these events. I did this largely as a way to clear my name should anyone try and smear it; had the parties I felt were harassing me simply left or provided evidence they were stopping their behaviors, I would have stopped making the videos, and if they can at some point, I could even disavow them. But until then, I'm pretty certain my current situation is not necessarily because of what happened at O'Reilly and Sons, but what's happening to this country: _partisan division over practical politics_. Over social media, no less.
 
 Now, in 2023, I may be facing time or at least a life of always being labeled a criminal simply for trying to make a publicly accessible video recording of not my proof of anything in fact; but what remains a fiction until proven true: my story. All I know is that I was acting, and talking about acting, and acting while talking about acting - but on my own recording devices, not their's.
 
@@ -1569,7 +1575,7 @@ This has, clearly, and perhaps unfortunately, all been a big joke to me. Haven't
 Yes, the charges literally have to do with the video series. And yes, I'm writing this memoir literally as a way to keep my name clear before anything more can happen to me while confined or otherwise.
 
 But that's 2023. Let's get back to early March 2022.
-# Pt 1 Ch 9 - Back to my fifth week at Senger-Huel 03/08/2022 and on
+# Pt 1 Ch 9 - Back to my fifth week at O'Reilly and Sons 03/08/2022 and on
 
 > "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
 
@@ -1577,7 +1583,7 @@ Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of 
 
 However, as of early March 2022, my perspective was this: I'm under some kind of federal investigation that the boots on the ground are clearly not taking seriously, as well as those conducting the surveillance from behind the scenes. So whoever ordered this isn't necessarily in the immediate picture. I couldn't imagine them being that high "up the chain", and figure'd this was to try and impress someone within the DNC or something given the political framing that could be manipulated were I any kind of criminal, particularly a federal offending one.
 
-Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within Senger-Huel, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
+Given the Biden Harris administration is one I voted for, I'd rather whomever wanted to impress them for political purposes look bad in front of their bosses instead, while embarassing my bosses or whomever ordered this internally within O'Reilly and Sons, and all while keeping it entertaining for the troops, because, why not, I'm literally naming a human being "buttcheeks" in my head so I can remember them, it's not like I don't have some momentum here. 
 
 I then thought about why they were having so much fun, and I could only assume it was _awkward_ -- the assumptions about me seemed, to me, to be rooted in rascism if anything. I'm just not sure why else the whistle would have been blown on me, at least in this way, and felt that someone acted in a bigoted way and no one wanted to address the obvious political hipocricy so, well, why not act stupid as fuckly?
 
@@ -1641,7 +1647,7 @@ I remember the "famed guitar player" saying something like this in particular:
 
 ...
 
-So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by Senger-Huel, possibly.
+So I felt confident about more than a few things, but mostly two -- my bosses had some sort of audio surveillance software if not also video running on my laptop they gave me, and, I was under some sort of perhaps speculative, off the books, "not" investigation involving both private investigative and federal forces, due to what I assumed at the time were mostly miscommunications between my bosses and the federal government, and at some level a security firm contracted by O'Reilly and Sons, possibly.
 
 Oh, I also felt confident it was something of a joke. I'm not sure if Quantico or Langley offer "buttcheek meanuever training", but I guessed that at the time my situation was the most harmless version of what many call a "black bag operation" on behalf of the intelligence services and law enforcement at a Federal level, with some number of private connections due to my employment.
 
@@ -1683,7 +1689,7 @@ I don't remember _everything_ I said, but in early March 2022 I remember some sh
 
 Followed by some other shit like this:
 
-> "Look, sorry Senger-Huel, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
+> "Look, sorry O'Reilly and Sons, but you just don't impress me. I've seen it all - an organization like yours isn't any different from your average large criminal organization or even your average small terrorist cell out in the middle east. You don't need to worry about me now - you need to worry about 3 or 6 months from now. You'll start turning on each other and blaming each other. You may not separate or make a legal issue out of it, but your organization will splinter internally in social ways that could be exploited. You'd be better off thinking about your exit strategy here, particularly emotionally, so you all stay together."
 
 Pretty sure 6 months later I'd be setup by the DNC KHive while in the audience of a Bruce Springsteen / Jann Wenner on-stage interview, but reader, I didn't take the bait -- you could say that a champ like me, baby, I was Born to Run, or perhaps, preferred to not gather some wack ass "how do you do fellow kids lets talk about supporting the FTC and call it a culture council" moss - but, I digress. 6 months later I had realized I was on some kind of Reality TV show at least.
 
@@ -1693,7 +1699,7 @@ I'm pretty sure I wasn't in meetings, I was just talking out loud to a laptop.
 
 I made it pretty clear that if they just wanted to knock on my door and talk things through, I could do that. It was a joke I made several times over the course of the next few weeks. I think they found that one really funny.
 
-During my month or so at Senger-Huel, I was assigned two whole work items; they were both minor. Maybe I'd of had less time on my hands if I was being utilitized as a web developer and not bait for a Netflix television show.
+During my month or so at O'Reilly and Sons, I was assigned two whole work items; they were both minor. Maybe I'd of had less time on my hands if I was being utilitized as a web developer and not bait for a Netflix television show.
 
 I guess I underestimated my audience, in terms of stature amongst other things.
 
@@ -1737,9 +1743,9 @@ Who moves from the suburbs to a city in their late 40s and is a corporate execut
 
 A divorced dork ass loser corporate executive type.
 
-I checked public divorce records in Wisconsin and found information that would match up to Wallace, and indicating that the divorce proceedings must have taken place as he was beginning to talk to Sam Hodges and Travis Hedge about joining Senger-Huel.
+I checked public divorce records in Wisconsin and found information that would match up to Wallace, and indicating that the divorce proceedings must have taken place as he was beginning to talk to Sam Hodges and Travis Hedge about joining O'Reilly and Sons.
 
-I'm guessing he divorced his wife on purpose before joining Senger-Huel to make sure she wouldn't receive his life changing "big tech" money.
+I'm guessing he divorced his wife on purpose before joining O'Reilly and Sons to make sure she wouldn't receive his life changing "big tech" money.
 
 Historically, and to this day due to a lack of equal pay laws, it's to some degree true that a woman's best bet in terms of financial security is their marriage.
 
@@ -1778,7 +1784,7 @@ _I'm pretty sure my sister, my employer, and my government have put me under som
 
 2. Summarize it into one thought, emotionally
 
-_I'm getting fucked over by my family, my employer, and my country. My family has difficulties with me and at least I owe back taxes; not sure what Senger-Huel's deal is._
+_I'm getting fucked over by my family, my employer, and my country. My family has difficulties with me and at least I owe back taxes; not sure what O'Reilly and Sons's deal is._
 
 Sometimes I'm flexible with the rules; that was two thoughts.
 
@@ -1814,7 +1820,7 @@ I think I acted wistfully about the day or some shit, and tried to give the impr
 
 I can't remember the exact time. I really should have been taking notes. But I'm pretty certain it was after midnight.
 
-Senger-Huel was largely a west coast company and meetings were all well after 12 PM ET, for whatever that's worth.
+O'Reilly and Sons was largely a west coast company and meetings were all well after 12 PM ET, for whatever that's worth.
 
 I headed out onto Clinton St, eventually turning right on Broome St. It's not just a quiet street but a few blocks up is an NYPD precint. This was, I thought, a polite way to acknowledge their likely involvemnt, as well as, well, if things really were _that_ dirty in this world, take care of me right there.
 
@@ -1893,7 +1899,7 @@ In retrospect -- I should have left things there.
 
 But that's given hindsight. I didn't know about Razzlekhan or even think that the upper most levels of government I live in could be working with Netflix literally, and possibly tying in a recent show with whatever this was.
 
-All I remember thinking was I was pissed off that Senger-Huel put me through this and they'd better have something to say for it.
+All I remember thinking was I was pissed off that O'Reilly and Sons put me through this and they'd better have something to say for it.
 
 But it was late, and it was after midnight, and I'm pretty sure I went to sleep after going home. I can't remember what if anything I said to my captors afterwards.
 
@@ -2120,7 +2126,7 @@ Alas.
 
 ...
 
-Reader, you may be wondering: what work did you do while at Senger-Huel?
+Reader, you may be wondering: what work did you do while at O'Reilly and Sons?
 
 Well, for a month, not much of anything. Eloise gave me the excuse of the company shifting, and some documents to look over, and the usual statements of "hang in there."
 
@@ -2155,17 +2161,9 @@ Sometimes, I just see the hand.
 I returned to my CBT exercise quite a bit that weekend, and it calmed me down, but only so much.
 
 I wanted answers.
-# Pt I Chapter 11 - Final week at Senger-Huel, 3/13/2022
+# Pt I Chapter 11 - Final week at O'Reilly and Sons, 3/13/2022
 
-> Waseem: I'm Waseem Alihan. And you are?
-> Michael: Just a friend who needs a favor.
->
-> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
->
-> Michael: So direct. It's refreshing.
->
-> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
-
+> Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
 
 I wanted a direct confrontation about this, which I was pretty sure something they didn't want, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
@@ -2179,11 +2177,11 @@ Alas, I never got a direct confrontation from my bosses.
 
 I tried not responding, but I believe I cracked on Sunday of that week.
 
-I also thought that waving a flag early may help someone on Senger-Huel's side -- or whomever, really -- react more quickly.
+I also thought that waving a flag early may help someone on O'Reilly and Sons's side -- or whomever, really -- react more quickly.
 
 I was through being coy; I would have told them up front what was a lie and what wasn't, and we could have moved on from there. They could have fired me. I would've preferred they just had done so; it would've sent the same message they sent anyway when they later told me my machine was hacked for sending the messages I knew I sent.
 
-Senger-Huel didn't care what my life experience was like, they stopped having empathy for me awhile ago if they ever did in the first place.
+O'Reilly and Sons didn't care what my life experience was like, they stopped having empathy for me awhile ago if they ever did in the first place.
 
 I think I kept remembering the CEO saying the company motto with regards to how they treat their employees with "the golden rule" -- treat others as you yourself would wish to be treated -- all after I was pretty sure I was under audio surveillance, had law authorities involved to some extent, and on top of all that, had my boss asking questions like I was in the 1940's facing a McCarthyist inquisition; not like I was in the 2020's at a company espousing DEI of all things.
 
@@ -2215,7 +2213,7 @@ It took me a few days after last week's incidents to realize that if I don't hea
 
 Being quiet about something like this is not the precedent I wanted to set.
 
-I was hoping Senger-Huel would at least understand that and have thought of an excuse for this "worst case scenario" - I caught them pointing the finger at me to the feds and they were wrong, surely people with their resumes would have done basic worst case scenario planning for something like this? Wouldn't the Government?
+I was hoping O'Reilly and Sons would at least understand that and have thought of an excuse for this "worst case scenario" - I caught them pointing the finger at me to the feds and they were wrong, surely people with their resumes would have done basic worst case scenario planning for something like this? Wouldn't the Government?
 
 However, as to my urgency, I also did not want to spend years of my life working alongside people whom were gossipping about me being a criminal at the very start of our working relationships.
 
@@ -2318,19 +2316,427 @@ I'd like to have an emotionally steady relationship with my parents one day, but
 
 That all changed a few months later, when I realized that since at least March 2022, my parents had to be convinced by someone within the Federal Government that I may be a criminal, and may have convinced them right back that maybe, they were right.
 
-Have you ever heard the term echo chambers?
+Did you know that Neera Tanden, then Staff Secretary to POTUS Biden, has a son who at that time was about 15? I drifted towards depression myself at that age, and I think it was largely due to 9/11. My mother may disagree, or at least feel like that shouldn't matter as much, it didn't affect her so why would it affect me differently at 15? Obviously something else happened to me, and it was probably my own choices and not politics out of my personal control.
+
+I personally at the time of March 2022 did not know Neera Tanden was even in the Biden adminstration directly, nor that she had a son that was 15 at the time. Or that she has focused her childhood trauma of being abandoned by her father, leaving her and her mother to welfare, as part of her political persona. Nothing echoes in our minds quite like the past, and nothing echoes quite like emotional trauma. The echoes can dictate our actions without us being wary of them.
+
+When we feel abandoned, sometimes we act out to ensure we don't lose what we have - especially our families.
+
+Have you ever heard of the term echo chambers?
 
 ...
 
+Before I was cut off from Slack, I remember my last few messages to my direct boss, Eloise. At some point I felt like I was talking to her directly, and let her know I was stressed about this situation, and reflected a bit on growing up around 9/11. I noted that this was if racism was involved or even if it wasn't, something I was thinking she'd understand given her status as both a woman in tech but also an LGTBQ woman. I think she did, as much as she could, given the last thing I think she said to me.
 
-# Chapter 12 - First Week post Senger-Huel, 3/21/22
+> Eloise: I'm so sorry you have to go through this
+
+There are a lot of reasons for you, when someone is expressing something uncertain to you -- even if they may be legitimately hallucinating, like, on drugs and stuff -- to support the other person's point of view, if they are expressing anxiety or emotional turbulence at the time, no matter how wild. I also acknoledged to Eloise that I could have been misreading coincidences.
+
+But given the last few weeks, and that my comms were cut shortly after, I'm pretty sure my direct boss Eloise was trying to let me know that yes, I was going through this.
+
+It wasn't nothing.
+
+...
+
+After hearing from the HR person, I stayed on the phone and called the rents. I'm pretty sure we did the thing where I called one of them, and was called back by the other one shortly afterwards, whom was on speakerphone so both my parents could talk and hear me.
+
+That is, as far as the phone calls we've had in the past, pretty standard of them.
+
+I told them about the situation briefly with the same POV I gave to my direct boss Eloise: that a mishap over audio surveillance may have triggered some weird situation where my job got involved with the government and I was under an investigation of some kind, and I just wanted to clear things up if so, but they cut off my work communications and they told me they contacted my parents -- hence why I was calling.
+
+My parents told me that yes, they had spoken to someone and mentioned the name of the HR person I recently spoke to, saying the young woman said that my computer was hacked and that she had stressed that I was _not_ under any kind of government investigation. Which was good to hear! I felt that could be possible for the next 48 hours or so, when I realized it most certainly was not, but that was Wednesday evening. When I spoke to my parents, it was Monday afternoon.
+
+But, there were a few oddities in how they communicated further to me, a son they hadn't heard from in months.
+
+My father, a company man at IBM for 30 years, and someone who never spoke ill of their bosses or coworkers around family -- at least not around his kids --, and whose advice to me has always been to get a graduated degree and be a lawyer or doctor and not a computer programmer like him, started telling me that I should take some sort of action, do something if I felt this was inappropriate.
+
+I can't remember his exact language. But I remember his cadence; he was having fun. There was the air of pleasure in his voice, as he was saying something that I just didn't think he'd ever say.
+
+I was surprised he wasn't yelling at me for causing trouble.
+
+Furthermore, their reaction to what I felt would be my most obvious query given the situation was most surprising.
+
+My sister went straight to law school at the University of Michigan after graduating from Brown University. She spent some time working at a division of the E.E.O.C., or the Equal Employment Opportunity Commision of the US Federal Government while in California. The EEOC is described as the following from Wikipedia:
+
+> The U.S. Equal Employment Opportunity Commission is a federal agency that was established via the Civil Rights Act of 1964 to administer and enforce civil rights laws against workplace discrimination. Wikipedia
+
+For awhile after that, my sister worked in Hawaii, at a University as a employee dispute negotiatiator. This was not only from her experience at the EEOC, but she also spent time in Hawaii running a legal practice focused on "conflict mediation" with a sub focus on corporate negotiations.
+
+I'm not checking the wayback machine for my stupid sister's dumb little website (nts: you sohuld probably do this). But she literally - literally - once had this story up about how she helped a company with an employee who thought something was racist, when really it was a big misundertanding! They rehired the employee in a new department that more fit their skills and everyone was super happy! Or some such advertising shit.
+
+Look, it was her practice. I don't think it did well, for what it's worth.
+
+At the time of 2022, she had moved back to California and had been working within the 9th circuit of the US Federal Court system, which has San Francisco in it's jurisdiction (nts: check), as a DEI officer.
+
+It's a pretty solid resume she has.
+
+It would seem, to me, if the parents knew, and she knew, that would make sense. Sure.
+
+I had thoguht, at the time, if I could shift this to my sister - and how reasonable it would have been for her to help me given her resume! To at least hear out her own brother in not only his time of need but in a time of need that literally mapped to her skillset and career history! - anyway, if I could shift this clown car to have Stuart as a driver, I might get a job somewhere else, or a new job at O'Reilly and Sons, and she'd have a nice little resume bump within DC as the person that cleaned up a shit show.
+
+When I asked my parents, whom I was estranged to, if they could ask my older sister Stuart if she could help me, given her resume especially, and mentioning a possible connection with the CEO, I was surprised that my parents responded by saying she was quite "busy."
+
+My parents would identify as professionals above and beyond anything else. It is their core identity.
+
+I was shocked, but it confirmed to me, whom knows his family quite well thank you very much, that they were all involved to some extent.
+
+I didn't want to think about how crazy that _coudl_ be - if I was under any sort of federal level investigation, it really wouldn't be taht crazy for them to have been involved.
+
+It just _could_ be really crazy. But I didn't want to think about it.
+
+I told them I would reach out to Stuart myself on LinkedIn just to make sure, and I left my parents to themselves after that.
+
+...
+
+I told the HR person and the company lawyer, whom I was in email correspondence with about the "hacking", that I woudl contact my sister and ask her if she could help in this situation. I provided her LinkedIn, gave a brief history of her, and let them know I thought highly of Stuart and thought she could be the one person who may help us in this situation. They responded amicably.
+
+I messaged my sister on LinkedIn, saying that I worked at O'Reilly and Sons, and that a Sam Hodges runs the company as the CEO and seems to possibly have gone to Brown Univesity when you did. Either way, it would really help if you could just hear me out given the situation is a workplace one that I think involves racism to some degree. Did she have time for like a thirty minute phone call?
+
+#### Tuesday, 3/15/2022
+
+I wasn't surprised, given that I had calculated for at least some such bullshit, but I was dissapointed when my sister responded the next day saying that she was sorry, this just wasn't her line of expertise, and she couldn't help. She did say something like this, though:
+
+> I'm not in touch with him, but I knew Sam Hodges in college, and he's a good man.
+
+Look, I still haven't read _1984_, but as my sister's kid brother, I started to wonder if being the oldest child stunts you in future adult situations with so many "Big Brothers". But I digress.
+
+I was shocked my sister didn't take control of the situation, and moreso that it felt like she _couldn't_. But I'm still not sure.
+
+She always wanted to be an actress, though. That I know.
+
+Given how I had introduced her as a possibility to my then co workers at O'Reilly and Sons, the HR person and the company lawyer, I did feel a bit embarassed.
+
+And I was on my own.
+
+If they wanted to do this the hard way, and try and turn my family against me, then I was going to make this as awkward as humanly possible for all the leadership elements involved. 
+
+_If they ever try and do anything like this again, it should trigger within them memories of a social situation so depressing and vile that they come as close to mentally gagging as one can, and do anything else besides play games with audio surveillance._
+
+I had to feel out the lawyer first. How confident are they going to be sending emails to a server the company doesn't own? I was talking via my own Gmail account from that moment on.
+
+From that point on I started laying bread crumbs in digital places that weren't owned by the people positioning themselves against me, which, at that point I felt were at least O'Reilly and Sons and then separately a political faction within the Federal Government. That way I could prove people were spying on me and analyze their usage of information against how they could have gotten it, digitally speaking, as well as in the case of my "untimely demise," leave a pattern of evidence that would cause at least an investigation.
+
+I was on my own and I knew it. However, if I could set a precedent it would protect many others in a future of uncertainty.
+
+First, I had to feel out the lawyer.
+
+...
+
+O'Reilly and Sons's legal representative -- I'm not sure if her official title was GC or general counsel but I digress - Ms. Wulff seemed to be leading the communications to me. She wanted to setup a meeting to talk about the "hacking".
+
+Her background was in law, and she was telling me that the company, a tech company, was claiming I had been hacked.
+
+I told the lawyer that because the situation concerns hacking, a technical concept, and I have a separate side of the story, that I'd feel comfortable sharing my side only if one or two people could join the meeting, preferabbly both: my tech manager, whom I felt comfortable with given her LGBTQ status as well, but perhaps more tellingly, the company's own tech security professional, a man I had to look up on LinkedIn named Cody - I had seen him chat previously in the company channels.
+
+I also at the time found out Cody went to college with the brown man with the shared colloquial dialogue from that one meeting where the CEO flinched noticeably, but that's separate.
+
+The lawyer, Ms. Kelly Wulff, immediately refused and said that only she could hear the details of my side of the story; and then she would take the details internally.
+
+Apparently, I was already an external factor to the company.
+
+That said, I was more flabbergasted that a company with 8 figures funding, likely involved with the federal government, would be foolish enough to hire a lawyer who would so brazenly leave a documented email chain showing their unwillingness to allow my perspective to be heard by technical professionals.
+
+What's the point of a lawyer's expertise if they use it to hold back the expertise of others?
+
+It sounds like a philosophical point of debate in a second year law class where ultimately, yes, a lawyer's responsibility is to protect their client, and that is the lesson.
+
+What was O'Reilly and Sons so afraid of to let me speak my side to a tech professional like Cody or at least Eloise?
+
+Did you read the previous parts of my memoir here reader? What do you think?
+
+I had prepared internally for a conversation where I would be talking about the Blue Screen Of Death, something that happened before I started, and something that would indicate a "hacking" moreso than me sending messages I know I sent. I wanted to read Cody's and/or perhaps' Eloise's facial reactions ot my recollections to see if they knew anything as well.
+
+I was confident in my ability ot read others, but I guess Ms. Wulff was suspicious of this as well.
+
+A lawyer's first and foremost duty is to protect their client.
+
+I was embarassed to have to start Tuesday by telling O'Reilly and Sons my sister couldn't help me out, but given how Ms. Wulff reacted, I think she smelled weakness in me given Stuart's lack of willingness to protect me as a client.
+
+Funny, I smelled the same thing.
+
+...
+
+I mostly wanted to setup an email chain that would make clear that O'Reilly and Sons, at the time, felt it more necessary to protect their client from a potential truth rather than take the time to technically validate what their employee claimed to be the truth.
+
+I mean, Ms. Wulff could've just setup the meeting, she didn't have to take the bait.
+
+But she did, and at that point I realized at least internally that O'Reilly and Sons was more afraid of me and what I knew than anything else.
+
+I ended Tuesday evening giving Ms. Wulff the impression that maybe I was considering that I actually _was_ hacked. This was to buy some time.
+
+I mean, given how O'Reilly and Sons played it, if I wanted to play along, I could still be there, and whenever something didn't go my way, I'd have the ability to dangle that above the literal CEO for what they did to me. And it would work.
+
+That said -- I ahd to ask myself -- with _complete disrespect_ to what happened with regards to any potential investigations, private or governmentally influenced, was O'Reilly and Sons a company worth staying at?
+
+I thought about the attrition, particularly amongst female leadership and ground floor employees, with accusations of sexism already existing before I got there.
+
+I thgouht about the poor to non existent communication between the C levels and the tech leadership.
+
+I looked at the codebase and realized I ran the `git blame` command way more often than the `git commit` command -- the latter is only important when they give you work to commit to after all. The former is perhaps poorly named but, I had to face facts.
+
+O'Reilly and Sons was a poorly run and poorly managed company. The funding they received and the resumes of their founders made them even more of an embarrasment.
+
+This of course led to the situation I was in, but my situation wasn't the only thing emblemic of this company that said I'd be better off elsewhere.
+
+I went to sleep asking myself this:
+
+_Am I really getting paid enough to work at a company which has poor business practices and is bigotted enough to target me the way they did, and then pretend they can pretend their way out of it?_
+
+_Am I being paid enough to believe someone else's lie over my own truth?_
+# Pt I Chapter 12 - End of final week at O'Reilly and Sons, 3/13/2022
+
+> Waseem: I'm Waseem Alihan. And you are?
+>
+> Michael: Just a friend who needs a favor.
+>
+> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
+>
+> Michael: So direct. It's refreshing.
+>
+> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+
+
+#### Wednesday, 3/16/2022
+
+> "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." -John 3:16
+
+March 16 2022 I made a choice that I will never regret: if I am to live one life, it will be one of my own writing.
+
+No one will take my story from me, not now, and not ever.
+
+Reader, had I realized I was on a Netflix Show, and knew about the Razzlekhan thing -
+
+I probably would've been more pissed off than I was.
+
+I let Ms. Wulff know and later that afternoon received a severance agreement.
+
+It covered about 6 weeks of pay. It was basically enough time to get another job, hopefully, without any financial loss.
+
+I was a bit concerned. The company clearly felt that they didn't do much wrong here beyond your average employee dispute.
+
+It almost felt like they were pricing my situation at 6 weeks of emotional trauma.
+
+Standard DEI severance package for one of those "uppity" minorities that just need to be "bucked" somewhere else, it smelled.
+
+Maybe I could have been more grateful, and if I'm not going to be treated with honesty, then I'd like the lie to cover more therapy sessions and make it easier to find other employment.
+
+You people turned my literal family against me.
+
+Anyway, I took some time and realized I couldn't get more, so I accepted the offer, and wrote a long email explaining my perspective.
+
+...
+
+> PRIMARILY: I have no knowledge of being hacked, but I did send messages to multiple people this past weekend saying I began to suspect a network of people within the company suggesting I am a "Russian hacker" or an "Indian scammer."
+>
+> I made those messages myself. I contacted Eloise and then escalated to the CEO and CIO. My comms were shut down shortly with the excuse that I was "hacked" as though I was a rapper making homophobic comments on Twitter I regret - horseshit. I do consider the company to have reacted in a retaliatory fashion, but I have no interest in pursuing such an argument in arbitration. I'm suspicious you shut down my Slack or prevented messages from being sent when I communicated to Eloise the above on Saturday, which is a disgusting tactic and in a better world you would be held to a legal standard that would allow me to communicate my fears of racial persecution directly to my manager without being ex-communicated from the company or sent directly to a lawyer who can use my words against me. But maybe I'm wrong, anyway.
+> 
+> I do understand multiple people have their hands on "comms down" triggers and such. I don't know if there was a security firm involved. I do think the company should review the steps they took against the messages I sent - I did send them - and whether it's appropriate for the ideals of it's DEI based image. A major crypto company's CEO is OK with rascist and sexist weirdos, maybe you should just embrace that instead.
+> 
+> Anyway -
+> 
+> Final assesments:
+> 
+> 1. Surveillance - In the battlefield, "intelligence" can be gathered by audio surveillance, but it can also be used against you as "counterintelligence" - if the company is engaging in such surveillance: led by C levels, this is a business liability best avoided by contracting with a 3rd party firm. Put another way: Edward Snowden was just some desk jockey, or, business executives don't know the first thing about intelligence and will only create liabilities this way tripping over their own false positives, cognitive biases, and internal gender and racial biases. Not to mention general lack of experience. Practice makes perfect, get to changing before you really embarrass yourselves here.
+> 
+> 2. [Black female HR rep] - work with [White female HR rep] and the HR onboarding team to ensure if a minority is asking for help with a background check form, to leave the idea of suspicion to the background check people. I just wanted to confirm the zip code because I'm not familiar with San Fran or the company. I texted her for my SSN because I googled what would be safer, texting vs. email (neither), and if that gave the impression of sexual interest, I'd advise her to get over herself immediately, be a professional, and in the future respond appropriately and within a non-suspicious time frame. Furthermore, the company does not need an SSN sent via plain text if they are engaging with a background check organization, or if you are going to receive I9 forms. It's a bit weird you even ask and I'm offended if it drew up suspicion.
+> 
+> As for the time frame, even if it was late on Friday, there were 3 people on the form - it was quite obvious there was a communication to pause before "something" was checked on. I'm near positive [the White female HR rep]'s instincts here colored my entire experience poorly and flagged me for no good reason. And even if I'm wrong the hint of these suspicions are traumatic and it'd be better to avoid.
+>
+> I'm not Emit Til, but these situations stink to high heaven. Even if I'm wrong, get it right next time so no one has to feel endangered by blonde white women - I'd rather not make analogies to "K" names, that's rascist.
+> 
+> 3. Cyberdefense - The best defense is not offense. Similiar to #1, an attack will put you in a posture that makes you weak should the attack either fail or be thwarted for whatever reason. Furthermore, it may make new employees really suspicious about why their super boring computer habits got a bit weird all of a sudden; especially if the HR team hasn't gotten back to them about a simple 5 digit zip code and they already were concerned about appearing shady.
+> 
+> 4. Gossip - Gossip is not a useful legal structure, particularly if lawyers reveal they may be connected. Gossip becomes a legal liability quickly, or at least contributes to stunning lacks of confidence. If Gossip can be about a new employee's speculative legal concerns, it shouldn't be Gossip. If a lawyer hears about Gossip that may be assessed for its intent visually, that lawyer is failing at their duty if they engage in or encourage that Gossip as they cannot understand all the ways they are perceived or received, plus their communications take an air of authority that institutionalizes bigotry via Gossip.
+> 
+> Going back to Emit Til - GOOD MINORITIES DIE WHEN WHITE PEOPLE GOSSIP. This is a very immature company to even consider this more of a legal issue than a matter that could have been resolved with a direct conversation, but that goes to show what leadership cares about - not their employees.
+> 
+> This is NOT a people-first organization, you should stop lying as it creates employee retention problems. You aren't what you say you are and people keep leaving. The only thing not obvious is whether leadership is capable of acting on the knowledge that they may be flawed.
+> 
+> 5. Anchoring - The problem with bias is you anchor people to concepts - Indians are scammers, women are evil, and so forth. However, just like pricing economics - anchoring is incredibly effective. The danger of gossip is that you create anchor points and if they are racially biased, it is incredibly hard to take off.
+> 
+> I'm comfortable leaving because my confidence that at the very least I am rumored to be something I am not is so high, that I don't need to be anchored to the concept of "well at least he's not a terrorist." or whatever - I cannot be judged for my own merits, just as something I may not be as it's always stuck in yoru head. Similarly to how you two wish to be judged as professionals on your own merit, not "lady professionals" - ANCHORING AND GOSSIP MAKE EQUALITY IMPOSSIBLE.
+> 
+> 6. Previous departures, are women safe here? - Rachel Bird got 2 months and came back for a week, and still felt unsafe, at least emotionally, and left. Ronnie left the same amazing equity position and yet in her interview with me, it made sense that she left before I got here - this is one of the most subtly dehumanizing workplaces I've been to because the leadership does not realize they aren't whom they claim to be with regards to inclusivity. You got rats in your nest and a month in your name ain't doing anything about that. I hope things work out for you all after the cliff, but my past issues aside I can understand why my sister didn't engage - you all stink to high heaven, and though she didn't say anything, I'll assume her experiences with Sam at Brown would correlate. She wouldn't want to jeopardize her career or integrity and she saw it coming from a mile away. Also, she kind of hates me, so there's that.
+> 
+> 7. Finally - I may be wrong about this but if whoever may have thought communicating via tampering with my internet connection in connection to points #1 and #3 was a good idea - I'm pretty sure they've done similar extra-legal actions to others in the past. It's not hard to profile via public divorce records who here divorced their wife right before joining this company to prevent her from making a dime off the best financial opportunity of his career, and can't help but sound like a scumbag even to me in the DEI chat on int'l womens day - or is it "woman" day?. That said, Rajat communicated something to me directly in the EPAD onboarding meeting that seemed to wink at the idea of John Wallace taking my internet connection down. I cannot confirm or deny anything past that, maybe you should talk to them and ask them why my internet connection went down twice in a way that would make me feel uncomfortable with connection to the concepts expressed in #1 or #3. They probably don't know anything of the sort, I'd imagine. I only have a sea of coincidental activity that would relate to a "patina of criminality" - but only if there was a crime related to me and the company, which so far hasn't happened.
+> 
+> I'm more than likely wrong, or just connecting things that are coincidences. But if I'm right, that guy ain't pulling that cheap move again.
+> 
+> And if wants to see me face to face he knows where I live; he always has. I wish to not speak further on point #7, unless it's with my fists.
+
+I of course got a polite response. I remember thinking _that'll piss off these DEI Democrats._ Even if something as crazy as Kamala Harris, the first Jamaican Indian Female Vice President, being inolved were true.
+
+But I still wasn't sure whether or not I was under any kind of gov't investigation at that point. I thought it was over.
+
+That evening, I was proven wrong.
+
+...
+
+Legacy is the name of a marijuana store I became a regular customer to in late 2021. Legacy was partially owned by a very famous if "indie" rap group _Dead Prez_, a group that never shied from politics. The store itself seemed to largely be run by Jamaican tinged African Americans, at least to my assumptions.
+
+It was the first store I found in my area when I heard marijuana was being sold in stores in NYC. There were others later, but this was the closest location in late 2021. By the time I was at O'Reilly and Sons in early 2022, I had become a regular.
+
+I even had one of those cards they'd punch holes into and give you free weed on your tenth purchase.
+
+I had been through a couple of them by then.
+
+Wednesday night I realized I was running low, but that was in the middle of me openly ranting in my apartment.
+
+For the last week at least, I had warned the audio surveillance laptop that I was taking contemporanouse notes about all the oddities I experienced at O'Reilly and Sons.
+
+I wasn't. I have an excellent memory and furthermore most key events were associated to either purchases or walks with purchases I could use to figure out dates of events, etc.
+
+But I knew, to a bunch of feds, contemporaneous notes are sometimes all you need to make a legal argument.
+
+But I wasn't taking notes. I was just talking out loud about how I ahd been.
+
+I knew if they had been surveilling me _within_ my apartnemnt, this woudl create a lack of confidence - if I _wasn't_ bluffing, how was I writing notes without them knowing?
+
+_Would they be stupid enough to let me lead them on when they surely have more than enough surveillance technology to confirm I'm lying?_
+
+It was around 8 PM that evening I believe. I said something like this, and made sure I was distant from the Laptop such that if anyone heard, they would've had to have an audio bug in my main living room (where the laptop was not), or used some kind of long distance audio "gun" to hear what I was saying based on the vibrations my voice made against the glass window I was speaking out towards, saying something like this:
+
+> Oh, so you people are business insurance types? Well I got my own insurance plan to make sure that if you keep coming after me, every internationalist journalist and interested financial parties will know automatically. I'm a computer hacker remember?
+
+Reader, again, what type of effective criminal just... brags like that? Openly?
+
+I thought that for sure by playing something that read more like a "netflix" character, actual law enforcement types would read me as bluffing - many people claim to be, for instance, famous criminals and act as though they are confessing just for the thrill of claiming they were the famous "In-n-out burger thief" or some such nick names.
+
+Had I known I was actually on a Netflix show being scouted for an expansion to their _Razzlekhan_ production, maybe I would've done something differently.
+
+I walked over to my computer that is clearly by the window in my living room and grabbed the largest USB stick I have, which I had moved to this computer earlier on purpose for this exact stunt.
+
+Would anyone watching me now be stupid enough to reveal that they can hear and see what I do _without_ the company laptop being nearby?
+
+And would they do so by obviously reacting?
+
+What would that say about my captor's emotional states, to be so reactive?
+
+I had to buy more marijuana. OK, I _wanted_ to buy more marijuana. I was running low.
+
+I took the large USB stick, and made sure anyone from the window's perspective could see it and that I put it into my jacket as I left for the weed store.
+
+...
+
+On my walk over I felt no sign of being followed. The walk covers a particularly public area -- there was a decent amount of evening foot traffic, it was a nice enough night, not too cold -- so if I was wrong, then they were keeping their distance. Which, I thoguht, was good.
+
+_If they're smart then they'll want me to feel safe so they can see what I'd do then. I'm not a criminal so the next few weeks I'll probably just be surveilled from a distance as I presume is a normal part of my life due to my previous entrepurenial ambitions and how many would misread them._
+
+I walked into Legacy and saw Shaheem, a man in their mid 30s I had gotten used to buying marijuana from. We'd talk about weed strains and the Knicks, mostly. I mentioned to him how back in the day I bootleg'd copies of Dead Prez' _Let's Get Free_ and felt like my purchases were some sort of penance, as a joke.
+
+Sometimes, there'd be younger black kids, late teen to early 20s types, hanging out at the store. This was one of those nights, some kids were hanging out on the couch to the left and behind me -- I was at the counter exchanging pleasentries with Shaheem and the other woman working with him.
+
+Working with Shaheem was a young woman whom referred to herself as "Mars" -- she was the second such woman at the store I had met who did so; I assumed it was a joke between cousins that looked somewhat similar to tell people they were all named "Mars" though I had never brought this up. This "Mars" I internally called "Little Mars" because they seemed to be in their early 20s, the first "Mars" I met was in her 30s and a bit taller as well, though I hadn't seen her since my first visit back in October of 2021. This was March of 2022.
+
+Shaheem eventually goes to the back of store to retrieve the strain I asked for; normal. But while he was in the back, I felt "Little Mars" grow uncomfortable. I wonder if I had looked at her funny, or given her the impression I was leering. I worried a bit as the black kids to the left of me became noticeably quiet.
+
+_Damn, did I really spook her that much?_
+
+Shaheem comes out from the back and sees something behind me, and immediately gains tension as well. He starts asking one of the black kids for something, in a slightly serious tone, and then follows up by repeating something I had never heard him say, and as though it was a catch phrase of sorts:
+
+> "Copy that, copy that"
+
+Shaheem said in confirmation to something the other black kid said. He emphasized the "cop" in copy.
+
+Get it?
+
+I buy the weed and the uncomfortable feeling never dissapates. I begin to take a few paces backwards on purpose, and as I feel a presence, I turn around and see a bald white man in their 40s, built like they worked out, with a muscle set that spoke to possibly military experience in my opinion, and a face that read like a middle aged man that felt, well...
+
+The guy looked uncomfortable, and guilty, like _they_ were in the wrong.
+
+They were wearing an all blue outfit with little for labels or insignia.
+
+I'm pretty sure he was some kind of law enforcement officer. By my emotional read, someone sent him to follow me in the store. By the timing -- it took at least 5 minutes of me being inside the store -- the team investigating me had a debate about it. On the one side, I might get spooked by a cop.
+
+On the other side, maybe it's those _jamaican_ weed stores that I'm involved with.
+
+I regret going to Legacy that night because of the black kids that were there.
+
+I remember thinking on the walk home _Oh boy... Kamala Harris' estranged father... is jamaican... and they own a weed store... and she's the Vice President..._
+
+I never touched the USB stick in my pocket. I made sure to not make any "weird" movements towards it while under the security cameras that Legacy has in the store's front.
+
+I began to wonder what kind of law enforcement process cold be lead into a situation where you'd choose to make it obvious you were following me as opposed to just going into the store and asking to review their security camera footage, without making it obvious to me or the store what you were after?
+
+It really felt like someone made an emotional decision, and a lot of people did _not_ want to make a bunch of black kids feel afraid of a law enforcement officer on a Wednesday night.
+
+Would Kamala Harris feel that same fear? And if she didn't, could she be able to override others?
+
+I had to ask myself: _who else would fit this equation better than her?_
+
+I sighed. It was too much to think about. These people were idiots and I wasn't. That's all I knew. I had an eighth of weed and a lot of reasons to smoke it. I also knew that.
+
+#### Thursday 3/17/2022
+
+When I woke up, closer to the afternoon than I'd like to admit, I felt I had proof that yes, the situation I was in had to be a federal one.
+
+It's really hard to know who else could authorize a barge to be filled with such radio equipment.
+
+As I looked across the FDR and at Pier 35, a water craft that I had never seen the like of in my ten years of living adjacent to the East River appeared. It was covered in satellite equipment of all kinds pointed in all directions. It looked makeshift as fuck. I took some photos, and I thought this:
+
+_These people think my USB stick had some radio frequency thing. They need to hold onto a fantasy of a theory and prove it by making up another fantasy. They literally could just detain me and check the stick - I bought it at a CVS. There's nothing fancy. But they'd rather believe their own fantasy._
+
+I remembered free market economic theory. Samuelson's Revealed Preference Theory basically says that in markets, given little interference, society's preferences are revealed via the market activities that take place.
+
+Did my bosses forget their basic principles in allowing the federal government to interfere? Or were they living proof that maybe, Samuelson's RPT has some other things getting in the way, and it may not be market activity?
+
+I also realized that the reactions show someone who emotinally needs to appear "dominant" -- they need to make dramatic decisions that will pay off and show everyone that they were right all along, because they now feel threatened about how wrong they are appearing about me.
+
+Otherwise they wouldn't of sent the guy to follow my into the store and be threatening to black kids.
+
+Otherwise, they would have just detained and searched me -- I'm a child left behind, the patriot act still exists, it wasn't impossible for them -- however, if they did so, the risk of them looking stupid would be higher emotionally if things were held internally. Also, it would probably make for bad TV, PR wise.
+
+So I thought a lot about how dominance is falsely prescribed due to misunderstandings of the "Alpha male" or for tha tmatter "Alpha female" stereotype being a real thing. It's not.
+
+So I wrote another email to the lawyer.
+
+I think I was emotionally compensating for being treated like a fucking idiot.
+
+> Kelly,
+>
+> I'm about to sign the document. Thanks again for everything.
+>
+> At the risk of being a pedantic asshole -- way too late, nvm -- I'd like to leave the board, and particularly Mr. Hodges, whose grandmother was a scientist, one last thing - it's about investing and bias! He'd like it.
+>
+> The term "alpha male / female" is derived from "alpha wolf," coined via research from an ecologist named Dr. Meck in the early 80s publication The Wolf. He found there was always one "dominant" male and female wolf, their dominance proven via ruthless and often violent spats with other wolves: competition!
+>
+> However, Dr. Meck has backtracked from this because his research in the 70s took place while the wolves were captured, separated by gender... and held under surveillance.
+>
+> It's later been found that in the wild, if there is an "alpha" male or female, it's just whoever is playing "mom" or "dad" to the cubs, with disrespect to biological connections. If you're in the pack, you're in, and the leader is the one who takes care of those who need help, not the warden who offers you dillemas as so many prisoners.
+>
+> But if that's proven, why does "alpha male / female" terminology, as well as outdated management and economics rooted in a genius / bigot's simplistic game theories* persist a global leadership crisis that courageous comedians and batshit game show hosts keep upending... if things are stupid, why do they "grow" despite Samuelson's vaunted revealed preference theory guaranteeing balance, far from stupidity?
+>
+> The below is a quote from a smallish Candian financial investment firm's blog that puts things better than I could:
+>
+> How do ideas for which there is an abundance of contradictory evidence perpetuate in mainstream consciousness? This is an important question to ask, whether we are considering wolves or investing. When we believe in ideas that have been falsified, we risk making sub-optimal decisions based on those beliefs. Asking this question helps us to a) understand how the ecosystem of ideas may be flawed, and therefore how it can be improved, and b) remind ourselves that much of the knowledge that we hold up as truth may not be; hence, it is a necessity to always ask ourselves how we know what we “know.”
+>
+> - Anand
+>
+> * John Von Nuemann, see the Prisoner's Dilemma by William Poundstone for more
+
+Reader, I'm now near certain the above email triggered a compensatory behavior amongst the leadership "clique" that seeked to make me their career gain.
+
+If you were wrong about me, what else could you be wrong about? They now could not be wrong about me and entered into a major sunken cost fallacy as they began to force me into their frame of reasoning for over a year, using intimidation techniques most often represented as Terrorist or Fascist, depending on how much the govenrnment and not a single political faction is in charge.
+
+Also, I probably read more like a Soviet era _James Bond_ Villan than I realize.
+
+I still haven't seen a single Sean Connery _James Bond_ movie, shaken _or_ stirred, for whatever it's worth.
+
+And yes, had I known a TV show was on the line... I may have chosen other phrasings.
+
+This is why I think it's important to seek consent as soon as possible for most things, but especially Reality TV. It's a weird perspective to have on consent, to tie it with privacy, but what do I know?
+
+I just send emails to piss legal professionals off and leave a breadcrumb trail of evidence for a future federal investigator to clear my name and/or solve my future murder.
+
+It's a big part of my thing these days.
+# Chapter 12 - First Week post O'Reilly and Sons, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.
 >
 > Michael: We don't have a deep bench here.
 >
 > Sam: I don't know. I think we can do it. Fi grabs the guy. She's the extraction team. You and me tag team the guy on questions, we do the sunglasses, the suit, the whole bit... make him think he's up against every agency with initials.
-# Chapter 13 - Second Week post Senger-Huel, 3/27/22
+# Chapter 13 - Second Week post O'Reilly and Sons, 3/27/22
 
 > [Michael narrating while being beaten by Fiona] It's unfortunate but true that no makeup can simulate blood and bruises well enough to stand up to close observation. So if your cover requires looking like you've been beaten... you have to get beaten.
 
@@ -2530,6 +2936,10 @@ I just didn't think it needed to start with me and my family, personally, but, a
 And that ends this first section of my personal History of Madness. The "F" doesn't actually stand for fuck.
 # Pt 1.5 -- A flash to the future
 
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> For God gave us a spirit not of fear but of power and love and self-control. -2 Timothy 1:7
+
 ### Mid afternoon near the end of the workday in a conference call with around 8 people on Friday, May 20 2022
 
 This was the first time in this situation where I was so shocked I developed tunnel vision.
@@ -2544,7 +2954,7 @@ It was my second week in the job, and, things seemed suspicious yet again even b
 
 _Did... they... remove their hair tie on purpose...?_
 
-Given my suspicions started before the new job did, and this was after the Senger-Huel fiasco, if you read the previous part you'd be safe to assume I was running `the_gg_move` as often as I could muster, which meant most any meeting with 5+ people where I could politely turn my camera and mic off without fear of feeling socially awkward.
+Given my suspicions started before the new job did, and this was after the O'Reilly and Sons fiasco, if you read the previous part you'd be safe to assume I was running `the_gg_move` as often as I could muster, which meant most any meeting with 5+ people where I could politely turn my camera and mic off without fear of feeling socially awkward.
 
 Maybe it's the lack of that fear that causes me to act, but, in previous cases, if no one responds, I get to stop acting, and I know that the "mute" button means just that - if it's honest, I can be too.
 
@@ -2564,7 +2974,7 @@ I realized that technically, I was an asset - I'm a very good programmer, and a 
 
 But maybe more importantly -
 
-_People only get concerned if there's something to lose. I'm not the only asset. Someone is selling this audio surveillance software to big tech companies, and likely at a unit level. Otherwise my coworker and HR people at Senger-Huel wouldn't be introduced to what is essentially spycraft. I'm in a sales pitch._
+_People only get concerned if there's something to lose. I'm not the only asset. Someone is selling this audio surveillance software to big tech companies, and likely at a unit level. Otherwise my coworker and HR people at O'Reilly and Sons wouldn't be introduced to what is essentially spycraft. I'm in a sales pitch._
 
 Or, at least I thought at the time.
 
@@ -2589,15 +2999,15 @@ Look, `the_gg_move` is not exactly a way to make friends.
 It's a way to figure out to what extent you're being audio surveilled by your boss.
 
 And, apparently, your younger co workers of the opposite gender.
-# Part 2: Post Senger-Huel, Pre Runolfsdottir Group -- Mid March to the start of May 2022 
+# Part 2: Post O'Reilly and Sons, Pre Lowe, Littel and Renner -- Mid March to the start of May 2022 
 
 ### Goals
 
-1. You need to bring up making a "tiktok" just to try and give people you assumed were just federal investigators the feeling like all you wanted was to be a social media musician so they would fuck off and just let me play guitar covers and not act liek idiots at Runolfsdottir Group. Instead, I think this really made everyone act super idiotically at Runolfsdottir Group, considering the Razzlekhan thing. Some must've thought it "fit the content," others may have thought I was trying to "send a message", and well it'd be SO funny to bring up the fact that I'm pretty sure I covered 99 red ballons (nts: check tiktok stop being embarssed about it) -- I literally stopped because of hwo stupid Runolfsdottir Group's investigation got
+1. You need to bring up making a "tiktok" just to try and give people you assumed were just federal investigators the feeling like all you wanted was to be a social media musician so they would fuck off and just let me play guitar covers and not act liek idiots at Lowe, Littel and Renner. Instead, I think this really made everyone act super idiotically at Lowe, Littel and Renner, considering the Razzlekhan thing. Some must've thought it "fit the content," others may have thought I was trying to "send a message", and well it'd be SO funny to bring up the fact that I'm pretty sure I covered 99 red ballons (nts: check tiktok stop being embarssed about it) -- I literally stopped because of hwo stupid Lowe, Littel and Renner's investigation got
 1. Talk about being depressed in the past, using therapy to not be as fucked up about it, but kind of lying about it to see if the government or whomever would try and use that against me (they did, they keep trying to, it's horrifying in it's implications)
 1. Talk about patching yourself up over the next few weeks, being vocal -- just in case anyone was listening -- about a lot of my problems as a way to also just self talk my way through my problems. If whomever was listening got "pissed off" at my insinuation that many of my issues are from how I was raised, in weird subtle ways, then that was a heavy indicator that if things continued then somehow someone else's career now may hinge on the fact that they believe my mother's perspective of my own childhood more than mine, which, I can understand for my family arguments, but even my own mother never risked her career or livelihood over validating her or my perspective, we just have sore feelings over it. Whcih is to say, I didn't care if anyone listened to my self talk, I was actually legit very depressed, but paging further reactions to it for sure, beign aware that I knew I was talking out loud about my personal problems, as well as with my therapist
-1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Runolfsdottir Group's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
-1. Might wanna dedicate a whole chapter to your own depression, collision with suicidal thoughts, how you've learned to deal with them, how you've accepted other people handle them when made aware, and how you used all of this to feel out the situation: did the government and private actors that positioned themselves against me at Senger-Huel not care about my mental health, and in fact, seek to take advantage of it should I make it seem more unstable on purpose than not? I'll admit this was dishonest to my therapist, but, it was a special situation
+1. Dedicate some time to how you did indeed get to a better point by mid April, and made a plan to manage my debt + expenses against Lowe, Littel and Renner's upcoming employment should it hold. I recognized needing an outside office as a way to just walk around, enjoy the neighborhood, and budgeted for that item at The Yard on Delancey, as a way to combat my depression. Despite the financial costs - 700 a month - I did this for my mental health but also in hoping anyone watching my behavior would see "wow, he's doing personal budgeting to help resolve the financial gap we caused due to the previous investigation, while reassessing what he wants in life to be more comfortable and spend more outdoor times and time around other human beings while working, maybe we should leave him alone." Alas
+1. Might wanna dedicate a whole chapter to your own depression, collision with suicidal thoughts, how you've learned to deal with them, how you've accepted other people handle them when made aware, and how you used all of this to feel out the situation: did the government and private actors that positioned themselves against me at O'Reilly and Sons not care about my mental health, and in fact, seek to take advantage of it should I make it seem more unstable on purpose than not? I'll admit this was dishonest to my therapist, but, it was a special situation
 
 
 ### Outline
@@ -2614,17 +3024,21 @@ And, apparently, your younger co workers of the opposite gender.
 #### Further chapters / points
 
 1. Go over early April, suicidality, wanting to talk to family with therapist, your family and especailly your sister's shadyiness there, ultimately your therapist suggests it may be a bad idea.
-1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Tanner Murray. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
-1. Go over pre Runolfsdottir Group - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
-1. Probably best to end on finally getting the Runolfsdottir Group laptop on the morning of your first day after all the shipping awkwardness
-1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to Runolfsdottir Group.
+1. Go over mid April, pathicng yourself up, and going over self talk. Internally I made a promise: I need to permanently keep my parents and family out of my life as much as possible; I did this more or less already and th enew "thing" would be avoiding jobs with overlaps, like iwth Sam Hodges and Stuart Ullrich. My fault, I guess. I'm sure my famliy feels that way. End chapter with personal declaration of vengeance should this shit continue.
+1. Go over pre Lowe, Littel and Renner - weird packages, weird HR, peeing in a cup, therapist feels alarmed at me brining things up in a non therapist way, start to feel certain my therapist is talking to feds in the BG
+1. Probably best to end on finally getting the Lowe, Littel and Renner laptop on the morning of your first day after all the shipping awkwardness
+1. End with the above and a thought you had: _Why would they keep this up and not just put me under some long term surveillance thing where I can at least act like I'm not aware of them?_ -- now I'm pretty sure it had something to do with Netflix and Razzlekhan more than any internal implications, but, anyway, end the section and final chapter with that thought before getting to Lowe, Littel and Renner.
 # Pt 2.5 - A flash to the future
+
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+
+> Ye though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. -Psalm 23:4
 
 ### Somewhere near the end of July, in my bathroom, with the door open, with my ipad out, reading random things about computers or guitars until I worked up the swerve to masturabte to internet porn
 
 _Jesus christ that thing is big. Where did it come from?_
 
-So seeing the man I nicknamed "Tevas" again the other day was certainly something, even if he traded his namesakes for what looked like combat boots with splattered paint on them. I realized after that that I couldn't sell the laptop Runolfsdottir Group gave me after quitting, out of fear of some immature prank being pulled with it.
+So seeing the man I nicknamed "Tevas" again the other day was certainly something, even if he traded his namesakes for what looked like combat boots with splattered paint on them. I realized after that that I couldn't sell the laptop Lowe, Littel and Renner gave me after quitting, out of fear of some immature prank being pulled with it.
 
 _Why did it lift it's leg liek that on the way in? Is that thing... drunk?_
 
@@ -2671,7 +3085,7 @@ I started panicking and figure'd it'd be best to, if yet again, see if anyone wo
 I remember having one last thought as I left my bathroom to take a walk outside:
 
 _These fuckers better not throw me in the East River either. Sure I act like a Cosmo Kramer from_ Seinfeld _, sure, but I'm not trying to take things that far._
-# Part 3: The Runolfsdottir Group Fiasco -- the start of May to early June 2022 
+# Part 3: The Lowe, Littel and Renner Fiasco -- the start of May to early June 2022 
 
 ### Goals
 
@@ -2680,7 +3094,7 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 1. This was why I may have seemed like I had "training" that put me ahead of... middle managers in tech mostly, who have no "intelligence" training, and then intelligence workers who may not be as aware of technological shifts due to being "in the field" and realize that the things I knew most of the "younger generation" that populated twitch (the development channels skew older, but, it's still younger) would know to a certain percentage. This type of surveillance "technique" -- audio surveillance converted to chat logs for your manager to be able to read in real time or at a later time what you were saying to your laptop -- would be the type of things children in America already knew how to, well, counter, intelligence wise. I just knew it because I thought streaming myself learning game development as a professional web programmer would be interesting (it was, sort of, but also a drag, streaming is a lot of effort).
 1. Use the above as an... onramp?... to what happened the week of 05-22-2022, against being pissed off that these people were selling some bullshit ass software that was obviously NOT working out, why you, felt confident doing what you did. Also, audio surveillance not made like, clear, is not terribly admissable in court, and if they just.. asked me about what I was saying while on "mute"... well, I was literally, actually, working on a character, I was acting. Woops. Do you want to give me something to do at work so you can judge me on that? Because... I didn't ge tmuch of that here either.
 1. Definitely a decision to be made here with regards to how much I reference _Burn Notice_ because it's almost too easy
-1. Need to decide how much of "pre Runolfsdottir Group" needs to be discussed. Not sure anything outside of a quick chapter may be necessary, perhaps two.
+1. Need to decide how much of "pre Lowe, Littel and Renner" needs to be discussed. Not sure anything outside of a quick chapter may be necessary, perhaps two.
 1. Big decision on how much of the markdown essays should be here. They're great but... long... and... confusing, though I wrote them that way on purpose a bit.
 1. Open a chapter / section with the pontification I've had that the second ammendment is misread wrt firearms -- the real question is when the government has tipped over into tyranny, should the citzenry have anything to do with it? Or just watch facsism rise and allow a new normal to be justified by a court system that is suffocated by a non working legislative system led by an executive system that seeks celebrity and fame given the success it perhaps cheated to win with doesn't satisfy it's ego? Again, if the government is behaving tyranical, and I didn't use firearms to stop it, how am I not just using my second ammendment right with another technology: audio surveillance? Originalism works in my favor, yes, albeit in my opinion, but with no bullets spent.
 
@@ -2688,15 +3102,20 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 
 1. Quick intro chapter going over Twitch history and reading faces re: chat, then lead to social media socialism video game times in 2021 as a reason the cenrist Dems may be targeting you...
 1. ... especially in light of the recent Dem's failure to secure Abortion vote, light suspicions you held of your actions being what caused their distractions & distrust amongst their own ranks
-1. First week of Runolfsdottir Group -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
+1. First week of Lowe, Littel and Renner -- intro suspicions in meetings re: the above, testing it via verbal dialogue on "mute" like last time, seeing much in that vein
 1. Pissed off that you had to go through this bullshit, and relizing that your therapist was involved, talk about the markdown essays
 1. Second week -- keep testing the above, get the strongest reaction wrt "the blown cover hair flip moment," being offended that many people were involved and at ages you found offensive, also consider that the hair flip was an attempt to intimidate me via gender egoisms I don't really have (I'm for all skittles haired people of all genders).
 1. Weekend after second week -- You're going to have to talk about the Friday Night Loser porn thing. It's become historically important, apparently. Sorry, to the ghost of Ewen Cameron, I'm guessing you thought this shit would die wth you. Alas.
 1. After discussing... the above... introduce the card reading thing you do on saturdays, how it was introduced to you, and why you take photos on your phone of every reading since you've been doing it on purpose so anyone "spying" on you would have to choose between me being a single straight guy doing a tarot reading every saturday or maybe I'm doing something involving a cypher, which would force anyone possibly spying on me to waste time and money being confused, slowly developing apophenia and looking stupider within their ranks for it. Also I already thought horoscopes and magic were fun so it wasnt that big of a deal for me. That said that week's reading, a day after the uhm... loser... movies... the long range card was the "Actor" card. So I figure'd I'd act. Ironically the "result" card was GK Chesterton's birth card, and the next week is more than likely the catalyst for the third round of my life as _The Man Who Was Thursday_ comes full spiral.
 1. Discuss thinking that that wasn't _enough_ to stop what was clearly a financial opportunity, and you hadn't realized it til Saturday morning / afternoon. Discuss realizing the financial thing on Saturday, and realizing the best thing for you to do for your country was to involve wall st and make sure the widest audience saw this backfire in the most spectacular of ways. Talk about _Burn Notice_, and how one of it's central points was that to take down a criminal organization -- particularly one with government connections -- you just have to threaten the leadership, and I made a plan to threaten the leadership's ego while jeopardizing the thing they were selling to their clients: security.
+1. Wrt "the plan", I also recognized in the first two weeks that Lowe, Littel and Renner had a distinct veteran population, on average with the nation's percentage but perhaps above average for a tech company. They had good in company systems on chat, like slack, so I figure'd enough of them would have to know about this situation if some of my coworkers do and it was all going so dipshettedly. I thought they would be able to tell what I was doing, and in the case of the US Army, calling that bluff usually leads to death by death choppers etc, but in my version, I just wanted the "investigators" to have a reason worth detaining me so they could at least admit they were audio surveilling me and we could have an honest conversation about my acting chops. That said, many fear honest conversation more than death by death choppers etc.
+1. The main point, if there was any, was to have a bunch of written docuemntation about how this "investigation" led to the private citizen potentially going murder crazy, but most likely bluffing, both humiliating the C.O.'s and previewing a possible future scenario to learn to avoid doing this shit ever again, and held within the "classified" or whatever section of some "intelligence" or "investigations" or "security" agency or something at a national level, ending shit like this to some extent, or at least to me. If they wanted to speak to me about it, they could, but I think they knew I was bluffing given their future reactions. Some may have held out hope that I thought "I was Michael Westen" and delusional, but, no, I just know how to talk shit in many different ways. It's a particular set of skills. Some of you may have been quite _Taken_ with them. At any rate, I obviously pissed someone off, but I didn't think they could be that important in DC / whatever land despite my "worst case scenario" of the WH admin; that seemed too far fetched still. At the time, remidn the reader that you weren't 100% positive VP KH was involved directly, and held out hope it was someone down the line in the KHive DNC chain of command. The Mike Epps thing, followed by the Paula Patton thing proved otherwise. Allude to the reader about those two.
 1. Third week -- well, you being weird is one thing, but also, discuss your suspicions with the TV hack, and whether or not that's true it may have influenced a certain side to try and convince me this was "something else" -- discuss the 30 cops vs 1 criminal arrest sideshow outsdie of your apartment, putting the markdown essays onto github
 1. Memorial day weekend -- discuss the weird rocky & bowinkle villains you thought were hired models meant to make me think they were "russian spies" or some shit and started to wonder if there are two sides to this clown show. One side is trying to keep this "investigation" as honest as possible, and another side wants to make it hilarious and stupid as fuck. 
 1. Fourth week -- shifting from murder talk to corporate "your company's kind of disorganized but that's ok" talk on mute, seeing effects. I remember also in an effort to shift to a more family friendly content format I began to lean on "italian mob guy" stereotypes of various east coast accents. I'm not sure why or what inspired that -- maybe the murdery talk, probably -- but it just felt like a way to keep things fresh, to keep them spicy. I had been playing a weird depressed guy who went "to the dark side" basically as a way to teach anyone on the other side of the shit show investigation what they're potentially doing to normal people and to just be normal next time you idiots don't create lone wolves in society you dumb fucks what the fuck is the matter with you -- you see how I just slip into it? It's a bad habit, but it's an incredibly humurous acting stereotype and I had fun with it. I hope some of yous kids did too. I thought it was fun for whomeever was surveilling me, had I known about Razzlekhan or thought I was on reality TV at the time etc etc etc.
+1. Oh yeah definitely bring up how you watched that _Mission Impossible_ (nts: double check netflix view logs, this was the pre disc era) with Paula Patton in it and kept on commenting about how gorgeous she is - which, yes, it's a true thing - out loud to the audio surveillance laptop which at the time was in a bag to the right of you on the couch, if memory serves, just for fishing purposes. Easy on the "reader, I told no lies" stuff. Allude to it coming back again. Let the reader know that you brought up at the time, and still feel, a spy movie centered around Paula Patton would be fun, to me, personally, a man of my gray tastes and all. If Paula Patton was in a spy movie in the future called _The Grey Lady_ I woudl die. Ok, anyway.
+1. But really in _The Grey Lady_ starring Paula Patton, I'm thinking the main plot can be your normal super spy international mystery type person stuff, but the subtle recurring joke / theme is the suspicion that her character also has ESP or some sort of magical super powers, and is into weird superstitious shit like a very ever-so-slight Fox Mulder type tilt (like really slight), and the joke if it's ever brought up directly (not sure how serious of a spy movie we're going for here) is usually responded to with accusations of sexism
+1. Paula's character should have zero weird family issues that add too much weight to the plot to make it enjoyable and feels like it was forced after a decent script was already written for reasons of "corporate ~~crime infused~~ synergy". Also a scene where she kills like 30 peopel with automatic rifles who all know where she's coming from while all she has is a pair of chopsticks and rubber bands she's fashiioned into a deadly projectile of sorts, or a pistol maybe, while wearing like a duster or something that looks like a cape while running through a cinematic office lobby after hours (or, if a humourous movie, maybe during lunch hours).
 1. June 4th weekend -- hamburgers, tevas, and shit talking with a side of thinking about keeping calm and celebrity birth-spawn. End with June 5th debit card fiasco, where you knew that there was clearly two sides -- one was honest and wearing a bjork shirt, even if they were investigating me, and the other was just trying to fuck me over anyway they could even if it meant outright fascism like using a state financed investigation to debit card fraud me because I made fun of some rich kid's shoes
 1. Think about who would have the money and the access AND the profile to be fascistly stupid af, and check Elon Musk's tweets. Realize this is maybe an attempt by some financial folks + Democrat party workers to lure Elon into donating for Dems and other finance schemes by creating some weird side show around me, realizing I'd be his dream candidate considering my profile to "prove he was right" about "this and that or whatever". But also realize that _some_ people have to be taking this seriously, and wonder if "two sides" are forming, one trying to beguile Elon Musk via his immaturity into some kind of finance scam, and another probably trying to move on from this obvious civil rights nightmare. Make a personal note that if this stops getting weird, and someone like Elon was involved, that means Elon is more mature than I thought. If it keeps getting weird, well, he's probably just another guy who doesn't get jokes and catches weird feelings about it.
 1. Last week at live ramp -- quitting, making a cover story about thinking this was a "right wing conspiracy" specifically to provide cover for the Dems, so they could feel like they "got away" with it (provided they actually "left" me alone), making the markdown essays on Bickle Bin Laden, hoping for the best. End on how you thought anyone with two cents of a writer's instict would realize I was making a joke, albiet one that would cover me from a smear of being a "violent leftist anarchist", and the biggest "tell" that this was a joke was the line about Hitler, Mussolini, and Sowell. It was there all along.
@@ -2704,7 +3123,7 @@ _These fuckers better not throw me in the East River either. Sure I act like a C
 
 # Pt 3.5 -- A flash to the future
 
-> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terrorist is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
+> DEFINITIONS OF INTELLIGENCE TERMS. INTERNATIONAL TERRORIST ACTIVITIES: Terroris[m] is the calculated use of violence, or the threat of violence, to attain political goals through fear, intimidation or coercion. - [CIA Intelligence Defintions from 1977](https://www.cia.gov/readingroom/docs/CIA-RDP91M00696R000200050015-4.pdf)
 
 > The stone that the builders rejected has become the chief cornerstone. –Psalms 118:22
 
@@ -2739,7 +3158,7 @@ It was another time where I wish I was psychic, but I was stupified. I just star
 But I'm sure they exist _somewhere_. Video, even.
 
 Personally, I dont like to play around with fire.
-# Pt 4 - Post Runolfsdottir Group, possibly up to the knife incident -- the start of June to early August 2022 
+# Pt 4 - Post Lowe, Littel and Renner, possibly up to the knife incident -- the start of June to early August 2022 
 
 ### General notes:
 
@@ -2777,7 +3196,7 @@ end
 ```
 1. Note that your mother's phone call after your therapist appt where the internet connection of both you and your therapist were cut sequentially and theatrically such to intimidate; your mother intimated your presence may be needed in Los Angeles. Realizing I may be on some reality tv concept show, and not wanting to be "pranked" in a city where it's easy to leave someone stranded miles from civilization, compounded with the fact that I don't have a driver's license, made me want to avoid the risk of going to the West Coast for whatever stupid thing this was. So part of my calculation in going with the "knife incident" was to either keep me on the East Coast by circumstance, or, if they wanted to continue playing this game then they're going to have to shoot on location in NYC. I have some conflicts here as a New Yorker; such shit can be very annoying. That said, as a fan of cinema and filmed arts of all kind, if I'm going to be forced onto a reality TV show without my consent, then god damnit it's gonna be shot on location in NYC. No offense, LA. Maybe with a driver's license.
 1. I think it might be best to end on the weekend before going to the Grey Lady. Maybe the last moment in the pitch can be when you were about to leave the apartment that Friday (nts: or Saturday? check email and notes), and in your bathroom you were saying out loud to anyone listening: "Look if you have to arrest me that's fine, just no Netflix or Hollywood bullshit, please." Apologies to Paula Patton, of course. I don't think she's bullshit, to be clear. Maybe make the last line an allusion to Paula Patton's appearance.
-1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Lawerence Murray, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
+1. It took a few days, but your certainty of mom's involvement led to a certainty by at least that weekend that this did indeed come from the top, and likely the VP's office, and was likely... sigh... weird. It took seeing Paula Patton to realize that I'm probably best to bring things up directly. Remind and make clear to the reader that you didn't say or mention any Democratic leadership up until that point, particularly within the Biden / Harris admin, though you knew they had to at least be the propspective boss. Their presence, at least VP Harris', felt confirmed to you by your mom's involvement. There's only so many ways my mom's gonna actually lie about something and in a way taht is fun for her, and honestly, I know it sounds stupid, but I know Ashley Ullrich, and the only way she would do thsi shit is for the first Indian Female VPOTUS, which is to say, I think she wuld've even turned Hillary Clinton down in a similar position, which isn't to say Hillary would ever do this stupid shit, but regardless, maybe you can leave that unsaid. The real point is you waited months to even acknowledge your suspicions out loud in order for them to save face, then spent most of August talking about grey areas or some shit to get them to know they could just leave - and yet - they didn't
 1. Add that you went to the police station beacuse you had a strong feeling the VP's office was involved, due to VP Harris' history in law enforcement, she would have the ability to make a "loyalist" faction of NYPD work for her whim -- if I was right. I went to the precint specifically to make sure ALL or as many of the NYPD knew about this, so I wasn't just facing VP Harris' NYPD Loyalists, and the entire NYPD as much as possible, for objectivity #yespleaseALLcops
 1. Talk aobut getting into philosophy, not knowing what you're thinking or talking about on the subject, but searching for someone who commented on fame. Talk about the Piano man game, likely close the chapter on the "from the second perspective" concept being inspired by the events described. End on this research finding someone describing fame as "an expectation" and given that you currently more than ever appreciated the nature of flaunting other people's expectations (you were at the time faking as though you were suspicious of the opposite political party than the one you knew was acting against you in an attempt to get them to realize they could just leave me alone if they wanted). Basically end on the idea that as of July 2022, you had made a personal decision that you didn't really want to be famous. It certainly didn't seem like it would be useful at the time.
 1. Discuss Friday or Thursday that week, while presumably under surveillance and with all your devices turned off, you made a minorly dramatic speech about how you were doing this to prevent some idiotic WWIII from happening due to mishaps in surveillance technology. I just read about it but it's ironic that if it does it would somehow make a truth out of the WWI era rumour that the first Great War started because of something to do with "words" - the gang makes newspeak real! In retrospect with regards to WWI, I think people got stupid with tanks and other combustion based vehicles and got violent quickly as a result with planes, trains, and automobiles. I think the same thing is happenign with internet technology now. Different transportation altering equiptment, but the problem is the same - societal wide stupid as fuck. Use better language, maybe. Point out never making that comment again because it's kind of heavy handed. Anyway, that was near the end of the first week of August 2022 before the first weekend. Still kind of heavy handed, let's hope it stays that way!
@@ -2839,7 +3258,7 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - next day walk to barber and back: women talking about bees, Mr. Bee's comments on broncos, red flag yellow shirt girl, red shirt "tu es mi corazon" guy, Hacha y Machete playing at Cheeky's (that was pretty funny tbh), possible higher grounds producer sighting (dont really need more details than you making an assumption based on a later group photo + them tailing red flag girl), the subway Persona reference, followed by you taking the bait and going home to play Persona, and getting a hint about "breaking into the entertainment industry"
 - rant aloud in your apartment that you get it, and your initial reaction was this: _Look, I'll go with it, but you have to make things alright with my sister and parents as well since they obviously fucked up here more than I did_
 - after taking another day, you tell whomever's listening that you're not interested, most primarily because they said some shit about bucking me like a bronco. Internally you thought there was no _way_ the Boss themselves said that, but there was only one way to find out: reject the dangle, even if it was for real
-- make quick call to mom to see how real this shit may be, she starts talking about 70 year olds like it's someting special, felt like enough of a hint + her dialogue matched up heavily wiht Mr. Bee's dialogue, constnatly referring to a "70 year old bronco bucker" -- first of all, listen to that statement. That guy lives alone? Get the fuck out of here. You find me a 70 year old bronco bucker. That seems way too old for taht shit to me, but I digress. The emphasis on the age given someone else's then age was to me an indicator that both Mr. Bee, my barber, and Lawerence Murray, my mother, were being directed by the same chain of command
+- make quick call to mom to see how real this shit may be, she starts talking about 70 year olds like it's someting special, felt like enough of a hint + her dialogue matched up heavily wiht Mr. Bee's dialogue, constnatly referring to a "70 year old bronco bucker" -- first of all, listen to that statement. That guy lives alone? Get the fuck out of here. You find me a 70 year old bronco bucker. That seems way too old for taht shit to me, but I digress. The emphasis on the age given someone else's then age was to me an indicator that both Mr. Bee, my barber, and Ashley Ullrich, my mother, were being directed by the same chain of command
 - tell whoever's listening including your parents that if you want, tell your people to send someone to kill me, I'd rather that at this point. I figure'd it was the most dramatic rejection I could come up with at the time
 - end with taking a walkt o the store on Saturday and seeing a 40 year old man wearing a clean, newish Notorius B.I.G. "Ready to die" t shirt (the one with the baby like on the album cover), thought it was funny, well, at least it was awhile since I saw a Biggie Tshirt.
 
@@ -2862,7 +3281,7 @@ Anyway, thanks Boss. If someone talks shit about you I'm going to maybe get into
 - That said, early data suggests each time one gets COVID-19, there's a 10% chance of contracting long covid. Coincidentally earlier that month, and I blieve a day after "the knife" incident, the Federal Reserve published an article stating a 62% chance of adults reporting long term COVID issues as ahving cognitive decline of some sort. If there's a 5% chance that after one gets COVID they suffer future cognitive issues, one must wonder how the leadership class of America is doing, considering how much they traveled and contracted the virus on a regular basis. The attempt to paint me as criminally unwell may have all been the impulsive and defensive reactions of a generation of leadership undergoing mass cognitive decline due to a once in a generation virus like COVID-19, and reacting childishly -- using reality TV to fest delusions of grandeur -- in order to control the future of what is considered mental wellness; leaders often fear persecution to delusional standards, cognitive decline wouldn't help that https://www.federalreserve.gov/econres/notes/feds-notes/long-covid-cognitive-impairment-and-the-stalled-decline-in-disability-rates-20220805.html
 - End chapter or whatever on you not liking the idea that "technology is like magic" - to you, "magic is like a good crime -- you're supposed to get away with it." Technology should do _exactly_ what it says, and have copious documentation available on how it does that. Copious. The budget ot make technology should include time for copious documentation. I'm digressing.
 
-#### The first and last week at Hintz Group LLC
+#### The first and last week at Green, Volkman and Shanahan LLC
 
 - Describe first meeting with coworkers, several are making gossipy jokes about both witchraft and family estragement. Describe feeling it was likely that the KHive DNC utilized Netflix and surveillance technology to share this information about withcraft with my upcoming workplace to defame me before I coudl even start; anchoring me as crazy at a senior level due to what should have been a completely separate affair. Government collusion with businesses for political purposes have never been lamer, but being cool is not a requirement of Fascism.
 - Describe the incident where after your boss feels liek they are forced to give you a "middle finger", you take the rest of your second day off, and then are immediately assaulted in the street by a King Mob lookalike who partially dislocates your sohulder.
@@ -2925,7 +3344,7 @@ Anyway, September in the rain. Writing this in June 2023, some 9 months later, I
 
 1. Flash forward: December 2022 and learning that Yuga labs was a company that was real, reference Lucy Liu movies helping
 1. Last week of October to Early December 2022, end on making first video in dropbox series and pontificate on reasons as to why you needed a recorded fiction in case someone else told another fiction about you
-1. Flash forward: First visit from people claiming to FBI officers; explain why you thought this was not real, lack of badge numbers, them not wanting to be videotaped, showing up at 8AM on a Saturday, being kind of rude, and explain your thought process and how you couldn't believe they were real and figure'd your bosses or Netflix were playing some joke on you, especially given that IMO the FBI wouldn't want to risk showing up to someone's door appaering politically biased unless the likelihood of a violent crime was indeed provably likely, etc
+1. Flash forward: First visit from people claiming to FBI officers; explain why you thought this was not real, lack of badge numbers, them not wanting to be videotaped, showing up at 8AM on a Saturday, being kind of rude, and explain your thought process and how you couldn't believe they were real and figure'd your bosses or Netflix were playing some joke on you, especially given that IMO the FBI wouldn't want to risk showing up to someone's door appaering politically biased unless the likelihood of a violent crime was indeed provably likely, etc. Point out that htis is the first time you realized the grouping of people you were up against weren't necessarily of one coherent ideology or leadership, and were all kind of competing as though I were a one man middle east. Slowly introduce CIA writings on terrorists and use it to reflect on theprevious events' book to further define the gropuing of people as a terrorist organization, or scattered cells all serving different leaders and goals, often oriented around the leader's family situations and personal dynasties. Don't you ever say cult.
 1. Early December 2022 to mid February 2023: The time I tried to record a version of events that could be plausible in order to make sure somoene else doesn't try to produce another version of events that is indeed not plausible but they can edit in anyway they like; largely because I think my story is better than Netflix's. Detail how you in your head made a plan to make a "confessional video series" that was long winded and overly detailed, humorous at times to hope that only those that "enjoyed" it or "had to for their job" woudl watch it, hoping that yet again, this would get someone smart in the DNC to call the whole thing off in a way that they also got me to politely agree to stop recording materials of my recollections that could be coroborated with other parties and potential surveillance, netflix, and street camera recordings etc. Allude to "Her Story".
 
 
@@ -2960,4 +3379,4 @@ I started hitting the record button sometime in early December (nts: possibly la
 1. Flash forward: Probably me writing this shit right now
 1. late March 2023 to Mid May 2023: These people have to be kidding right? The Connells, the clampdown, and the TV news
 1. Flash forward: ???
-1. June 2023
+1. June 2023 - the month where I realized that, above all else, I'm fighting terrorism on American soil (June 20th, the day, to be exact)

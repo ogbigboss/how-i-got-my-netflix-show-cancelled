@@ -2593,6 +2593,142 @@ But I wasn't taking notes. I was just talking out loud about how I ahd been.
 I knew if they had been surveilling me _within_ my apartnemnt, this woudl create a lack of confidence - if I _wasn't_ bluffing, how was I writing notes without them knowing?
 
 _Would they be stupid enough to let me lead them on when they surely have more than enough surveillance technology to confirm I'm lying?_
+
+It was around 8 PM that evening I believe. I said something like this, and made sure I was distant from the Laptop such that if anyone heard, they would've had to have an audio bug in my main living room (where the laptop was not), or used some kind of long distance audio "gun" to hear what I was saying based on the vibrations my voice made against the glass window I was speaking out towards, saying something like this:
+
+> Oh, so you people are business insurance types? Well I got my own insurance plan to make sure that if you keep coming after me, every internationalist journalist and interested financial parties will know automatically. I'm a computer hacker remember?
+
+Reader, again, what type of effective criminal just... brags like that? Openly?
+
+I thought that for sure by playing something that read more like a "netflix" character, actual law enforcement types would read me as bluffing - many people claim to be, for instance, famous criminals and act as though they are confessing just for the thrill of claiming they were the famous "In-n-out burger thief" or some such nick names.
+
+Had I known I was actually on a Netflix show being scouted for an expansion to their _Razzlekhan_ production, maybe I would've done something differently.
+
+I walked over to my computer that is clearly by the window in my living room and grabbed the largest USB stick I have, which I had moved to this computer earlier on purpose for this exact stunt.
+
+Would anyone watching me now be stupid enough to reveal that they can hear and see what I do _without_ the company laptop being nearby?
+
+And would they do so by obviously reacting?
+
+What would that say about my captor's emotional states, to be so reactive?
+
+I had to buy more marijuana. OK, I _wanted_ to buy more marijuana. I was running low.
+
+I took the large USB stick, and made sure anyone from the window's perspective could see it and that I put it into my jacket as I left for the weed store.
+
+...
+
+On my walk over I felt no sign of being followed. The walk covers a particularly public area -- there was a decent amount of evening foot traffic, it was a nice enough night, not too cold -- so if I was wrong, then they were keeping their distance. Which, I thoguht, was good.
+
+_If they're smart then they'll want me to feel safe so they can see what I'd do then. I'm not a criminal so the next few weeks I'll probably just be surveilled from a distance as I presume is a normal part of my life due to my previous entrepurenial ambitions and how many would misread them._
+
+I walked into Legacy and saw Shaheem, a man in their mid 30s I had gotten used to buying marijuana from. We'd talk about weed strains and the Knicks, mostly. I mentioned to him how back in the day I bootleg'd copies of Dead Prez' _Let's Get Free_ and felt like my purchases were some sort of penance, as a joke.
+
+Sometimes, there'd be younger black kids, late teen to early 20s types, hanging out at the store. This was one of those nights, some kids were hanging out on the couch to the left and behind me -- I was at the counter exchanging pleasentries with Shaheem and the other woman working with him.
+
+Working with Shaheem was a young woman whom referred to herself as "Mars" -- she was the second such woman at the store I had met who did so; I assumed it was a joke between cousins that looked somewhat similar to tell people they were all named "Mars" though I had never brought this up. This "Mars" I internally called "Little Mars" because they seemed to be in their early 20s, the first "Mars" I met was in her 30s and a bit taller as well, though I hadn't seen her since my first visit back in October of 2021. This was March of 2022.
+
+Shaheem eventually goes to the back of store to retrieve the strain I asked for; normal. But while he was in the back, I felt "Little Mars" grow uncomfortable. I wonder if I had looked at her funny, or given her the impression I was leering. I worried a bit as the black kids to the left of me became noticeably quiet.
+
+_Damn, did I really spook her that much?_
+
+Shaheem comes out from the back and sees something behind me, and immediately gains tension as well. He starts asking one of the black kids for something, in a slightly serious tone, and then follows up by repeating something I had never heard him say, and as though it was a catch phrase of sorts:
+
+> "Copy that, copy that"
+
+Shaheem said in confirmation to something the other black kid said. He emphasized the "cop" in copy.
+
+Get it?
+
+I buy the weed and the uncomfortable feeling never dissapates. I begin to take a few paces backwards on purpose, and as I feel a presence, I turn around and see a bald white man in their 40s, built like they worked out, with a muscle set that spoke to possibly military experience in my opinion, and a face that read like a middle aged man that felt, well...
+
+The guy looked uncomfortable, and guilty, like _they_ were in the wrong.
+
+They were wearing an all blue outfit with little for labels or insignia.
+
+I'm pretty sure he was some kind of law enforcement officer. By my emotional read, someone sent him to follow me in the store. By the timing -- it took at least 5 minutes of me being inside the store -- the team investigating me had a debate about it. On the one side, I might get spooked by a cop.
+
+On the other side, maybe it's those _jamaican_ weed stores that I'm involved with.
+
+I regret going to Legacy that night because of the black kids that were there.
+
+I remember thinking on the walk home _Oh boy... Kamala Harris' estranged father... is jamaican... and they own a weed store... and she's the Vice President..._
+
+I never touched the USB stick in my pocket. I made sure to not make any "weird" movements towards it while under the security cameras that Legacy has in the store's front.
+
+I began to wonder what kind of law enforcement process cold be lead into a situation where you'd choose to make it obvious you were following me as opposed to just going into the store and asking to review their security camera footage, without making it obvious to me or the store what you were after?
+
+It really felt like someone made an emotional decision, and a lot of people did _not_ want to make a bunch of black kids feel afraid of a law enforcement officer on a Wednesday night.
+
+Would Kamala Harris feel that same fear? And if she didn't, could she be able to override others?
+
+I had to ask myself: _who else would fit this equation better than her?_
+
+I sighed. It was too much to think about. These people were idiots and I wasn't. That's all I knew. I had an eighth of weed and a lot of reasons to smoke it. I also knew that.
+
+#### Thursday 3/17/2022
+
+When I woke up, closer to the afternoon than I'd like to admit, I felt I had proof that yes, the situation I was in had to be a federal one.
+
+It's really hard to know who else could authorize a barge to be filled with such radio equipment.
+
+As I looked across the FDR and at Pier 35, a water craft that I had never seen the like of in my ten years of living adjacent to the East River appeared. It was covered in satellite equipment of all kinds pointed in all directions. It looked makeshift as fuck. I took some photos, and I thought this:
+
+_These people think my USB stick had some radio frequency thing. They need to hold onto a fantasy of a theory and prove it by making up another fantasy. They literally could just detain me and check the stick - I bought it at a CVS. There's nothing fancy. But they'd rather believe their own fantasy._
+
+I remembered free market economic theory. Samuelson's Revealed Preference Theory basically says that in markets, given little interference, society's preferences are revealed via the market activities that take place.
+
+Did my bosses forget their basic principles in allowing the federal government to interfere? Or were they living proof that maybe, Samuelson's RPT has some other things getting in the way, and it may not be market activity?
+
+I also realized that the reactions show someone who emotinally needs to appear "dominant" -- they need to make dramatic decisions that will pay off and show everyone that they were right all along, because they now feel threatened about how wrong they are appearing about me.
+
+Otherwise they wouldn't of sent the guy to follow my into the store and be threatening to black kids.
+
+Otherwise, they would have just detained and searched me -- I'm a child left behind, the patriot act still exists, it wasn't impossible for them -- however, if they did so, the risk of them looking stupid would be higher emotionally if things were held internally. Also, it would probably make for bad TV, PR wise.
+
+So I thought a lot about how dominance is falsely prescribed due to misunderstandings of the "Alpha male" or for tha tmatter "Alpha female" stereotype being a real thing. It's not.
+
+So I wrote another email to the lawyer.
+
+I think I was emotionally compensating for being treated like a fucking idiot.
+
+> Kelly,
+>
+> I'm about to sign the document. Thanks again for everything.
+>
+> At the risk of being a pedantic asshole -- way too late, nvm -- I'd like to leave the board, and particularly Mr. Hodges, whose grandmother was a scientist, one last thing - it's about investing and bias! He'd like it.
+>
+> The term "alpha male / female" is derived from "alpha wolf," coined via research from an ecologist named Dr. Meck in the early 80s publication The Wolf. He found there was always one "dominant" male and female wolf, their dominance proven via ruthless and often violent spats with other wolves: competition!
+>
+> However, Dr. Meck has backtracked from this because his research in the 70s took place while the wolves were captured, separated by gender... and held under surveillance.
+>
+> It's later been found that in the wild, if there is an "alpha" male or female, it's just whoever is playing "mom" or "dad" to the cubs, with disrespect to biological connections. If you're in the pack, you're in, and the leader is the one who takes care of those who need help, not the warden who offers you dillemas as so many prisoners.
+>
+> But if that's proven, why does "alpha male / female" terminology, as well as outdated management and economics rooted in a genius / bigot's simplistic game theories* persist a global leadership crisis that courageous comedians and batshit game show hosts keep upending... if things are stupid, why do they "grow" despite Samuelson's vaunted revealed preference theory guaranteeing balance, far from stupidity?
+>
+> The below is a quote from a smallish Candian financial investment firm's blog that puts things better than I could:
+>
+> How do ideas for which there is an abundance of contradictory evidence perpetuate in mainstream consciousness? This is an important question to ask, whether we are considering wolves or investing. When we believe in ideas that have been falsified, we risk making sub-optimal decisions based on those beliefs. Asking this question helps us to a) understand how the ecosystem of ideas may be flawed, and therefore how it can be improved, and b) remind ourselves that much of the knowledge that we hold up as truth may not be; hence, it is a necessity to always ask ourselves how we know what we “know.”
+>
+> - Anand
+>
+> * John Von Nuemann, see the Prisoner's Dilemma by William Poundstone for more
+
+Reader, I'm now near certain the above email triggered a compensatory behavior amongst the leadership "clique" that seeked to make me their career gain.
+
+If you were wrong about me, what else could you be wrong about? They now could not be wrong about me and entered into a major sunken cost fallacy as they began to force me into their frame of reasoning for over a year, using intimidation techniques most often represented as Terrorist or Fascist, depending on how much the govenrnment and not a single political faction is in charge.
+
+Also, I probably read more like a Soviet era _James Bond_ Villan than I realize.
+
+I still haven't seen a single Sean Connery _James Bond_ movie, shaken _or_ stirred, for whatever it's worth.
+
+And yes, had I known a TV show was on the line... I may have chosen other phrasings.
+
+This is why I think it's important to seek consent as soon as possible for most things, but especially Reality TV. It's a weird perspective to have on consent, to tie it with privacy, but what do I know?
+
+I just send emails to piss legal professionals off and leave a breadcrumb trail of evidence for a future federal investigator to clear my name and/or solve my future murder.
+
+It's a big part of my thing these days.
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

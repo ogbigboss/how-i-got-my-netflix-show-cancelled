@@ -178,8 +178,6 @@ _Season 1 Episode 1_
 
 > Michael narrating: I don't much like dealing with paranoids. They get erratic, make bad decisions. Of course, that can be a help when you need them to make a bad decision.
 
-> Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
-
 > Michael narrating: When enough people hate you, sometimes the only move is to just stand in the middle and hope they kill each other before they kill you.
 
 > Michael: What has he been doing since he was last here?

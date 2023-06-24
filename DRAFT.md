@@ -2163,16 +2163,7 @@ I returned to my CBT exercise quite a bit that weekend, and it calmed me down, b
 I wanted answers.
 # Pt I Chapter 11 - Final week at Vouch, 3/13/2022
 
-> Waseem: I'm Waseem Alihan. And you are?
->
-> Michael: Just a friend who needs a favor.
->
-> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
->
-> Michael: So direct. It's refreshing.
->
-> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
-
+> Michael narrating: if it looks like you're about to get into a fight that could get you killed, try starting another one.
 
 I wanted a direct confrontation about this, which I was pretty sure something they didn't want, but I realized that if I brought it up and they reacted more strongly than the situation warranted, it was probably the best answer I'd get as to whether or not they fooled their way into incriminating the federal government.
 
@@ -2492,6 +2483,18 @@ I went to sleep asking myself this:
 _Am I really getting paid enough to work at a company which has poor business practices and is bigotted enough to target me the way they did, and then pretend they can pretend their way out of it?_
 
 _Am I being paid enough to believe someone else's lie over my own truth?_
+# Pt I Chapter 12 - End of final week at Vouch, 3/13/2022
+
+> Waseem: I'm Waseem Alihan. And you are?
+>
+> Michael: Just a friend who needs a favor.
+>
+> Waseem: Mmm. Well, I need a favor too. I would like those documents returned. So, what can I do for you?
+>
+> Michael: So direct. It's refreshing.
+>
+> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+
 
 #### Wednesday, 3/16/2022
 
@@ -2590,8 +2593,6 @@ But I wasn't taking notes. I was just talking out loud about how I ahd been.
 I knew if they had been surveilling me _within_ my apartnemnt, this woudl create a lack of confidence - if I _wasn't_ bluffing, how was I writing notes without them knowing?
 
 _Would they be stupid enough to let me lead them on when they surely have more than enough surveillance technology to confirm I'm lying?_
-
-
 # Chapter 12 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.

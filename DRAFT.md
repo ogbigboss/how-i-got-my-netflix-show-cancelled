@@ -2514,7 +2514,7 @@ It covered about 6 weeks of pay. It was basically enough time to get another job
 
 I was a bit concerned. The company clearly felt that they didn't do much wrong here beyond your average employee dispute.
 
-It almost felt like they were pricing my situation at 6 weeks of emotional trauma.
+It almost felt like they were pricing my situation at 6 weeks of emotional trauma; minus however long it took me to find work again.
 
 Standard DEI severance package for one of those "uppity" minorities that just need to be "bucked" somewhere else, it smelled.
 
@@ -2594,7 +2594,9 @@ I knew if they had been surveilling me _within_ my apartnemnt, this woudl create
 
 _Would they be stupid enough to let me lead them on when they surely have more than enough surveillance technology to confirm I'm lying?_
 
-It was around 8 PM that evening I believe. I said something like this, and made sure I was distant from the Laptop such that if anyone heard, they would've had to have an audio bug in my main living room (where the laptop was not), or used some kind of long distance audio "gun" to hear what I was saying based on the vibrations my voice made against the glass window I was speaking out towards, saying something like this:
+_Would they realize that reacting would reveal they're afraid of notes on their own actions?_
+
+It was around 8 PM that evening I believe. I made sure I was distant from the laptop such that if anyone heard, they would've had to have an audio bug in my main living room (where the laptop was not), or used some kind of long distance audio "gun" to hear what I was saying based on the vibrations my voice made against the glass window I was speaking out towards, saying something like this:
 
 > Oh, so you people are business insurance types? Well I got my own insurance plan to make sure that if you keep coming after me, every internationalist journalist and interested financial parties will know automatically. I'm a computer hacker remember?
 
@@ -2632,11 +2634,11 @@ Shaheem eventually goes to the back of store to retrieve the strain I asked for;
 
 _Damn, did I really spook her that much?_
 
-Shaheem comes out from the back and sees something behind me, and immediately gains tension as well. He starts asking one of the black kids for something, in a slightly serious tone, and then follows up by repeating something I had never heard him say, and as though it was a catch phrase of sorts:
+Shaheem comes out from the back and sees something behind me, and immediately gains tension as well. He starts asking one of the kids for something, in a slightly serious tone, and then follows up by repeating something I had never heard him say, and as though it was a catch phrase of sorts:
 
 > "Copy that, copy that"
 
-Shaheem said in confirmation to something the other black kid said. He emphasized the "cop" in copy.
+Shaheem said in confirmation to something the kid said. He emphasized the "cop" in copy.
 
 Get it?
 
@@ -2652,7 +2654,7 @@ On the other side, maybe it's those _jamaican_ weed stores that I'm involved wit
 
 I regret going to Legacy that night because of the black kids that were there.
 
-I remember thinking on the walk home _Oh boy... Kamala Harris' estranged father... is jamaican... and they own a weed store... and she's the Vice President..._
+I remember thinking on the walk home _Oh boy... Kamala Harris' estranged father... is jamaican... and the weed store I go to I'm pretty sure has some jamaican staff... not to mention certain stereotypes about marijuana... and she's the Vice President..._
 
 I never touched the USB stick in my pocket. I made sure to not make any "weird" movements towards it while under the security cameras that Legacy has in the store's front.
 
@@ -2729,7 +2731,7 @@ This is why I think it's important to seek consent as soon as possible for most 
 I just send emails to piss legal professionals off and leave a breadcrumb trail of evidence for a future federal investigator to clear my name and/or solve my future murder.
 
 It's a big part of my thing these days.
-# Chapter 12 - First Week post Vouch, 3/21/22
+# Chapter 13 - First Week post Vouch, 3/21/22
 
 > Sam: Maybe, if we hit the ground running make him think he's up against the big boys... you know, the government types.
 >

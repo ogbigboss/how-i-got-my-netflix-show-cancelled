@@ -12,7 +12,7 @@
 
 > Whenever you pray, you must not be like the hypocrites, because they love to pray standing in the synagogues and on the street corners to be seen by people. Truly I tell you, they have their reward. -Matthew 6:5
 
-> "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 _Late July 2022_
 
@@ -51,7 +51,7 @@ Given everything that happened in the past few months, along with the Federal Go
 
 ### Draft
 
-> "One of the dangers of any kind of psychological warfare, is it can be too effective, and send the target into a paranoid tail-spin. That paranoia can be useful... or deadly." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "One of the dangers of any kind of psychological warfare, is it can be too effective, and send the target into a paranoid tail-spin. That paranoia can be useful... or deadly." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 _Late January 2022_
 
@@ -122,7 +122,7 @@ That said, a job's a job, and a white woman in Chicago working in an HR departme
 
 ### Draft
 
-> "In any kind of covert operation, one of the toughest challenges is using information you're not supposed to have." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "In any kind of covert operation, one of the toughest challenges is using information you're not supposed to have." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 Working remotely wasn't new to me -- somewhere two decades ago around 2001 my father, who worked for IBM for some 3 decades, was transferred away from his office in Cranford NJ and into his home office in our house of Montclair NJ. I believe this was mostly because the office was closing in Cranford and seen as a way to save money. My father finished his career working remotely, and, given the times, audio surveillance wasn't really something I ever felt IBM put into our family household, and was mostly something for the likes of TV shows.
 
@@ -532,7 +532,7 @@ Alas, maybe more people are pretending at what they are than I realize.
 
 ### Draft
 
-> "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Broadcast TV's _Burn Notice_
+> "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Cable TV's _Burn Notice_
 
 My second week was, all things considered, normal, in that my second week at most companies I spend my time assessing the company itself as much as I can against any workload assigned. At that point, I had the central code bases setup on my computer and running, and had a decent idea of how the code reflected against the things and behaviors presented on the screen in front of me.
 
@@ -709,7 +709,7 @@ But, reader, to be clear: at the time, late February 2022, I was mostly trying t
 
 ### Draft
 
-> "Often, the best way to get intel is to provoke action, set people in motion. Pros know better, but they usually have to work with a few amateurs, and they panic. So you beat the bushes a little and see what flies out. Once your frightened amateur leads you to the pros, the work begins." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_ 
+> "Often, the best way to get intel is to provoke action, set people in motion. Pros know better, but they usually have to work with a few amateurs, and they panic. So you beat the bushes a little and see what flies out. Once your frightened amateur leads you to the pros, the work begins." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_ 
 
 Entering the weekend, and after that meeting with Eloise, I began to wonder if these people weren't going to get that I was joking. To me, something of a snob, that would only suggest they weren't a company worth spending years with, and I'd find a way out sooner than later, or I'd get fired.
 
@@ -778,7 +778,7 @@ Tony Thompson never slack chatted to me again during my employment, never offeri
 >
 > Spencer: [confused] "No, the police. I broke out of a psych ward. Weren't you listening?"
 >
-> - Jefferey Donovan as Michael Westen, Michael Weston as Spencer Watkowski, and Bruce Campbell as Sam Axe from Broadcast TV's _Burn Notice_
+> - Jefferey Donovan as Michael Westen, Michael Weston as Spencer Watkowski, and Bruce Campbell as Sam Axe from Cable TV's _Burn Notice_
 
 Computer programming ultimately boils down to asking one question a lot: 
 
@@ -1125,7 +1125,7 @@ That was Tuesday evening, March 1st, 2022. I still had work in the morning.
 
 # Chapter 6 - Third Week at Vouch, 3/2 on
 
-> "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Broadcast TV's _Burn Notice_
+> "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Cable TV's _Burn Notice_
 
 Wednesday at work was fairly normal. I had code to look at, so I looked. There were some other meetings that didn't feel too weird.
 
@@ -1577,7 +1577,7 @@ Yes, the charges literally have to do with the video series. And yes, I'm writin
 But that's 2023. Let's get back to early March 2022.
 # Pt 1 Ch 9 - Back to my fifth week at Vouch 03/08/2022 and on
 
-> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
+> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Cable TV's _Burn Notice_
 
 Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.
 
@@ -2493,7 +2493,7 @@ _Am I being paid enough to believe someone else's lie over my own truth?_
 >
 > Michael: So direct. It's refreshing.
 >
-> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 
 #### Wednesday, 3/16/2022
@@ -2738,6 +2738,20 @@ It's a big part of my thing these days.
 > Michael: We don't have a deep bench here.
 >
 > Sam: I don't know. I think we can do it. Fi grabs the guy. She's the extraction team. You and me tag team the guy on questions, we do the sunglasses, the suit, the whole bit... make him think he's up against every agency with initials.
+
+Before joining Vouch I had two other job offers, with one at a public company called Liveramp. I reached out to see if their offer still stood, saying that Vouch wasn't a fit for me. They scheduled a meeting with me to discuss things the next Friday.
+
+I had a bit of savings, the company would pay me a minor severance, and I wanted to use as much time as possible on just, well, myself and my own mental health. I hoped I could still get the job at Liveramp and start with something of a delay.
+
+I looked at money and credit lines. I had wanted to spend 6 months at Vouch first, I had a plan to get my debt down to a certain level, and then my reward was supposed to be an OLED Television.
+
+Amazon had a monthly installment plan. I said fuck it and ordered the TV along with a loveseat. I also ordered a new video card separately at Best Buy to boot, also on credit.
+
+I spent the rest of the weekend smoking weed, playing videogames, and sleeping in.
+
+#### Sunday, 3/21/2022
+
+
 # Chapter 13 - Second Week post Vouch, 3/27/22
 
 > [Michael narrating while being beaten by Fiona] It's unfortunate but true that no makeup can simulate blood and bruises well enough to stand up to close observation. So if your cover requires looking like you've been beaten... you have to get beaten.

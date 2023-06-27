@@ -1,6 +1,6 @@
 # Pt 1 Ch 9 - Back to my fifth week at Vouch 03/08/2022 and on
 
-> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Broadcast TV's _Burn Notice_
+> "Why don't you just lie? That's what spies do, you know?" - Gabrielle Anwar as Fiona Glenanne from Cable TV's _Burn Notice_
 
 Reader, again, had I known at the time what Razzlekhan meant, I'd of thought of a different plan.
 

@@ -2,7 +2,7 @@
 
 ### Draft
 
-> "In any kind of covert operation, one of the toughest challenges is using information you're not supposed to have." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "In any kind of covert operation, one of the toughest challenges is using information you're not supposed to have." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 Working remotely wasn't new to me -- somewhere two decades ago around 2001 my father, who worked for IBM for some 3 decades, was transferred away from his office in Cranford NJ and into his home office in our house of Montclair NJ. I believe this was mostly because the office was closing in Cranford and seen as a way to save money. My father finished his career working remotely, and, given the times, audio surveillance wasn't really something I ever felt IBM put into our family household, and was mostly something for the likes of TV shows.
 

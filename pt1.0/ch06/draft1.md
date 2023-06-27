@@ -1,6 +1,6 @@
 # Chapter 6 - Third Week at Vouch, 3/2 on
 
-> "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Broadcast TV's _Burn Notice_
+> "You ever meet someone, and it just seems to click instantly? You like the same things, share the same opinions - it seems lke you've known them your whole life. It could be fate, or it could be that you have a listening device planted under the dashbaord of your car." - Jeffrey Donovan narrating as Michael Westen from Cable TV's _Burn Notice_
 
 Wednesday at work was fairly normal. I had code to look at, so I looked. There were some other meetings that didn't feel too weird.
 

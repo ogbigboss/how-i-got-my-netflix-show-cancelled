@@ -8,7 +8,7 @@
 >
 > Spencer: [confused] "No, the police. I broke out of a psych ward. Weren't you listening?"
 >
-> - Jefferey Donovan as Michael Westen, Michael Weston as Spencer Watkowski, and Bruce Campbell as Sam Axe from Broadcast TV's _Burn Notice_
+> - Jefferey Donovan as Michael Westen, Michael Weston as Spencer Watkowski, and Bruce Campbell as Sam Axe from Cable TV's _Burn Notice_
 
 Computer programming ultimately boils down to asking one question a lot: 
 

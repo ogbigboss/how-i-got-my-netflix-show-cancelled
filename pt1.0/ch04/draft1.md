@@ -2,7 +2,7 @@
 
 ### Draft
 
-> "Often, the best way to get intel is to provoke action, set people in motion. Pros know better, but they usually have to work with a few amateurs, and they panic. So you beat the bushes a little and see what flies out. Once your frightened amateur leads you to the pros, the work begins." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_ 
+> "Often, the best way to get intel is to provoke action, set people in motion. Pros know better, but they usually have to work with a few amateurs, and they panic. So you beat the bushes a little and see what flies out. Once your frightened amateur leads you to the pros, the work begins." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_ 
 
 Entering the weekend, and after that meeting with Eloise, I began to wonder if these people weren't going to get that I was joking. To me, something of a snob, that would only suggest they weren't a company worth spending years with, and I'd find a way out sooner than later, or I'd get fired.
 

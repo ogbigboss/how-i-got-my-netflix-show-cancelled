@@ -2,7 +2,7 @@
 
 ### Draft
 
-> "One of the dangers of any kind of psychological warfare, is it can be too effective, and send the target into a paranoid tail-spin. That paranoia can be useful... or deadly." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "One of the dangers of any kind of psychological warfare, is it can be too effective, and send the target into a paranoid tail-spin. That paranoia can be useful... or deadly." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 _Late January 2022_
 

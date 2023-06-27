@@ -12,7 +12,7 @@
 
 > Whenever you pray, you must not be like the hypocrites, because they love to pray standing in the synagogues and on the street corners to be seen by people. Truly I tell you, they have their reward. -Matthew 6:5
 
-> "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "In intelligence work, surveillance is called coverage. It's like basketball; you can run zone defense or man-to-man. Man-to-man is risky; follow someone too long and they're going to get suspicious. Zone is usually the way to go. Stay put and let targets come to you. Less obvious, easier on the feet... and you can catch up on your celebrity gossip." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 _Late July 2022_
 

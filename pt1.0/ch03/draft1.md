@@ -2,7 +2,7 @@
 
 ### Draft
 
-> "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Broadcast TV's _Burn Notice_
+> "You should be happy, Michael. We all live American dream -- dream spies like you helped make. Open borders, free markets, everyone's friends." Peter J. Lucas as Pyotr Chechik from Cable TV's _Burn Notice_
 
 My second week was, all things considered, normal, in that my second week at most companies I spend my time assessing the company itself as much as I can against any workload assigned. At that point, I had the central code bases setup on my computer and running, and had a decent idea of how the code reflected against the things and behaviors presented on the screen in front of me.
 

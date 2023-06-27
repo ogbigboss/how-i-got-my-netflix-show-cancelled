@@ -8,7 +8,7 @@
 >
 > Michael: So direct. It's refreshing.
 >
-> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> - Assaf Cohen as Waseem Alihan and Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 
 #### Wednesday, 3/16/2022

@@ -7,7 +7,16 @@ file_name = 'DRAFT.md'
 to_be_or_not_to_be = [
   ['Aparna Mallik'],
   ['Chandan Mallik'],
-  ['Amrita Mallik']
+  ['Amrita Mallik'],
+  ['Hodges'],
+  ['Rajat Kongovi'],
+  ['Wallace'],
+  ['Rukmini Banerjee'],
+  ['Eloise Jones'],
+  ['Damon Hastings'],
+  ['Rachel Bird'],
+  ['Kelly Wulff'],
+  ['Tony Thompson']
 ]
 
 surreal_sur_names = {}
@@ -27,7 +36,7 @@ to_be_or_not_to_be.each do |names|
     pre_surreal_first_and_sur_names.each_with_index do |name, i|
       new_name = Faker::Name.first_name
 
-      if i == 1
+      if (i == 1 && pre_surreal_first_and_sur_names.length > 1) || pre_surreal_first_and_sur_names.length == 1
         new_name = surreal_sur_names[name] || Faker::Name.last_name
         surreal_sur_names[name] = new_name if surreal_sur_names[name].nil?
       end

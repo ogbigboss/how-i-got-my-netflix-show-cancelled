@@ -92,7 +92,7 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 > Oleg: Back home, your story Russian Intelligence tells to scare. They say you're one name for many people. Special Operations team. They think one person cannot make so much problems.
 >
 > Michael: Nope. Just me.
-> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Broadcast TV's _Burn Notice_
+> - George Tasudis as Oleg and Jeffrey Donovan as Michael from Cable TV's _Burn Notice_
 
 > "Phillip Cowan : [Over the phone]  You want to tell me what the head of the Libyan secret police is doing sending me a fruit basket? I've got the FBI on my front lawn!" - Richard Schiff as Phillip Cowan
 
@@ -129,11 +129,11 @@ The pitch could honestly be just the first three chapters here, with maybe like 
 >
 > Bad guys don't have that chain of command. They can be anywhere as fast as their wheels can take them.
 
-> "Just tell mike it's not personal, okay? Last time I saw him, there was this kind of, you know, 'do this for me or we're enemies for life' vibe. It scared me a little." - Paul Tei as Barry Burkowski from Broadcast TV's _Burn Notice_
+> "Just tell mike it's not personal, okay? Last time I saw him, there was this kind of, you know, 'do this for me or we're enemies for life' vibe. It scared me a little." - Paul Tei as Barry Burkowski from Cable TV's _Burn Notice_
 
 > [ Michael Narrating ] Exploiting an asset is easier when they have a vice... an addiction you can feed– drugs, money, respect, women.
 
-> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Broadcast TV's _Burn Notice_
+> "Getting information out of someone who doesn't want to give it up is all about upsetting the target's emotional balance, impairing their judgment. Fear's good for that. Anger's not bad either." - Jeffrey Donovan as Michael Westen from Cable TV's _Burn Notice_
 
 > [Michael Narrating] Stun guns are a great way to bring down a larger opponent. The only problem is, if you use one on someone who's touching you, you'll zap yourself too.
 

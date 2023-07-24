@@ -261,3 +261,10 @@ _Season 1 Episode 1_
 > Michael: Oh, you know how it is with cover IDs. You become who you need to be.
 >
 > Fiona: And everyone gets to guess who you really are.
+
+> Michael Narrating: Fighting is often about tactical retreats like running away from two knives. It's also about knowing how to make the body count unacceptable. — 104 - Old Friends (4)
+
+> Michael Narrating: Convincing a bully to back down is usually a matter of showing them you're not afraid of them. Of course, some bullies have guys with three fifty-seven magnums. Then you change tactics. — 103 - Fight or Flight (3)
+
+> Michael Narrating: When faced with a superior force, you can do two things: you can retreat quietly or you can attack with as much fanfare as possible.
+

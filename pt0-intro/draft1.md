@@ -1,8 +1,22 @@
-# How I Got My Government Cover-up Netflix Show Cancelled: A Memoir
+# The Man Who Wasn't The Disney Plus Princess: A Memoir
 
-## OR
+## OR How I Got My True-Framed-Crime Netflix Show Cancelled, Which Got Picked up by Disney Plus and Then Cancelled Again, all While Stealing the Hearts of Every Mean Girl From DC to Hollywood: A Burn Notice Book
 
-# How I Got My True-Framed-Crime Netflix Show Cancelled While Stealing the Hearts of Every Mean Girl From DC to Hollywood: A Burn Notice Book
+# Preface
+
+Mary Karr suggested I be up front with you, the reader, on my perspective of the truth as far as my writing a memoir goes. Or, put in other ways, an answer to your question: am I lying?
+
+The interesting, perhaps novel, thing about this memoir, is that I never wanted to write it. In fact, I'm not terribly interested in publishing. It serves as a semi contemperaneous account of the events of my life from the years 2022-2023, in which my tech workplace mistook me for a cyber criminal and put me on a Reality TV show without my consent while starting a job. One thing led to another, and I pissed off so many people within tech, DC, my family members, and then "Hollywood" that the Reality TV show persisted past my innocence being proven (albeit through the brazenness of my actions) and has been a near two years long attempt to smear me as delusional such that my "truth" would not be trustable.
+
+So am I lying? That's what I was doing to try to _avoid_ putting down a copy of the truth.
+
+Yes, I'm telling the truth. But, only for one reason that apparently is expressed in many Christian bibles as something like "John 8:32" - I'm hoping the truth sets me free of a Reality TV show I never agreed to be on to cover up a truth I never wanted to truly speak out on, though I did want to make sure no one else would have to go through what I did.
+
+I guess that's why I'm writing this.
+
+Why would I lie about that? Do you know how much fucking time this takes?
+
+Anyway.
 
 # Intro
 

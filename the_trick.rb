@@ -12,6 +12,7 @@ Kernel.loop do
 
   paragraphs.shuffle.each do |paragraph|
     paragraph.split(/ +/).shuffle.each do |word|
+      break if %w[Kamala Elon Musk Biden Tanden Neera Barack Obama].include?(word)
       break if word.empty?
 
       system 'clear'

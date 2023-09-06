@@ -74,6 +74,12 @@ I started hitting the record button sometime in early December (nts: possibly la
 1. Flash forward: The getting arrested thing for the above
 1. Mid February to late March 2023: Did I get the Democratic party to distract Netflix into allowing Putin to start a war, distract the crypto currency industry into base liquidity issues, distract their own senate majority by not ensuring the right to abortion, AND distract the tech banking sector into base liquidity issues? I mean... I am good looking, but god damn.
 1. Flash forward: Probably me writing this shit right now
-1. late March 2023 to Mid May 2023: These people have to be kidding right? The Connells, the clampdown, and the TV news
+1. late March 2023 to Mid May 2023: These people have to be kidding right? The Connells, the clampdown, the WGA strike, and the TV news
 1. Flash forward: ???
 1. June 2023 - the month where I realized that, above all else, I'm fighting terrorism on American soil (June 20th, the day, to be exact)
+1. Flash forward: ???
+1. July 2023 - The SAG AFTRA strike, lifetraps and offering free therapy to the world's rich and / or famous, moving out of my apartment
+1. Flash forward: ???
+1. August 2023 - Montclair, Musical childhood trauma, Elon Musk, Barack Obama's estranged relatives, Marxism (not mark ass marksism), and Bob Iger
+1. Flash forward: ???
+1. September 2023 - If the world's rich and famous can't gaslight me, maybe my mom and dad can? Also I finally watch _Encanto_.

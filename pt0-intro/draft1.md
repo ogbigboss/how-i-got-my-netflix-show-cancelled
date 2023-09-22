@@ -2,6 +2,8 @@
 
 ## OR How I Got My True-Framed-Crime Netflix Show Cancelled, Which Got Picked up by Disney Plus and Then Cancelled Again, all While Stealing the Hearts of Every Mean Girl From DC to Hollywood: A Burn Notice Book
 
+## OR Manufacturing ~~Consent~~ Cool
+
 # Preface
 
 Mary Karr suggested I be up front with you, the reader, on my perspective of the truth as far as my writing a memoir goes. Or, put in other ways, an answer to your question: am I lying?

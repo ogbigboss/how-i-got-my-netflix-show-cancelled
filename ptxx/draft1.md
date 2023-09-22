@@ -78,8 +78,8 @@ I started hitting the record button sometime in early December (nts: possibly la
 1. Flash forward: ???
 1. June 2023 - the month where I realized that, above all else, I'm fighting terrorism on American soil (June 20th, the day, to be exact)
 1. Flash forward: ???
-1. July 2023 - The SAG AFTRA strike, lifetraps and offering free therapy to the world's rich and / or famous, moving out of my apartment
+1. July 2023 - The SAG AFTRA strike, lifetraps and offering free therapy to the world's rich and / or famous, moving out of my apartment and Miley Cyrus (hey hi)
 1. Flash forward: ???
-1. August 2023 - Montclair, Musical childhood trauma, Elon Musk, Barack Obama's estranged relatives, Marxism (not mark ass marksism), and Bob Iger
+1. August 2023 - Montclair, Musical childhood trauma, Elon Musk, Barack Obama's estranged relatives, Marxism (not mark ass marksism), realizing it definitely changed hands to Disney+, Kristina Schake, and Bob Iger
 1. Flash forward: ???
 1. September 2023 - If the world's rich and famous can't gaslight me, maybe my mom and dad can? Also I finally watch _Encanto_.

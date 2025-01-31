@@ -268,3 +268,5 @@ _Season 1 Episode 1_
 
 > Michael Narrating: When faced with a superior force, you can do two things: you can retreat quietly or you can attack with as much fanfare as possible.
 
+> Michael Narrating: When a spy finds a listening device, the last thing he does is turn it off. A bug can be a direct line into the mind of your enemy. It's delicate, but in the right hands, it's a weapon that can turn almost any situation in your favor.
+> - 414 - Hot Property
